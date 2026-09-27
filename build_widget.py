@@ -17,7 +17,17 @@ ARROW = {"up": "▲", "down": "▼", "flat": "–"}
 # KWGT BBCode colours (Korean convention: up = red, down = blue)
 COLOR = {"up": "#FF6B61", "down": "#6EA4FF", "flat": "#AAAAAA"}
 
+# ---- palette (tuned for light text on a dark translucent card) ----
+ACCENT = "#5FC4C4"   # teal brand colour: masthead and section labels
+RED = "#FF6B61"      # breaking news
+MUTED = "#8A9199"    # timestamps, footnotes
+SOFT = "#C3C9CF"     # market labels, subhead
+RULE = "#4A5058"     # divider lines
+RULE_LEN = 22        # divider length in characters
+TAG_COLOR = {"war": "#F2A77E", "kr": "#9DB6F2", "econ": "#86D3A2", "etc": "#C1B5F0"}
+
 # ---- layout settings: edit these to change what the widget shows ----
+SHOW_SUBHEAD = True    # one grey line under the headline
 N_STORIES = 10         # how many issues to list
 SHOW_SUMMARY = False   # add the one-line summary under each issue
 MARKETS = [0, 1, 2, 3, 4, 5]  # which markets to show (index into markets)
@@ -95,30 +105,49 @@ def main(path):
 
     # ---- the single combined text the widget shows ----
     kicker = b.get("kicker", "")
-    top = f'[c=#AAAAAA][s=0.8]{"속보 · " if kicker == "속보" else ""}갱신 {w["updated"]}[/s][/c]'
+    brk_head = kicker == "속보"
+
+    def section(label):
+        return f"[c={ACCENT}][s=0.75][b]{label}[/b][/s][/c]"
+
+    # masthead: brand mark + update time (red "속보" badge when breaking)
+    badge = f"[c={RED}][b]● 속보[/b][/c]" if brk_head else f"[c={ACCENT}][b]●[/b][/c]"
+    top = f'{badge} [c={ACCENT}][s=0.8][b]세계 브리핑[/b][/s][/c]  [c={MUTED}][s=0.75]{w["updated"]} 갱신[/s][/c]'
     head = f'[b][s=1.3]{w["headline"]}[/s][/b]'
+    sub = f'[c={SOFT}][s=0.85]{w["sub"]}[/s][/c]' if SHOW_SUBHEAD and w["sub"] else None
+    rule = f"[c={RULE}]{'─' * RULE_LEN}[/c]"
+
+    def cell(m):
+        d = m.get("dir", "flat")
+        label = SHORT.get(m.get("label", ""), m.get("label", ""))
+        arrow = f"[c={COLOR.get(d, MUTED)}]{ARROW.get(d, '–')}[/c]"
+        return f"[c={SOFT}]{label}[/c] [b]{m.get('value', '')}[/b] {arrow}"
+
     rows = [markets[i] for i in MARKETS if i < len(markets)]
     if PAIR_MARKETS:
-        def cell(m, color=True):
-            m2 = dict(m, label=SHORT.get(m.get("label", ""), m.get("label", "")))
-            return mline(m2, color)
         left = [cell(m) for m in rows[0::2]]
         right = [cell(m) for m in rows[1::2]]
-        col = max(em_width(c) for c in left) + 1.2
+        col = max(em_width(c) for c in left) + 1.4
         mk = "\n".join(pad_to(l, col) + r for l, r in zip(left, right + [""] * len(left)))
     else:
-        mk = "\n".join(mline(m) for m in rows)
-    asof = f'[c=#AAAAAA][s=0.8]{w["asof"]}[/s][/c]'
+        mk = "\n".join(cell(m) for m in rows)
+    asof = f'[c={MUTED}][s=0.7]{w["asof"]}[/s][/c]'
+
     issues = []
     for s in stories[:N_STORIES]:
         tag = s.get("tagLabel", "")
-        if s.get("breaking") or "속보" in tag:
-            tag = f"[c=#FF6B61]{tag}[/c]"
-        line = f'• [b]{tag}[/b] {s.get("title", "")}'
+        brk = s.get("breaking") or "속보" in tag
+        color = RED if brk else TAG_COLOR.get(s.get("tag", "etc"), TAG_COLOR["etc"])
+        line = f'[c={color}][b]▍{tag}[/b][/c] {s.get("title", "")}'
         if SHOW_SUMMARY and s.get("summary"):
-            line += f'\n   [c=#BBBBBB][s=0.85]{s["summary"]}[/s][/c]'
+            line += f'\n   [c={SOFT}][s=0.85]{s["summary"]}[/s][/c]'
         issues.append(line)
-    w["w"] = "\n".join([top, head, "", mk, asof, "", *issues])
+
+    parts = [top, head]
+    if sub:
+        parts.append(sub)
+    parts += [rule, section("시장"), mk, asof, rule, section("주요 이슈"), *issues]
+    w["w"] = "\n".join(parts)
 
     out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "widget.json")
     json.dump(w, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
