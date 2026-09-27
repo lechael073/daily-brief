@@ -20,6 +20,7 @@ COLOR = {"up": "#FF6B61", "down": "#6EA4FF", "flat": "#AAAAAA"}
 # ---- palette (tuned for light text on a dark translucent card) ----
 ACCENT = "#5FC4C4"   # teal brand colour: masthead and section labels
 RED = "#FF6B61"      # breaking news
+HOT = "#FF8A80"      # title colour for breaking / important issues
 MUTED = "#8A9199"    # timestamps, footnotes
 SOFT = "#C3C9CF"     # market labels, subhead
 RULE = "#4A5058"     # divider lines
@@ -114,6 +115,8 @@ def main(path):
     badge = f"[c={RED}][b]● 속보[/b][/c]" if brk_head else f"[c={ACCENT}][b]●[/b][/c]"
     top = f'{badge} [c={ACCENT}][s=0.8][b]세계 브리핑[/b][/s][/c]  [c={MUTED}][s=0.75]{w["updated"]} 갱신[/s][/c]'
     head = f'[b][s=1.3]{w["headline"]}[/s][/b]'
+    if brk_head:
+        head = f'[c={HOT}]{head}[/c]'
     sub = f'[c={SOFT}][s=0.85]{w["sub"]}[/s][/c]' if SHOW_SUBHEAD and w["sub"] else None
     rule = f"[c={RULE}]{'─' * RULE_LEN}[/c]"
 
@@ -133,12 +136,24 @@ def main(path):
         mk = "\n".join(cell(m) for m in rows)
     asof = f'[c={MUTED}][s=0.7]{w["asof"]}[/s][/c]'
 
+    def bold_keywords(text, keywords):
+        for k in sorted({k for k in keywords or [] if k and k in text}, key=len, reverse=True):
+            text = text.replace(k, f"[b]{k}[/b]")
+        return text
+
     issues = []
     for s in stories[:N_STORIES]:
         tag = s.get("tagLabel", "")
         brk = s.get("breaking") or "속보" in tag
+        imp = brk or s.get("important")
         color = RED if brk else TAG_COLOR.get(s.get("tag", "etc"), TAG_COLOR["etc"])
-        line = f'[c={color}][b]▍{tag}[/b][/c] {s.get("title", "")}'
+        title = s.get("title", "")
+        if imp:
+            # breaking / important: whole line bold in a strong colour
+            mark = "■" if brk else "▍"
+            line = f'[c={color}][b]{mark}{tag}[/b][/c] [c={HOT}][b]{title}[/b][/c]'
+        else:
+            line = f'[c={color}][b]▍{tag}[/b][/c] {bold_keywords(title, s.get("keywords"))}'
         if SHOW_SUMMARY and s.get("summary"):
             line += f'\n   [c={SOFT}][s=0.85]{s["summary"]}[/s][/c]'
         issues.append(line)
