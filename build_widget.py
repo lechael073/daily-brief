@@ -18,7 +18,7 @@ ARROW = {"up": "▲", "down": "▼", "flat": "–"}
 COLOR = {"up": "#FF6B61", "down": "#6EA4FF", "flat": "#AAAAAA"}
 
 # ---- layout settings: edit these to change what the widget shows ----
-N_STORIES = 8          # how many issues to list
+N_STORIES = 10         # how many issues to list
 SHOW_SUMMARY = False   # add the one-line summary under each issue
 MARKETS = [0, 1, 2, 3, 4, 5]  # which markets to show (index into markets)
 PAIR_MARKETS = True    # two markets per line, right column roughly aligned
