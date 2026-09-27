@@ -1,7 +1,8 @@
 name: Publish widget
 
-# Scheduled briefing runs push widget.json to the "widget-data" branch.
-# This copies it onto main, where the KWGT widget reads it.
+# Scheduled briefing runs upload the raw briefing (brief.json) to the
+# "widget-data" branch. This workflow builds widget.json from it with
+# build_widget.py (from main) and publishes it on main, where KWGT reads it.
 on:
   push:
     branches: [widget-data]
@@ -22,10 +23,22 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Copy widget.json from widget-data to main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build widget.json from widget-data
         run: |
           git fetch origin widget-data
-          git checkout origin/widget-data -- widget.json
+          if git cat-file -e origin/widget-data:brief.json 2>/dev/null; then
+            git show origin/widget-data:brief.json > /tmp/brief.json
+            python3 build_widget.py /tmp/brief.json > /dev/null
+          else
+            # older runs pushed a ready-made widget.json
+            git checkout origin/widget-data -- widget.json
+          fi
+      - name: Commit to main
+        run: |
+          git add widget.json
           if git diff --cached --quiet; then
             echo "widget.json unchanged"
             exit 0
