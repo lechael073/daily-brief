@@ -111,7 +111,10 @@ def main(path):
     asof = f'[c=#AAAAAA][s=0.8]{w["asof"]}[/s][/c]'
     issues = []
     for s in stories[:N_STORIES]:
-        line = f'• [b]{s.get("tagLabel", "")}[/b] {s.get("title", "")}'
+        tag = s.get("tagLabel", "")
+        if s.get("breaking") or "속보" in tag:
+            tag = f"[c=#FF6B61]{tag}[/c]"
+        line = f'• [b]{tag}[/b] {s.get("title", "")}'
         if SHOW_SUMMARY and s.get("summary"):
             line += f'\n   [c=#BBBBBB][s=0.85]{s["summary"]}[/s][/c]'
         issues.append(line)
