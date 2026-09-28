@@ -29,6 +29,8 @@ TAG_COLOR = {"war": "#F2A77E", "kr": "#9DB6F2", "econ": "#86D3A2", "etc": "#C1B5
 
 # ---- layout settings: edit these to change what the widget shows ----
 SHOW_SUBHEAD = True    # one grey line under the headline
+SHOW_ADVICE = True     # one-line portfolio note under the subhead
+ADVICE = "#E8C872"     # amber for the portfolio note
 N_STORIES = 10         # how many issues to list
 SHOW_SUMMARY = False   # add the one-line summary under each issue
 MARKETS = [0, 1, 2, 3, 4, 5]  # which markets to show (index into markets)
@@ -86,6 +88,7 @@ def main(path):
         "updated": b.get("updatedLabel", ""),
         "headline": b.get("headline", ""),
         "sub": b.get("subhead", ""),
+        "advice": b.get("advice", ""),
         "asof": b.get("marketsAsOf", ""),
         "link": LINK,
     }
@@ -118,6 +121,8 @@ def main(path):
     if brk_head:
         head = f'[c={HOT}]{head}[/c]'
     sub = f'[c={SOFT}][s=0.85]{w["sub"]}[/s][/c]' if SHOW_SUBHEAD and w["sub"] else None
+    adv = (f'[c={ADVICE}][s=0.85][b]◆ 내 자산[/b] {w["advice"]}[/s][/c]'
+           if SHOW_ADVICE and w["advice"] else None)
     rule = f"[c={RULE}]{'─' * RULE_LEN}[/c]"
 
     def cell(m):
@@ -161,6 +166,8 @@ def main(path):
     parts = [top, head]
     if sub:
         parts.append(sub)
+    if adv:
+        parts.append(adv)
     parts += [rule, section("시장"), mk, asof, rule, section("주요 이슈"), *issues]
     w["w"] = "\n".join(parts)
 
