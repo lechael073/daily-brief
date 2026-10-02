@@ -1,340 +1,205 @@
 {
- "date": "2026-10-02",
- "updatedLabel": "10/2 16:00",
- "kicker": "오늘의 한 줄",
- "headline": "9월 물가 2.9%… 한은 \"10월엔 다시 3% 안팎\", 코스피는 7,000 회복",
- "subhead": "호르무즈에서 유조선이 또 피격됐고, 오늘 밤 미국 고용보고서가 나와요",
- "advice": "한은 추가 인상 가능성이 커졌으니 이달 만기 채권은 재투자 금리를 비교하고, 장기채 추가 매수는 고용지표 뒤로 미루세요.",
- "marketsAsOf": "10/1 뉴욕 · 10/2 서울 마감 기준",
- "markets": [
-  {
-   "label": "미 10년물",
-   "value": "5.24%",
-   "change": "-0.05%p",
-   "dir": "down"
-  },
-  {
-   "label": "미 2년물",
-   "value": "4.80%",
-   "change": "약 -0.1%p",
-   "dir": "down"
-  },
-  {
-   "label": "미 기준금리",
-   "value": "3.75–4.00%",
-   "change": "9/16 +0.25%p",
-   "dir": "up"
-  },
-  {
-   "label": "한은 기준금리",
-   "value": "3.00%",
-   "change": "8/27 +0.25%p",
-   "dir": "up"
-  },
-  {
-   "label": "S&P 500",
-   "value": "7,668.82",
-   "change": "+0.23%",
-   "dir": "up"
-  },
-  {
-   "label": "코스피",
-   "value": "7,003.74",
-   "change": "+0.46%",
-   "dir": "up"
-  }
- ],
- "stories": [
-  {
-   "tag": "econ",
-   "tagLabel": "물가·금리",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "2.9%",
-    "3% 안팎"
-   ],
-   "title": "9월 물가 2.9%… 한은 \"10월 다시 3% 안팎\"",
-   "summary": "석유류 14.8% 급등 · 추가 금리 인상 가능성 커져",
-   "details": [
-    "9월 소비자물가는 1년 전보다 2.9% 올랐어요. 8월(3.1%)보다 낮아졌지만, 석유류는 14.8%나 뛰었어요. 과일 등 농산물 값이 내려 전체를 눌렀어요.",
-    "한국은행은 지난달의 일시적 효과를 빼면 물가 오름세가 오히려 조금 커졌다고 평가했어요. 10월 물가는 3% 안팎의 높은 수준일 것으로 내다봤어요.",
-    "정부는 석유 최고가격제가 물가를 0.6%포인트쯤 낮췄다고 추정했어요. 유가가 100달러 안팎이라 부담은 이어져요.",
-    "나와의 연결: 물가가 다시 오르면 한은이 금리를 더 올릴 수 있어요. 예금·발행어음 금리에는 좋지만 이미 가진 국채 가격에는 부담이라, 이달 만기 채권의 재투자 금리를 비교해 보세요."
-   ],
-   "note": "근원물가는 기준에 따라 2.7%(농산물·석유류 제외) 또는 2.8%(식료품·에너지 제외)로 보도됐어요.",
-   "sources": [
+  "date": "2026-10-02",
+  "updatedLabel": "10/2 22:00",
+  "kicker": "오늘의 한 줄",
+  "headline": "미국 9월 일자리 2만 9천 개뿐… 금리 인상 기대 식고 유가도 100달러 아래로",
+  "subhead": "이란은 핵 사찰을 받겠다며 제재 완화를 요구했지만 협상은 여전히 멈춰 있어요",
+  "advice": "미 금리가 내렸지만 하루 반응이에요. 매주 만기 오는 달러 예금은 계획대로 나눠서 재예치하면 충분해요.",
+  "marketsAsOf": "10/1 뉴욕 · 10/2 서울 마감 기준",
+  "markets": [
+    {"label": "미 10년물", "value": "5.24%", "change": "-0.05%p", "dir": "down"},
+    {"label": "미 2년물", "value": "4.79%", "change": "약 -0.1%p", "dir": "down"},
+    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
+    {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
+    {"label": "S&P 500", "value": "7,668.82", "change": "+0.23%", "dir": "up"},
+    {"label": "코스피", "value": "7,003.74", "change": "+0.46%", "dir": "up"}
+  ],
+  "stories": [
     {
-     "title": "아시아경제",
-     "url": "https://view.asiae.co.kr/article/2026100209285359116"
+      "tag": "econ",
+      "tagLabel": "미국·금리",
+      "breaking": false,
+      "important": true,
+      "keywords": ["2만 9천 개", "금리 인상"],
+      "title": "미 9월 일자리 2만 9천 개뿐… 금리 인상 기대 후퇴",
+      "summary": "예상 9만 개에 크게 못 미쳐 · 실업률 4.2%로 올라",
+      "details": [
+        "오늘 밤 나온 미국 9월 고용보고서에서 일자리는 2만 9천 개 늘어나는 데 그쳤어요. 예상(약 9만 개)의 3분의 1 수준이에요. 실업률은 4.1%에서 4.2%로 올랐어요.",
+        "8월 일자리 증가 폭도 13만 3천 개로 낮춰졌어요. 시간당 임금은 1년 전보다 3.0% 올라 예상(3.2%)보다 낮았어요.",
+        "발표 직후 미 10년물 금리는 약 0.06%포인트 내린 5.18% 안팎, 2년물은 4.72% 안팎으로 떨어졌어요. 연준이 10월에 금리를 올릴 확률은 12% 정도로 낮아졌고, 주가 선물은 올랐어요.",
+        "나와의 연결: 금리가 내리면 장기채(TLT 등) 가격에는 도움이 돼요. 반대로 달러 예금·RP의 새 가입 금리는 천천히 낮아질 수 있어요. 하루 지표라 계획을 바꿀 정도는 아니에요."
+      ],
+      "note": "금리와 선물은 발표 직후 장중 값이에요. 위 시장 표는 10/1 마감 기준이라 오늘 밤 마감 때 달라져요. 늦은 노동절 때문에 수치가 낮게 나왔다는 분석도 있어요.",
+      "sources": [
+        {"title": "Reuters (Investing.com)", "url": "https://www.investing.com/news/economy-news/soft-september-jobs-report-sends-markets-higher-4929845"},
+        {"title": "Benzinga", "url": "https://www.benzinga.com/markets/economic-data/26/10/62131064/september-jobs-report-nonfarm-payrolls-unemployment-wages"},
+        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-02/us-firms-add-just-29-000-jobs-unemployment-rate-ticks-up"}
+      ]
     },
     {
-     "title": "서울신문",
-     "url": "https://www.seoul.co.kr/news/economy/finance/2026/10/02/20261002500105"
+      "tag": "war",
+      "tagLabel": "이란전쟁",
+      "breaking": false,
+      "important": true,
+      "keywords": ["핵 사찰", "호르무즈"],
+      "title": "이란 \"핵 사찰 받겠다, 제재 풀라\"… 호르무즈선 유조선 피격",
+      "summary": "협상은 제자리 · 미국은 병력 약 9천 명 추가 이동",
+      "details": [
+        "블룸버그에 따르면 이란 아라그치 외무장관이 유엔 회의에서, 제재를 풀어 주면 폭격당한 핵시설에 사찰단을 다시 받겠다는 뜻을 전했어요.",
+        "이란 경제는 물가 상승률이 90%에 가깝고, 지난달에는 원유를 한 척도 싣지 못했어요. 트럼프 대통령은 제재 완화 보도를 부인했고, 이란 쪽은 11월 미국 중간선거 전에는 합의가 어렵다고 보고 있어요.",
+        "오늘 새벽 호르무즈 해협에서는 초대형 유조선이 발사체에 맞아 불이 났어요. 선원은 모두 무사해요. 미국은 항모 전단과 함께 약 9천 명을 중동으로 더 보내고, 이란 자동차·철도 회사도 제재했어요.",
+        "나와의 연결: 긴장이 커지면 유가와 미국 금리가 함께 올라 장기채와 기술주가 흔들릴 수 있어요. 달러 예금은 완충 역할을 해요."
+      ],
+      "note": "이란의 사찰 제안은 익명 소식통을 인용한 보도예요. 유조선을 누가 공격했는지도 공식 확인되지 않았어요.",
+      "sources": [
+        {"title": "Bloomberg (Rigzone)", "url": "https://www.rigzone.com/news/iran_wants_sanctions_eased_to_allow_back_nuclear_inspectors-02-oct-2026-184755-article"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz"},
+        {"title": "AP (Business Standard)", "url": "https://www.business-standard.com/world-news/us-sends-thousands-of-troops-to-west-asia-as-trump-weighs-new-iran-strikes-126100200058_1.html"},
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/us-iran-car-rail-sanctions-453512da-2026-10-02-AM-04-19"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "유가·증시",
+      "breaking": false,
+      "important": false,
+      "keywords": ["100달러", "7,000선"],
+      "title": "브렌트유 100달러 아래로… 코스피는 7,000선 회복",
+      "summary": "유럽 경유 방출 논의에 유가 하락 · 환율 1,350.6원",
+      "details": [
+        "유럽연합(EU)이 비축 경유 5천만 배럴을 풀고, 국제에너지기구(IEA) 회원국이 원유 5천만 배럴을 푸는 프랑스 제안을 논의했어요. 이 소식에 브렌트유는 2% 넘게 내려 100달러 아래로, 서부텍사스유는 89달러대로 떨어졌어요.",
+        "미국은 유럽에 20일 안에 경유 1억 배럴을 풀라고 요구했고, 안 되면 미국산 경유 수출을 막을 수 있다고 압박했어요. EU는 미국이 수출 금지를 하지 않겠다고 약속해야 한다는 입장이에요.",
+        "코스피는 0.46% 오른 7,003.74로 닷새 만에 7,000선을 되찾았어요. 정유주와 방산주가 올랐어요. 원/달러 환율은 7.8원 내린 1,350.6원에 주간 거래를 마쳤어요.",
+        "한국 9월 물가는 2.9% 올랐고, 한국은행은 10월에 다시 3% 안팎이 될 것으로 봤어요.",
+        "나와의 연결: 유가가 내리면 한국 물가와 금리 인상 압력이 줄어 가진 국채에는 좋아요. 환율이 내리면 달러 예금의 원화 가치는 줄지만, 달러로 계속 보유할 계획이라면 영향이 작아요."
+      ],
+      "note": "유가는 미국 고용 발표 전 장중 값이에요. Al Jazeera는 EU가 미국의 요구 자체는 거부했다고 전했어요.",
+      "sources": [
+        {"title": "Reuters (BNN Bloomberg)", "url": "https://www.bnnbloomberg.ca/markets/oil/2026/10/02/europe-weighs-new-diesel-stocks-release-after-us-pressure-reuters-sources-say/"},
+        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261002001309"},
+        {"title": "머니투데이", "url": "https://www.mt.co.kr/stock/2026/10/02/2026100216393151389"},
+        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/economy/finance/2026/10/02/20261002500105"}
+      ]
+    },
+    {
+      "tag": "kr",
+      "tagLabel": "한반도",
+      "breaking": false,
+      "important": false,
+      "keywords": ["유엔사", "지뢰"],
+      "title": "유엔사 \"북 지뢰는 정전협정 위반\"… 북은 반발",
+      "summary": "김여정 \"자작극\" 주장 · 오늘 새 군사 움직임은 없어",
+      "details": [
+        "9월 21일 비무장지대(DMZ)에서 지뢰가 터져 우리 군 간부 3명이 다쳤어요.",
+        "유엔군사령부는 북한의 정전협정 위반으로 판단했고, 합동참모본부도 북한에 사과를 요구했어요. 북한 김여정 부부장은 한국의 자작극이라고 반발했어요.",
+        "오늘 밤까지 새로운 군사 움직임은 확인되지 않았어요.",
+        "나와의 연결: 남북 긴장이 길어지면 코스피와 원화가 흔들릴 수 있어요."
+      ],
+      "note": "유엔사 판단 내용은 보도 기준이며, 조사 결과 원문은 확인하지 못했어요.",
+      "sources": [
+        {"title": "파이낸셜뉴스", "url": "https://fnnews.com/news/202609301042360517"},
+        {"title": "Korea Herald", "url": "https://www.koreaherald.com/article/10889169"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "대만",
+      "breaking": false,
+      "important": false,
+      "keywords": ["대만", "내년"],
+      "title": "미 당국 \"중국의 대만 침공, 내년엔 가능성 낮아\"",
+      "summary": "대만 정부는 중국의 새로운 해외 탄압 수법을 경고",
+      "details": [
+        "로이터는 미국 당국자들이 중국이 내년에 대만을 침공할 가능성은 낮다고 본다고 전했어요. 시진핑 주석이 군에 2027년까지 준비를 마치라고 했지만, 준비 목표와 실제 침공은 다르다는 평가예요.",
+        "대만 대륙위원회는 누군가 다큐멘터리 배급업자를 사칭해 여러 단체를 협박한 사건을 두고, 중국의 새로운 탄압 수법일 수 있다고 밝혔어요. 범인은 아직 확인되지 않았어요.",
+        "9월 30일 화롄 앞바다 규모 5.9 지진 뒤 큰 피해 보고는 없어요.",
+        "나와의 연결: 대만 친척과 대만 테크 ETF에는 안심되는 소식이에요. 다만 군사훈련 같은 압박은 계속될 수 있어요."
+      ],
+      "note": "침공 평가는 익명 소식통을 인용한 보도로, 미국 정부의 공식 발표는 아니에요.",
+      "sources": [
+        {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/02/2003865258"},
+        {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/02/2003865261"},
+        {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/society/202609300007"}
+      ]
+    },
+    {
+      "tag": "war",
+      "tagLabel": "러시아",
+      "breaking": false,
+      "important": false,
+      "keywords": ["푸틴", "칼리닌그라드"],
+      "title": "푸틴 \"칼리닌그라드 공격받으면 모든 무기 쓴다\"",
+      "summary": "사실상 핵 경고 · 나토 \"긴장 완화에 도움 안 돼\"",
+      "details": [
+        "푸틴 러시아 대통령은 폴란드와 리투아니아 사이에 있는 러시아 땅 칼리닌그라드가 직접 공격받으면 모든 무기를 쓰겠다고 경고했어요. 핵무기 사용 가능성을 내비친 말이에요.",
+        "나토의 뤼터 사무총장은 나토가 방어를 위한 동맹이라며, 핵 위협은 긴장을 낮추는 데 도움이 되지 않는다고 답했어요.",
+        "우크라이나는 러시아 석유 시설 공격을 이어가고 있고, 러시아는 밤사이 키이우를 공습해 1명이 숨졌어요. 러시아는 가을에 12만 명을 징집해요."
+      ],
+      "sources": [
+        {"title": "ABC News (호주)", "url": "https://www.abc.net.au/news/2026-10-02/putin-kaliningrad-threat-nuclear-weapons/107219366"},
+        {"title": "CNN", "url": "https://www.cnn.com/2026/10/01/europe/putin-kaliningrad-warning-ukraine-latam-intl"},
+        {"title": "Kyiv Independent", "url": "https://kyivindependent.com/russian-strike-kills-1-injures-2-in-kyiv-as-southern-bridge-hit-again-overnight/"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "미국",
+      "breaking": false,
+      "important": false,
+      "keywords": ["H-1B", "10만 달러"],
+      "title": "미 법원, H-1B 비자 10만 달러 수수료 또 제동",
+      "summary": "오클랜드 연방법원 판결 · 두 번째 효력 정지",
+      "details": [
+        "캘리포니아 오클랜드 연방법원이 새 H-1B 취업비자에 10만 달러를 물리는 조치를 막았어요. 법원이 막은 것은 이번이 두 번째예요.",
+        "판사는 정부가 정해진 규칙 제정 절차를 지키지 않았다고 봤어요. 국토안보부는 정식 절차로 비슷한 수수료를 만들려 하고 있어, 다툼은 이어질 전망이에요.",
+        "나와의 연결: H-1B는 실리콘밸리 기업이 외국인 인재를 뽑을 때 많이 쓰는 비자라, 산호세 등 베이 지역 일자리와 빅테크에 영향이 커요."
+      ],
+      "sources": [
+        {"title": "Reuters (inkl)", "url": "https://www.inkl.com/news/second-judge-blocks-trumps-100-000-fee-for-new-h-1b-worker-visas"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "프랑스",
+      "breaking": false,
+      "important": false,
+      "keywords": ["프랑스", "고교생"],
+      "title": "프랑스 고교생 시위 전국으로… 하루 625명 붙잡혀",
+      "summary": "과밀 학급·교사 부족에 항의 · 일부는 폭력 사태로",
+      "details": [
+        "프랑스 고등학생들이 학급 인원이 너무 많고 교사가 부족하다며 학교를 막고 시위를 벌이고 있어요. 지난주 파리 근처에서 시작해 리옹, 보르도, 릴 등 전국으로 번졌어요.",
+        "수요일 하루에만 학교 356곳이 영향을 받았고, 625명이 붙잡혔으며 경찰 83명이 다쳤어요. 불을 지르거나 물건을 던지는 일도 있었어요.",
+        "마크롱 대통령은 일부 정치인이 폭력을 정당화한다고 비판했고, 교육부 장관은 학생들이 수업으로 돌아가야 한다고 말했어요."
+      ],
+      "note": "목요일에는 붙잡힌 사람이 더 늘었다는 보도가 있지만, 정확한 수는 교차 확인하지 못했어요.",
+      "sources": [
+        {"title": "Euronews", "url": "https://www.euronews.com/2026/10/01/hundreds-held-dozens-wounded-as-protests-over-conditions-in-french-schools-escalate"},
+        {"title": "France 24", "url": "https://www.france24.com/en/france/20261001-hundreds-of-students-detained-dozens-of-officers-injured-in-french-school-protests"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "한국",
+      "breaking": false,
+      "important": false,
+      "keywords": ["검찰청", "공소청·중수청"],
+      "title": "검찰청 78년 만에 폐지… 공소청·중수청 첫날",
+      "summary": "두 기관 모두 수장 없이 출발 · 내일은 아시안게임 한일전",
+      "details": [
+        "오늘 검찰청이 문을 닫고, 기소를 맡는 공소청과 큰 범죄를 수사하는 중대범죄수사청(중수청)이 출범했어요.",
+        "두 기관 모두 수장 없이 시작했어요. 조직이 자리 잡을 때까지 사건 처리가 늦어질 수 있다는 걱정이 나와요.",
+        "한편 내일(3일)은 아시안게임 남자 축구 결승 한일전이 열려요. 한국이 이기면 대회 사상 첫 4연패예요."
+      ],
+      "sources": [
+        {"title": "경향신문", "url": "https://www.khan.co.kr/article/202610021546001/"},
+        {"title": "MBC", "url": "https://imnews.imbc.com/news/2026/sports/article/6855065_36946.html"}
+      ]
     }
-   ]
-  },
-  {
-   "tag": "war",
-   "tagLabel": "이란전쟁",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "호르무즈",
-    "9천 명"
-   ],
-   "title": "호르무즈서 유조선 또 피격… 미군 9천 명 추가 이동",
-   "summary": "쿠웨이트 초대형 유조선에 불 · 선원은 모두 무사",
-   "details": [
-    "한국 시간 2일 새벽, 호르무즈 해협을 지나던 초대형 유조선이 정체를 알 수 없는 발사체에 맞아 불이 났어요. 영국 해사무역기구(UKMTO)가 확인했고, 선원은 모두 무사해요.",
-    "해운 매체는 이 배가 쿠웨이트 선적 카지마 3호라고 전했어요. 이란 파르스 통신은 배가 허가받지 않은 항로를 지났다고 보도했어요.",
-    "AP에 따르면 미국은 항모 루스벨트 전단과 함께 수병 7천 명, 해병 2천 명 등 약 9천 명을 중동으로 보내요. 이 지역 미 항모는 세 척이 돼요.",
-    "트럼프 대통령은 경유 값이 사상 최고(갤런당 6.53달러)로 오르자 유럽에 비축 경유를 풀라고 요청할 수 있다고 말했어요.",
-    "나와의 연결: 긴장이 커지면 유가와 미국 금리가 함께 올라 장기채(TLT 등)와 기술주가 흔들릴 수 있어요. 달러 예금은 완충 역할을 해요."
-   ],
-   "note": "누가 공격했는지는 공식 확인되지 않았어요. 해운업계는 이란 혁명수비대를 의심하고 있어요.",
-   "sources": [
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz"
-    },
-    {
-     "title": "Seatrade Maritime",
-     "url": "https://seatrade-maritime.com/security/tanker-catches-fire-after-first-hormuz-attack-in-october"
-    },
-    {
-     "title": "Xinhua",
-     "url": "https://english.news.cn/20261002/06679fc267c044f7b9d35c7bd5e8f2b3/c.html"
-    },
-    {
-     "title": "AP (Business Standard)",
-     "url": "https://www.business-standard.com/world-news/us-sends-thousands-of-troops-to-west-asia-as-trump-weighs-new-iran-strikes-126100200058_1.html"
-    },
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves"
-    }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "증시·환율",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "7,000선",
-    "1,350.6원"
-   ],
-   "title": "코스피 7,000선 회복… 환율 1,350.6원으로 하락",
-   "summary": "기관 매수에 0.46% 상승 · 정유주 급등 · 유가는 소폭 내려",
-   "details": [
-    "코스피는 32.39포인트(0.46%) 오른 7,003.74에 마감했어요. 장 초반엔 내렸지만 기관이 사들이며 올랐어요. 코스닥은 0.11% 내린 893.29였어요.",
-    "중국의 연료 수출 중단 소식에 정유주가 크게 올랐어요. SK이노베이션은 10% 넘게 뛰었어요. 삼성전자는 보합이었어요.",
-    "원/달러 환율은 7.8원 내린 1,350.6원에 주간 거래를 마쳤어요. 오늘 낮 브렌트유는 101달러대, 서부텍사스유는 91달러대로 조금 내렸어요.",
-    "일본 도쿄의 9월 근원물가는 2.7%로 예상(2.4%)을 크게 웃돌았어요. 일본은행이 12월에 금리를 또 올릴 것이라는 전망이 힘을 얻었어요.",
-    "나와의 연결: 환율이 내리면 달러 예금의 원화 가치는 줄어요. 다만 하루 움직임이라 달러 비중을 바꿀 이유는 아니에요. 일본 금리 인상 기대는 일본 가치주 ETF에 우호적이에요."
-   ],
-   "note": "투자자별 순매수 금액은 매체마다 조금 달라요. 유가는 장중 값이라 마감 때 달라질 수 있어요.",
-   "sources": [
-    {
-     "title": "뉴스핌",
-     "url": "https://www.newspim.com/news/view/20261002001046"
-    },
-    {
-     "title": "블록미디어",
-     "url": "https://www.blockmedia.co.kr/archives/1147080"
-    },
-    {
-     "title": "Trading Economics",
-     "url": "https://tradingeconomics.com/commodity/crude-oil"
-    },
-    {
-     "title": "Reuters (Investing.com)",
-     "url": "https://www.investing.com/news/economy-news/tokyo-core-inflation-jumps-in-september-bolsters-case-for-more-boj-hikes-4928698"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "한국",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "검찰청",
-    "공소청·중수청"
-   ],
-   "title": "검찰청 78년 만에 폐지… 공소청·중수청 첫날",
-   "summary": "중수청은 공개 개청식, 공소청은 조용한 내부 행사",
-   "details": [
-    "오늘 검찰청이 문을 닫고, 기소를 맡는 공소청과 큰 범죄를 수사하는 중대범죄수사청(중수청)이 출범했어요.",
-    "중수청은 손님 약 80명을 초대해 개청식을 열었어요. 공소청은 옛 대검찰청 건물에서 직원끼리만 조용히 행사를 치렀어요.",
-    "두 기관 모두 수장 없이 시작했어요. 조직이 자리 잡을 때까지 사건 처리가 늦어질 수 있다는 걱정이 나와요."
-   ],
-   "sources": [
-    {
-     "title": "경향신문",
-     "url": "https://www.khan.co.kr/article/202610021546001/"
-    },
-    {
-     "title": "세계일보",
-     "url": "https://www.segye.com/newsView/20260928512081"
-    }
-   ]
-  },
-  {
-   "tag": "kr",
-   "tagLabel": "한반도",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "유엔사",
-    "지뢰"
-   ],
-   "title": "유엔사 \"북 지뢰는 정전협정 위반\"… 북은 반발",
-   "summary": "김여정 \"자작극\" 주장 · 오늘 새 군사 움직임은 없어",
-   "details": [
-    "9월 21일 비무장지대(DMZ)에서 지뢰가 터져 우리 군 간부 3명이 다쳤어요.",
-    "유엔군사령부는 이를 북한의 정전협정 위반으로 판단했어요. 북한 김여정 부부장은 한국의 자작극이라고 반발했어요.",
-    "오늘 낮까지 새로운 군사 움직임은 확인되지 않았어요.",
-    "나와의 연결: 남북 긴장이 길어지면 코스피와 원화가 흔들릴 수 있어요."
-   ],
-   "note": "유엔사 판단 내용은 SBHNews 등 보도 기준이며, 조사 결과 원문은 확인하지 못했어요.",
-   "sources": [
-    {
-     "title": "SBHNews",
-     "url": "https://www.sbhnews.com/news/un-command-landmine-violation-claim-725c75c9-2026-10-01-AM-06-15"
-    },
-    {
-     "title": "Korea Herald",
-     "url": "https://www.koreaherald.com/article/10889169"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "대만",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "대만",
-    "2028년"
-   ],
-   "title": "미국 \"중국의 대만 침공, 2028년 전엔 가능성 낮아\"",
-   "summary": "미 당국 신중한 평가 · 9/30 규모 5.9 지진은 피해 없어",
-   "details": [
-    "로이터는 미국 당국자들이 2028년 전 중국의 대만 침공 가능성이 갈수록 낮아지고 있다고 본다고 전했어요.",
-    "시진핑 주석은 군에 2027년까지 준비를 마치라고 지시했지만, 준비 목표와 실제 침공 능력은 다르다는 평가예요.",
-    "9월 30일 대만 화롄 동쪽 바다에서 규모 5.9 지진이 났지만 피해는 보고되지 않았어요. 대만 기상당국은 3~5일간 여진에 주의하라고 했어요.",
-    "나와의 연결: 대만 친척과 대만 테크 ETF에는 안심되는 소식이에요. 다만 군사훈련 같은 압박과 여진 가능성은 남아 있어요."
-   ],
-   "note": "침공 평가는 익명 소식통을 인용한 보도로, 미국 정부의 공식 발표는 아니에요.",
-   "sources": [
-    {
-     "title": "Reuters (CTV News)",
-     "url": "https://www.ctvnews.ca/world/article/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline-sources-say/"
-    },
-    {
-     "title": "Focus Taiwan",
-     "url": "https://focustaiwan.tw/society/202609300007"
-    },
-    {
-     "title": "Taiwan News",
-     "url": "https://www.taiwannews.com.tw/news/6449047"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "미국",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "H-1B",
-    "10만 달러"
-   ],
-   "title": "미 법원, H-1B 비자 10만 달러 수수료 또 제동",
-   "summary": "오클랜드 연방법원 판결 · 두 번째 효력 정지",
-   "details": [
-    "캘리포니아 오클랜드 연방법원이 새 H-1B 취업비자에 10만 달러를 물리는 조치를 막았어요. 법원이 막은 것은 이번이 두 번째예요.",
-    "판사는 정부가 정해진 규칙 제정 절차를 지키지 않았다고 봤어요.",
-    "국토안보부는 정식 절차로 약 10만 3천 달러의 수수료를 만들려 하고 있어, 다툼은 이어질 전망이에요.",
-    "나와의 연결: H-1B는 실리콘밸리 기업이 외국인 인재를 뽑을 때 많이 쓰는 비자라, 산호세 등 베이 지역 일자리와 빅테크에 영향이 커요."
-   ],
-   "sources": [
-    {
-     "title": "Reuters (inkl)",
-     "url": "https://www.inkl.com/news/second-judge-blocks-trumps-100-000-fee-for-new-h-1b-worker-visas"
-    },
-    {
-     "title": "Just Security",
-     "url": "https://www.justsecurity.org/159415/early-edition-october-1-2026/"
-    }
-   ]
-  },
-  {
-   "tag": "war",
-   "tagLabel": "우크라",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "키이우",
-    "12만 명"
-   ],
-   "title": "러, 키이우 또 공습… 가을 징집 12만 명 발표",
-   "summary": "키이우서 1명 숨져 · 우크라는 러 정유시설 공격",
-   "details": [
-    "밤사이 러시아의 공격으로 우크라이나 수도 키이우에서 1명이 숨지고 2명이 다쳤어요. 남부 다리도 다시 공격받았어요.",
-    "우크라이나군은 러시아 볼고그라드와 사마라 지역의 석유 시설을 공격한 것으로 전해졌어요. 이런 공격은 세계 경유 부족을 키우는 요인이에요.",
-    "러시아는 12만 명을 새로 징집하기로 했어요. 징집병은 전쟁터에 보내지 않겠다고 다시 약속했어요."
-   ],
-   "note": "우크라이나 매체 보도 기준이며, 러시아 석유 시설의 피해 규모는 확인되지 않았어요.",
-   "sources": [
-    {
-     "title": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-strike-kills-1-injures-2-in-kyiv-as-southern-bridge-hit-again-overnight/"
-    },
-    {
-     "title": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-oil-facilities-in-russias-volgograd-samara-regions/"
-    },
-    {
-     "title": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-to-conscript-120-000-men-again-promises-they-wont-be-sent-to-fight-in-ukraine/"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "스포츠",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "한일전",
-    "4연패"
-   ],
-   "title": "내일 아시안게임 축구 결승 한일전… 첫 4연패 도전",
-   "summary": "준결승서 중국 꺾어 · 결승은 10월 3일",
-   "details": [
-    "한국 남자 축구가 아이치·나고야 아시안게임 준결승에서 중국을 이기고 결승에 올랐어요.",
-    "결승은 내일(3일) 일본과 치러요. 3회 연속 결승 한일전이에요.",
-    "이기면 아시안게임 남자 축구 역사상 처음으로 4연패를 이뤄요."
-   ],
-   "sources": [
-    {
-     "title": "MBC",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6855065_36946.html"
-    },
-    {
-     "title": "머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/10/01/2026100110500082756"
-    }
-   ]
-  }
- ],
- "watch": [
-  "오늘 밤 9시 30분 미국 9월 고용보고서(예상 9만 명 증가, 실업률 4.1%)와 10년물 금리",
-  "호르무즈 유조선 피격 뒤 미국·이란의 대응과 브렌트유 100달러 유지 여부",
-  "한은의 다음 금리 결정과 10월 물가 3% 재진입 여부",
-  "다음 주 삼성전자 3분기 잠정 실적, 10/3 아시안게임 결승 한일전"
- ]
+  ],
+  "watch": [
+    "오늘 밤 뉴욕 증시 마감과 미 10년물 금리가 5.2% 아래에서 자리 잡는지",
+    "EU의 경유 방출 결정과 미국의 수출 금지 여부, 브렌트유 100달러 선",
+    "이란 사찰 제안에 대한 미국의 공식 반응과 호르무즈 추가 충돌",
+    "10/8 삼성전자 3분기 잠정 실적, 10/3 아시안게임 결승 한일전"
+  ]
 }
