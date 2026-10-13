@@ -1,171 +1,130 @@
 {
   "date": "2026-10-13",
-  "updatedLabel": "10/13 12:05",
+  "updatedLabel": "10/13 16:10",
   "kicker": "속보",
-  "headline": "코스피 장중 6% 넘게 급락, 두 달 만에 매도 사이드카",
-  "subhead": "외국인이 2조 원 가까이 팔면서 SK하이닉스·삼성전자가 7~9% 떨어졌어요",
-  "advice": "코스피가 장중 6% 넘게 빠졌어요. 한국 반도체 비중은 크지 않으니 서두르지 말고 속도를 조절해 지켜보세요.",
-  "marketsAsOf": "코스피는 10/13 10:48 장중 · 나머지 10/12 뉴욕 마감 기준 (미 국채금리는 12일 휴장으로 10/9 값)",
+  "headline": "코스피 5.46% 폭락, 6,035로 마감… 외국인 4.5조 매도",
+  "subhead": "SK하이닉스 10%, 삼성전자 7% 넘게 떨어졌고 환율은 1,345원으로 올랐어요",
+  "advice": "국내 주식 비중은 14% 안팎이에요. 정해 둔 분할 매수 기준을 지키고 금통위·FOMC 전엔 서두르지 마세요.",
+  "marketsAsOf": "10/13 서울 마감 · 10/12 뉴욕 마감 기준 (미 국채금리는 12일 휴장으로 10/9 값)",
   "markets": [
     {"label": "미 10년물", "value": "5.24%", "change": "+0.01%p", "dir": "up"},
     {"label": "미 2년물", "value": "4.80%", "change": "+0.04%p", "dir": "up"},
     {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
     {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
     {"label": "S&P 500", "value": "7,807.24", "change": "-0.06%", "dir": "down"},
-    {"label": "코스피", "value": "5,950.67", "change": "-6.79%", "dir": "down"}
+    {"label": "코스피", "value": "6,035.35", "change": "-5.46%", "dir": "down"}
   ],
   "stories": [
     {
-      "tag": "econ",
-      "tagLabel": "속보·증시",
-      "breaking": true,
-      "important": true,
-      "keywords": ["코스피", "사이드카"],
-      "title": "코스피 장중 6% 넘게 급락, 매도 사이드카 발동",
-      "summary": "6,000선이 깨지며 5,950까지 밀렸어요",
+      "tag": "econ", "tagLabel": "속보·증시", "breaking": true, "important": true,
+      "keywords": ["코스피", "6,035"],
+      "title": "코스피 5.46% 폭락, 6,035로 겨우 6천 지켜",
+      "summary": "348포인트 빠지며 5거래일 연속 내렸어요",
       "details": [
-        "코스피가 13일 3.10% 내린 6,186으로 출발한 뒤 낙폭을 키워, 오전 10시 48분쯤 6.79% 내린 5,950.67까지 떨어졌어요. 6,000선이 무너졌어요.",
-        "오전 9시 47분 코스피200 선물이 5% 넘게 빠지자 프로그램 매도를 5분간 멈추는 매도 사이드카가 걸렸어요. 8월 19일 이후 약 두 달 만이에요. 코스닥도 3%대 내렸어요.",
-        "중동 긴장과 높은 유가, AI 투자 수익성 걱정, 간밤 미국 반도체주 급락이 함께 영향을 줬다는 분석이 나와요.",
-        "나와의 연결: 주식·ETF가 전체의 약 40%인데, 그중 한국 주식은 일부예요. 장중 수치라 마감 값은 달라질 수 있어요."
+        "코스피가 13일 348.89포인트, 5.46% 내린 6,035.35로 마감했어요. 장중에는 6% 넘게 빠지며 6,000선 아래로 내려가기도 했어요.",
+        "오전에는 코스피200 선물 급락으로 약 두 달 만에 매도 사이드카가 걸렸어요. 코스닥은 1.43% 내린 837.03으로 마쳤어요.",
+        "삼성증권은 실적이 나빠졌다기보다 매물이 몰리고 투자 심리가 얼어붙은 게 원인이라고 봤어요.",
+        "나와의 연결: 국내 주식은 전체의 14% 안팎이에요. 정해 둔 매수 기준인 6,300 아래로 내려왔지만, 한 번에 사지 말고 나눠서 보는 계획을 지키면 돼요."
       ],
-      "note": "장중 수치예요. 마감 지수는 아직 확인하지 못했어요.",
       "sources": [
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261013000351"},
-        {"title": "한국일보", "url": "https://www.hankooki.com/news/articleView.html?idxno=345717"},
-        {"title": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10900597"},
-        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026101309594662087"}
+        {"title": "뉴스1", "url": "https://www.news1.kr/finance/market-exr/6318513"},
+        {"title": "EBN", "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727650"},
+        {"title": "KED Global", "url": "https://www.kedglobal.com/korean-stock-market/newsView/ked202610130001"}
       ]
     },
     {
-      "tag": "econ",
-      "tagLabel": "속보·반도체",
-      "breaking": true,
-      "important": true,
-      "keywords": ["하이닉스", "외국인"],
-      "title": "외국인 2조 매도에 하이닉스 8%·삼성전자 7%↓",
-      "summary": "간밤 미국 반도체지수도 2.67% 내렸어요",
+      "tag": "econ", "tagLabel": "속보·반도체", "breaking": true, "important": true,
+      "keywords": ["외국인 4.5조", "하이닉스"],
+      "title": "외국인 4.5조 팔자, 하이닉스 10%·삼성 7%↓",
+      "summary": "중국 CXMT의 새 D램 계획이 걱정을 키웠어요",
       "details": [
-        "오전 10시 25분까지 외국인이 1조 9,190억 원어치를 팔았어요. 개인은 1조 원 넘게 사들였어요.",
-        "SK하이닉스는 8.80% 내린 146만 3천 원, 삼성전자는 6.9% 내린 23만 3천 원까지 떨어졌어요. SK스퀘어는 9%대, 현대차도 5%대 내렸어요.",
-        "간밤 필라델피아 반도체지수가 2.67% 내렸고, 중국 CXMT가 서버용 D램을 내놓은 것도 경쟁 걱정을 키웠다는 분석이 있어요.",
-        "나와의 연결: 삼성전자·SK하이닉스와 반도체 ETF를 합치면 전체의 약 3.5%예요. 엔비디아까지 더해도 5% 안팎이에요."
+        "외국인이 유가증권시장에서 4조 5,128억 원어치를 팔았어요. 개인은 2조 2,271억 원, 기관은 1조 6,903억 원어치를 샀어요.",
+        "SK하이닉스는 10.09% 내린 144만 3천 원, 삼성전자는 7.39% 내린 23만 2천 원으로 마쳤어요. 간밤 미국 필라델피아 반도체지수도 2.67% 내렸어요.",
+        "중국 CXMT가 차세대 서버용 D램 양산 계획을 밝히며 경쟁 걱정이 커졌어요. 다만 실제 수율과 성능은 아직 확인되지 않았어요.",
+        "나와의 연결: 원/달러 환율이 10원 오른 1,345.1원에 마감해 달러 자산의 원화 가치는 조금 올랐어요."
       ],
       "sources": [
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261013000351"},
-        {"title": "한국일보", "url": "https://www.hankooki.com/news/articleView.html?idxno=345717"},
-        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2635048"}
+        {"title": "EBN", "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727650"},
+        {"title": "서울경제", "url": "https://en.sedaily.com/finance/2026/10/13/samsung-sk-hynix-tumble-as-china-memory-threat-spooks"},
+        {"title": "머니투데이", "url": "https://www.mt.co.kr/economy/2026/10/13/2026101315344839896"}
       ]
     },
     {
-      "tag": "war",
-      "tagLabel": "속보·사우디",
-      "breaking": true,
-      "important": false,
-      "keywords": ["리야드 공항", "보복"],
-      "title": "후티, 리야드 공항에 또 미사일… \"미국 끼면 보복\"",
-      "summary": "사우디는 수도로 날아온 미사일을 격추했다고 했어요",
+      "tag": "war", "tagLabel": "속보·이란", "breaking": true, "important": false,
+      "keywords": ["혁명수비대", "유조선"],
+      "title": "이란 혁명수비대 \"이틀 새 세 번째 유조선 공격\"",
+      "summary": "호르무즈 해협에서 배 공격이 다시 늘었어요",
       "details": [
-        "후티 반군이 사우디 수도 리야드의 킹칼리드 국제공항을 향해 탄도미사일을 다시 쐈어요. 후티는 미국이 끼어들면 보복하겠다고 경고했어요.",
-        "사우디군은 수도를 노린 미사일을 격추했다고 밝혔어요. 직전 공격으로 1명이 숨지고 11명이 다쳤고, 10일 공격에선 12명 넘게 숨졌어요.",
-        "트럼프 대통령은 미국이 후티 공격에 합류할 수 있다고 했지만, 아직 결정을 내렸다는 소식은 없어요. 여러 나라가 사우디 여행 자제를 권고했어요."
+        "이란 혁명수비대는 12일 호르무즈 해협에서 위치 신호를 끈 채 빠져나가려던 대형 유조선을 공격해 불이 났다고 주장했어요. 배 이름과 피해는 밝히지 않았어요.",
+        "영국 해사무역기구 집계로 11일 하루에만 유조선 5척과 컨테이너선 1척이 공격받았어요. 혁명수비대는 미군에 협조하는 배는 군사 대응하겠다고 경고했어요.",
+        "루비오 미 국무장관은 해협이 열려 있고 원유 흐름이 거의 회복됐다며 이란이 통제력을 잃었다고 반박했어요.",
+        "나와의 연결: 유가가 높게 유지되면 금리도 쉽게 내려가지 않아요. 브렌트유 110달러를 넘는지 지켜보세요."
       ],
-      "note": "10일 공격 사망자 수는 매체마다 12~13명으로 조금 달라요.",
+      "note": "12일 유조선 공격은 이란 쪽 주장이고, 독립적으로 확인된 피해 정보는 아직 없어요.",
       "sources": [
-        {"title": "SBS 뉴스", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794135"},
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate"},
-        {"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/"},
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks"}
+        {"title": "The National", "url": "https://www.thenationalnews.com/news/gulf/2026/10/13/strait-of-hormuz-attacks-surge-as-iran-steps-up-campaign-against-us-backed-oil-shipping/"},
+        {"title": "IranWire", "url": "https://iranwire.com/en/news/158801-irgc-targets-third-tanker-in-strait-of-hormuz-warns-us-allies/"},
+        {"title": "Fortune", "url": "https://fortune.com/article/price-of-oil-10-12-2026/"}
       ]
     },
     {
-      "tag": "war",
-      "tagLabel": "속보·이란",
-      "breaking": true,
-      "important": false,
-      "keywords": ["이란", "유가"],
-      "title": "이란 \"미국 답변 부족\"… 유가 다시 2%대 올라",
-      "summary": "브렌트유는 장중 106달러 안팎이었어요",
+      "tag": "war", "tagLabel": "속보·사우디", "breaking": true, "important": false,
+      "keywords": ["리야드", "트럼프"],
+      "title": "후티 공격에 리야드 항공편 멈춰… 트럼프 \"못되게 군다\"",
+      "summary": "사흘 연속 사우디 공항이 공격받았어요",
       "details": [
-        "이란 최고국가안보회의 레자이 의장은 미국의 최근 답변이 부족하다며, 더는 답하지 않고 설명을 기다리겠다고 했어요. 전쟁을 끝내고 호르무즈 해협을 여는 협상은 멈춰 있어요.",
-        "레자이 의장은 싸움이 다시 커지면 지역의 해저 케이블과 데이터센터, AI 시설도 노리겠다고 위협했어요. 미 중부사령부는 7월 봉쇄 뒤 상선 4척을 멈춰 세우고 135척을 돌려보냈다고 했어요.",
-        "12일 뉴욕 시간 브렌트유는 장중 106달러 안팎, WTI는 약 2% 오른 93달러대였어요. 러시아가 우크라이나 발전소를 공격한 것도 유가를 밀어 올렸어요.",
-        "나와의 연결: 유가가 오르면 물가와 금리도 오르기 쉬워요. 달러 예금 금리가 높게 유지될 수 있지만, 브렌트유 110달러를 넘는지 지켜보세요."
+        "후티 반군이 리야드 킹칼리드 공항과 담맘 공항 등 사우디 공항을 잇따라 공격하자, 리야드 공항 항공편이 멈췄어요.",
+        "트럼프 대통령은 후티가 아주 못되게 굴고 있다고 말했어요. 사우디 주도 연합군은 남부 공군기지를 노린 탄도미사일 2발을 격추했다고 밝혔어요.",
+        "카타르 국왕은 걸프 해역과 호르무즈 해협의 뱃길을 지키는 노력을 두 배로 늘려야 한다고 했어요."
       ],
-      "note": "유가는 장 마감 전 수치예요. 마감 가격은 확인하지 못했어요.",
+      "note": "SBHNews가 전한 리야드 항공편 99.7% 취소 수치는 다른 매체로 확인하지 못했어요.",
       "sources": [
-        {"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/"},
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"},
-        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/iran-us-peace-proposal-hormuz-lockdown-2d36cdd4-2026-10-12-AM-05-49"}
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted"},
+        {"title": "SBHNews", "url": "https://www.sbhnews.com"}
       ]
     },
     {
-      "tag": "kr",
-      "tagLabel": "한반도",
-      "breaking": false,
-      "important": true,
+      "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": true,
       "keywords": ["북한", "900km"],
-      "title": "북한, 탄도미사일 발사… 한 발은 900km 넘게 날아",
-      "summary": "올해 16번째, 9일 만의 발사예요",
+      "title": "북한, 탄도미사일 2발 발사… 한 발은 900km 넘게",
+      "summary": "미 인도태평양사령부는 즉각 위협은 아니라고 했어요",
       "details": [
-        "북한이 12일 오전 9시 20분쯤 평양 일대에서 동해로 탄도미사일 여러 발을 쐈어요. 합참은 한 발이 900km 넘게 날았다고 밝혔어요.",
-        "일본 방위성은 두 발이 17분 간격으로 날았고, 두 번째 미사일이 불규칙하게 움직여 극초음속 무기일 수 있다고 했어요. 둘 다 일본 배타적경제수역 밖에 떨어졌어요.",
-        "우리 정부가 국산 극초음속 미사일 첫 시험발사를 공개한 지 나흘 만이에요. 대통령실은 유엔 안보리 결의 위반이라며 즉시 멈추라고 했어요.",
-        "나와의 연결: 발사가 있던 12일에도 원/달러 환율은 7.7원 내린 1,335.1원으로 마쳐, 환율이 크게 흔들리진 않았어요."
+        "북한이 12일 오전 9시 20분쯤 평양 일대에서 동해로 탄도미사일 2발을 쐈어요. 합참은 한 발이 900km 넘게 날았다고 밝혔어요.",
+        "미 인도태평양사령부는 미국과 동맹에 즉각적인 위협은 아니라면서도 방위 약속을 다시 확인했어요.",
+        "북한은 국방 박물관을 새로 열었고, 김정은 위원장은 자기 나라 방위산업이 세계적 수준이라고 자랑했어요.",
+        "나와의 연결: 12일 환율은 오히려 내렸고, 13일 환율 상승은 주로 증시 급락 영향이에요."
       ],
       "sources": [
-        {"title": "SBS 뉴스", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793254"},
+        {"title": "코리아중앙데일리", "url": "https://www.koreajoongangdaily.com/korea/us-pacific-command-says-north-korea-fired-2-ballistic-missiles-reaffirms-defense-commitment/12916906"},
         {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea"}
       ]
     },
     {
-      "tag": "econ",
-      "tagLabel": "증시",
-      "breaking": false,
-      "important": false,
-      "keywords": ["JP모건"],
-      "title": "미 대형은행 실적 오늘 밤 시작, JP모건부터",
-      "summary": "골드만삭스·씨티·웰스파고도 함께 발표해요",
-      "details": [
-        "미국 시간 13일 JP모건, 골드만삭스, 씨티, 웰스파고가 3분기 실적을 내요. 한국 시간으로는 오늘 밤이에요.",
-        "은행주는 지난 한 달 동안 많이 내려서 실적이 분위기를 바꿀지 관심이 커요. 골드만삭스 전략가들은 앞으로 석 달 세계 주식 비중 의견을 비중확대로 올렸어요.",
-        "나와의 연결: JP모건과 S&P 500 ETF를 갖고 있어요. 실적 발표 날엔 주가가 크게 움직일 수 있으니 하루 등락에 바로 반응하지 않아도 돼요."
-      ],
-      "sources": [
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"},
-        {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-12-2026-dow-futures-climb-as-wall-street-gears-up-for-busy-week"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "대만",
-      "breaking": false,
-      "important": false,
+      "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
       "keywords": ["파라과이", "벨리즈"],
       "title": "중국, 대만 편 든 파라과이·벨리즈 장관 제재",
       "summary": "중국 내 자산을 묶고 입국을 막았어요",
       "details": [
-        "중국 외교부가 12일 파라과이 통신장관과 벨리즈 외교장관을 제재했어요. 대만과 관계를 이어 가도록 했다는 이유예요.",
-        "두 사람의 중국 내 자산을 동결하고, 홍콩·마카오 입국을 막고, 중국 기업·개인과의 거래도 금지했어요.",
-        "중국은 12일부터 17일까지 서해·동중국해·남중국해 등 5곳에서 실탄 훈련도 하고 있어요.",
-        "나와의 연결: 대만 친척에게 직접 위험 신호는 아직 없어요. 17일까지 훈련 집계를 지켜보면 돼요."
+        "중국 외교부가 12일 대만과 관계를 이어 가도록 했다는 이유로 파라과이 통신장관과 벨리즈 외교장관을 제재했어요.",
+        "두 사람의 중국 내 자산을 동결하고, 홍콩·마카오 입국과 중국 기업·개인과의 거래를 막았어요. 중국은 17일까지 주변 바다 5곳에서 실탄 훈련도 해요.",
+        "라이칭더 대만 총통은 10일 국방비를 늘리는 건 전쟁을 막기 위해서라고 말했어요.",
+        "나와의 연결: 대만 친척에게 직접 위험 신호는 아직 없어요. 17일까지 훈련 소식을 지켜보면 돼요."
       ],
+      "note": "미 국무부가 제재에 반대하고 대만 지지를 재확인했다는 SBHNews AI 요약은 다른 매체로 확인하지 못했어요.",
       "sources": [
         {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war"},
         {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/politics/202610120006"}
       ]
     },
     {
-      "tag": "war",
-      "tagLabel": "우크라",
-      "breaking": false,
-      "important": false,
+      "tag": "war", "tagLabel": "우크라", "breaking": false, "important": false,
       "keywords": ["트럼프", "새 지도자"],
       "title": "트럼프 \"우크라 새 지도자 필요\"… 키이우 반발",
       "summary": "러시아 정유시설 공격도 멈추라고 했어요",
       "details": [
         "트럼프 대통령은 10일 우크라이나가 협상할 수 있는 새 지도자를 뽑아야 한다고 말했어요. 미국 경유 가격이 비싼 것도 젤렌스키 대통령 탓으로 돌렸어요.",
-        "젤렌스키 대통령은 전쟁 책임은 러시아에만 있다며 러시아 정유시설 공격을 이어 가겠다고 했어요. 우크라이나 외무장관도 국민이 대통령을 지지한다고 맞섰어요.",
+        "젤렌스키 대통령은 전쟁 책임은 러시아에만 있다며 러시아 정유시설 공격을 이어 가겠다고 했어요.",
         "트럼프 대통령이 11일 발표한 에너지 휴전의 내용은 아직 분명하지 않아요."
       ],
       "sources": [
@@ -174,10 +133,7 @@
       ]
     },
     {
-      "tag": "etc",
-      "tagLabel": "보건",
-      "breaking": false,
-      "important": false,
+      "tag": "etc", "tagLabel": "보건", "breaking": false, "important": false,
       "keywords": ["에볼라", "케냐"],
       "title": "콩고 에볼라 4천 명 넘게 숨져… 케냐도 1명",
       "summary": "백신이 없는 분디부교형 바이러스예요",
@@ -192,10 +148,20 @@
       ]
     },
     {
-      "tag": "etc",
-      "tagLabel": "미국",
-      "breaking": false,
-      "important": false,
+      "tag": "etc", "tagLabel": "교황", "breaking": false, "important": false,
+      "keywords": ["레오 14세", "폐 결절"],
+      "title": "교황 레오 14세, 폐 결절 제거 수술 받는다",
+      "summary": "아주 초기에 발견됐다고 직접 밝혔어요",
+      "details": [
+        "교황 레오 14세가 최근 검사에서 폐에 결절이 발견돼 며칠 안에 로마 제멜리 병원에서 제거 수술을 받을 예정이에요.",
+        "교황은 결절이 아주 초기 단계에 발견됐고 범위도 좁다고 말했어요. 교황청은 회복에 일주일쯤 걸린다고 했어요."
+      ],
+      "sources": [
+        {"title": "Taipei Times (AFP)", "url": "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865860"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "미국", "breaking": false, "important": false,
       "keywords": ["생중계"],
       "title": "미군, 포트후드 총격범 사형 생중계 계획 논란",
       "summary": "실제로 하면 첫 공식 사형 생중계예요",
@@ -204,16 +170,15 @@
         "전문가들은 합법적인 사형이 생중계되는 첫 사례가 될 거라고 했어요. 미군 총살형도 1945년 뒤 처음이에요.",
         "끔찍한 영상이 선전에 쓰이거나 마구 퍼질 수 있다는 걱정이 커지며 찬반이 갈리고 있어요."
       ],
-      "note": "국토안보부 장관이 생중계를 옹호했다는 SBHNews의 AI 요약은 다른 매체로 확인하지 못했어요.",
       "sources": [
         {"title": "The Star (Reuters)", "url": "https://www.thestar.com.my/news/world/2026/10/09/explainer-how-the-us-plan-to-livestream-an-execution-compares-with-global-practice"}
       ]
     }
   ],
   "watch": [
-    "오늘 오후 코스피 마감 지수와 외국인 매도 규모",
-    "오늘 밤 JP모건 등 미국 대형은행 실적",
-    "트럼프의 후티 공격 합류 결정, 브렌트유 110달러",
+    "오늘 밤 JP모건·골드만삭스 등 미국 대형은행 실적과 미국 반도체주 흐름",
+    "이번 주 TSMC·ASML 실적, 중국 CXMT D램 걱정이 풀릴지",
+    "호르무즈 유조선 공격과 브렌트유 110달러 돌파 여부",
     "14일 밤 미국 9월 소비자물가, 22일 금통위 금리 결정"
   ]
 }
