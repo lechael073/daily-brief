@@ -1,20 +1,62 @@
 {
   "date": "2026-10-13",
-  "updatedLabel": "10/13 07:10",
+  "updatedLabel": "10/13 12:05",
   "kicker": "속보",
-  "headline": "후티가 리야드 공항을 또 공격했고, 미 반도체주는 크게 떨어졌어요",
-  "subhead": "북한은 900km 넘게 난 탄도미사일을 쐈고, 브렌트유는 106달러 안팎으로 올랐어요",
-  "advice": "반도체주가 이틀째 약해요. 삼성전자·하이닉스·반도체 ETF를 합친 비중이 목표보다 큰지만 점검해 보세요.",
-  "marketsAsOf": "10/12 뉴욕 · 10/12 서울 마감 기준 (미 국채금리는 12일 휴장으로 10/9 값)",
+  "headline": "코스피 장중 6% 넘게 급락, 두 달 만에 매도 사이드카",
+  "subhead": "외국인이 2조 원 가까이 팔면서 SK하이닉스·삼성전자가 7~9% 떨어졌어요",
+  "advice": "코스피가 장중 6% 넘게 빠졌어요. 한국 반도체 비중은 크지 않으니 서두르지 말고 속도를 조절해 지켜보세요.",
+  "marketsAsOf": "코스피는 10/13 10:48 장중 · 나머지 10/12 뉴욕 마감 기준 (미 국채금리는 12일 휴장으로 10/9 값)",
   "markets": [
     {"label": "미 10년물", "value": "5.24%", "change": "+0.01%p", "dir": "up"},
     {"label": "미 2년물", "value": "4.80%", "change": "+0.04%p", "dir": "up"},
     {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
     {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
     {"label": "S&P 500", "value": "7,807.24", "change": "-0.06%", "dir": "down"},
-    {"label": "코스피", "value": "6,384.24", "change": "-3.65%", "dir": "down"}
+    {"label": "코스피", "value": "5,950.67", "change": "-6.79%", "dir": "down"}
   ],
   "stories": [
+    {
+      "tag": "econ",
+      "tagLabel": "속보·증시",
+      "breaking": true,
+      "important": true,
+      "keywords": ["코스피", "사이드카"],
+      "title": "코스피 장중 6% 넘게 급락, 매도 사이드카 발동",
+      "summary": "6,000선이 깨지며 5,950까지 밀렸어요",
+      "details": [
+        "코스피가 13일 3.10% 내린 6,186으로 출발한 뒤 낙폭을 키워, 오전 10시 48분쯤 6.79% 내린 5,950.67까지 떨어졌어요. 6,000선이 무너졌어요.",
+        "오전 9시 47분 코스피200 선물이 5% 넘게 빠지자 프로그램 매도를 5분간 멈추는 매도 사이드카가 걸렸어요. 8월 19일 이후 약 두 달 만이에요. 코스닥도 3%대 내렸어요.",
+        "중동 긴장과 높은 유가, AI 투자 수익성 걱정, 간밤 미국 반도체주 급락이 함께 영향을 줬다는 분석이 나와요.",
+        "나와의 연결: 주식·ETF가 전체의 약 40%인데, 그중 한국 주식은 일부예요. 장중 수치라 마감 값은 달라질 수 있어요."
+      ],
+      "note": "장중 수치예요. 마감 지수는 아직 확인하지 못했어요.",
+      "sources": [
+        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261013000351"},
+        {"title": "한국일보", "url": "https://www.hankooki.com/news/articleView.html?idxno=345717"},
+        {"title": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10900597"},
+        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026101309594662087"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "속보·반도체",
+      "breaking": true,
+      "important": true,
+      "keywords": ["하이닉스", "외국인"],
+      "title": "외국인 2조 매도에 하이닉스 8%·삼성전자 7%↓",
+      "summary": "간밤 미국 반도체지수도 2.67% 내렸어요",
+      "details": [
+        "오전 10시 25분까지 외국인이 1조 9,190억 원어치를 팔았어요. 개인은 1조 원 넘게 사들였어요.",
+        "SK하이닉스는 8.80% 내린 146만 3천 원, 삼성전자는 6.9% 내린 23만 3천 원까지 떨어졌어요. SK스퀘어는 9%대, 현대차도 5%대 내렸어요.",
+        "간밤 필라델피아 반도체지수가 2.67% 내렸고, 중국 CXMT가 서버용 D램을 내놓은 것도 경쟁 걱정을 키웠다는 분석이 있어요.",
+        "나와의 연결: 삼성전자·SK하이닉스와 반도체 ETF를 합치면 전체의 약 3.5%예요. 엔비디아까지 더해도 5% 안팎이에요."
+      ],
+      "sources": [
+        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261013000351"},
+        {"title": "한국일보", "url": "https://www.hankooki.com/news/articleView.html?idxno=345717"},
+        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2635048"}
+      ]
+    },
     {
       "tag": "war",
       "tagLabel": "속보·사우디",
@@ -78,28 +120,6 @@
     },
     {
       "tag": "econ",
-      "tagLabel": "반도체",
-      "breaking": false,
-      "important": true,
-      "keywords": ["반도체지수", "하이닉스"],
-      "title": "미 반도체지수 2.67% 급락, 하이닉스 ADR 4%↓",
-      "summary": "나스닥은 0.44% 내리고 다우는 0.38% 올랐어요",
-      "details": [
-        "12일 뉴욕에서 필라델피아 반도체지수가 2.67% 내린 12,236.79로 마쳤어요. 마이크론은 3.88%, SK하이닉스 ADR은 4.02%, 엔비디아는 1.29% 내렸어요.",
-        "S&P 500은 0.06% 내린 7,807.24, 나스닥은 0.44% 내린 27,245.90이었어요. 다우는 0.38% 올라 돈이 기술주에서 가치주로 옮겨 갔어요.",
-        "중국 메모리 업체 CXMT가 새 메모리 설계 진전을 알린 것이 영향을 줬다는 보도가 있고, 차익 실현과 높은 주가 부담 때문이라는 분석도 있어요.",
-        "나와의 연결: 삼성전자·SK하이닉스·엔비디아와 반도체 ETF를 갖고 있어요. 전날 코스피 급락에 이어 오늘 아침 반도체주가 또 흔들릴 수 있어요."
-      ],
-      "note": "CXMT 영향은 Yahoo Finance 보도로만 확인했어요.",
-      "sources": [
-        {"title": "파이낸셜뉴스", "url": "https://fnnews.com/news/202610130518302889"},
-        {"title": "서울신문", "url": "https://seoul.co.kr/news/economy/securities/2026/10/13/20261013500009"},
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"},
-        {"title": "Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-dow-gains-as-memory-stocks-weigh-on-nasdaq/"}
-      ]
-    },
-    {
-      "tag": "econ",
       "tagLabel": "증시",
       "breaking": false,
       "important": false,
@@ -155,24 +175,6 @@
     },
     {
       "tag": "etc",
-      "tagLabel": "미국",
-      "breaking": false,
-      "important": false,
-      "keywords": ["생중계"],
-      "title": "미군, 포트후드 총격범 사형 생중계 계획 논란",
-      "summary": "실제로 하면 첫 공식 사형 생중계예요",
-      "details": [
-        "미군은 2009년 포트후드 기지 총격으로 13명을 숨지게 한 니달 하산의 총살형을 12월 3일 생중계할 계획이에요.",
-        "전문가들은 합법적인 사형이 생중계되는 첫 사례가 될 거라고 했어요. 미군 총살형도 1945년 뒤 처음이에요.",
-        "끔찍한 영상이 선전에 쓰이거나 마구 퍼질 수 있다는 걱정이 커지며 찬반이 갈리고 있어요."
-      ],
-      "note": "국토안보부 장관이 생중계를 옹호했다는 SBHNews의 AI 요약은 다른 매체로 확인하지 못했어요.",
-      "sources": [
-        {"title": "The Star (Reuters)", "url": "https://www.thestar.com.my/news/world/2026/10/09/explainer-how-the-us-plan-to-livestream-an-execution-compares-with-global-practice"}
-      ]
-    },
-    {
-      "tag": "etc",
       "tagLabel": "보건",
       "breaking": false,
       "important": false,
@@ -188,10 +190,28 @@
         {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case"},
         {"title": "Capital FM", "url": "https://capitalfm.africa/kenya-has-no-ebola-outbreak-duale-says-after-imported-case-confirmed/"}
       ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "미국",
+      "breaking": false,
+      "important": false,
+      "keywords": ["생중계"],
+      "title": "미군, 포트후드 총격범 사형 생중계 계획 논란",
+      "summary": "실제로 하면 첫 공식 사형 생중계예요",
+      "details": [
+        "미군은 2009년 포트후드 기지 총격으로 13명을 숨지게 한 니달 하산의 총살형을 12월 3일 생중계할 계획이에요.",
+        "전문가들은 합법적인 사형이 생중계되는 첫 사례가 될 거라고 했어요. 미군 총살형도 1945년 뒤 처음이에요.",
+        "끔찍한 영상이 선전에 쓰이거나 마구 퍼질 수 있다는 걱정이 커지며 찬반이 갈리고 있어요."
+      ],
+      "note": "국토안보부 장관이 생중계를 옹호했다는 SBHNews의 AI 요약은 다른 매체로 확인하지 못했어요.",
+      "sources": [
+        {"title": "The Star (Reuters)", "url": "https://www.thestar.com.my/news/world/2026/10/09/explainer-how-the-us-plan-to-livestream-an-execution-compares-with-global-practice"}
+      ]
     }
   ],
   "watch": [
-    "오늘 아침 코스피 반도체주 흐름과 외국인 매매",
+    "오늘 오후 코스피 마감 지수와 외국인 매도 규모",
     "오늘 밤 JP모건 등 미국 대형은행 실적",
     "트럼프의 후티 공격 합류 결정, 브렌트유 110달러",
     "14일 밤 미국 9월 소비자물가, 22일 금통위 금리 결정"
