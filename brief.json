@@ -1,171 +1,319 @@
 {
- "date": "2026-10-14",
- "updatedLabel": "10/14 16:07",
- "kicker": "속보",
- "headline": "사우디·후티 충돌이 석유시설 공격으로 번졌어요",
- "subhead": "코스피는 6일째 하락했고, 오늘 밤 미국 9월 물가가 금리 방향을 가려요.",
- "advice": "코스피가 흔들릴 땐 국내 반도체 비중을 한 번에 늘리기보다 나눠서 점검해 보세요.",
- "marketsAsOf": "10/13 뉴욕 · 10/14 서울 마감 기준",
- "markets": [
-  {"label": "미 10년물", "value": "5.22%", "change": "-0.03%p", "dir": "down"},
-  {"label": "미 2년물", "value": "4.80%", "change": "+0.01%p", "dir": "up"},
-  {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
-  {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
-  {"label": "S&P 500", "value": "7,805.45", "change": "-0.02%", "dir": "down"},
-  {"label": "코스피", "value": "6,008.81", "change": "-0.44%", "dir": "down"}
- ],
- "stories": [
-  {
-   "tag": "war", "tagLabel": "속보·사우디", "breaking": true, "important": false,
-   "keywords": ["사나", "석유시설"],
-   "title": "사우디 연합군, 예멘 사나 석유시설 공습",
-   "summary": "리야드 공항 피격에 대한 보복으로 보여요",
-   "details": [
-    "후티가 운영하는 방송은 사우디 주도 연합군이 수도 사나 서쪽의 석유시설을 공격했다고 전했어요.",
-    "공격 전 연합군은 대피 경고를 냈고, 후티도 사우디 석유시설·공항 직원들에게 현장을 떠나라고 경고했어요.",
-    "10일 리야드 킹칼리드 공항 공격으로 13명이 숨졌다는 AFP 보도가 있었고, 공항 운영은 12일에도 멈춘 상태였어요.",
-    "나와의 연결: 석유시설끼리 공격이 오가면 유가와 미국 금리가 오르기 쉬워 미국채·TLT 같은 장기채 가격에 부담이 돼요."
-   ],
-   "note": "사나 공습의 피해 규모는 아직 확인되지 않았어요. 리야드 공항 사망자는 매체마다 3~13명으로 달라요.",
-   "sources": [
-    {"title": "Washington Post (AP)", "url": "https://www.washingtonpost.com/world/2026/10/13/yemen-houthis-saudi-arabia-strikes-threats/d62588ec-c70b-11f1-aefb-abe4112d087e_story.html"},
-    {"title": "Malay Mail (AFP)", "url": "https://www.malaymail.com/news/world/2026/10/13/houthis-warn-of-painful-response-if-us-joins-saudi-strikes-on-yemen/238870"},
-    {"title": "SBHNews", "url": "https://www.sbhnews.com/news/saudi-led-airstrike-sana-oil-facilities-bdc43d4e-2026-10-14-AM-03-31"}
-   ]
-  },
-  {
-   "tag": "war", "tagLabel": "속보·미국", "breaking": true, "important": false,
-   "keywords": ["트럼프", "후티"],
-   "title": "트럼프, 예멘 공습 합류 저울질… 후티 \"보복\"",
-   "summary": "후티는 미국이 끼어들면 미국 이익을 치겠다고 했어요",
-   "details": [
-    "트럼프 대통령은 리야드 공항 공격이 \"용납할 수 없다\"며 사우디 공습 합류를 검토하겠다고 했어요.",
-    "후티 정치국 인사는 미국이 참전하면 중동의 미국과 그 모든 이익을 겨냥하겠다고 경고했어요.",
-    "미국이 합류하면 이란 전쟁과 예멘 내전이 하나로 더 크게 엮일 수 있어요.",
-    "나와의 연결: 확전 걱정이 커지면 달러가 강해지는 경향이 있어, 달러 예금 비중이 큰 쪽엔 원화 환산 가치가 받쳐 줘요."
-   ],
-   "sources": [
-    {"title": "Malay Mail (AFP)", "url": "https://www.malaymail.com/news/world/2026/10/13/houthis-warn-of-painful-response-if-us-joins-saudi-strikes-on-yemen/238870"},
-    {"title": "Time", "url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/"}
-   ]
-  },
-  {
-   "tag": "war", "tagLabel": "이란", "breaking": false, "important": true,
-   "keywords": ["호르무즈", "유조선"],
-   "title": "이란 해군 \"호르무즈 금지구역서 유조선 불\"",
-   "summary": "위치 추적을 끄고 지나가려던 배라고 주장했어요",
-   "details": [
-    "이란 해군은 호르무즈 해협 동쪽 통행 금지구역을 지나던 유조선이 부서지고 불이 났다고 밝혔어요.",
-    "어떻게 손상됐는지는 설명하지 않았고, 배 이름과 국적도 공개되지 않았어요.",
-    "이란은 새 배치 태세를 갖췄다며 모든 선박에 전자장비를 켜고 이란군과 협의하라고 요구했어요.",
-    "나와의 연결: 호르무즈 불안은 유가를 밀어 올려, 브렌트유가 배럴당 100달러를 넘는 상황이 이어지고 있어요."
-   ],
-   "note": "이란 측 발표이며, 화재 원인과 피해는 독립적으로 확인되지 않았어요.",
-   "sources": [
-    {"title": "News.az (알자지라 인용)", "url": "https://news.az/news/iran-says-tanker-damaged-in-restricted-hormuz-zone"},
-    {"title": "SBHNews", "url": "https://www.sbhnews.com/news/iran-tanker-fire-hormuz-east-3a057790-2026-10-14-AM-05-49"}
-   ]
-  },
-  {
-   "tag": "econ", "tagLabel": "증시", "breaking": false, "important": true,
-   "keywords": ["코스피", "6,008"],
-   "title": "코스피 6일째 하락, 6,008에 마감",
-   "summary": "장중 2% 넘게 올랐다가 밀렸고, 환율은 1,338원이에요",
-   "details": [
-    "코스피는 장중 6,190까지 올랐지만 0.44% 내린 6,008.81로 끝났어요. 한때 6,000 아래로도 내려갔어요.",
-    "코스닥은 1.57% 내린 823.88이었어요. 중국 메모리 업체 추격 걱정이 반도체주를 계속 누르고 있어요.",
-    "원/달러 환율은 6.8원 내린 1,338.3원으로 마감해 원화가 강해졌어요.",
-    "나와의 연결: 삼성전자·SK하이닉스·TIGER200 등 국내 주식이 흔들리고, 환율 하락은 달러 자산의 원화 환산액을 조금 줄여요."
-   ],
-   "sources": [
-    {"title": "싱글리스트", "url": "https://www.slist.kr/news/articleView.html?idxno=773402"},
-    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610141540451756"}
-   ]
-  },
-  {
-   "tag": "econ", "tagLabel": "금리", "breaking": false, "important": false,
-   "keywords": ["미국 물가"],
-   "title": "오늘 밤 미국 물가 발표, 연준 인상 신호 주목",
-   "summary": "뉴욕 연은 총재는 올해 한 번 더 인상이 맞다고 했어요",
-   "details": [
-    "미국 9월 소비자물가는 한국 시간 14일 밤 9시 30분에 나와요.",
-    "존 윌리엄스 뉴욕 연은 총재는 올해 한 번 더 금리 인상이 적절하다고 했고, 수전 콜린스 보스턴 연은 총재도 연내 인상을 지지했어요.",
-    "전날 미 10년물 금리는 5.22%로 조금 내렸고, S&P 500은 은행 실적이 엇갈리며 보합으로 마쳤어요.",
-    "나와의 연결: 물가가 높게 나오면 금리가 더 올라 미국 장기채 가격엔 불리하지만, 달러 정기예금 재가입 금리엔 유리해요."
-   ],
-   "sources": [
-    {"title": "investingLive", "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-13-oct-dollar-retreats-as-traders-await-cpi-oil-rises-and-stocks-slip"},
-    {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"}
-   ]
-  },
-  {
-   "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": false,
-   "keywords": ["화성-20"],
-   "title": "북한, 새 국방박물관에 화성-20 공개",
-   "summary": "김정은 위원장이 부인·딸과 개관식에 나왔어요",
-   "details": [
-    "북한은 노동당 창건 81주년에 맞춰 11일 국방혁명박물관을 열었다고 조선중앙통신이 전했어요.",
-    "고체연료 대륙간탄도미사일 화성-20과 새 잠수함발사탄도미사일, 극초음속 미사일 등을 전시했어요.",
-    "트럼프 대통령은 다음 달 중국 방문 때 김정은을 만날지 묻자 \"그럴 수도 있다\"고 답했어요."
-   ],
-   "sources": [
-    {"title": "Korea Times (연합뉴스)", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261013/n-korea-opens-new-defense-museum-featuring-icbms-other-advanced-weaponry"},
-    {"title": "SBHNews", "url": "https://www.sbhnews.com/stories/north-korea-defense-museum-hwasong-20-83ff3bd5"}
-   ]
-  },
-  {
-   "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
-   "keywords": ["실탄훈련"],
-   "title": "중국, 연안 곳곳 실탄훈련… 대만 \"주시 중\"",
-   "summary": "라이칭더 총통 국경일 연설 뒤 일주일간 이어져요",
-   "details": [
-    "중국 해사국은 남중국해부터 랴오닝까지 다섯 곳에 항행 금지를 걸고 이번 주 실탄훈련을 하고 있어요.",
-    "대만을 직접 둘러싼 구역은 아니고, 가장 가까운 곳은 저장성 앞바다예요.",
-    "구리슝 대만 국방부장은 해안포 부대 훈련으로 보인다며 면밀히 지켜보고 있다고 했어요.",
-    "나와의 연결: 대만에 계신 외가 친척 주변에 당장 위험이 커진 건 아니지만, 훈련 범위가 대만 쪽으로 넓어지는지 볼 필요가 있어요."
-   ],
-   "sources": [
-    {"title": "Reuters (Internazionale)", "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/12/taiwan-says-it-is-closely-monitoring-series-of-chinese-live-fire-drills"},
-    {"title": "Political.org", "url": "https://political.org/2026/10/11/taiwan-says-it-is-closely-monitoring-new-wave-of-chinese-live-fire-drills-across-multiple-seas/"}
-   ]
-  },
-  {
-   "tag": "etc", "tagLabel": "사이버", "breaking": false, "important": false,
-   "keywords": ["프랑스", "냉장고"],
-   "title": "프랑스 마트 수백 곳 냉장고 해킹, 50도까지",
-   "summary": "음식을 모두 버리고 불이 난 매장도 있었어요",
-   "details": [
-    "해커가 프랑스 대형마트 수백 곳의 인터넷 연결 냉장고 온도를 밤새 최고 50도까지 올렸어요.",
-    "앵테르마르셰 약 150곳이 6시간 동안 피해를 봤고, 파리 검찰과 사이버보안청이 수사하고 있어요.",
-    "덴마크 업체 댄포스 소프트웨어의 취약점이 지목됐고, 회사는 오래된 펌웨어 탓이라고 했어요."
-   ],
-   "note": "누가 공격했는지는 아직 밝혀지지 않았어요.",
-   "sources": [
-    {"title": "Irish Examiner", "url": "https://www.irishexaminer.com/world/arid-41923315.html"},
-    {"title": "TimesLIVE (Reuters)", "url": "https://www.timeslive.co.za/news/world/2026-10-12-hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses/"}
-   ]
-  },
-  {
-   "tag": "etc", "tagLabel": "사건", "breaking": false, "important": false,
-   "keywords": ["인천", "흉기"],
-   "title": "인천 구월동 상업시설 흉기 난동, 8명 다쳐",
-   "summary": "20대 여성 1명은 위독하고, 59세 남성이 체포됐어요",
-   "details": [
-    "13일 오후 1시 40분쯤 인천 남동구 구월동 마트·영화관 건물에서 남성이 흉기를 휘둘렀어요.",
-    "8명이 다쳤고, 심정지로 옮겨진 20대 여성은 수술 뒤에도 위중한 상태예요.",
-    "경찰은 살인미수 혐의로 체포한 59세 남성에게 프로파일러 3명을 투입해 동기를 조사하고 있어요."
-   ],
-   "note": "피의자가 전자발찌를 차고 있었다는 보도가 있지만 주요 언론으로는 확인되지 않았어요.",
-   "sources": [
-    {"title": "한국일보", "url": "https://www.hankookilbo.com/news/article/A2026101408530000352"},
-    {"title": "SBHNews", "url": "https://www.sbhnews.com/news/incheon-mall-stabbing-eight-injured-f0efe6f9-2026-10-13-PM-06-35"}
-   ]
-  }
- ],
- "watch": [
-  "14일 밤 9시 30분 미국 9월 소비자물가",
-  "미국의 예멘 공습 합류 결정",
-  "코스피 6,000선 지지와 외국인 수급",
-  "22일 금통위, 27~28일 FOMC 금리 결정"
- ]
+  "date": "2026-10-14",
+  "updatedLabel": "10/14 22:05",
+  "kicker": "오늘의 한 줄",
+  "headline": "미국 9월 물가 3.7%로 뛰어 추가 금리 인상 무게가 커졌어요",
+  "subhead": "사우디·후티는 석유시설을 서로 겨누고, 대만달러는 32를 넘어 약해졌어요.",
+  "advice": "물가가 예상보다 높아 금리 상승 압력이 커졌으니 TLT 같은 장기채는 비중을 늘리기보다 지켜보세요.",
+  "marketsAsOf": "10/13 뉴욕 · 10/14 서울 마감 기준",
+  "markets": [
+    {
+      "change": "-0.03%p",
+      "dir": "down",
+      "label": "미 10년물",
+      "value": "5.22%"
+    },
+    {
+      "change": "+0.01%p",
+      "dir": "up",
+      "label": "미 2년물",
+      "value": "4.80%"
+    },
+    {
+      "change": "9/16 +0.25%p",
+      "dir": "up",
+      "label": "미 기준금리",
+      "value": "3.75–4.00%"
+    },
+    {
+      "change": "8/27 +0.25%p",
+      "dir": "up",
+      "label": "한은 기준금리",
+      "value": "3.00%"
+    },
+    {
+      "change": "-0.02%",
+      "dir": "down",
+      "label": "S&P 500",
+      "value": "7,805.45"
+    },
+    {
+      "change": "-0.44%",
+      "dir": "down",
+      "label": "코스피",
+      "value": "6,008.81"
+    }
+  ],
+  "stories": [
+    {
+      "tag": "econ",
+      "tagLabel": "물가",
+      "breaking": false,
+      "important": true,
+      "keywords": [
+        "3.7%"
+      ],
+      "title": "미국 9월 물가 3.7%, 예상보다 조금 높아",
+      "summary": "휘발유값이 뛰면서 8월 3.4%에서 올랐어요",
+      "details": [
+        "미국 9월 소비자물가는 1년 전보다 3.7% 올라, 로이터 예상치 3.6%를 조금 넘었어요. 한 달 상승률은 0.6%였어요.",
+        "휘발유값 급등이 물가를 끌어올렸고, 식품·에너지를 뺀 근원물가는 2.6%로 8월 2.4%보다 높아졌어요.",
+        "연준은 지난달 3년 만에 금리를 올렸고, 시장은 27~28일 회의보다 12월 추가 인상 쪽에 무게를 두고 있어요.",
+        "나와의 연결: 금리가 더 오르면 TLT·미국 장기 국채 가격엔 부담이지만, 달러 정기예금을 다시 맡길 때 금리는 유리해져요."
+      ],
+      "note": "발표 직후 미국 국채금리·주가 반응은 이번 갱신 시점에 아직 확인되지 않았어요.",
+      "sources": [
+        {
+          "title": "Reuters (Investing.com)",
+          "url": "https://www.investing.com/news/economy-news/us-consumer-prices-accelerate-in-september-on-costlier-gasoline-core-cpi-firmer-4949258"
+        },
+        {
+          "title": "The Crypto Times",
+          "url": "https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"
+        }
+      ]
+    },
+    {
+      "tag": "war",
+      "tagLabel": "속보·사우디",
+      "breaking": true,
+      "important": false,
+      "keywords": [
+        "아람코",
+        "석유시설"
+      ],
+      "title": "사우디·후티, 석유시설 맞공격… 아람코 단지 불",
+      "summary": "사우디는 사나 석유시설을, 후티는 아람코를 겨눴어요",
+      "details": [
+        "사우디 주도 연합군은 13일 사나·다마르·사다 등 예멘 서부의 석유시설을 공습했다고 확인했어요.",
+        "같은 날 사우디 동부 아람코 단지의 행정 건물에서 불이 났고, 사우디 에너지부는 다친 사람은 없다고 했어요.",
+        "14일에도 연합군은 리야드를 향한 후티 탄도미사일을 격추했다고 밝혔고, 후티는 공항·석유시설 공격을 이어가겠다고 했어요.",
+        "나와의 연결: 석유시설 공격이 이어지면 유가와 물가가 오르기 쉬워, 미국 금리 상승 압력도 함께 커져요."
+      ],
+      "note": "사나 공습 피해 규모와 아람코 화재 원인은 아직 자세히 확인되지 않았어요.",
+      "sources": [
+        {
+          "title": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east"
+        },
+        {
+          "title": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/"
+        },
+        {
+          "title": "SBHNews",
+          "url": "https://www.sbhnews.com/news/saudi-led-airstrike-sana-oil-facilities-bdc43d4e-2026-10-14-AM-03-31"
+        }
+      ]
+    },
+    {
+      "breaking": true,
+      "details": [
+        "트럼프 대통령은 사우디 공습 합류 여부를 아직 밝히지 않았고, 후티가 \"아주 나쁘게 행동한다\"고만 했어요.",
+        "후티 측은 미국이 참전하면 중동의 미국 이익을 겨냥하겠다고 경고했어요.",
+        "미 국무부는 직원들이 사우디 공항을 이용하려면 특별 승인을 받도록 했어요.",
+        "나와의 연결: 확전 걱정이 커지면 달러가 강해지는 경향이 있어, 달러 예금 비중이 큰 쪽엔 원화 환산 가치가 받쳐 줘요."
+      ],
+      "important": false,
+      "keywords": [
+        "트럼프",
+        "후티"
+      ],
+      "sources": [
+        {
+          "title": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/"
+        },
+        {
+          "title": "Malay Mail (AFP)",
+          "url": "https://www.malaymail.com/news/world/2026/10/13/houthis-warn-of-painful-response-if-us-joins-saudi-strikes-on-yemen/238870"
+        },
+        {
+          "title": "Time",
+          "url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/"
+        }
+      ],
+      "summary": "미 국무부는 사우디 공항 이용을 제한했어요",
+      "tag": "war",
+      "tagLabel": "속보·미국",
+      "title": "트럼프, 예멘 공습 합류 아직 미정… 후티 \"보복\""
+    },
+    {
+      "breaking": false,
+      "details": [
+        "이란 해군은 호르무즈 해협 동쪽 통행 금지구역을 지나던 유조선이 부서지고 불이 났다고 밝혔어요.",
+        "어떻게 손상됐는지는 설명하지 않았고, 배 이름과 국적도 공개되지 않았어요.",
+        "이란은 새 배치 태세를 갖췄다며 모든 선박에 전자장비를 켜고 이란군과 협의하라고 요구했어요.",
+        "나와의 연결: 호르무즈 불안은 유가를 밀어 올려, 브렌트유가 배럴당 100달러를 넘는 상황이 이어지고 있어요."
+      ],
+      "important": false,
+      "keywords": [
+        "호르무즈",
+        "유조선"
+      ],
+      "note": "이란 측 발표이며, 화재 원인과 피해는 독립적으로 확인되지 않았어요.",
+      "sources": [
+        {
+          "title": "News.az (알자지라 인용)",
+          "url": "https://news.az/news/iran-says-tanker-damaged-in-restricted-hormuz-zone"
+        },
+        {
+          "title": "SBHNews",
+          "url": "https://www.sbhnews.com/news/iran-tanker-fire-hormuz-east-3a057790-2026-10-14-AM-05-49"
+        }
+      ],
+      "summary": "위치 추적을 끄고 지나가려던 배라고 주장했어요",
+      "tag": "war",
+      "tagLabel": "이란",
+      "title": "이란 해군 \"호르무즈 금지구역서 유조선 불\""
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "대만·증시",
+      "breaking": false,
+      "important": true,
+      "keywords": [
+        "대만달러",
+        "32"
+      ],
+      "title": "대만달러 32 넘게 약세, 외국인 대거 매도",
+      "summary": "대만 증시는 1.95% 내렸고, 코스피도 6일째 떨어졌어요",
+      "details": [
+        "13일 대만달러는 장중 달러당 32.2대까지 떨어져 약 두 달 만에 가장 약해졌어요.",
+        "외국인은 대만 주식을 하루 1,653억 대만달러어치 팔아 역대 세 번째로 많이 팔았고, 가이취안 지수는 1.95% 내렸어요.",
+        "중동 긴장과 유가 상승, 미국 금리 인상 걱정, 15일 TSMC 실적설명회를 앞둔 반도체주 약세가 겹쳤어요. 코스피도 14일 0.44% 내린 6,008.81로 6일째 하락했어요.",
+        "나와의 연결: 대만 외가 친척에겐 수입 물가 부담이 될 수 있고, KODEX대만테크고배당·삼성전자·SK하이닉스 같은 반도체 쪽 보유분도 함께 흔들려요."
+      ],
+      "sources": [
+        {
+          "title": "풍전매(Storm Media)",
+          "url": "https://www.storm.mg/article/11171991"
+        },
+        {
+          "title": "자유시보(Liberty Times)",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604444"
+        },
+        {
+          "title": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610141540451756"
+        }
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "대만",
+      "breaking": false,
+      "important": false,
+      "keywords": [
+        "중국",
+        "제재"
+      ],
+      "title": "중국, 대만 수교국 장관 제재… 실탄훈련도 계속",
+      "summary": "파라과이·벨리즈 장관의 중국 내 자산을 묶었어요",
+      "details": [
+        "중국은 12일 파라과이 통신장관과 벨리즈 외교장관이 대만 독립 활동을 도왔다며 제재했어요.",
+        "중국은 라이칭더 총통의 국경일 연설도 비난했고, 12~17일 연안 다섯 곳에서 실탄훈련을 하고 있어요.",
+        "대만 국방부는 훈련이 대만 가까이가 아닌 중국 해안에서 열린다고 보고 있어요.",
+        "나와의 연결: 대만에 계신 외가 친척 주변에 당장 군사 위험이 커진 건 아니지만, 외교 압박은 이어지고 있어요."
+      ],
+      "sources": [
+        {
+          "title": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties"
+        },
+        {
+          "title": "Focus Taiwan",
+          "url": "https://focustaiwan.tw/politics/202610120006"
+        }
+      ]
+    },
+    {
+      "breaking": false,
+      "details": [
+        "북한은 노동당 창건 81주년에 맞춰 11일 국방혁명박물관을 열었다고 조선중앙통신이 전했어요.",
+        "고체연료 대륙간탄도미사일 화성-20과 새 잠수함발사탄도미사일, 극초음속 미사일 등을 전시했어요.",
+        "트럼프 대통령은 다음 달 중국 방문 때 김정은을 만날지 묻자 \"그럴 수도 있다\"고 답했어요."
+      ],
+      "important": false,
+      "keywords": [
+        "화성-20"
+      ],
+      "sources": [
+        {
+          "title": "Korea Times (연합뉴스)",
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261013/n-korea-opens-new-defense-museum-featuring-icbms-other-advanced-weaponry"
+        },
+        {
+          "title": "SBHNews",
+          "url": "https://www.sbhnews.com/stories/north-korea-defense-museum-hwasong-20-83ff3bd5"
+        }
+      ],
+      "summary": "김정은 위원장이 부인·딸과 개관식에 나왔어요",
+      "tag": "kr",
+      "tagLabel": "한반도",
+      "title": "북한, 새 국방박물관에 화성-20 공개"
+    },
+    {
+      "breaking": false,
+      "details": [
+        "해커가 프랑스 대형마트 수백 곳의 인터넷 연결 냉장고 온도를 밤새 최고 50도까지 올렸어요.",
+        "앵테르마르셰 약 150곳이 6시간 동안 피해를 봤고, 파리 검찰과 사이버보안청이 수사하고 있어요.",
+        "덴마크 업체 댄포스 소프트웨어의 취약점이 지목됐고, 회사는 오래된 펌웨어 탓이라고 했어요."
+      ],
+      "important": false,
+      "keywords": [
+        "프랑스",
+        "냉장고"
+      ],
+      "note": "누가 공격했는지는 아직 밝혀지지 않았어요.",
+      "sources": [
+        {
+          "title": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/world/arid-41923315.html"
+        },
+        {
+          "title": "TimesLIVE (Reuters)",
+          "url": "https://www.timeslive.co.za/news/world/2026-10-12-hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses/"
+        }
+      ],
+      "summary": "음식을 모두 버리고 불이 난 매장도 있었어요",
+      "tag": "etc",
+      "tagLabel": "사이버",
+      "title": "프랑스 마트 수백 곳 냉장고 해킹, 50도까지"
+    },
+    {
+      "breaking": false,
+      "details": [
+        "13일 오후 1시 40분쯤 인천 남동구 구월동 마트·영화관 건물에서 남성이 흉기를 휘둘렀어요.",
+        "8명이 다쳤고, 심정지로 옮겨진 20대 여성은 수술 뒤에도 위중한 상태예요.",
+        "경찰은 살인미수 혐의로 체포한 59세 남성에게 프로파일러 3명을 투입해 동기를 조사하고 있어요."
+      ],
+      "important": false,
+      "keywords": [
+        "인천",
+        "흉기"
+      ],
+      "note": "피의자가 전자발찌를 차고 있었다는 보도가 있지만 주요 언론으로는 확인되지 않았어요.",
+      "sources": [
+        {
+          "title": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026101408530000352"
+        },
+        {
+          "title": "SBHNews",
+          "url": "https://www.sbhnews.com/news/incheon-mall-stabbing-eight-injured-f0efe6f9-2026-10-13-PM-06-35"
+        }
+      ],
+      "summary": "20대 여성 1명은 위독하고, 59세 남성이 체포됐어요",
+      "tag": "etc",
+      "tagLabel": "사건",
+      "title": "인천 구월동 상업시설 흉기 난동, 8명 다쳐"
+    }
+  ],
+  "watch": [
+    "오늘 밤 뉴욕 증시·미 국채금리의 물가 반응",
+    "15일 TSMC 실적설명회와 대만달러",
+    "미국의 예멘 공습 합류 결정",
+    "22일 금통위, 27~28일 FOMC 금리 결정"
+  ]
 }
