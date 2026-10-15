@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
-  "updatedLabel": "10/15 16:05",
+  "updatedLabel": "10/15 22:03",
   "kicker": "속보",
-  "headline": "코스피 7.57% 폭락, 서킷브레이커… 아시아 증시 동반 급락",
-  "subhead": "미국 물가 충격과 AI 빚 걱정에 반도체주가 무너졌고, 일본·대만도 크게 내렸어요.",
-  "advice": "코스피가 계획한 6,300 아래로 왔지만, 국내주식 비중부터 보고 금통위·FOMC 뒤 소액으로 나눠 판단하세요.",
+  "headline": "코스피 7.57% 폭락 뒤 미국 생산자물가 6.3% 급등",
+  "subhead": "금융당국은 '과도한 반응'이라며 긴급 점검에 나섰고, 미국 금리 인상 걱정은 더 커졌어요.",
+  "advice": "금리 인상 압력이 커졌으니 오늘 만기된 중금채 자금은 1년 이하로 재예치하고, 장기채 비중은 늘리지 않는 게 좋아요.",
   "marketsAsOf": "10/14 뉴욕 · 10/15 서울 마감 기준",
   "markets": [
     {"label": "미 10년물", "value": "5.19%", "change": "-0.03%p", "dir": "down"},
@@ -16,17 +16,20 @@
   ],
   "stories": [
     {
-      "tag": "econ", "tagLabel": "속보·증시", "breaking": true, "important": false,
+      "tag": "econ",
+      "tagLabel": "속보·증시",
+      "breaking": true,
+      "important": false,
       "keywords": ["7.57%", "서킷브레이커"],
       "title": "코스피 7.57% 폭락, 서킷브레이커 발동",
       "summary": "코스피 5,554, 코스닥 760으로 '검은 목요일'이 됐어요",
       "details": [
         "15일 코스피는 454.59포인트(7.57%) 내린 5,554.22, 코스닥은 7.65% 내린 760.82로 마감했어요.",
-        "코스닥은 낮 12시 23분, 코스피는 12시 38분에 서킷브레이커가 걸려 20분간 거래가 멈췄어요. 두 시장이 같은 날 함께 멈춘 건 7월 29일 이후 처음이에요.",
+        "코스닥은 낮 12시 23분, 코스피는 12시 38분에 서킷브레이커가 걸려 20분간 거래가 멈췄어요.",
         "삼성전자는 약 9.5%, SK하이닉스는 약 11% 떨어졌어요.",
-        "나와의 연결: 삼성전자·SK하이닉스·TIGER 200 등 국내주식(약 14%)이 직접 영향을 받아요. 공포 속 급하게 팔거나 사기보다 미리 정한 분할 기준을 지키는 게 중요해요."
+        "나와의 연결: 삼성전자·SK하이닉스·TIGER 200 등 국내주식이 직접 영향을 받아요. 급하게 팔거나 사기보다 미리 정한 분할 기준을 지키는 게 중요해요."
       ],
-      "note": "장중 지수 낙폭은 8%를 넘었고, 매체마다 종가 표기가 조금 달라요. 여기선 한국거래소 마감 기준 5,554.22를 썼어요.",
+      "note": "장중 낙폭은 8%를 넘었고, 매체마다 종가 표기가 조금 달라요. 여기선 한국거래소 마감 기준을 썼어요.",
       "sources": [
         {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026101515453239955"},
         {"title": "국제뉴스", "url": "https://www.gukjenews.com/news/articleView.html?idxno=3722656"},
@@ -34,57 +37,86 @@
       ]
     },
     {
-      "tag": "econ", "tagLabel": "속보·원인", "breaking": true, "important": false,
-      "keywords": ["외국인", "AI 빚"],
-      "title": "외국인 3.6조 매도, 미 금리·AI 빚 걱정 탓",
-      "summary": "미국 물가 3.7%와 반도체 6일 연속 하락이 불을 붙였어요",
+      "tag": "econ",
+      "tagLabel": "속보·대응",
+      "breaking": true,
+      "important": false,
+      "keywords": ["금융위", "빚투"],
+      "title": "금융위 긴급회의 \"과도한 반응\", 빚투 경고",
+      "summary": "외국인 3.6조 매도에 당국이 비상 계획을 준비해요",
       "details": [
-        "코스피에서 외국인은 3조 6천억 원 넘게 팔았고, 기관과 개인이 받아냈어요.",
-        "미국 9월 물가가 3.7%로 예상보다 높아 금리 인상 걱정이 커졌고, 금리가 오르면 AI 데이터센터를 빚으로 짓는 회사들 부담이 커진다는 우려가 번졌어요.",
-        "원/달러 환율은 1,344.6원으로 6.3원 올랐어요.",
+        "이억원 금융위원장이 긴급 시장점검회의를 열고, 하락 속도와 수급 쏠림이 과도했다고 진단했어요.",
+        "반도체·방산·조선 실적과 외환보유액이 튼튼하다며, 필요하면 바로 쓸 비상 계획을 준비하겠다고 했어요. 빚과 신용에 기댄 투자는 위험하다고 경고했어요.",
+        "이날 외국인은 코스피에서 3조 6천억 원 넘게 팔았고, 미국 물가 충격과 AI 투자 빚 걱정이 원인으로 꼽혔어요.",
         "나와의 연결: 위기 때 달러가 강해지는 경향이 있어, 달러 비중이 큰 포트폴리오에는 완충 역할을 해요."
       ],
       "sources": [
-        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026101515453239955"},
-        {"title": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/more/262217955-south-korea-kospi-plunges-triggering-circuit-breaker-sk-hynix-kioxia-tradingkey"},
-        {"title": "국제뉴스", "url": "https://www.gukjenews.com/news/articleView.html?idxno=3722656"}
+        {"title": "한국일보", "url": "https://www.hankookilbo.com/news/article/A2026101516110000918"},
+        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026101515453239955"}
       ]
     },
     {
-      "tag": "econ", "tagLabel": "속보·대만", "breaking": true, "important": false,
+      "tag": "econ",
+      "tagLabel": "속보·대만",
+      "breaking": true,
+      "important": false,
       "keywords": ["TSMC", "일본·대만"],
       "title": "일본·대만도 급락, TSMC는 최대 이익",
       "summary": "닛케이 5% 넘게, 대만 3% 넘게 내렸어요",
       "details": [
         "일본 닛케이는 5% 넘게 빠졌고 키옥시아·어드밴테스트가 10% 넘게 내렸어요. 대만 증시도 3% 넘게 떨어졌어요.",
-        "TSMC는 3분기 순이익 7,631억 대만달러로 69% 늘어 6분기 연속 최대 기록을 냈지만, 주가는 약 3% 내렸어요.",
+        "TSMC는 3분기 순이익 7,631억 대만달러로 69% 늘어 최대 기록을 냈지만, 주가는 약 3% 내렸어요.",
         "나와의 연결: 대만테크고배당 ETF·엔비디아 등 반도체 보유분이 같은 흐름을 타요. 대만 외가 쪽 증시 분위기도 크게 흔들렸어요."
       ],
-      "note": "TSMC의 4분기 전망은 실적 설명회에서 따로 나올 예정이에요.",
       "sources": [
         {"title": "Business Today", "url": "https://www.businesstoday.com.my/2026/10/15/kospi-triggers-circuit-breaker-after-tech-led-rout-shakes-asian-markets/"},
         {"title": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262218050-tsmc-q3-earnings-beat-ai-demand-revenue-profit-record-tradingkey"}
       ]
     },
     {
-      "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
-      "keywords": ["호르무즈", "2척"],
-      "title": "호르무즈서 배 2척 침몰, 이란 \"계속 싸운다\"",
-      "summary": "한 척은 발사체, 한 척은 기뢰에 맞았어요",
+      "tag": "econ",
+      "tagLabel": "미국물가",
+      "breaking": false,
+      "important": true,
+      "keywords": ["생산자물가", "6.3%"],
+      "title": "미 생산자물가 6.3% 급등, 4년 만에 최대",
+      "summary": "기름값이 끌어올려 금리 인상 압박이 커졌어요",
       "details": [
-        "호르무즈 해협 근처에서 배 두 척이 가라앉았어요. 한 척은 발사체에, 다른 한 척은 기뢰에 맞았다고 알자지라가 전했어요.",
-        "이란 갈리바프 국회의장은 끝없는 전쟁은 원하지 않지만 미국이 요구를 받아들일 때까지 싸우겠다고 했어요.",
-        "후티는 사우디 아람코 시설도 공격했다고 주장했고, 14일 브렌트유 현물은 배럴당 약 108달러였어요.",
-        "나와의 연결: 유가가 높으면 미국 물가와 금리가 쉽게 안 내려가요. 장기채(TLT 등)에는 계속 부담이에요."
+        "9월 미국 생산자물가는 1년 전보다 6.3% 올라 8월(5.6%)보다 크게 뛰었어요. 한 달 새 1.3% 올라 2022년 3월 이후 가장 큰 폭이에요.",
+        "식품·에너지를 뺀 근원 생산자물가도 1년 전보다 5% 올랐어요. 전날 소비자물가(3.7%)에 이어 연준의 금리 인상 압박이 더 커졌어요.",
+        "나와의 연결: 금리가 오를수록 TLT·장기 미국채 값엔 부담이고, SGOV·달러 정기예금 같은 단기 상품 금리는 유리해져요."
       ],
-      "note": "선원 피해와 공격 주체는 아직 확인되지 않았어요.",
+      "note": "9월 소매판매가 0.8% 늘었다는 보도도 있지만 아직 한 곳에서만 확인했어요.",
       "sources": [
-        {"title": "Al Jazeera", "url": "https://aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz"},
-        {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026"}
+        {"title": "AP (News4JAX)", "url": "https://www.news4jax.com/business/2026/10/15/wholesale-inflation-jumped-last-month-by-most-in-four-years-as-gas-prices-soared/"},
+        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-15/us-producer-prices-rise-by-most-in-more-than-four-years"}
       ]
     },
     {
-      "tag": "kr", "tagLabel": "금융보안", "breaking": false, "important": true,
+      "tag": "war",
+      "tagLabel": "이란전쟁",
+      "breaking": false,
+      "important": true,
+      "keywords": ["호르무즈", "리야드"],
+      "title": "호르무즈서 화물선 침몰, 리야드 공항도 폐쇄",
+      "summary": "선원 21명은 모두 구조됐고, 사우디 항공편 3천여 편이 멈췄어요",
+      "details": [
+        "컨테이너선 GFS Pride가 호르무즈 해협 남쪽에서 침몰했어요. 이란은 기뢰, 싱가포르는 발사체 탓이라고 해 원인이 엇갈려요. 선원 21명은 모두 구조됐어요.",
+        "이번 달 공격받은 배가 최대 24척이라는 집계도 있어요. 이란 국회의장은 미국이 요구를 받아들일 때까지 싸우겠다고 했어요.",
+        "후티 반군 공격으로 리야드 킹칼리드 공항이 17일 밤(그리니치 기준)까지 닫혔고, 일주일간 사우디 항공편 3천여 편이 취소됐어요.",
+        "나와의 연결: 유가가 높으면 미국 물가와 금리가 쉽게 안 내려가요. 장기채에는 계속 부담이에요."
+      ],
+      "note": "침몰 원인(기뢰인지 발사체인지)은 아직 확인되지 않았어요.",
+      "sources": [
+        {"title": "Gulf News", "url": "https://gulfnews.com/uae/us-iran-war-ships-sunk-flights-cancelled-trade-rerouted-your-oct-15-briefing-1.500711229"},
+        {"title": "Al Jazeera", "url": "https://aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz"}
+      ]
+    },
+    {
+      "tag": "kr",
+      "tagLabel": "금융보안",
+      "breaking": false,
+      "important": false,
       "keywords": ["16곳"],
       "title": "금융권 해킹 피해 16곳으로 늘어",
       "summary": "개인정보 약 10만 건 유출 정황이 나왔어요",
@@ -101,21 +133,10 @@
       ]
     },
     {
-      "tag": "econ", "tagLabel": "한국금리", "breaking": false, "important": false,
-      "keywords": ["금통위"],
-      "title": "22일 금통위, 물가가 인상 여부 가른다",
-      "summary": "신현송 총재 \"인플레이션 추이가 가장 중요\"",
-      "details": [
-        "신현송 한국은행 총재는 추가 인상 여부에 대해 물가 흐름이 가장 중요하다고 했어요.",
-        "중동 전쟁으로 유가가 오르면서 물가가 더 오를 위험이 커졌다고 봤고, 수도권 집값도 높은 수준이라고 진단했어요.",
-        "나와의 연결: 금리가 오르면 개인투자용 국채와 원화 예금·발행어음의 새 금리가 높아질 수 있어요. 만기 자금은 1년 이하 사다리를 유지하는 게 유연해요."
-      ],
-      "sources": [
-        {"title": "SBS Biz", "url": "https://biz.sbs.co.kr/amp/article/20000339468"}
-      ]
-    },
-    {
-      "tag": "war", "tagLabel": "우크라", "breaking": false, "important": false,
+      "tag": "war",
+      "tagLabel": "우크라",
+      "breaking": false,
+      "important": false,
       "keywords": ["에너지 휴전", "젤렌스키"],
       "title": "트럼프 '에너지 휴전'에 젤렌스키 반발",
       "summary": "러시아산 경유 수입도 허용해 갈등이 커졌어요",
@@ -124,7 +145,7 @@
         "미국은 러시아산 경유 거래를 일시 허용했고, 트럼프는 우크라이나에 새 대통령이 필요하다고까지 말했어요.",
         "젤렌스키는 발표 당일에도 러시아가 하르키우 발전소 등을 공격했다고 밝혔어요."
       ],
-      "note": "러시아 정부는 휴전 합의를 공식 확인하지 않았어요.",
+      "note": "러시아 정부는 휴전 합의를 공식 확인하지 않았어요. 미국이 러시아 동결자산 일부 해제를 검토하고 유럽이 반대했다는 보도도 있지만 주요 통신사에서는 아직 확인하지 못했어요.",
       "sources": [
         {"title": "Al Jazeera", "url": "https://aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2"},
         {"title": "IBTimes UK", "url": "https://www.ibtimes.co.uk/trump-calls-zelenskyy-replacement-russia-diesel-deal-1824922"},
@@ -132,7 +153,10 @@
       ]
     },
     {
-      "tag": "etc", "tagLabel": "실리콘밸리", "breaking": false, "important": false,
+      "tag": "etc",
+      "tagLabel": "실리콘밸리",
+      "breaking": false,
+      "important": false,
       "keywords": ["오픈AI", "도청장치"],
       "title": "오픈AI 회의실에 도청장치, 직원 체포",
       "summary": "TV 뒤에 숨긴 녹음기를 회사가 찾아냈어요",
@@ -149,9 +173,9 @@
     }
   ],
   "watch": [
-    "16일 코스피 반등 여부와 금융당국 대응",
-    "미국 소매판매·생산자물가와 10월 FOMC 인상 확률",
-    "22일 한은 금통위, 27~28일 FOMC",
-    "호르무즈 선박 공격과 브렌트유 110달러선"
+    "오늘 밤 뉴욕장 반응 (개장 전 나스닥 선물 약 -1.3%)",
+    "16일 코스피 반등 여부와 금융당국 비상 계획",
+    "22일 한은 금통위, 27~28일 FOMC 인상 여부",
+    "호르무즈 선박 공격과 리야드 공항 재개(17일)"
   ]
 }
