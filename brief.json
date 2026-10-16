@@ -1,295 +1,156 @@
 {
- "date": "2026-10-16",
- "updatedLabel": "10/16 07:05",
- "kicker": "속보",
- "headline": "코스피 7.57% 폭락 뒤 뉴욕은 반등, 미 금리도 내려",
- "subhead": "미 국채 10년물이 0.12%p 내리며 공포가 조금 진정됐어요. 오늘 코스피 반등 여부가 관심이에요.",
- "advice": "급락장에선 달러·예금 비중이 완충해 주니, 국내 반도체주는 급히 팔기보다 분할 기준을 점검해 보세요.",
- "marketsAsOf": "10/15 뉴욕 · 10/15 서울 마감 기준",
- "markets": [
-  {
-   "label": "미 10년물",
-   "value": "5.06%",
-   "change": "-0.12%p",
-   "dir": "down"
-  },
-  {
-   "label": "미 2년물",
-   "value": "4.75%",
-   "change": "-0.05%p",
-   "dir": "down"
-  },
-  {
-   "label": "미 기준금리",
-   "value": "3.75–4.00%",
-   "change": "9/16 +0.25%p",
-   "dir": "up"
-  },
-  {
-   "label": "한은 기준금리",
-   "value": "3.00%",
-   "change": "8/27 +0.25%p",
-   "dir": "up"
-  },
-  {
-   "label": "S&P 500",
-   "value": "7,744.06",
-   "change": "+0.33%",
-   "dir": "up"
-  },
-  {
-   "label": "코스피",
-   "value": "5,554.22",
-   "change": "-7.57%",
-   "dir": "down"
-  }
- ],
- "stories": [
-  {
-   "tag": "econ",
-   "tagLabel": "속보·증시",
-   "breaking": true,
-   "important": false,
-   "keywords": [
-    "7.57%",
-    "외국인"
-   ],
-   "title": "코스피 7.57% 폭락, 외국인 3.6조 매도",
-   "summary": "서킷브레이커까지 걸린 '검은 목요일'이었어요",
-   "details": [
-    "15일 코스피는 5,554.22, 코스닥은 7.65% 내린 760.82로 마감했어요. 7거래일 연속 하락이에요.",
-    "삼성전자는 약 9.5%, SK하이닉스는 약 11% 떨어졌고, 외국인은 8거래일 연속 팔았어요.",
-    "원/달러 환율은 6.3원 오른 1,344.6원에 마감했고, 금융위는 필요하면 비상 대책을 쓰겠다고 했어요.",
-    "나와의 연결: 삼성전자·SK하이닉스·TIGER200 등 국내주식이 직접 영향을 받아요. 오늘 반등 여부를 보고 분할 기준대로 대응하세요."
-   ],
-   "sources": [
+  "date": "2026-10-16",
+  "updatedLabel": "10/16 16:05",
+  "kicker": "오늘의 한 줄",
+  "headline": "코스피 2% 반등했지만, 호르무즈 공격에 유가는 105달러",
+  "subhead": "7일 연속 하락이 멈췄고 환율도 1,331원대로 내렸어요. 다음 주 한은·FOMC가 관건이에요.",
+  "advice": "반등했어도 변동성이 커요. 국내주식은 정해 둔 분할 기준과 속도를 그대로 지켜 보세요.",
+  "marketsAsOf": "10/15 뉴욕 · 10/16 서울 마감 기준",
+  "markets": [
+    {"label": "미 10년물", "value": "5.08%", "change": "3주 최저", "dir": "down"},
+    {"label": "미 2년물", "value": "4.75%", "change": "-0.05%p", "dir": "down"},
+    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
+    {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
+    {"label": "S&P 500", "value": "7,744.06", "change": "+0.33%", "dir": "up"},
+    {"label": "코스피", "value": "5,668.05", "change": "+2.05%", "dir": "up"}
+  ],
+  "stories": [
     {
-     "title": "Seoul Economic Daily",
-     "url": "https://en.sedaily.com/finance/2026/10/15/kospi-plunges-757-percent-to-close-at-555422"
+      "tag": "econ", "tagLabel": "증시", "breaking": false, "important": true,
+      "keywords": ["코스피", "5,668"],
+      "title": "코스피 2% 반등해 5,668, 7일 하락 멈춰",
+      "summary": "코스닥은 4.46% 올랐고 환율도 내렸어요",
+      "details": [
+        "16일 코스피는 113.83포인트(2.05%) 오른 5,668.05, 코스닥은 4.46% 오른 794.78로 마감했어요.",
+        "원/달러 환율은 오후 3시 30분 기준 13.2원 내린 1,331.4원이었어요.",
+        "정부는 아침에 합동 시장점검회의를 열고 채권·외환시장으로 불안이 번지는지 실시간으로 살피겠다고 했어요. 외국인은 10월 들어 코스피에서 약 20조 원어치를 팔았어요.",
+        "나와의 연결: 국내 주식 비중이 큰 손실을 본 만큼, 하루 반등보다 다음 주 금통위·FOMC 뒤 흐름을 보고 분할 기준대로 움직이는 게 좋아요."
+      ],
+      "note": "외국인·기관의 16일 당일 매매 수치는 확인하지 못했어요.",
+      "sources": [
+        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026101615351941356"},
+        {"title": "머니투데이", "url": "https://www.mt.co.kr/stock/2026/10/16/2026101615331353587"},
+        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261016000261"},
+        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610161017319608"}
+      ]
     },
     {
-     "title": "Seoul Economic Daily",
-     "url": "https://en.sedaily.com/finance/2026/10/15/korea-halts-trading-as-kospi-kosdaq-plunge-8-percent-on"
+      "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
+      "keywords": ["호르무즈", "12척"],
+      "title": "호르무즈서 한 주 12척 피격, 전쟁 중 최다",
+      "summary": "브렌트유는 배럴당 105달러대에 머물러요",
+      "details": [
+        "BBC 분석에 따르면 10월 5~11일 호르무즈 해협 근처에서 선박 12척이 공격받아, 전쟁이 시작된 뒤 한 주 기준 가장 많았어요.",
+        "유조선 페트로 돌핀호가 드론 공격으로 불탔고, 해협을 지나는 원유 양은 하루 약 1,260만 배럴로 줄었어요.",
+        "16일 브렌트유는 105.51달러, WTI는 97.43달러였어요. 미국은 운임을 낮추려고 일부 '그림자 함대' 제재 해제를 검토 중이에요.",
+        "나와의 연결: 유가가 높게 버티면 미국 물가와 금리가 쉽게 안 내려가, 달러 예금 금리엔 유리하지만 주식엔 부담이에요."
+      ],
+      "note": "이란은 일부 선박이 기뢰에 부딪혔다고 주장하지만, 전문가들은 드론 공격 가능성을 더 높게 봐요.",
+      "sources": [
+        {"title": "Business Recorder (Reuters)", "url": "https://www.brecorder.com/news/40444504/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet"},
+        {"title": "CBS News", "url": "https://cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump"},
+        {"title": "Newscord (BBC·CNN 종합)", "url": "https://newscord.org/article/ukmto-data-shows-12-ships-attacked-near-strait-of-hormuz-petro-dolphin-fire-afte--Story_20261016_Shipattackreportsneacd19aaf8"}
+      ]
     },
     {
-     "title": "블록미디어",
-     "url": "https://www.blockmedia.co.kr/archives/1152046"
+      "tag": "econ", "tagLabel": "금리", "breaking": false, "important": false,
+      "keywords": ["10년물", "금값"],
+      "title": "미 10년물 금리 3주 최저, 금값도 반등",
+      "summary": "기술주를 판 돈이 국채로 몰렸어요",
+      "details": [
+        "9월 미국 생산자물가가 1년 전보다 6.3% 올랐는데도, 미 10년물 금리는 약 5.08%로 3주 만에 가장 낮아졌어요.",
+        "기술주에서 빠져나온 돈이 안전한 국채로 옮겨 갔기 때문이에요. 금값은 온스당 약 4,150달러로 1% 넘게 올랐어요.",
+        "시장은 27~28일 FOMC에서 금리 인상 가능성을 반반 정도로 보고 있어요.",
+        "나와의 연결: 금리 하락은 장기채 ETF엔 도움이 되고, 금값 반등은 금광주 펀드에 유리해요."
+      ],
+      "note": "금리·금값은 15일 미국 장중 기준이라 종가와 조금 다를 수 있어요.",
+      "sources": [
+        {"title": "Kitco", "url": "https://www.kitco.com/news/article/2026-10-15/gold-silver-rebound-treasury-yields-tumble-despite-hot-ppi-kitco-am-report"},
+        {"title": "CNBC", "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html"}
+      ]
     },
     {
-     "title": "베타뉴스",
-     "url": "https://www.betanews.net/article/view/beta202610150153"
+      "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
+      "keywords": ["중국", "17일"],
+      "title": "중국, 5개 해역 군사훈련 17일까지",
+      "summary": "대만 국방부는 대만 가까이는 아니라고 봐요",
+      "details": [
+        "중국은 라이칭더 총통의 국경일 연설 뒤인 12일부터 17일까지 황해·동중국해·남중국해 등 5개 해역에 항행 금지를 걸고 훈련 중이에요.",
+        "대만 국방부는 훈련이 주로 중국 해안 근처에서 열리고 포병 위주일 것으로 봤지만, 여러 상황에 대비하고 있다고 했어요.",
+        "나와의 연결: 대만 외가 친척이 있는 곳이라, 훈련이 끝나는 17일 전후 중국군 움직임을 지켜볼 만해요."
+      ],
+      "sources": [
+        {"title": "Focus Taiwan (CNA)", "url": "https://focustaiwan.tw/politics/202610120006"},
+        {"title": "USNI News", "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"}
+      ]
+    },
+    {
+      "tag": "war", "tagLabel": "우크라", "breaking": false, "important": false,
+      "keywords": ["패트리엇"],
+      "title": "우크라, 패트리엇 요격미사일 바닥나",
+      "summary": "러시아 탄도미사일을 거의 못 막았대요",
+      "details": [
+        "CNN은 우크라이나가 미국산 패트리엇 요격미사일을 모두 써 버렸다고 소식통을 인용해 보도했어요.",
+        "14일 밤 러시아 탄도미사일이 키이우 발전소 3곳과 하르키우 에너지 시설을 때렸어요.",
+        "미국은 러시아 정유시설 공격을 멈추지 않으면 무기 지원 체계를 끊겠다고 압박했고, 젤렌스키 대통령은 공격 재개를 밝혔어요."
+      ],
+      "note": "미사일 소진은 익명 소식통 보도이고, 미국 정부의 공식 확인은 없어요.",
+      "sources": [
+        {"title": "CNN", "url": "https://edition.cnn.com/2026/10/15/europe/ukraine-us-patriot-interceptor-missiles-run-out-intl"},
+        {"title": "Meduza", "url": "https://meduza.io/en/news/2026/10/15/kyiv-has-run-out-of-missiles-for-its-patriot-air-defense-systems-cnn-reports"},
+        {"title": "bne IntelliNews", "url": "https://www.intellinews.com/us-threatens-to-cut-ukraine-s-patriot-lifeline-over-refinery-strikes-475189"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "미국", "breaking": false, "important": false,
+      "keywords": ["트럼프", "조지아"],
+      "title": "중간선거 3주 앞, 트럼프 조지아 유세",
+      "summary": "경합주 상원 선거에 힘을 싣기 위해서예요",
+      "details": [
+        "트럼프 대통령은 16일(현지) 조지아주 달턴에서 공화당 상원·주지사 후보와 함께 유세해요.",
+        "조지아는 경합주라 지지층만으로는 이기기 어렵다는 평가가 나오고, 공화당 안에서도 분열이 있어요.",
+        "민주당 오소프 의원은 식료품·기름값·의료비가 크게 올랐다고 비판했어요. 선거는 11월 3일이에요.",
+        "나와의 연결: 선거 결과는 미국 재정·관세 정책과 미국 주식 흐름에 영향을 줄 수 있어요."
+      ],
+      "sources": [
+        {"title": "AP (WSLS)", "url": "https://www.wsls.com/news/politics/2026/10/16/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state/"},
+        {"title": "AP (WSLS)", "url": "https://www.wsls.com/news/politics/2026/10/16/trump-wants-the-midterms-to-be-all-about-himself-judging-by-the-ads-democrats-are-happy-to-oblige/"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "외교", "breaking": false, "important": false,
+      "keywords": ["러시아", "디젤"],
+      "title": "미, 러시아 디젤 제재 일시 완화에 반발",
+      "summary": "기름값을 낮추려는 조치지만 유럽이 비판해요",
+      "details": [
+        "트럼프 대통령은 치솟은 기름값과 운임을 낮추려고 러시아산 디젤 제재를 잠시 풀었어요.",
+        "젤렌스키 대통령과 유럽 나라들, 미국 상원 일부 공화당 의원들까지 강하게 비판했어요.",
+        "국제에너지기구(IEA)는 비축 디젤 2,000만 배럴 이상을 시장에 풀기로 했어요."
+      ],
+      "sources": [
+        {"title": "Business Recorder (Reuters)", "url": "https://www.brecorder.com/news/40444504/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "사건", "breaking": false, "important": false,
+      "keywords": ["파키스탄", "35명"],
+      "title": "파키스탄 학교 지붕 붕괴, 최소 35명 숨져",
+      "summary": "희생자 대부분이 6~12세 어린이예요",
+      "details": [
+        "15일 파키스탄 페샤와르의 한 사립학교 3층 건물 지붕이 무너져 어린이 34명과 교사 1명이 숨지고 50명 넘게 다쳤어요.",
+        "경찰은 건물 구조가 약했다며 학교 주인을 체포했고, 주 정부는 조사위원회를 꾸렸어요."
+      ],
+      "note": "사망자 수는 초기 보도마다 28~35명으로 달랐어요. 35명은 병원 측 발표예요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people"},
+        {"title": "Korea Times (AP)", "url": "https://www.koreatimes.co.kr/world/20261016/school-roof-collapse-in-pakistan-kills-at-least-35-and-injures-more-than-50"}
+      ]
     }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "속보·뉴욕",
-   "breaking": true,
-   "important": false,
-   "keywords": [
-    "뉴욕",
-    "다우"
-   ],
-   "title": "뉴욕은 반등, 다우 1.1% 올라",
-   "summary": "채권으로 돈이 몰리며 미 국채 금리가 크게 내렸어요",
-   "details": [
-    "15일 다우는 1.1%, S&P500은 0.3%, 나스닥은 0.1% 올랐어요. 장 초반 기술주가 급락했다가 회복했어요.",
-    "9월 생산자물가가 1년 전보다 6.3% 올랐지만, 안전자산 수요로 미 10년물 금리는 약 0.12%p 내린 5.06%가 됐어요.",
-    "시장은 27~28일 FOMC에서 연준이 금리를 올릴 가능성을 반반 정도로 보고 있어요.",
-    "나와의 연결: 금리가 내리면 TLT·장기 미국채 값엔 숨통이 트여요. SPY·QQQ 등 미국 ETF는 큰 손실을 피했어요."
-   ],
-   "note": "국채 금리는 장 마감 직전 보도 기준이라 최종 값과 조금 다를 수 있어요.",
-   "sources": [
-    {
-     "title": "AP (KRMG)",
-     "url": "https://krmg.com/2026/10/15/how-major-us-stock-indexes-fared-thursday-10-15-2026/"
-    },
-    {
-     "title": "TheStreet",
-     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
-    },
-    {
-     "title": "GuruFocus",
-     "url": "https://www.gurufocus.com/news/9125559/us-treasury-yields-drop-sharply-impacting-tlt-etf-on-october-15-2026"
-    },
-    {
-     "title": "Bloomberg",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates?srnd=homepage-europe"
-    }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "속보·대만",
-   "breaking": true,
-   "important": false,
-   "keywords": [
-    "대만",
-    "TSMC"
-   ],
-   "title": "대만 증시 3.4% 급락, TSMC도 하락",
-   "summary": "대만 가권지수가 47,000선 아래로 내려갔어요",
-   "details": [
-    "15일 대만 가권지수는 3.41% 내린 46,969.87로 마감해, 역대 6번째로 큰 하락 폭을 기록했어요.",
-    "TSMC는 2.01% 내렸어요. 3분기 이익은 최대였지만, 미국 상장 주식은 이익률이 낮아졌다는 이유로 또 떨어졌어요.",
-    "나와의 연결: KODEX대만테크고배당 ETF가 같은 흐름을 타요. 대만 외가 쪽 증시 분위기도 크게 흔들렸어요."
-   ],
-   "sources": [
-    {
-     "title": "Taiwan News",
-     "url": "https://www.taiwannews.com.tw/news/6458744"
-    },
-    {
-     "title": "TheStreet",
-     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
-    }
-   ]
-  },
-  {
-   "tag": "kr",
-   "tagLabel": "한반도",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "북한",
-    "잠수함"
-   ],
-   "title": "북한, 잠수함서 순항미사일 2종 시험",
-   "summary": "이달 들어 세 번째 미사일 도발이에요",
-   "details": [
-    "북한 조선중앙통신은 14일 동해에서 잠수함 발사 전략순항미사일 두 종류를 시험했다고 밝혔어요.",
-    "북한은 3일 극초음속 미사일, 12일 탄도미사일을 쏜 데 이어 또 발사했어요.",
-    "김정은 위원장은 한미 핵추진잠수함 협력을 한반도 안정에 대한 위협이라고 비판해 왔어요.",
-    "나와의 연결: 안보 불안은 외국인 매도와 원화 약세를 키울 수 있어요."
-   ],
-   "sources": [
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports"
-    },
-    {
-     "title": "Stars and Stripes",
-     "url": "https://www.stripes.com/theaters/asia_pacific/2026-10-15/north-korea-submarine-launched-cruise-missiles-23160219.html"
-    }
-   ]
-  },
-  {
-   "tag": "war",
-   "tagLabel": "이란전쟁",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "초대형 폭탄"
-   ],
-   "title": "미, 이란 공격용 초대형 폭탄 계획 마련",
-   "summary": "호르무즈에선 유조선 화재 등 공격이 이어져요",
-   "details": [
-    "CBS는 백악관과 국방부가 트럼프 대통령이 명령하면 이란 군사시설에 초대형 폭탄을 쓸 계획을 준비했다고 전했어요. 백악관은 언급을 거부했어요.",
-    "이란군은 오만만에서 금지 구역을 지나려던 유조선에 불이 났다고 했고, 해운 감시 기관은 이번 주 공격 3건을 확인했어요.",
-    "예멘 후티 반군은 아덴 대통령궁에 미사일을 쏴 여러 명이 숨졌어요.",
-    "나와의 연결: 유가가 높게 유지되면 미국 물가와 금리가 쉽게 안 내려가요."
-   ],
-   "note": "폭탄 계획은 익명 소식통 보도예요. 아덴 공격 사상자는 매체마다 4~5명 사망으로 엇갈려요.",
-   "sources": [
-    {
-     "title": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/"
-    },
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz"
-    }
-   ]
-  },
-  {
-   "tag": "war",
-   "tagLabel": "우크라",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "동결자산",
-    "유럽"
-   ],
-   "title": "미, 러 동결자산 일부 해제 제안에 유럽 거부",
-   "summary": "평화협상을 되살리려는 카드였지만 반발이 커요",
-   "details": [
-    "FT는 미국이 유럽에 묶인 러시아 중앙은행 자산 일부를 풀어 미국이 관리하는 기구로 옮기자고 제안했다고 보도했어요.",
-    "전체 동결자산은 약 2,600억 유로이고, 유럽은 어느 쪽에도 관리권을 넘길 수 없다며 거절했어요.",
-    "앞서 트럼프 대통령의 '에너지 휴전' 발표에 젤렌스키 대통령도 반발했어요."
-   ],
-   "note": "FT 보도를 인용한 매체로 확인했고, 미국 정부의 공식 확인은 없어요.",
-   "sources": [
-    {
-     "title": "Meduza (FT 인용)",
-     "url": "https://meduza.io/en/news/2026/10/15/ft-u-s-proposed-unfreezing-some-russian-assets-and-placing-them-under-washington-s-control-europe-rejected-the-plan"
-    },
-    {
-     "title": "Ukrainska Pravda",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/15/8058074/"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "보건",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "케냐",
-    "에볼라"
-   ],
-   "title": "케냐서 에볼라 두 번째 확진",
-   "summary": "첫 환자의 친척으로, 지역 확산 증거는 없대요",
-   "details": [
-    "케냐 보건부는 격리 중이던 39세 남성이 양성 판정을 받았다고 밝혔어요. 이달 초 숨진 첫 환자의 가까운 친척이에요.",
-    "첫 환자는 콩고에서 감염된 뒤 우간다를 거쳐 케냐로 왔고, 접촉자 약 128명을 찾아 108명을 격리했어요.",
-    "케냐는 국경과 공항 검역을 강화했어요."
-   ],
-   "sources": [
-    {
-     "title": "ABC News (AP)",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
-    },
-    {
-     "title": "CBC",
-     "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "실리콘밸리",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "오픈AI",
-    "애플"
-   ],
-   "title": "오픈AI, 애플에 맞소송 검토",
-   "summary": "애플이 먼저 낸 기술 유출 소송에 반격했어요",
-   "details": [
-    "애플은 7월 오픈AI 직원들이 애플 기밀로 AI 기기를 만들었다며 소송을 냈어요.",
-    "오픈AI는 애플 출신 전 직원이 기밀 파일 100개 넘게를 개인 계정으로 보냈고, 오픈AI 제품 계획을 애플에 발표했다고 주장했어요. 애플은 증거가 없다고 했어요.",
-    "판사는 오픈AI가 문제의 애플 기밀을 쓰지 못하게 하는 가처분을 내줄 가능성이 매우 높다고 했어요.",
-    "나와의 연결: 산호세 친척이 사는 실리콘밸리 빅테크 간 싸움이에요."
-   ],
-   "note": "양쪽 주장은 아직 법원에서 확인되지 않았어요.",
-   "sources": [
-    {
-     "title": "MacRumors",
-     "url": "https://www.macrumors.com/2026/10/14/openai-apple-potential-counterclaim/"
-    },
-    {
-     "title": "The Register",
-     "url": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202"
-    }
-   ]
-  }
- ],
- "watch": [
-  "오늘 코스피·코스닥 반등 여부와 외국인 매매",
-  "22일 한은 금통위, 27~28일 FOMC 금리 인상 여부",
-  "호르무즈 선박 공격과 유가(브렌트 약 104달러)",
-  "TSMC·반도체주 흐름과 대만 증시"
- ]
+  ],
+  "watch": [
+    "다음 주 코스피 반등이 이어지는지와 외국인 매매",
+    "22일 한은 금통위, 27~28일 FOMC 금리 결정",
+    "호르무즈 선박 공격과 브렌트유 105달러선",
+    "17일 끝나는 중국 군사훈련과 대만해협 상황"
+  ]
 }
