@@ -1,184 +1,181 @@
 {
-  "date": "2026-10-17",
-  "updatedLabel": "10/17 22:00",
-  "kicker": "오늘의 한 줄",
-  "headline": "이란 혁명수비대 \"호르무즈 닫혔다\", 유조선 피격 잇따라",
-  "subhead": "부천 공장 화재를 끄던 소방관이 순직했고, 백악관 대변인은 5일 만에 물러났어요.",
-  "advice": "유가 110달러 근처에선 물가·금리 부담이 커지니 예금·국채는 만기 보유 계획을 유지하세요.",
-  "marketsAsOf": "10/16 뉴욕 · 10/16 서울 마감 기준 (주말 휴장)",
-  "markets": [
-    {"label": "미 10년물", "value": "5.08%", "change": "-0.01%p", "dir": "down"},
-    {"label": "미 2년물", "value": "4.72%", "change": "-0.04%p", "dir": "down"},
-    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
-    {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
-    {"label": "S&P 500", "value": "7,659.44", "change": "-1.09%", "dir": "down"},
-    {"label": "코스피", "value": "5,668.05", "change": "+2.05%", "dir": "up"}
-  ],
-  "stories": [
-    {
-      "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
-      "keywords": ["호르무즈", "유조선"],
-      "title": "이란 \"호르무즈 닫혔다\"…유조선 피격 잇따라",
-      "summary": "미국은 해협을 자기들이 통제한다고 맞섰어요",
-      "details": [
-        "이란 혁명수비대 해군은 17일 호르무즈 해협이 '닫혔다'고 밝혔고, 금요일 이후 유조선 4척이 공격받았다는 보도가 나왔어요.",
-        "영국 해사무역기구(UKMTO)는 16일까지 일주일 동안 최소 12척이 공격받았다고 했고, 토요일엔 사우디 주바일 앞바다에서 소형 보트가 쏜 로켓에 유조선이 맞았어요.",
-        "미 중부사령부는 해협을 미국과 동맹이 통제한다고 했고, 이란은 미국 숫자가 부풀려졌다고 반박했어요. 브렌트유는 금요일 5월 이후 처음 110달러를 찍었어요.",
-        "나와의 연결: 유가가 오르면 물가와 금리 부담이 이어져요. 달러·단기 예금 위주 운용이 완충 역할을 해요."
-      ],
-      "note": "'닫혔다'는 이란 측 주장이고, 실제 통항은 일주일에 250척 안팎 이어지고 있어요. 공격 건수는 확인이 어려워요.",
-      "sources": [
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"},
-        {"title": "Al Jazeera 라이브", "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2"},
-        {"title": "SBHNews", "url": "https://www.sbhnews.com"}
-      ]
-    },
-    {
-      "tag": "econ", "tagLabel": "증시·AI", "breaking": false, "important": true,
-      "keywords": ["나스닥", "코어위브"],
-      "title": "나스닥 2.1% 급락, 코어위브發 AI 부채 우려",
-      "summary": "반도체 등 기술주가 3% 넘게 빠졌어요",
-      "details": [
-        "16일 나스닥은 2.14% 내린 26,140, S&P500은 1.09% 내린 7,659, 다우는 0.34% 내린 52,002로 마감했어요.",
-        "빚이 많은 AI 클라우드 회사 코어위브의 주가와 채권이 크게 떨어지며, 돈을 빌려 AI에 투자하는 회사들에 대한 걱정이 커졌어요.",
-        "반대로 유가 상승에 에너지주는 2.5% 올랐어요.",
-        "나와의 연결: 기술·반도체 비중이 17% 안팎이라 영향을 받아요. 이달 말 빅테크 실적 전까지는 서두르지 않는 게 좋아요."
-      ],
-      "sources": [
-        {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
-        {"title": "KSL (Reuters)", "url": "https://www.ksl.com/article/51637172/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount"},
-        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "사건", "breaking": false, "important": false,
-      "keywords": ["부천", "소방관"],
-      "title": "부천 공장 화재 진압 중 소방관 순직",
-      "summary": "모두 8명이 다쳤고 1명은 끝내 숨졌어요",
-      "details": [
-        "16일 오전 8시 38분쯤 부천 오정구 내동의 공장에서 불이 나 2시간 28분 만에 꺼졌어요.",
-        "가장 먼저 도착한 소방관 2명 중 40대 소방관 1명이 심정지로 치료받다 숨졌고, 다른 1명은 크게 다쳤어요. 소방관 4명과 직원 2명도 다쳤어요.",
-        "이재명 대통령은 참담하다며 안전 대책 보완과 예우를 약속했고, 경찰·소방은 17일 합동 감식을 시작했어요."
-      ],
-      "note": "화재 원인은 아직 밝혀지지 않았어요.",
-      "sources": [
-        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/society/2026/10/17/20261017500008"},
-        {"title": "세계일보", "url": "https://www.segye.com/newsView/20261017505519"},
-        {"title": "경향신문", "url": "https://www.khan.co.kr/article/202610161050001/"}
-      ]
-    },
-    {
-      "tag": "econ", "tagLabel": "금리", "breaking": false, "important": false,
-      "keywords": ["12월", "한은"],
-      "title": "연준 10월 동결·12월 인상 무게, 한은도 22일 동결 전망",
-      "summary": "미 2년물 금리는 4.72%로 내렸어요",
-      "details": [
-        "16일 시장 가격으로 본 연준 10월 동결 확률은 약 87%, 12월 인상 확률은 약 91%였어요.",
-        "국내 전문가 10명은 모두 한국은행이 22일 기준금리 3.00%를 동결할 거라고 봤고, 대부분은 11월 추가 인상을 예상했어요.",
-        "나와의 연결: 금리 인상이 이어지면 개인투자용 국채와 예금은 만기까지 들고 가는 계획을 유지하는 편이 유리해요."
-      ],
-      "note": "인상·동결 확률은 시장 가격에서 계산한 값이라 자주 바뀌어요.",
-      "sources": [
-        {"title": "Rallies (Reuters 인용)", "url": "https://rallies.ai/news/us-yields-fall-in-choppy-session-as-investors-eye-fed-rate-hold-in-october-4007fae6334482c7"},
-        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2636157"}
-      ]
-    },
-    {
-      "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": false,
-      "keywords": ["AI 어뢰", "잠-2.0"],
-      "title": "북한 \"AI 어뢰 잠-2.0 시험\" 주장",
-      "summary": "15일 수중 실탄 발사시험을 했다고 했어요",
-      "details": [
-        "조선중앙통신은 17일 북한이 15일 인공지능으로 목표를 찾는 신형 초고속 정밀유도 어뢰 '잠-2.0'을 시험 발사했다고 보도했어요.",
-        "북한은 해군 발전에 '중대한 변화를 예고하는 성과'라고 했지만, 구체적인 성능은 공개하지 않았어요.",
-        "이 소식은 대외용 매체에만 실렸고 노동신문에는 나오지 않았어요."
-      ],
-      "note": "북한 주장이고, 한국군 평가는 아직 확인되지 않았어요.",
-      "sources": [
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261017000061"},
-        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610170905321498"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
-      "keywords": ["대만", "항모"],
-      "title": "중국 항모 서태평양 진입, 대만 대규모 훈련 경계",
-      "summary": "11~12월이 중국군 훈련 성수기예요",
-      "details": [
-        "대만 국방부는 15일 중국 항공모함 전단이 서태평양에 들어갔다고 밝히고, 대만 포위 같은 대규모 훈련 가능성을 지켜보고 있어요.",
-        "중국은 2023~2025년 매년 이런 훈련을 했지만 올해는 아직 없었어요.",
-        "나와의 연결: 외가 친척이 있는 대만의 긴장이 커지면 대만 증시와 반도체주에도 영향이 갈 수 있어요."
-      ],
-      "sources": [
-        {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866057"}
-      ]
-    },
-    {
-      "tag": "war", "tagLabel": "우크라이나", "breaking": false, "important": false,
-      "keywords": ["정유소", "트럼프"],
-      "title": "우크라, 러 정유소 공격 재개…트럼프 \"수치\"",
-      "summary": "트럼프의 '에너지 휴전'이 사실상 깨졌어요",
-      "details": [
-        "러시아는 우크라이나 드론이 러시아 정제 능력의 약 5%를 맡는 랴잔 정유소를 공격했다고 밝혔어요. 우크라이나군은 공식 확인하지 않았어요.",
-        "트럼프가 11일 발표한 에너지 휴전 뒤 우크라이나는 사흘간 공격을 멈췄지만, 러시아가 공격을 이어 가자 젤렌스키는 '이제 끝났다'고 했어요.",
-        "트럼프는 이 공격이 세계 유가만 올린다며 '수치'라고 비판했어요."
-      ],
-      "sources": [
-        {"title": "OilPrice (RFE/RL)", "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Defies-Trump-With-Renewed-Attacks-on-Russian-Oil-Infrastructure.html"},
-        {"title": "OilPrice", "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Condemns-Ukraines-Russian-Refinery-Strikes-as-a-Disgrace.html"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "미국", "breaking": false, "important": false,
-      "keywords": ["백악관 대변인", "5일"],
-      "title": "백악관 대변인, 임명 5일 만에 물러나",
-      "summary": "브리핑은 단 한 번 하고 자리를 떠났어요",
-      "details": [
-        "트럼프가 이달 초 새 백악관 대변인으로 고른 케이티 재커라이어가 16일 5일 만에 자리에서 물러났어요.",
-        "여러 매체는 역대 가장 짧은 대변인 재임 기록이라고 전했어요.",
-        "11월 3일 중간선거를 앞두고 백악관 홍보 라인이 흔들리는 모습이에요."
-      ],
-      "note": "물러난 이유는 경력 허위 기재 논란 등이 보도됐지만, 백악관 공식 설명은 확인하지 못했어요.",
-      "sources": [
-        {"title": "Axios", "url": "https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary"},
-        {"title": "TIME", "url": "https://time.com/article/2026/10/16/katie-zacharia-out-as-trump-s-press-secretary-after-1-briefing/"},
-        {"title": "CNBC", "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "한일", "breaking": false, "important": false,
-      "keywords": ["다카이치", "야스쿠니"],
-      "title": "다카이치 총리, 야스쿠니 공물…정부 \"유감\"",
-      "summary": "직접 참배는 하지 않을 예정이에요",
-      "details": [
-        "일본 다카이치 총리는 17일 야스쿠니 신사 가을 제사 첫날에 총리 이름으로 공물을 보냈어요.",
-        "한국 외교부는 침략 전쟁을 미화하고 전범을 모신 곳이라며 깊은 실망과 유감을 밝혔어요."
-      ],
-      "sources": [
-        {"title": "The Korea Times", "url": "https://www.koreatimes.co.kr/foreignaffairs/20261017/govt-expresses-regret-over-takaichis-offering-to-controversial-war-shrine"},
-        {"title": "The Japan Times", "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-yasukuni-shrine-offering/"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "유럽", "breaking": false, "important": false,
-      "keywords": ["프랑스", "학생 시위"],
-      "title": "프랑스 학생 시위 한 달째, 17일 전국 시위",
-      "summary": "교육 불평등에 대한 분노가 커졌어요",
-      "details": [
-        "9월 17일 파리 근교 고등학교에서 시작된 학생 시위가 전국으로 번져, 10월 6일엔 25만 명 넘게 행진했어요.",
-        "학교 시설과 교사 부족 같은 불평등이 원인이고, 17일에는 더 큰 전국 시위가 예정돼 있어요.",
-        "나와의 연결: 프랑스 불안이 커지면 유로 약세·유럽 금리 상승 쪽 흐름에 힘이 실릴 수 있어요. 23일 무디스 신용등급 검토도 있어요."
-      ],
-      "sources": [
-        {"title": "TIME", "url": "https://time.com/article/2026/10/16/france-student-protests-macron/"},
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again"}
-      ]
-    }
-  ],
-  "watch": [
-    "주말 호르무즈 유조선 공격과 월요일 유가 출발",
-    "22일 한은 금통위와 27~28일 FOMC",
-    "이달 말 빅테크 실적과 AI 기술주 흐름",
-    "23일 무디스의 프랑스 신용등급 검토"
-  ]
+ "date": "2026-10-18",
+ "updatedLabel": "10/18 07:00",
+ "kicker": "오늘의 한 줄",
+ "headline": "호르무즈서 유조선 잇단 피격, 2백만 배럴 유조선 기뢰 폭발",
+ "subhead": "러시아 공습으로 우크라이나 100만 명이 정전됐고, 프랑스 시위엔 55만 명이 나왔어요.",
+ "advice": "유가 급등은 금리 인상 압력이 되니 달러 예금 사다리와 1년 이하 예치 계획을 그대로 유지하세요.",
+ "marketsAsOf": "10/16 뉴욕 · 10/16 서울 마감 기준 (주말 휴장)",
+ "markets": [
+  {"label": "미 10년물", "value": "5.08%", "change": "-0.01%p", "dir": "down"},
+  {"label": "미 2년물", "value": "4.72%", "change": "-0.04%p", "dir": "down"},
+  {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
+  {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
+  {"label": "S&P 500", "value": "7,659.44", "change": "-1.09%", "dir": "down"},
+  {"label": "코스피", "value": "5,668.05", "change": "+2.05%", "dir": "up"}
+ ],
+ "stories": [
+  {
+   "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
+   "keywords": ["호르무즈", "기뢰"],
+   "title": "호르무즈 유조선 피격 잇따라, 초대형선 기뢰 폭발",
+   "summary": "이란은 해협이 닫혔다고, 미국은 열려 있다고 맞서요",
+   "details": [
+    "이란 혁명수비대는 17일 원유 200만 배럴 넘게 실은 초대형 유조선이 '허가받지 않은 항로'로 지나다 기뢰에 맞아 큰 폭발과 불이 났다고 밝혔어요.",
+    "알자지라는 금요일 이후 유조선 4척이 공격받았고, 예멘 앞바다에서도 1척이 총격을 받았다고 전했어요. 사우디 연합군은 리야드 등 상공에서 드론 4대를 격추했다고 했어요.",
+    "미 중부사령관은 16일 해협이 '정상 운영 중'이며 미국과 동맹이 통제한다고 했어요. 호르무즈는 평소 세계 해상 원유 거래의 약 25%가 지나가요.",
+    "나와의 연결: 유가가 더 오르면 물가·금리 부담이 커져요. 달러·단기 예금 비중이 완충 역할을 해요."
+   ],
+   "note": "폭발 위치와 원인은 이란 측 주장이라 독립적으로 확인되지 않았어요.",
+   "sources": [
+    {"title": "Euronews", "url": "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says"},
+    {"title": "Al Jazeera 라이브", "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2"}
+   ]
+  },
+  {
+   "tag": "econ", "tagLabel": "증시·AI", "breaking": false, "important": true,
+   "keywords": ["나스닥", "코어위브"],
+   "title": "나스닥 2.1% 급락, 코어위브發 AI 부채 우려",
+   "summary": "반도체 등 기술주가 크게 빠진 채 한 주를 마쳤어요",
+   "details": [
+    "16일 나스닥은 2.14% 내린 26,140, S&P500은 1.09% 내린 7,659, 다우는 0.34% 내린 52,002로 마감했어요.",
+    "빚이 많은 AI 클라우드 회사 코어위브의 주가와 채권이 크게 떨어지며, 돈을 빌려 AI에 투자하는 회사들에 대한 걱정이 커졌어요.",
+    "반대로 유가 상승에 에너지주는 2.5% 올랐어요.",
+    "나와의 연결: 기술·반도체 비중이 17% 안팎이라 영향을 받아요. 이달 말 빅테크 실적 전까지는 서두르지 않는 게 좋아요."
+   ],
+   "sources": [
+    {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+    {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed"}
+   ]
+  },
+  {
+   "tag": "war", "tagLabel": "우크라이나", "breaking": false, "important": false,
+   "keywords": ["100만 명", "정전"],
+   "title": "러 공습에 우크라 8명 숨지고 100만 명 정전",
+   "summary": "9개 지역이 공격받고 쇼핑센터 2곳도 맞았어요",
+   "details": [
+    "우크라이나 당국은 16일 러시아 공습으로 최소 8명이 숨지고 약 60명이 다쳤다고 밝혔어요. 리우네와 수미의 쇼핑센터도 공격받았어요.",
+    "100만 명 넘게 전기가 끊겼고, 에너지부는 대부분 다시 연결했다고 했어요. 볼린주 루츠크는 정전이 하루 넘게 갈 수 있어요.",
+    "유엔은 10월 첫 2주가 몇 년 사이 민간인에게 가장 치명적인 기간 중 하나였다고 했어요."
+   ],
+   "sources": [
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million"}
+   ]
+  },
+  {
+   "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": false,
+   "keywords": ["AI 어뢰", "잠-2.0"],
+   "title": "북한 \"AI 어뢰 잠-2.0 시험\" 주장",
+   "summary": "15일 수중 실탄 발사시험을 했다고 했어요",
+   "details": [
+    "조선중앙통신은 17일 북한이 15일 인공지능으로 목표를 찾는 신형 초고속 정밀유도 어뢰 '잠-2.0'을 시험 발사했다고 보도했어요.",
+    "북한은 해군 발전에 '중대한 변화를 예고하는 성과'라고 했지만, 구체적인 성능은 공개하지 않았어요.",
+    "이 소식은 대외용 매체에만 실렸고 노동신문에는 나오지 않았어요."
+   ],
+   "note": "북한 주장이고, 한국군 평가는 아직 확인되지 않았어요.",
+   "sources": [
+    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261017000061"},
+    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610170905321498"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "미국", "breaking": false, "important": false,
+   "keywords": ["러시아 제재", "트럼프"],
+   "title": "트럼프, 러시아 제재 유예…공화당서도 반발",
+   "summary": "러시아산 경유 구매 합의 뒤 나온 결정이에요",
+   "details": [
+    "트럼프 대통령은 16일 행정명령으로 러시아와 러시아 에너지를 사는 나라에 대한 제재를 기한 없이 미뤘어요. 이 법은 상원에서 86대 11로 통과됐었어요.",
+    "공화당 틸리스 상원의원은 '무책임하다'며 푸틴에게 굴복했다고 비판했고, 민주당 워런 의원도 되돌려야 한다고 했어요.",
+    "이란 전쟁으로 오른 기름값을 낮추려 러시아산 경유를 사기로 한 데 따른 조치예요. 젤렌스키는 압박을 줄이면 공격만 늘어난다고 했어요."
+   ],
+   "note": "의회는 11월 3일 중간선거 뒤까지 휴회라 당장 뒤집기는 어려워요.",
+   "sources": [
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver"}
+   ]
+  },
+  {
+   "tag": "econ", "tagLabel": "금리", "breaking": false, "important": false,
+   "keywords": ["12월", "한은"],
+   "title": "연준 10월 동결·12월 인상 무게, 한은도 22일 동결 전망",
+   "summary": "미 2년물 금리는 4.72%로 내렸어요",
+   "details": [
+    "16일 시장 가격으로 본 연준 10월 동결 확률은 약 87%, 12월 인상 확률은 약 91%였어요.",
+    "국내 전문가 10명은 모두 한국은행이 22일 기준금리 3.00%를 동결할 거라고 봤고, 대부분은 11월 추가 인상을 예상했어요.",
+    "나와의 연결: 금리 인상이 이어지면 개인투자용 국채와 예금은 만기까지 들고 가는 계획을 유지하는 편이 유리해요."
+   ],
+   "note": "인상·동결 확률은 시장 가격에서 계산한 값이라 자주 바뀌어요.",
+   "sources": [
+    {"title": "Rallies (Reuters 인용)", "url": "https://rallies.ai/news/us-yields-fall-in-choppy-session-as-investors-eye-fed-rate-hold-in-october-4007fae6334482c7"},
+    {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2636157"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
+   "keywords": ["대만", "항모"],
+   "title": "중국 항모 서태평양 진입, 대만 대규모 훈련 경계",
+   "summary": "11~12월이 중국군 훈련 성수기예요",
+   "details": [
+    "대만 국방부는 15일 중국 항공모함 전단이 서태평양에 들어갔다고 밝히고, 대만 포위 같은 대규모 훈련 가능성을 지켜보고 있어요.",
+    "중국은 2023~2025년 매년 이런 훈련을 했지만 올해는 아직 없었어요.",
+    "태풍 '참피'는 다음 주 오키나와 남쪽에서 북쪽으로 꺾일 가능성이 커서, 대만엔 24~25일쯤 비만 늘 수 있다는 예보예요.",
+    "나와의 연결: 외가 친척이 있는 대만의 긴장이 커지면 대만 증시와 반도체주에도 영향이 갈 수 있어요."
+   ],
+   "note": "태풍 진로는 아직 불확실해요.",
+   "sources": [
+    {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866057"},
+    {"title": "Taipei Times (태풍)", "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "산불", "breaking": false, "important": false,
+   "keywords": ["캘리포니아", "산불"],
+   "title": "남캘리포니아 산불, 집 6채 피해·1만6천 명 대피",
+   "summary": "오렌지카운티 '노르테 산불'이 강풍에 번졌어요",
+   "details": [
+    "16일 낮 샌클레멘테에서 시작된 불이 샌후안카피스트라노까지 번져 최소 570에이커(약 2.3㎢)를 태웠어요. 17일 기준 진화율은 5%예요.",
+    "집 최소 6채가 피해를 입었고 약 1만6천 명이 대피 구역에 있었어요. 주민 부상은 없고 소방관 2명이 다쳤어요.",
+    "17일 일부 구역은 대피령이 풀렸지만, 강풍·폭염 주의보가 이어지고 있어요.",
+    "나와의 연결: 산호세 친척이 있는 베이 지역과는 500km 넘게 떨어져 있지만, 캘리포니아 산불 철이 본격화하고 있어요."
+   ],
+   "sources": [
+    {"title": "ABC News", "url": "https://abcnews.com/US/norte-fire-evacuation-orders-issued-wildfire-burns-orange-county-california/story?id=137332229"},
+    {"title": "SFGATE", "url": "https://www.sfgate.com/bayarea/article/orange-county-wildfire-22480898.php"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "유럽", "breaking": false, "important": false,
+   "keywords": ["프랑스", "55만 명"],
+   "title": "프랑스 전국 시위 55만 명, 400명 체포",
+   "summary": "학생 시위가 노조·노란조끼까지 번졌어요",
+   "details": [
+    "17일 프랑스 전국에서 정부 추산 55만 명(파리 11만 명)이 시위에 나왔어요. 파리에선 최루탄이 쓰였고, 마르세유에선 시청이 뚫리고 상점이 약탈당했어요.",
+    "고등학교 시설·교사 부족에서 시작된 시위가 임금·연금·물가 문제로 넓어졌고, 최소 400명이 체포됐어요.",
+    "나와의 연결: 프랑스 불안과 23일 무디스 신용등급 검토는 유로 약세·유럽 금리 상승 쪽 흐름에 힘을 실을 수 있어요."
+   ],
+   "sources": [
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "사건", "breaking": false, "important": false,
+   "keywords": ["부천", "소방관"],
+   "title": "부천 공장 화재 진압 중 소방관 순직",
+   "summary": "모두 8명이 다쳤고 1명은 끝내 숨졌어요",
+   "details": [
+    "16일 오전 부천 오정구 내동의 공장에서 난 불을 끄던 40대 소방관 1명이 숨지고, 소방관·직원 여러 명이 다쳤어요.",
+    "이재명 대통령은 빈소를 찾아 '고인의 희생을 영원히 기억하겠다'고 했고, 경찰·소방은 17일 합동 감식을 시작했어요."
+   ],
+   "note": "화재 원인은 아직 밝혀지지 않았어요.",
+   "sources": [
+    {"title": "서울신문", "url": "https://www.seoul.co.kr/news/society/2026/10/17/20261017500008"},
+    {"title": "이코노미뉴스", "url": "https://www.m-economynews.com/news/article.html?no=71791"}
+   ]
+  }
+ ],
+ "watch": [
+  "월요일 유가 출발과 호르무즈 유조선 피격 추이",
+  "22일 한은 금통위와 27~28일 FOMC",
+  "23일 무디스의 프랑스 신용등급 검토",
+  "태풍 참피 진로와 중국군 대만 훈련 여부"
+ ]
 }
