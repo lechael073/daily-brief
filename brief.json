@@ -1,177 +1,182 @@
 {
-  "date": "2026-10-17",
-  "updatedLabel": "10/17 07:16",
-  "kicker": "오늘의 한 줄",
-  "headline": "AI 부채 우려에 나스닥 2% 급락, 호르무즈선 유조선 또 피격",
-  "subhead": "브렌트유는 110달러 가까이 올랐고, 시장은 연준의 12월 인상에 무게를 두고 있어요.",
-  "advice": "나스닥이 급락해도 S&P가 7,300 위라 미국주 매수 보류는 유지하고, 기술주 비중만 점검해 보세요.",
-  "marketsAsOf": "10/16 뉴욕 · 10/16 서울 마감 기준",
-  "markets": [
-    {"label": "미 10년물", "value": "5.08%", "change": "-0.01%p", "dir": "down"},
-    {"label": "미 2년물", "value": "4.72%", "change": "-0.04%p", "dir": "down"},
-    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
-    {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
-    {"label": "S&P 500", "value": "7,659.44", "change": "-1.09%", "dir": "down"},
-    {"label": "코스피", "value": "5,668.05", "change": "+2.05%", "dir": "up"}
-  ],
-  "stories": [
-    {
-      "tag": "war",
-      "tagLabel": "이란전쟁",
-      "breaking": false,
-      "important": true,
-      "keywords": ["호르무즈", "110달러"],
-      "title": "호르무즈서 유조선 또 피격, 브렌트 110달러 육박",
-      "summary": "인도 선원 15명은 모두 무사했어요",
-      "details": [
-        "16일 호르무즈 해협에서 인도 선원 15명이 탄 유조선 ST 3호가 발사체에 맞았지만 다친 사람은 없었어요. 누가 쐈는지는 밝혀지지 않았어요.",
-        "전날엔 싱가포르 컨테이너선이 맞아 가라앉는 등 해협 선박 공격이 전쟁 이후 가장 많아졌어요. 브렌트유는 16일 3.7% 올라 배럴당 109.86달러로 마감했어요.",
-        "한국 정부는 16일 석유 최고가격을 4주 더 동결해 휘발유는 리터당 1,784원, 경유는 1,773원을 유지했어요.",
-        "나와의 연결: 유가가 높으면 물가와 금리 부담이 이어져, 금리 인상 대비 자산과 1년 이하 예금 위주 운용이 계속 맞는 방향이에요."
-      ],
-      "note": "공격 주체는 확인되지 않았어요.",
-      "sources": [
-        {"title": "The National", "url": "https://www.thenationalnews.com/news/mena/2026/10/16/india-hormuz-strait-tanker-attack/"},
-        {"title": "BNN Bloomberg (AP)", "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector/"},
-        {"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/"},
-        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026101615560342984"}
-      ]
-    },
-    {
-      "tag": "econ",
-      "tagLabel": "증시·AI",
-      "breaking": false,
-      "important": true,
-      "keywords": ["나스닥", "코어위브"],
-      "title": "나스닥 2.1% 급락, 코어위브發 AI 부채 우려",
-      "summary": "반도체 등 기술주가 3% 넘게 빠졌어요",
-      "details": [
-        "16일 나스닥은 2.14% 내린 26,140, S&P500은 1.09% 내린 7,659, 다우는 0.34% 내린 52,002로 마감했어요.",
-        "빚이 약 500억 달러인 AI 클라우드 회사 코어위브의 주가와 채권이 크게 떨어지며, 돈을 빌려 AI에 투자하는 회사들이 버틸 수 있느냐는 걱정이 커졌어요.",
-        "높은 물가로 금리가 오르면 빌리는 비용이 커진다는 점도 부담이에요. 반대로 유가 상승에 에너지주는 2.5% 올랐어요.",
-        "나와의 연결: 기술·반도체 비중이 17% 안팎이라 이번 하락의 영향을 받아요. 이달 말 빅테크 실적 전까지는 서두르지 않는 게 좋아요."
-      ],
-      "sources": [
-        {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
-        {"title": "KSL (Reuters)", "url": "https://www.ksl.com/article/51637172/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount"},
-        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed"}
-      ]
-    },
-    {
-      "tag": "econ",
-      "tagLabel": "금리",
-      "breaking": false,
-      "important": false,
-      "keywords": ["12월", "한은"],
-      "title": "연준 10월 동결·12월 인상 무게, 한은도 22일 동결 전망",
-      "summary": "미 2년물 금리는 4.72%로 내렸어요",
-      "details": [
-        "16일 시장 가격으로 본 연준 10월 동결 확률은 약 87%, 12월 인상 확률은 약 91%였어요. 미 2년물 금리는 4.72%로 내렸어요.",
-        "국내 전문가 10명은 모두 한국은행이 22일 기준금리 3.00%를 동결할 거라고 봤고, 대부분은 11월 추가 인상을 예상했어요.",
-        "나와의 연결: 금리 인상이 이어지면 개인투자용 국채와 예금은 만기까지 들고 가는 계획을 유지하는 편이 유리해요."
-      ],
-      "note": "인상·동결 확률은 시장 가격에서 계산한 값이라 자주 바뀌어요.",
-      "sources": [
-        {"title": "Rallies (Reuters 인용)", "url": "https://rallies.ai/news/us-yields-fall-in-choppy-session-as-investors-eye-fed-rate-hold-in-october-4007fae6334482c7"},
-        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2636157"}
-      ]
-    },
-    {
-      "tag": "kr",
-      "tagLabel": "한반도",
-      "breaking": false,
-      "important": false,
-      "keywords": ["극초음속"],
-      "title": "북한 '한국 극초음속 실패작' 주장, 국방부 반박",
-      "summary": "북한은 군사력을 더 키우겠다고 했어요",
-      "details": [
-        "한국은 8일 국산 극초음속 활공체를 시험 발사했는데, 북한 미사일총국장은 15일 기체에 그을음이 없다며 극초음속 비행을 못 했을 수 있다고 주장했어요.",
-        "국방부는 16일 국산 내열 소재 덕분에 그을음이 없는 것이라고 반박했어요.",
-        "북한 김정식 부부장은 같은 날 밤 이를 핑계라고 하며 국방력을 계속 키우겠다고 밝혔어요."
-      ],
-      "sources": [
-        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610162206226288"},
-        {"title": "머니투데이", "url": "https://www.mt.co.kr/politics/2026/10/16/2026101610531156773"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "대만",
-      "breaking": false,
-      "important": false,
-      "keywords": ["대만", "대규모 훈련"],
-      "title": "대만 국방부, 중국 대규모 훈련 가능성 경계",
-      "summary": "11~12월이 중국군 훈련 성수기예요",
-      "details": [
-        "대만 국방부는 15일 중국군 훈련 성수기(11~12월)를 앞두고 대만 포위 같은 대규모 훈련 가능성을 지켜보고 있다고 밝혔어요.",
-        "중국은 2023~2025년 매년 이런 훈련을 했지만 올해는 아직 없었어요. 하루 동안 중국 군용기 15대와 선박 17척이 포착됐어요.",
-        "나와의 연결: 외가 친척이 있는 대만의 긴장이 커지면 대만 증시와 반도체주에도 영향이 갈 수 있어요."
-      ],
-      "sources": [
-        {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866057"},
-        {"title": "Taiwan News", "url": "https://www.taiwannews.com.tw/news/6458990"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "미국",
-      "breaking": false,
-      "important": false,
-      "keywords": ["캘리포니아", "우편투표"],
-      "title": "미 법무부, 캘리포니아 우편투표 집계 막으려 소송",
-      "summary": "11월 3일 중간선거를 앞두고 갈등이 커졌어요",
-      "details": [
-        "미 법무부는 15일 시민권이 없다고 의심되는 유권자들의 우편투표를 세지 못하게 해 달라며 캘리포니아주와 LA카운티 선거 책임자를 고소했어요.",
-        "캘리포니아 국무장관은 '선거에 혼란과 불신을 키운다'며 법적 근거가 없다고 반발했어요.",
-        "나와의 연결: 산호세 등 캘리포니아에 사는 친척들이 투표하는 지역의 선거 갈등이에요."
-      ],
-      "note": "대상 인원은 보도마다 달라 정확히 확인되지 않았어요.",
-      "sources": [
-        {"title": "ABC News", "url": "https://abcnews.com/Politics/doj-sues-california-alleged-citizens-voter-rolls/story?id=137288095"},
-        {"title": "Just Security (NYT 인용)", "url": "https://www.justsecurity.org/161058/early-edition-october-16-2026/"}
-      ]
-    },
-    {
-      "tag": "war",
-      "tagLabel": "예멘",
-      "breaking": false,
-      "important": false,
-      "keywords": ["후티", "아덴"],
-      "title": "후티, 예멘 아덴 대통령궁 공격해 사상자",
-      "summary": "사우디 공항·석유시설 공격도 이어지고 있어요",
-      "details": [
-        "후티 반군이 예멘 정부가 있는 아덴의 대통령궁을 미사일로 공격해 4~5명이 숨졌어요. 총리는 다치지 않았어요.",
-        "후티는 사우디 공항과 석유 시설도 계속 공격하겠다고 했고, EU와 걸프 국가 정상회의는 미뤄졌어요."
-      ],
-      "note": "사망자 수는 보도마다 4명과 5명으로 달라요.",
-      "sources": [
-        {"title": "Just Security (Reuters 인용)", "url": "https://www.justsecurity.org/161058/early-edition-october-16-2026/"},
-        {"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "유럽",
-      "breaking": false,
-      "important": false,
-      "keywords": ["프랑스", "학생 시위"],
-      "title": "프랑스 학생 시위 한 달째, 17일 전국 시위",
-      "summary": "교육 불평등에 대한 분노가 커졌어요",
-      "details": [
-        "9월 17일 파리 근교 고등학교에서 시작된 학생 시위가 전국으로 번져, 10월 6일엔 25만 명 넘게 행진했어요.",
-        "학교 시설과 교사 부족 같은 불평등이 원인이고, 17일에는 더 큰 전국 시위가 예정돼 있어요.",
-        "나와의 연결: 프랑스 재정 불안이 커지면 유로 약세·유럽 금리 상승 쪽 흐름에 힘이 실릴 수 있어요. 23일 무디스 신용등급 검토도 있어요."
-      ],
-      "sources": [
-        {"title": "TIME", "url": "https://time.com/article/2026/10/16/france-student-protests-macron/"},
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again"}
-      ]
-    }
-  ],
-  "watch": [
-    "22일 한은 금통위와 27~28일 FOMC",
-    "브렌트유 110달러 돌파 여부와 호르무즈 선박 공격",
-    "이달 말 빅테크 실적과 AI 기술주 흐름",
-    "23일 무디스의 프랑스 신용등급 검토"
-  ]
+ "date": "2026-10-17",
+ "updatedLabel": "10/17 16:00",
+ "kicker": "오늘의 한 줄",
+ "headline": "호르무즈·러 정유소 공격에 브렌트 110달러 육박, 기술주는 급락",
+ "subhead": "우크라이나가 러시아 정유소 공격을 다시 시작했고, 북한은 AI 어뢰 시험을 주장했어요.",
+ "advice": "주말엔 시장이 쉬니 기술주·국내주 비중을 점검하고, 22일 금통위 전 추가 매수는 서두르지 않아도 돼요.",
+ "marketsAsOf": "10/16 뉴욕 · 10/16 서울 마감 기준",
+ "markets": [
+  {"label": "미 10년물", "value": "5.08%", "change": "-0.01%p", "dir": "down"},
+  {"label": "미 2년물", "value": "4.72%", "change": "-0.04%p", "dir": "down"},
+  {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
+  {"label": "한은 기준금리", "value": "3.00%", "change": "8/27 +0.25%p", "dir": "up"},
+  {"label": "S&P 500", "value": "7,659.44", "change": "-1.09%", "dir": "down"},
+  {"label": "코스피", "value": "5,668.05", "change": "+2.05%", "dir": "up"}
+ ],
+ "stories": [
+  {
+   "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
+   "keywords": ["호르무즈", "110달러"],
+   "title": "호르무즈 공격 계속, 브렌트 110달러 육박",
+   "summary": "WTI도 101달러를 넘어 마감했어요",
+   "details": [
+    "16일 브렌트유는 3.7% 올라 배럴당 109.86달러, WTI는 3.5% 올라 101.41달러로 마감했어요.",
+    "호르무즈 해협에서 인도 선원이 탄 유조선이 또 발사체에 맞았고, 후티 반군은 사우디와 예멘 아덴 공항 공격을 이어 갔어요.",
+    "국내 휘발유 평균값은 22주째 조금씩 내려 리터당 1,856원대지만, 정부는 석유 최고가격을 동결해 두고 있어요.",
+    "나와의 연결: 유가가 높으면 물가와 금리 부담이 이어져, 1년 이하 예금과 단기 자산 위주 운용이 계속 맞는 방향이에요."
+   ],
+   "note": "유조선 공격 주체는 확인되지 않았어요. 국내 휘발유값은 SBHNews 보도 기준이에요.",
+   "sources": [
+    {"title": "Rigzone (Bloomberg)", "url": "https://www.rigzone.com/news/wire/brent_oil_hits_110_as_supply_risks_mount-16-oct-2026-184870-article/"},
+    {"title": "The National", "url": "https://www.thenationalnews.com/news/mena/2026/10/16/india-hormuz-strait-tanker-attack/"},
+    {"title": "SBHNews", "url": "https://www.sbhnews.com"}
+   ]
+  },
+  {
+   "tag": "econ", "tagLabel": "증시·AI", "breaking": false, "important": true,
+   "keywords": ["나스닥", "코어위브"],
+   "title": "나스닥 2.1% 급락, 코어위브發 AI 부채 우려",
+   "summary": "반도체 등 기술주가 3% 넘게 빠졌어요",
+   "details": [
+    "16일 나스닥은 2.14% 내린 26,140, S&P500은 1.09% 내린 7,659, 다우는 0.34% 내린 52,002로 마감했어요.",
+    "빚이 많은 AI 클라우드 회사 코어위브의 주가와 채권이 크게 떨어지며, 돈을 빌려 AI에 투자하는 회사들에 대한 걱정이 커졌어요.",
+    "반대로 유가 상승에 에너지주는 2.5% 올랐어요.",
+    "나와의 연결: 기술·반도체 비중이 17% 안팎이라 영향을 받아요. 이달 말 빅테크 실적 전까지는 서두르지 않는 게 좋아요."
+   ],
+   "sources": [
+    {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+    {"title": "KSL (Reuters)", "url": "https://www.ksl.com/article/51637172/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount"},
+    {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed"}
+   ]
+  },
+  {
+   "tag": "war", "tagLabel": "우크라이나", "breaking": false, "important": false,
+   "keywords": ["정유소", "트럼프"],
+   "title": "우크라, 러 정유소 공격 재개…트럼프 \"수치\"",
+   "summary": "트럼프의 '에너지 휴전'이 사실상 깨졌어요",
+   "details": [
+    "러시아는 우크라이나 드론이 러시아 정제 능력의 약 5%를 맡는 랴잔 정유소를 공격했다고 밝혔어요. 우크라이나군은 공식 확인하지 않았어요.",
+    "트럼프가 11일 발표한 에너지 휴전 뒤 우크라이나는 사흘간 공격을 멈췄지만, 러시아가 공격을 이어 가자 젤렌스키는 '이제 끝났다'고 했어요.",
+    "트럼프는 이 공격이 세계 유가만 올린다며 '수치'라고 비판했어요."
+   ],
+   "sources": [
+    {"title": "OilPrice (RFE/RL)", "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Defies-Trump-With-Renewed-Attacks-on-Russian-Oil-Infrastructure.html"},
+    {"title": "OilPrice", "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Condemns-Ukraines-Russian-Refinery-Strikes-as-a-Disgrace.html"}
+   ]
+  },
+  {
+   "tag": "econ", "tagLabel": "금리", "breaking": false, "important": false,
+   "keywords": ["12월", "한은"],
+   "title": "연준 10월 동결·12월 인상 무게, 한은도 22일 동결 전망",
+   "summary": "미 2년물 금리는 4.72%로 내렸어요",
+   "details": [
+    "16일 시장 가격으로 본 연준 10월 동결 확률은 약 87%, 12월 인상 확률은 약 91%였어요.",
+    "국내 전문가 10명은 모두 한국은행이 22일 기준금리 3.00%를 동결할 거라고 봤고, 대부분은 11월 추가 인상을 예상했어요.",
+    "나와의 연결: 금리 인상이 이어지면 개인투자용 국채와 예금은 만기까지 들고 가는 계획을 유지하는 편이 유리해요."
+   ],
+   "note": "인상·동결 확률은 시장 가격에서 계산한 값이라 자주 바뀌어요.",
+   "sources": [
+    {"title": "Rallies (Reuters 인용)", "url": "https://rallies.ai/news/us-yields-fall-in-choppy-session-as-investors-eye-fed-rate-hold-in-october-4007fae6334482c7"},
+    {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2636157"}
+   ]
+  },
+  {
+   "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": false,
+   "keywords": ["AI 어뢰", "잠-2.0"],
+   "title": "북한 \"AI 어뢰 잠-2.0 시험\" 주장",
+   "summary": "15일 수중 실탄 발사시험을 했다고 했어요",
+   "details": [
+    "조선중앙통신은 17일 북한이 15일 인공지능으로 목표를 찾는 신형 초고속 정밀유도 어뢰 '잠-2.0'을 시험 발사했다고 보도했어요.",
+    "북한은 해군 발전에 '중대한 변화를 예고하는 성과'라고 했지만, 구체적인 성능은 공개하지 않았어요.",
+    "이 소식은 대외용 매체에만 실렸고 노동신문에는 나오지 않았어요."
+   ],
+   "note": "북한 주장이고, 한국군 평가는 아직 확인되지 않았어요.",
+   "sources": [
+    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261017000061"},
+    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610170905321498"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
+   "keywords": ["대만", "항모"],
+   "title": "중국 항모 서태평양 진입, 대만 대규모 훈련 경계",
+   "summary": "11~12월이 중국군 훈련 성수기예요",
+   "details": [
+    "대만 국방부는 15일 중국 항공모함 전단이 서태평양에 들어갔다고 밝히고, 대만 포위 같은 대규모 훈련 가능성을 지켜보고 있어요.",
+    "중국은 2023~2025년 매년 이런 훈련을 했지만 올해는 아직 없었어요.",
+    "나와의 연결: 외가 친척이 있는 대만의 긴장이 커지면 대만 증시와 반도체주에도 영향이 갈 수 있어요."
+   ],
+   "sources": [
+    {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866057"},
+    {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "한일", "breaking": false, "important": false,
+   "keywords": ["다카이치", "야스쿠니"],
+   "title": "다카이치 총리, 야스쿠니 공물…정부 \"유감\"",
+   "summary": "직접 참배는 하지 않을 예정이에요",
+   "details": [
+    "일본 다카이치 총리는 17일 야스쿠니 신사 가을 제사 첫날에 총리 이름으로 공물을 보냈어요.",
+    "한국 외교부는 침략 전쟁을 미화하고 전범을 모신 곳이라며 깊은 실망과 유감을 밝혔어요."
+   ],
+   "sources": [
+    {"title": "The Korea Times", "url": "https://www.koreatimes.co.kr/foreignaffairs/20261017/govt-expresses-regret-over-takaichis-offering-to-controversial-war-shrine"},
+    {"title": "The Japan Times", "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-yasukuni-shrine-offering/"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "미국", "breaking": false, "important": false,
+   "keywords": ["말리부", "산불"],
+   "title": "캘리포니아 말리부 산불, 대피령",
+   "summary": "강풍 경보가 토요일까지 이어져요",
+   "details": [
+    "15일 말리부 엔시날 캐니언에서 시작된 브라이슨 산불이 150~200에이커를 태워 일부 지역에 대피령이 내려졌어요.",
+    "16일 아침 진화율은 17%였고, 건물 약 7,200채가 위험 지역에 있어요. 소방관 1명이 다쳤어요.",
+    "나와의 연결: 친척이 있는 베이 지역과는 멀지만, 캘리포니아는 가을 강풍 때 산불 위험이 커져요."
+   ],
+   "note": "면적과 진화율은 보도 시점마다 달라요.",
+   "sources": [
+    {"title": "LAist", "url": "https://laist.com/news/climate-environment/bryson-fire-malibu-oct-2026"},
+    {"title": "NBC News", "url": "https://www.nbcnews.com/weather/wildfires/malibu-brush-fire-grows-200-acres-prompts-evacuation-orders-warnings-rcna603845"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "유럽", "breaking": false, "important": false,
+   "keywords": ["프랑스", "학생 시위"],
+   "title": "프랑스 학생 시위 한 달째, 17일 전국 시위",
+   "summary": "교육 불평등에 대한 분노가 커졌어요",
+   "details": [
+    "9월 17일 파리 근교 고등학교에서 시작된 학생 시위가 전국으로 번져, 10월 6일엔 25만 명 넘게 행진했어요.",
+    "학교 시설과 교사 부족 같은 불평등이 원인이고, 17일에는 더 큰 전국 시위가 예정돼 있어요.",
+    "나와의 연결: 프랑스 불안이 커지면 유로 약세·유럽 금리 상승 쪽 흐름에 힘이 실릴 수 있어요. 23일 무디스 신용등급 검토도 있어요."
+   ],
+   "sources": [
+    {"title": "TIME", "url": "https://time.com/article/2026/10/16/france-student-protests-macron/"},
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "사건", "breaking": false, "important": false,
+   "keywords": ["파키스탄", "학교 지붕"],
+   "title": "파키스탄 학교 지붕 붕괴, 30여 명 숨져",
+   "summary": "수업 중 교실 지붕이 무너졌어요",
+   "details": [
+    "15일 파키스탄 페샤와르의 사립학교에서 수업 중 지붕이 무너져 학생과 교사 30여 명이 숨졌어요.",
+    "당국은 낡은 건물을 원인으로 보고 있고, 학교 주인이 붙잡혔어요."
+   ],
+   "note": "사망자 수는 보도마다 33~35명으로 달라요.",
+   "sources": [
+    {"title": "Arab News", "url": "https://www.arabnews.pk/pakistan/relatives-of-pakistan-school-roof-collapse-recall-horror-3004331"},
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse"}
+   ]
+  }
+ ],
+ "watch": [
+  "22일 한은 금통위와 27~28일 FOMC",
+  "브렌트유 110달러 돌파 여부와 호르무즈·러 정유소 공격",
+  "이달 말 빅테크 실적과 AI 기술주 흐름",
+  "23일 무디스의 프랑스 신용등급 검토"
+ ]
 }
