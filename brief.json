@@ -1,1 +1,195 @@
-{"date": "2026-10-22", "updatedLabel": "10/22 16:05", "kicker": "속보", "headline": "코스피 3.52% 급락…한은은 3.00% 동결, 추가 인상 예고", "subhead": "반도체 대형주가 하루 만에 4~5% 빠졌고, 원/달러는 1,324원으로 더 내려갔어요.", "advice": "증시가 이틀 새 ±3%씩 흔들려요. 현금성 비중은 유지하고 반도체 쏠림만 점검해 보세요.", "marketsAsOf": "10/21 뉴욕 · 10/22 서울 마감 기준", "markets": [{"label": "미 10년물", "value": "5.15%", "change": "+0.03%p", "dir": "up"}, {"label": "미 2년물", "value": "4.82%", "change": "+0.04%p", "dir": "up"}, {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"}, {"label": "한은 기준금리", "value": "3.00%", "change": "10/22 동결", "dir": "flat"}, {"label": "S&P 500", "value": "7,757.72", "change": "+0.59%", "dir": "up"}, {"label": "코스피", "value": "5,533.77", "change": "-3.52%", "dir": "down"}], "stories": [{"tag": "econ", "tagLabel": "속보·증시", "breaking": true, "important": false, "keywords": ["코스피", "3.52%"], "title": "코스피 3.52% 급락, 하루 만에 5,500선으로", "summary": "전날 3.29% 반등분을 하루 만에 모두 되돌렸어요", "details": ["22일 코스피는 201.89포인트(3.52%) 내린 5,533.77, 코스닥은 3.62% 내린 764.10으로 마감했어요.", "삼성전자가 4.03%, SK하이닉스가 5.49% 떨어지며 하락을 이끌었어요. 기관이 약 4,620억 원어치를 팔았고, 개인은 약 3,800억 원어치를 샀어요.", "전문가는 물가 압력이 계속된다는 신호가 쌓이면 불안이 쉽게 풀리기 어렵다고 봤어요. 원/달러 환율은 1.0원 내린 1,324.2원으로 마감했어요.", "나와의 연결: 삼성전자·SK하이닉스와 반도체 ETF가 크게 흔들려요. 급하게 사고팔기보다 반도체 쪽 비중이 너무 커지지 않았는지만 확인해 보세요."], "note": "외국인은 장중엔 팔았지만 마감 기준으로는 약 590억 원 순매수였다는 보도가 있어요.", "sources": [{"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610221541142119"}, {"title": "뉴스1", "url": "https://www.news1.kr/finance/general-stock/6328824"}, {"title": "머니투데이(환율)", "url": "https://www.mt.co.kr/economy/2026/10/22/2026102215415356825"}]}, {"tag": "econ", "tagLabel": "금리", "breaking": false, "important": true, "keywords": ["한은", "3.00%"], "title": "한은 3.00% 만장일치 동결, 추가 인상 예고", "summary": "두 번 연속 올린 뒤 숨 고르기, 다음 인상 신호는 분명해요", "details": ["한국은행은 22일 기준금리를 3.00%로 만장일치 동결했어요. 7월과 8월에 0.25%p씩 올린 효과를 점검하려는 거예요.", "결정문에는 '추가 인상의 시기와 속도'를 정하겠다는 문장이 들어가, 시장은 11월 인상 가능성을 높게 봐요.", "반도체 수출 덕분에 올해와 내년 성장률은 8월 전망(3.3%, 2.9%)보다 크게 높아지고, 물가는 목표 2%를 꽤 오래 웃돌 거라고 했어요.", "나와의 연결: 금리 인상 흐름이 이어지면 12월 6일 만기 중금채를 다시 넣을 때 더 높은 금리를 기대할 수 있어요. 만기를 너무 길게 묶지 않는 편이 유연해요."], "sources": [{"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026102210473081235"}, {"title": "뉴스1", "url": "https://www.news1.kr/economy/trend/6328314"}, {"title": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10911045"}]}, {"tag": "etc", "tagLabel": "대만", "breaking": false, "important": true, "keywords": ["태풍 참피", "육상경보"], "title": "태풍 참피 대만 육상경보, 오늘 밤부터 영향", "summary": "금요일 하루 종일 강풍과 폭우, 토요일까지 비가 이어져요", "details": ["대만 중앙기상서는 22일 오전 태풍 참피에 육상경보를 냈어요. 오전 11시 기준 대만 남단에서 약 520km 떨어져 있고, 최대 풍속은 시속 184km예요.", "22일 밤부터 23일 사이 대만에 가장 가까이 오고, 북부 해안·이란현과 서부 저지대에 가장 센 바람이 불 전망이에요.", "지형 때문에 속도가 느려지거나 멈출 수 있고, 24일 오후에 멀어져도 북부·중부엔 폭우가 계속될 수 있어요.", "나와의 연결: 대만 친척이 있다면 금·토요일 외출을 줄이고 항공·교통편 결항 여부를 확인하도록 연락해 보세요."], "note": "경로는 아직 바뀔 수 있어요.", "sources": [{"title": "Focus Taiwan", "url": "https://focustaiwan.tw/society/202610220006"}, {"title": "The Standard(HK)", "url": "https://www.thestandard.com.hk/china/article/346178/Taiwan-issues-land-warning-ahead-of-arrival-of-powerful-Typhoon-Champi"}]}, {"tag": "kr", "tagLabel": "한반도", "breaking": false, "important": false, "keywords": ["김여정", "확성기"], "title": "김여정 \"대남 확성기 수일 내 재개\" 예고", "summary": "국방부는 북한이 실행하면 '비례적 조치'를 하겠다고 했어요", "details": ["김여정은 22일 우리 군의 경고방송·경고사격을 '도발'이라 부르며, 며칠 안에 대남 확성기를 다시 틀겠다고 했어요. 새 대응 수단도 전투 준비 상태에 둔다고 했어요.", "국방부는 북한이 실행하면 비례적으로 대응하겠다면서도, 우리 확성기 재설치 같은 구체적 조치는 아직 정하지 않았다고 했어요.", "합참은 기존 확성기 정비 움직임은 있지만 600mm 방사포 같은 새 무기의 전방 배치는 없다고 했어요. 남북 군 통신선은 끊긴 상태예요."], "sources": [{"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610221204271289"}, {"title": "오마이뉴스", "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277631"}]}, {"tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": false, "keywords": ["휴전안", "이란"], "title": "미·이란 7일 휴전안 간접협상 계속, 조건 맞서", "summary": "이란 외무장관은 \"협상 테이블은 그대로\"라고 했어요", "details": ["아락치 이란 외무장관은 7일 휴전안을 두고 미국과 간접 협상이 이어지고 있지만, 미국이 새 조항을 요구하고 있다고 했어요.", "이란 쪽 제안은 미국의 해상 봉쇄 해제, 석유 제재 해제, 호르무즈 해협 재개방, 동결 자산 반환을 담고 있어요.", "네타냐후 총리는 이란 정권을 무너뜨리라고 지시했다고 했고, 트럼프 대통령은 중간선거 전 확전을 피하려 이스라엘의 공격 계획을 막았다는 FT 보도가 나왔어요.", "나와의 연결: 브렌트유가 108달러대로 높아 미국 금리가 잘 안 내려가요. 장기채 비중은 지금보다 늘리지 않는 편이 안전해요."], "note": "트럼프의 이스라엘 공격 저지 내용은 FT 보도를 CBS가 전한 것이고, 공식 확인은 없어요.", "sources": [{"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"}, {"title": "Investrade(유가)", "url": "https://investrade.com/market-review-october-21-2026/"}]}, {"tag": "war", "tagLabel": "중동", "breaking": false, "important": false, "keywords": ["후티", "사우디"], "title": "후티 공격에 사우디 공항 피해, 미군은 축소", "summary": "담맘 공항 공격으로 1명 숨지고 8명 다쳤어요", "details": ["21일 사우디 담맘의 킹파흐드 국제공항이 공격받아 1명이 숨지고 8명이 다쳤어요. 샤이바 유전에선 드론 잔해로 2명이 숨졌어요.", "CBS는 후티의 사우디 공격으로 지금까지 20명 넘게 숨졌다고 전했어요. 미 국무부는 사우디 주재 비필수 인력에 철수를 명령했어요.", "미국 관리들은 미군이 중동 기지 인력을 조용히 줄이고 있다고 했어요. 리야드 공항은 10일 만에 일부 운항을 재개했어요."], "sources": [{"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"}]}, {"tag": "econ", "tagLabel": "기업", "breaking": false, "important": false, "keywords": ["테슬라", "스페이스X"], "title": "테슬라 실적 예상 상회, 스페이스X 합병 검토", "summary": "두 회사 이사회가 합병을 검토할 특별위원회를 만들었어요", "details": ["테슬라의 3분기 주당순이익은 0.48달러로 예상(0.43달러)보다 좋았지만, 순이익은 29% 줄었고 투자는 두 배 넘게 늘었어요.", "머스크는 테슬라와 스페이스X를 합치는 게 좋은 생각이라고 했고, 두 회사 이사회가 각각 특별위원회를 꾸렸어요.", "테슬라 주가는 21일 정규장에서 3.4% 올랐고, 시간외에선 오르내림이 엇갈렸어요."], "sources": [{"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-beats-estimates-musk-floats-204544066.html"}, {"title": "CNBC", "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"}]}, {"tag": "etc", "tagLabel": "보안", "breaking": false, "important": false, "keywords": ["PHP2Shell"], "title": "PHP2Shell에 유럽 정부 사이트·위키 잠시 닫아", "summary": "미 NSA도 경고했고, 각국이 긴급 패치를 서두르고 있어요", "details": ["웹사이트 언어 PHP의 치명적 결함 'PHP2Shell'로 네덜란드·핀란드 등 유럽 정부 사이트와 위키백과 일부가 패치 전까지 접속을 막았어요.", "미국 국가안보국(NSA)도 경고를 냈어요. PHP 팀은 21일 긴급 업데이트를 내놨어요.", "일반 사용자는 PHP를 직접 고칠 필요는 없지만, 이상한 다운로드나 반복 로그인 요구가 보이면 그 사이트를 떠나는 게 좋아요."], "sources": [{"title": "Insurance Business", "url": "https://www.insurancebusinessmag.com/us/news/cyber/nsa-warns-of-critical-website-flaw-as-wikipedia-european-government-websites-taken-offline-594432.aspx"}, {"title": "BleepingComputer", "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"}]}, {"tag": "etc", "tagLabel": "미국", "breaking": false, "important": false, "keywords": ["트럼프", "4억 달러"], "title": "트럼프, 중간선거에 4억 달러 투입 선언", "summary": "11월 3일 선거를 앞두고 지지율은 31%로 최저예요", "details": ["트럼프 대통령은 20일 공화당 후보 지원에 4억 달러 넘게 쓰겠다고 밝혔어요.", "로이터/입소스 조사에서 트럼프 지지율은 31%로 역대 최저였어요. 경제와 이란 전쟁이 공화당에 부담이에요.", "나와의 연결: 선거 결과는 관세·이민 정책과 미국 증시에 영향을 줄 수 있어요. 산호세 친척들에게도 중요한 선거예요."], "sources": [{"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections"}]}, {"tag": "etc", "tagLabel": "사회", "breaking": false, "important": false, "keywords": ["순천만", "고병원성 AI"], "title": "순천만서 올겨울 첫 고병원성 AI, 경보 '심각'", "summary": "야생조류 분변에서 검출돼 전국 위기경보가 올라갔어요", "details": ["농림축산식품부는 순천만 야생조류 분변에서 올겨울 첫 고병원성 조류인플루엔자가 나왔다고 밝혔어요.", "정부는 전국 위기경보를 가장 높은 '심각' 단계로 올리고 특별 방역에 들어갔어요.", "철새 도래지 근처에선 새를 만지거나 가까이 가지 않는 게 좋아요. 달걀·닭고기 값이 오를 수 있어요."], "sources": [{"title": "머니투데이", "url": "https://www.mt.co.kr/economy/2026/10/20/2026102013461916065"}, {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026102015480886664"}]}], "watch": ["북한 확성기 실제 재개 여부와 우리 군의 대응", "태풍 참피의 23~24일 대만 피해", "코스피 반도체주 변동과 외국인·기관 수급", "27~28일 FOMC와 다음 주 미국 PCE 물가"]}
+{
+ "advice": "증시가 이틀째 ±3%씩 흔들려요. 반도체 쏠림만 점검하고, 금리 인상 흐름에 맞춰 예금 만기는 짧게 가져가세요.",
+ "date": "2026-10-22",
+ "headline": "코스피 3.52% 급락·한은 동결…대만은 태풍에 내일 휴업",
+ "kicker": "속보",
+ "markets": [
+  {"change": "+0.03%p", "dir": "up", "label": "미 10년물", "value": "5.15%"},
+  {"change": "+0.04%p", "dir": "up", "label": "미 2년물", "value": "4.82%"},
+  {"change": "9/16 +0.25%p", "dir": "up", "label": "미 기준금리", "value": "3.75–4.00%"},
+  {"change": "10/22 동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
+  {"change": "+0.59%", "dir": "up", "label": "S&P 500", "value": "7,757.72"},
+  {"change": "-3.52%", "dir": "down", "label": "코스피", "value": "5,533.77"}
+ ],
+ "marketsAsOf": "10/21 뉴욕 · 10/22 서울 마감 기준",
+ "stories": [
+  {
+   "breaking": true,
+   "details": [
+    "22일 코스피는 201.89포인트(3.52%) 내린 5,533.77, 코스닥은 3.62% 내린 764.10으로 마감했어요.",
+    "삼성전자가 4.03%, SK하이닉스가 5.49% 떨어지며 하락을 이끌었어요. 기관이 약 4,620억 원어치를 팔았고, 개인은 약 3,800억 원어치를 샀어요.",
+    "전문가는 물가 압력이 계속된다는 신호가 쌓이면 불안이 쉽게 풀리기 어렵다고 봤어요. 원/달러 환율은 1.0원 내린 1,324.2원으로 마감했어요.",
+    "나와의 연결: 삼성전자·SK하이닉스와 반도체 ETF가 크게 흔들려요. 급하게 사고팔기보다 반도체 쪽 비중이 너무 커지지 않았는지만 확인해 보세요."
+   ],
+   "important": false,
+   "keywords": ["코스피", "3.52%"],
+   "note": "외국인은 장중엔 팔았지만 마감 기준으로는 약 590억 원 순매수였다는 보도가 있어요.",
+   "sources": [
+    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610221541142119"},
+    {"title": "뉴스1", "url": "https://www.news1.kr/finance/general-stock/6328824"},
+    {"title": "머니투데이(환율)", "url": "https://www.mt.co.kr/economy/2026/10/22/2026102215415356825"}
+   ],
+   "summary": "전날 3.29% 반등분을 하루 만에 모두 되돌렸어요",
+   "tag": "econ",
+   "tagLabel": "속보·증시",
+   "title": "코스피 3.52% 급락, 하루 만에 5,500선으로"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "대만 중앙기상서는 22일 태풍 참피에 육상경보를 냈어요. 금요일 오후부터 토요일 새벽 사이 영향이 가장 클 전망이에요.",
+    "로이터에 따르면 타이베이시는 23일 회사와 학교를 쉬기로 했고, 이에 따라 대만 금융시장도 휴장해요.",
+    "산간 지역엔 매우 강한 비, 해안엔 6~9m 높이 파도가 예상돼요. 금·토요일 야외 행사도 일부 미뤄졌어요.",
+    "나와의 연결: 대만 친척에게 외출을 줄이고 결항·정전에 대비하라고 연락해 보세요. 대만테크 ETF는 하루 쉬어 가요."
+   ],
+   "important": true,
+   "keywords": ["태풍 참피", "휴교·휴업"],
+   "note": "신베이·지룽·타오위안 등 다른 지역의 휴업 여부는 따로 발표돼요. 경로는 아직 바뀔 수 있어요.",
+   "sources": [
+    {"title": "Reuters(Devdiscourse 전재)", "url": "https://www.devdiscourse.com/article/international/3996450-taiwans-financial-markets-to-close-on-friday-due-to-typhoon-champi"},
+    {"title": "ICRT", "url": "https://www.icrt.com.tw/info_details.php?mlevel1=6&mlevel2=12&news_id=310463"},
+    {"title": "The Standard(HK)", "url": "https://www.thestandard.com.hk/china/article/346178/Taiwan-issues-land-warning-ahead-of-arrival-of-powerful-Typhoon-Champi"}
+   ],
+   "summary": "대만 금융시장도 금요일 하루 문을 닫아요",
+   "tag": "etc",
+   "tagLabel": "대만",
+   "title": "태풍 참피 접근, 타이베이 23일 휴교·휴업"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "한국은행은 22일 기준금리를 3.00%로 만장일치 동결했어요. 7월과 8월에 0.25%p씩 올린 효과를 점검하려는 거예요.",
+    "결정문에는 '추가 인상의 시기와 속도'를 정하겠다는 문장이 들어가, 시장은 11월 인상 가능성을 높게 봐요.",
+    "반도체 수출 덕분에 올해와 내년 성장률은 8월 전망(3.3%, 2.9%)보다 크게 높아지고, 물가는 목표 2%를 꽤 오래 웃돌 거라고 했어요.",
+    "나와의 연결: 금리 인상 흐름이 이어지면 12월 6일 만기 중금채를 다시 넣을 때 더 높은 금리를 기대할 수 있어요. 만기를 너무 길게 묶지 않는 편이 유연해요."
+   ],
+   "important": true,
+   "keywords": ["한은", "3.00%"],
+   "sources": [
+    {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026102210473081235"},
+    {"title": "뉴스1", "url": "https://www.news1.kr/economy/trend/6328314"},
+    {"title": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10911045"}
+   ],
+   "summary": "두 번 연속 올린 뒤 숨 고르기, 다음 인상 신호는 분명해요",
+   "tag": "econ",
+   "tagLabel": "금리",
+   "title": "한은 3.00% 만장일치 동결, 추가 인상 예고"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "김여정은 22일 우리 군의 경고방송·경고사격을 '도발'이라 부르며, 며칠 안에 대남 확성기를 다시 틀겠다고 했어요. 새 대응 수단도 전투 준비 상태에 둔다고 했어요.",
+    "국방부는 북한이 실행하면 비례적으로 대응하겠다면서도, 우리 확성기 재설치 같은 구체적 조치는 아직 정하지 않았다고 했어요.",
+    "합참은 기존 확성기 정비 움직임은 있지만 600mm 방사포 같은 새 무기의 전방 배치는 없다고 했어요. 남북 군 통신선은 끊긴 상태예요."
+   ],
+   "important": false,
+   "keywords": ["김여정", "확성기"],
+   "sources": [
+    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610221204271289"},
+    {"title": "오마이뉴스", "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277631"}
+   ],
+   "summary": "국방부는 북한이 실행하면 '비례적 조치'를 하겠다고 했어요",
+   "tag": "kr",
+   "tagLabel": "한반도",
+   "title": "김여정 \"대남 확성기 수일 내 재개\" 예고"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "아락치 이란 외무장관은 7일 휴전안을 두고 미국과 간접 협상이 이어지고 있지만, 미국이 새 조항을 요구하고 있다고 했어요.",
+    "이란 쪽 제안은 미국의 해상 봉쇄 해제, 석유 제재 해제, 호르무즈 해협 재개방, 동결 자산 반환을 담고 있어요.",
+    "네타냐후 총리는 이란 정권을 무너뜨리라고 지시했다고 했고, 트럼프 대통령은 중간선거 전 확전을 피하려 이스라엘의 공격 계획을 막았다는 FT 보도가 나왔어요.",
+    "나와의 연결: 브렌트유가 108달러대로 높아 미국 금리가 잘 안 내려가요. 장기채 비중은 지금보다 늘리지 않는 편이 안전해요."
+   ],
+   "important": false,
+   "keywords": ["휴전안", "이란"],
+   "note": "트럼프의 이스라엘 공격 저지 내용은 FT 보도를 CBS가 전한 것이고, 공식 확인은 없어요.",
+   "sources": [
+    {"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"},
+    {"title": "Investrade(유가)", "url": "https://investrade.com/market-review-october-21-2026/"}
+   ],
+   "summary": "이란 외무장관은 \"협상 테이블은 그대로\"라고 했어요",
+   "tag": "war",
+   "tagLabel": "이란전쟁",
+   "title": "미·이란 7일 휴전안 간접협상 계속, 조건 맞서"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "21일 사우디 담맘의 킹파흐드 국제공항이 공격받아 1명이 숨지고 8명이 다쳤어요. 샤이바 유전에선 드론 잔해로 2명이 숨졌어요.",
+    "CBS는 후티의 사우디 공격으로 지금까지 20명 넘게 숨졌다고 전했어요. 미 국무부는 사우디 주재 비필수 인력에 철수를 명령했어요.",
+    "미국 관리들은 미군이 중동 기지 인력을 조용히 줄이고 있다고 했어요. 리야드 공항은 10일 만에 일부 운항을 재개했어요."
+   ],
+   "important": false,
+   "keywords": ["후티", "사우디"],
+   "sources": [
+    {"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"}
+   ],
+   "summary": "담맘 공항 공격으로 1명 숨지고 8명 다쳤어요",
+   "tag": "war",
+   "tagLabel": "중동",
+   "title": "후티 공격에 사우디 공항 피해, 미군은 축소"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "웹사이트 언어 PHP의 치명적 결함 'PHP2Shell'로 네덜란드·핀란드 등 유럽 정부 사이트와 위키백과 일부가 패치 전까지 접속을 막았어요.",
+    "미국 국가안보국(NSA)도 경고를 냈어요. PHP 팀은 21일 긴급 업데이트를 내놨어요.",
+    "일반 사용자는 PHP를 직접 고칠 필요는 없지만, 이상한 다운로드나 반복 로그인 요구가 보이면 그 사이트를 떠나는 게 좋아요."
+   ],
+   "important": false,
+   "keywords": ["PHP2Shell"],
+   "sources": [
+    {"title": "Insurance Business", "url": "https://www.insurancebusinessmag.com/us/news/cyber/nsa-warns-of-critical-website-flaw-as-wikipedia-european-government-websites-taken-offline-594432.aspx"},
+    {"title": "BleepingComputer", "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"}
+   ],
+   "summary": "미 NSA도 경고했고, 각국이 긴급 패치를 서두르고 있어요",
+   "tag": "etc",
+   "tagLabel": "보안",
+   "title": "PHP2Shell에 유럽 정부 사이트·위키 잠시 닫아"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "트럼프 대통령은 20일 공화당 후보 지원에 4억 달러 넘게 쓰겠다고 밝혔어요.",
+    "로이터/입소스 조사에서 트럼프 지지율은 31%로 역대 최저였어요. 경제와 이란 전쟁이 공화당에 부담이에요.",
+    "나와의 연결: 선거 결과는 관세·이민 정책과 미국 증시에 영향을 줄 수 있어요. 산호세 친척들에게도 중요한 선거예요."
+   ],
+   "important": false,
+   "keywords": ["트럼프", "4억 달러"],
+   "sources": [
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections"}
+   ],
+   "summary": "11월 3일 선거를 앞두고 지지율은 31%로 최저예요",
+   "tag": "etc",
+   "tagLabel": "미국",
+   "title": "트럼프, 중간선거에 4억 달러 투입 선언"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "농림축산식품부는 순천만 야생조류 분변에서 올겨울 첫 고병원성 조류인플루엔자가 나왔다고 밝혔어요.",
+    "정부는 전국 위기경보를 가장 높은 '심각' 단계로 올리고 특별 방역에 들어갔어요.",
+    "철새 도래지 근처에선 새를 만지거나 가까이 가지 않는 게 좋아요. 달걀·닭고기 값이 오를 수 있어요."
+   ],
+   "important": false,
+   "keywords": ["순천만", "고병원성 AI"],
+   "sources": [
+    {"title": "머니투데이", "url": "https://www.mt.co.kr/economy/2026/10/20/2026102013461916065"},
+    {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026102015480886664"}
+   ],
+   "summary": "야생조류 분변에서 검출돼 전국 위기경보가 올라갔어요",
+   "tag": "etc",
+   "tagLabel": "사회",
+   "title": "순천만서 올겨울 첫 고병원성 AI, 경보 '심각'"
+  }
+ ],
+ "subhead": "반도체 대형주가 4~5% 빠졌고, 대만 타이베이는 23일 학교·회사·증시가 쉬어요.",
+ "updatedLabel": "10/22 22:05",
+ "watch": [
+  "북한 확성기 실제 재개 여부와 우리 군의 대응",
+  "태풍 참피의 23~24일 대만 피해와 대만 증시 재개",
+  "오늘 밤 뉴욕장과 코스피 반도체주 반등 여부",
+  "27~28일 FOMC와 다음 주 미국 PCE 물가"
+ ]
+}
