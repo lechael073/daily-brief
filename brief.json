@@ -1,74 +1,168 @@
 {
   "date": "2026-10-23",
-  "updatedLabel": "10/23 07:05",
-  "kicker": "속보",
-  "headline": "나스닥 2.6% 급락·미 10년물 5% 아래로…AI 투자 걱정 커져",
-  "subhead": "유가는 브렌트 113달러로 뛰고 금값은 2.9% 내렸어요. 대만엔 오늘 태풍이 가장 가까이 와요.",
-  "advice": "나스닥·반도체 비중이 큰 만큼 급락에 바로 사지 말고, 비중이 목표에서 얼마나 벗어났는지만 먼저 점검해요.",
-  "marketsAsOf": "10/22 뉴욕 · 10/22 서울 마감 기준",
+  "updatedLabel": "10/23 16:05",
+  "kicker": "오늘의 한 줄",
+  "headline": "코스피 장중 4% 급락 뒤 반등…유가 113달러, 대만엔 태풍",
+  "subhead": "AI 투자 걱정과 이란 전쟁 유가 부담이 겹쳤지만, 오후엔 반도체주가 지수를 되살렸어요.",
+  "advice": "증시가 하루에 4%씩 출렁이니 주식 39% 비중이 목표 안인지 점검만 하고, 분할 원칙을 지켜요.",
+  "marketsAsOf": "10/22 뉴욕 · 10/23 서울 마감 기준",
   "markets": [
-    {"label":"미 10년물","value":"4.96%","change":"-0.17%p","dir":"down"},
-    {"label":"미 2년물","value":"4.65%","change":"-0.16%p","dir":"down"},
-    {"label":"미 기준금리","value":"3.75–4.00%","change":"9/16 +0.25%p","dir":"up"},
-    {"label":"한은 기준금리","value":"3.00%","change":"10/22 동결","dir":"flat"},
-    {"label":"S&P 500","value":"7,663.43","change":"-1.21%","dir":"down"},
-    {"label":"코스피","value":"5,533.77","change":"-3.52%","dir":"down"}
+    {"label": "미 10년물", "value": "4.96%", "change": "-0.17%p", "dir": "down"},
+    {"label": "미 2년물", "value": "4.65%", "change": "-0.16%p", "dir": "down"},
+    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
+    {"label": "한은 기준금리", "value": "3.00%", "change": "10/22 동결", "dir": "flat"},
+    {"label": "S&P 500", "value": "7,663.43", "change": "-1.21%", "dir": "down"},
+    {"label": "코스피", "value": "5,550.30", "change": "+0.30%", "dir": "up"}
   ],
   "stories": [
-    {"tag":"econ","tagLabel":"속보·증시","breaking":true,"important":false,"keywords":["나스닥","2.6%"],
-     "title":"나스닥 2.6% 급락, AI 투자 걱정에 기술주 흔들",
-     "summary":"메타가 약 7% 떨어지고 반도체주가 크게 밀렸어요",
-     "details":["22일 나스닥은 2.60% 내린 26,008.86, S&P 500은 1.21% 내린 7,663.43으로 마감했어요. 다우는 0.02% 올라 거의 그대로였어요.","메타는 막대한 투자 계획에 비해 돈을 벌 수 있을지 의문이 커지며 약 7% 떨어졌어요. 램리서치의 공급 경고도 겹쳐 반도체주가 약했어요.","테슬라는 실적이 예상보다 좋았지만 3.08% 내렸고, 필수소비재·유틸리티 같은 방어주는 올랐어요.","나와의 연결: QQQ·QQQM·알파벳·엔비디아 등 기술주 비중이 커요. 오늘 코스피 반도체주에도 부담이 될 수 있으니 서둘러 사고팔지 않는 게 좋아요."],
-     "sources":[{"title":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"},{"title":"investingLive","url":"https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/"}]},
-    {"tag":"econ","tagLabel":"속보·금리","breaking":true,"important":false,"keywords":["10년물","5%"],
-     "title":"미 10년물 금리 5% 아래로, 2년여 만에 최대 하락",
-     "summary":"주식에서 빠진 돈이 국채로 몰렸어요",
-     "details":["미 10년물 금리는 약 0.17%p 내린 4.96%, 2년물은 약 0.16%p 내린 4.65%로 마감했어요. 하루 낙폭은 2년여 만에 가장 컸어요.","유가가 올랐는데도 채권시장은 물가 급등을 크게 걱정하지 않는 모습이었어요. 신규 실업수당 청구는 19만 4천 건으로 3개월 만에 가장 적었어요.","선물시장은 연준이 올해 한 번 더 올릴 가능성을 여전히 더 높게 봐요. 금값은 약 2.9% 내린 4,020달러대였어요.","나와의 연결: 금리가 내리면 TLT 같은 장기채 값은 오르고 TBF 같은 헤지 상품은 내려요. 금값 하락은 금광주 펀드에 부담이에요."],
-     "note":"금리 낙폭은 매체마다 0.17~0.185%p로 조금 달라요.",
-     "sources":[{"title":"investingLive","url":"https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/"},{"title":"Capp Notes","url":"https://cappnotes.substack.com/p/closing-look-thursday-october-22"},{"title":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"}]},
-    {"tag":"war","tagLabel":"이란전쟁","breaking":false,"important":true,"keywords":["이란","113달러"],
-     "title":"미·이스라엘 이란 재공습 계획 보도, 브렌트 113달러",
-     "summary":"중간선거 뒤 짧고 강한 공습을 준비한다는 보도가 나왔어요",
-     "details":["이스라엘 쪽 소식통은 미군과 이스라엘군이 미국 중간선거 뒤 이란 석유화학·핵 시설을 다시 공격할 계획을 세웠다고 했어요. 백악관은 선거 전에는 공격하지 않는다고만 밝혔어요.","이란 혁명수비대는 페르시아만에서 선박 4척을 공격했다고 주장했고, 사우디 담맘 공항 공격으로 2명이 숨졌어요. 미 국무부는 사우디 주재 비필수 인력에 철수를 명령했어요.","12월물 브렌트유는 4.0% 오른 113.17달러, WTI는 2.39% 오른 99.47달러로 5월 이후 가장 높았어요.","나와의 연결: 유가가 높으면 물가와 금리 걱정이 다시 커질 수 있어요. 달러 정기예금 만기 사다리는 그대로 유지하는 게 무난해요."],
-     "note":"재공습 계획은 이스라엘 매체 보도이고 공식 확인은 없어요. 선박 공격은 이란 쪽 주장이에요.",
-     "sources":[{"title":"ABC News","url":"https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"},{"title":"Times of Israel","url":"https://www.timesofisrael.com/us-israel-said-to-draft-plans-for-resumed-strikes-on-iran-after-midterm-elections/"},{"title":"Capp Notes(유가)","url":"https://cappnotes.substack.com/p/closing-look-thursday-october-22"}]},
-    {"tag":"etc","tagLabel":"대만","breaking":false,"important":true,"keywords":["태풍 참피"],
-     "title":"태풍 참피 오늘 밤 대만 최근접, 125편 결항",
-     "summary":"타이베이는 오늘 휴교·휴업, 대만 증시도 쉬어요",
-     "details":["대만 중앙기상서는 22일 육상경보를 냈고, 참피는 23일 늦게 대만에 가장 가까이 올 전망이에요. 항공편 125편이 결항됐어요.","타이베이시는 23일 학교와 회사를 쉬기로 했고, 대만 금융시장도 하루 휴장해요. 북부와 이란현에 매우 강한 비가 예상돼요.","참피는 대만 북동쪽을 지나 일요일쯤 약해질 전망이지만, 오키나와와 제주·남부 지방도 영향권에 들 수 있다는 보도가 있어요.","나와의 연결: 대만 친척에게 외출을 줄이고 정전·결항에 대비하라고 연락해 보세요."],
-     "note":"경로는 아직 바뀔 수 있어요. 한국 영향은 기상청 발표를 확인해요.",
-     "sources":[{"title":"뉴스1","url":"https://www.news1.kr/world/northeast-asia/6328603"},{"title":"Focus Taiwan","url":"https://focustaiwan.tw/society/202610210020"},{"title":"Reuters(Devdiscourse 전재)","url":"https://www.devdiscourse.com/article/international/3996450-taiwans-financial-markets-to-close-on-friday-due-to-typhoon-champi"}]},
-    {"tag":"kr","tagLabel":"한반도","breaking":false,"important":false,"keywords":["김여정","확성기"],
-     "title":"김여정 \"대남 확성기 수일 내 재개\" 예고",
-     "summary":"국방부는 실행하면 '비례적 조치'를 하겠다고 했어요",
-     "details":["김여정은 22일 우리 군의 경고방송·경고사격을 '도발'이라 부르며, 며칠 안에 대남 확성기를 다시 틀겠다고 했어요.","국방부는 북한이 실행하면 비례적으로 대응하겠다면서도, 구체적 조치는 아직 정하지 않았다고 했어요.","합참은 기존 확성기 정비 움직임은 있지만 새 무기의 전방 배치는 없다고 했어요. 남북 군 통신선은 끊긴 상태예요."],
-     "sources":[{"title":"파이낸셜뉴스","url":"https://www.fnnews.com/news/202610221204271289"},{"title":"오마이뉴스","url":"https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277631"}]},
-    {"tag":"kr","tagLabel":"한국","breaking":false,"important":false,"keywords":["박성재","9년"],
-     "title":"박성재 전 법무장관, 2심서 징역 9년으로 감형",
-     "summary":"1심 25년에서 16년 줄었어요",
-     "details":["서울고법은 21일 내란 가담 혐의로 기소된 박성재 전 법무부 장관에게 1심 징역 25년을 깨고 징역 9년을 선고했어요.","법원은 계엄이 위헌인 줄 알면서도 출입국·교정 공무원에게 지시를 내렸다고 봤지만, 계엄을 미리 함께 꾸민 것은 아니라고 판단했어요.","권리행사방해 혐의는 실제 출국금지·구금이 없었다는 이유로 무죄로 봤어요. 대법원 상고 여부는 아직 알려지지 않았어요."],
-     "sources":[{"title":"파이낸셜뉴스","url":"https://www.fnnews.com/news/202610211606302653"}]},
-    {"tag":"etc","tagLabel":"미국","breaking":false,"important":false,"keywords":["허리케인 라나","마이애미"],
-     "title":"허리케인 라나, 마이애미에 허리케인 주의보",
-     "summary":"금요일 늦게 남부 플로리다를 스칠 전망이에요",
-     "details":["라나는 22일 1등급 허리케인으로 강해졌어요. 최대 풍속은 시속 약 80마일(약 130km)이고 더 강해질 수 있어요.","마이애미데이드·브로워드 카운티에 허리케인 주의보가 내려졌고, 대피 구역 A·B 주민은 준비를 시작하라는 권고를 받았어요.","태풍의 눈은 금요일 늦게 마이애미데이드에서 약 60마일 안쪽까지 다가올 전망이에요."],
-     "note":"학교 조기 하교 소식은 SBHNews에만 있고 다른 매체로는 확인하지 못했어요.",
-     "sources":[{"title":"FOX 5 Miami","url":"https://fox5miami.com/article/tropical-storm-lana-category-1"},{"title":"SBHNews","url":"https://www.sbhnews.com"}]},
-    {"tag":"etc","tagLabel":"보안","breaking":false,"important":false,"keywords":["PHP2Shell"],
-     "title":"PHP2Shell에 유럽 정부 사이트·위키 잠시 닫아",
-     "summary":"미 NSA도 경고했고, 각국이 긴급 패치를 서두르고 있어요",
-     "details":["웹사이트 언어 PHP의 치명적 결함 'PHP2Shell'로 네덜란드·핀란드 등 유럽 정부 사이트와 위키백과 일부가 패치 전까지 접속을 막았어요.","미국 국가안보국(NSA)도 경고를 냈어요. PHP 팀은 21일 긴급 업데이트를 내놨어요.","일반 사용자는 PHP를 직접 고칠 필요는 없지만, 이상한 다운로드나 반복 로그인 요구가 보이면 그 사이트를 떠나는 게 좋아요."],
-     "sources":[{"title":"Insurance Business","url":"https://www.insurancebusinessmag.com/us/news/cyber/nsa-warns-of-critical-website-flaw-as-wikipedia-european-government-websites-taken-offline-594432.aspx"},{"title":"BleepingComputer","url":"https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"}]},
-    {"tag":"etc","tagLabel":"미국","breaking":false,"important":false,"keywords":["트럼프","4억 달러"],
-     "title":"트럼프, 중간선거에 4억 달러 투입 선언",
-     "summary":"11월 3일 선거를 앞두고 지지율은 31%로 최저예요",
-     "details":["트럼프 대통령은 20일 공화당 후보 지원에 4억 달러 넘게 쓰겠다고 밝혔어요.","로이터/입소스 조사에서 트럼프 지지율은 31%로 역대 최저였어요. 경제와 이란 전쟁이 공화당에 부담이에요.","나와의 연결: 선거 결과는 관세·이민 정책과 미국 증시에 영향을 줄 수 있어요. 산호세 친척들에게도 중요한 선거예요."],
-     "sources":[{"title":"Al Jazeera","url":"https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections"}]},
-    {"tag":"etc","tagLabel":"사회","breaking":false,"important":false,"keywords":["순천만","고병원성 AI"],
-     "title":"순천만서 올겨울 첫 고병원성 AI, 경보 '심각'",
-     "summary":"야생조류 분변에서 검출돼 전국 위기경보가 올라갔어요",
-     "details":["농림축산식품부는 순천만 야생조류 분변에서 올겨울 첫 고병원성 조류인플루엔자가 나왔다고 밝혔어요.","정부는 전국 위기경보를 가장 높은 '심각' 단계로 올리고 특별 방역에 들어갔어요.","철새 도래지 근처에선 새를 만지거나 가까이 가지 않는 게 좋아요. 달걀·닭고기 값이 오를 수 있어요."],
-     "sources":[{"title":"머니투데이","url":"https://www.mt.co.kr/economy/2026/10/20/2026102013461916065"},{"title":"아시아경제","url":"https://view.asiae.co.kr/article/2026102015480886664"}]}
+    {
+      "tag": "econ", "tagLabel": "증시", "breaking": false, "important": true,
+      "keywords": ["코스피", "4%"],
+      "title": "코스피 장중 4% 급락 딛고 0.3% 반등 마감",
+      "summary": "나스닥 2.6% 급락 충격에 흔들렸다가 오후에 반도체주가 회복했어요.",
+      "details": [
+        "코스피는 2.36% 내린 5,403에 출발해 한때 4%대까지 빠졌지만, 5,550.30(+0.30%)으로 장을 마쳤어요.",
+        "전날 뉴욕에선 AI 투자비 걱정에 나스닥이 2.6%, 메타가 약 7% 떨어졌어요.",
+        "SK하이닉스는 솔리다임 상장 철회 소식에 4.42% 올랐고, 외국인은 약 1조 원어치를 팔았어요.",
+        "나와의 연결: 주식이 자산의 약 39%이고 나스닥100·알파벳 비중도 커서, 하루 변동이 크게 느껴질 수 있어요."
+      ],
+      "note": "코스닥 종가는 확인 못 했어요(장중 약 1.6% 하락).",
+      "sources": [
+        {"title": "아주경제", "url": "https://www.ajunews.com/view/20261023151318414"},
+        {"title": "머니투데이", "url": "https://www.mt.co.kr/stock/2026/10/23/2026102308440744102"},
+        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"}
+      ]
+    },
+    {
+      "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
+      "keywords": ["트럼프", "113달러"],
+      "title": "트럼프 \"이란이 선박 피격 꾸며내\"…브렌트 113달러",
+      "summary": "호르무즈 유조선 피격 주장과 사우디 공격에 유가가 5월 이후 최고예요.",
+      "details": [
+        "이란 혁명수비대는 걸프 해역에서 선박 7척이 공격받거나 기뢰에 부딪혔다고 주장했어요.",
+        "트럼프 대통령은 이란이 중간선거 전에 유가를 올리려고 피격을 꾸며낸다고 비난했고, 브렌트유는 약 4% 올라 113달러 안팎이 됐어요.",
+        "사우디에선 후티 공격으로 공항·유전 근처에서 사상자가 났고, 미국은 비필수 공관 인력에 출국을 명령했어요.",
+        "나와의 연결: 유가가 오르면 물가와 금리 걱정이 커져 채권·주식 모두 흔들릴 수 있어요."
+      ],
+      "note": "선박 피격 규모는 이란 측 주장이고, 후티의 사우디 공격 일부도 독립 확인되지 않았어요.",
+      "sources": [
+        {"title": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"},
+        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
+      "keywords": ["참피", "600편"],
+      "title": "태풍 참피에 대만 학교·증시 휴무, 600편 결항",
+      "summary": "대만 북동쪽 바다로 지나가며 이틀 가까이 강풍·폭우가 예상돼요.",
+      "details": [
+        "대만은 23일 진먼을 뺀 거의 전역에서 학교와 직장을 쉬게 했고, 금융시장도 문을 닫았어요.",
+        "국내선 262편 전부와 국제선 350여 편이 취소됐고, 타이베이 지하철은 줄여서 운행해요.",
+        "직접 상륙은 예보되지 않았지만 최대 순간풍속 약 191km/h, 북부 산지에 최대 1m 가까운 비가 예보됐어요.",
+        "나와의 연결: 대만 친척분들 지역의 안전 소식을 확인해 보세요. 대만 증시 휴장으로 대만테크 ETF 가격 반영이 늦어질 수 있어요."
+      ],
+      "sources": [
+        {"title": "Nation Thailand", "url": "https://www.nationthailand.com/news/general/40072634"},
+        {"title": "Reuters (GMA)", "url": "https://www.gmanetwork.com/news/topstories/world/1006789/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi/story/"}
+      ]
+    },
+    {
+      "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": false,
+      "keywords": ["김여정", "확성기"],
+      "title": "김여정 \"확성기 수일 내 재개\"…군 \"도발 시 단호 대응\"",
+      "summary": "북한이 국경 전역에 새 대응 조치를 예고했고, 군은 감시를 늘렸어요.",
+      "details": [
+        "김여정 부장은 우리 군의 경고방송·경고사격을 문제 삼으며 대남 확성기를 며칠 안에 다시 틀겠다고 했어요.",
+        "국방부는 북한군의 군사분계선 침범이 정전협정 위반이라고 했고, 합참의장은 도발 시 단호히 대응하라고 지시했어요.",
+        "아직 확성기가 실제로 다시 켜졌다는 확인은 없어요."
+      ],
+      "note": "김여정 담화 속 경고방송·사격 횟수는 북한 측 주장이에요.",
+      "sources": [
+        {"title": "YTN", "url": "https://www.ytn.co.kr/_ln/0101_202610201240325358"},
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/kim-yoeong-threats-border-response-speakers-2222165d-2026-10-22-AM-07-19"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "보안", "breaking": false, "important": false,
+      "keywords": ["PHP", "주의"],
+      "title": "PHP 치명적 취약점에 정부 사이버 경보 '주의' 상향",
+      "summary": "AI가 찾아낸 결함으로 세계 웹사이트 상당수가 위험해 긴급 패치가 나왔어요.",
+      "details": [
+        "PHP 재단은 21일 치명적 취약점 2건을 공개하고 긴급 패치를 내놨어요. 발견 과정에 AI 도구가 쓰였어요.",
+        "클라우드플레어는 소식이 퍼진 뒤 45분 만에 공격 시도가 수만 건이었다고 했고, 일부 유럽 정부는 사이트를 잠시 닫았어요.",
+        "과기정통부는 22일 민간 분야 사이버위기 경보를 '주의'로 올리고 즉시 업데이트를 당부했어요."
+      ],
+      "note": "'인터넷의 70%가 영향'은 보안업체 Wiz의 추산이에요.",
+      "sources": [
+        {"title": "Fortune", "url": "https://fortune.com/2026/10/21/ai-tools-discovered-the-php-vulnerability-that-could-take-down-70-of-the-internet-now-the-race-is-on-to-patch-it-before-ai-powered-hackers-attack/"},
+        {"title": "아주경제", "url": "https://www.ajunews.com/view/20261022162552984"},
+        {"title": "대한민국 정책브리핑", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974113&pWise=main&pWiseMain=A3"}
+      ]
+    },
+    {
+      "tag": "war", "tagLabel": "우크라이나", "breaking": false, "important": false,
+      "keywords": ["3자 회담", "11월"],
+      "title": "푸틴·젤렌스키, 미국 중재 3자 회담 지지…11월 재개 전망",
+      "summary": "위트코프 특사가 양쪽을 만났지만, 같은 날 키이우엔 공습이 이어졌어요.",
+      "details": [
+        "푸틴 대통령은 21일 위트코프 특사를 만나 3자 협상에 원칙적으로 응하겠다고 했고, 젤렌스키 대통령도 지지했어요.",
+        "크렘린은 11월 중순, 젤렌스키는 늦어도 11월 초를 말해 날짜는 아직 정해지지 않았어요.",
+        "한편 흑해에선 루마니아·불가리아 앞바다 선박이 드론 공격을 받아 NATO 동쪽의 긴장도 커졌어요."
+      ],
+      "note": "예측시장의 '회담 확률 64%' 같은 수치는 참가자 기대일 뿐 확정된 사실이 아니에요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy"},
+        {"title": "AP (PBS)", "url": "https://www.pbs.org/newshour/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response"}
+      ]
+    },
+    {
+      "tag": "econ", "tagLabel": "환율", "breaking": false, "important": false,
+      "keywords": ["1,324원"],
+      "title": "원/달러 1,324원 마감, 미 금리 하락 속 소폭 상승",
+      "summary": "미 10년물 금리가 5% 아래로 내려왔지만 환율은 0.4원 오르는 데 그쳤어요.",
+      "details": [
+        "원/달러 환율은 23일 주간거래에서 전날보다 0.4원 오른 1,324.6원에 마감했어요.",
+        "전날 미 국채 10년물 금리는 기술주 급락과 안전자산 수요에 4.9%대로 내려왔어요.",
+        "나와의 연결: 지난 스냅샷 때 약 1,344원보다 낮아, 달러 자산의 원화 환산액은 조금 줄었어요. 달러는 바꾸지 않기로 했으니 신경 쓸 부분은 달러 예금 금리예요."
+      ],
+      "sources": [
+        {"title": "머니투데이", "url": "https://www.mt.co.kr/economy/2026/10/23/2026102315223170326"},
+        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "한국", "breaking": false, "important": false,
+      "keywords": ["공소청", "공소취소"],
+      "title": "공소청 첫 국감…\"李 공소취소 검토한 적 없어\"",
+      "summary": "검찰총장 직무대행이 대통령 사건 공소취소 논란에 선을 그었어요.",
+      "details": [
+        "22일 공소청 출범 뒤 첫 국정감사에서 이정현 검찰총장 직무대행은 공소취소를 꺼낸 적도 없다고 답했어요.",
+        "여야는 진상조사단 활동, 수사·기소기관장의 국무회의 배석 문제 등을 두고 크게 부딪혔어요."
+      ],
+      "sources": [
+        {"title": "파이낸셜뉴스", "url": "https://fnnews.com/news/202610221709571686"},
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/prosecution-office-first-audit-bb9b9ce7-2026-10-22-AM-06-00"}
+      ]
+    },
+    {
+      "tag": "etc", "tagLabel": "미국", "breaking": false, "important": false,
+      "keywords": ["라나", "마이애미"],
+      "title": "허리케인 라나, 마이애미 근처 통과 예상",
+      "summary": "1등급으로 세진 라나 때문에 마이애미데이드·브로워드에 주의보가 내려졌어요.",
+      "details": [
+        "열대폭풍 라나가 1등급 허리케인으로 강해졌고, 금요일 남플로리다를 스칠 것으로 예보됐어요.",
+        "마이애미데이드와 브로워드 카운티에 허리케인 주의보가 발령됐어요."
+      ],
+      "sources": [
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/hurricane-lana-miami-watch-bd58e3bd-2026-10-23-AM-09-00"},
+        {"title": "FOX 5 Miami", "url": "https://fox5miami.com/article/tropical-storm-lana-category-1"}
+      ]
+    }
   ],
-  "watch": ["오늘 코스피 반도체주가 나스닥 급락을 얼마나 따라갈지","태풍 참피의 대만 피해와 제주·남부 영향","미 10년물 5% 아래 유지 여부와 27~28일 FOMC","북한 확성기 실제 재개 여부"]
+  "watch": [
+    "오늘 밤 뉴욕에서 기술주 급락이 이어질지",
+    "태풍 참피의 대만 피해와 대만 증시 재개",
+    "북한 확성기 실제 재개 여부",
+    "브렌트유 113달러 유지 여부와 27~28일 FOMC"
+  ]
 }
