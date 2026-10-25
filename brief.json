@@ -1,167 +1,183 @@
 {
-  "date": "2026-10-25",
-  "updatedLabel": "10/25 07:05",
-  "kicker": "오늘의 한 줄",
-  "headline": "김정은 깜짝 방중…이란은 \"미 군함 접근 땐 발포\" 경고",
-  "subhead": "브렌트유는 117달러 안팎으로 4월 이후 최고, 이번 주엔 FOMC와 이스라엘 총선이 있어요.",
-  "advice": "유가·금리 부담이 큰 FOMC 주간이라 장기채를 늘리기보다 달러 예금 사다리를 유지해요.",
-  "marketsAsOf": "10/23 뉴욕 · 10/23 서울 마감 기준 (주말)",
-  "markets": [
-    {"label": "미 10년물", "value": "5.00%", "change": "+0.05%p", "dir": "up"},
-    {"label": "미 2년물", "value": "4.69%", "change": "+0.05%p", "dir": "up"},
-    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
-    {"label": "한은 기준금리", "value": "3.00%", "change": "10/22 동결", "dir": "flat"},
-    {"label": "S&P 500", "value": "7,623.68", "change": "-0.52%", "dir": "down"},
-    {"label": "코스피", "value": "5,550.30", "change": "+0.30%", "dir": "up"}
-  ],
-  "stories": [
-    {
-      "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": true,
-      "keywords": ["김정은", "신압록강대교"],
-      "title": "김정은, 신압록강대교 건너 깜짝 방중",
-      "summary": "사망설 속 13개월 만에 단둥을 당일 방문하고 돌아갔어요.",
-      "details": [
-        "김정은 위원장이 24일 개통 9일 된 신압록강대교를 차로 건너 중국 단둥에 도착했어요. 작년 9월 이후 13개월 만의 방중이에요.",
-        "중국 서열 4위 왕후닝 정협 주석이 항미원조 기념관에 함께 갔고, 왕이 외교부장은 자동차 공장 방문에 동행했어요. 리창 총리가 맞았다는 보도도 있어요.",
-        "시진핑 주석과의 회담은 확인되지 않았고, 김 위원장은 같은 날 다리를 건너 북한으로 돌아갔어요. SNS에서 돌던 사망설은 사실상 정리됐어요.",
-        "다음 달 선전 APEC 정상회의를 앞두고 북미 대화 신호인지 관심이 커요."
-      ],
-      "note": "리창 총리 영접 여부는 매체마다 표현이 달라요.",
-      "sources": [
-        {"title": "YTN", "url": "https://www.ytn.co.kr/_ln/0101_202610242151432007"},
-        {"title": "SBS", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813234"},
-        {"title": "Korea JoongAng Daily", "url": "https://www.koreajoongangdaily.com/korea/north-korean-leader-kim-jongun-wraps-china-trip/12936425"}
-      ]
-    },
-    {
-      "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
-      "keywords": ["이란", "미 군함"],
-      "title": "이란 \"미 군함 접근하면 발포\"…유조선 기뢰 피격 주장",
-      "summary": "트럼프의 재공습 시사에 이란이 맞경고했고 브렌트유가 117달러 안팎까지 올랐어요.",
-      "details": [
-        "이란군 압돌라히 총참모장은 미 해군이 이란 해역과 주변에 다시 들어오면 발포할 준비가 돼 있다고 경고했어요.",
-        "혁명수비대는 호르무즈 해협 남쪽 무허가 항로를 지나던 초대형 유조선 2척이 기뢰에 맞아 멈췄다고 주장했어요. 두 배엔 원유 450만 배럴 이상이 실려 있었다고 해요.",
-        "트럼프 대통령은 대규모 추가 공습과 해상봉쇄·제재 유지 사이에서 고민 중이라고 알자지라가 전했어요. 브렌트유는 약 117달러로 4월 이후 최고예요.",
-        "나와의 연결: 유가가 물가·금리를 밀어 올리면 장기채(TLT 등)엔 부담이고, 달러 예금 금리엔 유리할 수 있어요."
-      ],
-      "note": "유조선 기뢰 피격은 이란 국영방송 주장이고, 선사나 독립 기관의 확인은 아직 없어요.",
-      "sources": [
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"},
-        {"title": "The Tribune", "url": "https://www.tribuneindia.com/news/world/iran-warns-us-against-entering-persian-gulf-as-irgc-claims-2-supertankers-hit-naval-mines-near-strait-of-hormuz"}
-      ]
-    },
-    {
-      "tag": "econ", "tagLabel": "금리", "breaking": false, "important": false,
-      "keywords": ["FOMC", "5%"],
-      "title": "이번 주 FOMC…미 10년물 5% 속 금리 결정",
-      "summary": "유가와 강한 제조업 지표에 국채 금리가 5%로 올라선 채 연준 회의를 맞아요.",
-      "details": [
-        "23일 미 10년물 금리는 5.00%, 2년물은 4.69%로 마감했어요. S&P 글로벌 제조업 PMI가 56.0으로 예상(55.5)보다 높아 금리 인하 기대가 줄었어요.",
-        "연준은 27~28일 회의를 열고, 동결 전망이 많아요. 같은 28일엔 SK하이닉스와 알파벳 등 빅테크 실적도 나와요.",
-        "나와의 연결: 주식이 자산의 약 39%이고 S&P500·나스닥100 ETF와 알파벳 비중이 커서, 이번 주 결과가 바로 전해져요."
-      ],
-      "sources": [
-        {"title": "Rio Times", "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-october-23-2026/"},
-        {"title": "Kiplinger", "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"}
-      ]
-    },
-    {
-      "tag": "war", "tagLabel": "예멘", "breaking": false, "important": false,
-      "keywords": ["리야드", "후티"],
-      "title": "후티, 리야드에 또 탄도미사일…사우디 요격",
-      "summary": "24일 새벽 리야드에서 폭발음 2번이 들렸고, 동부엔 드론도 날아왔어요.",
-      "details": [
-        "사우디 주도 연합군은 후티 반군이 리야드를 향해 쏜 탄도미사일과 동부 지역 드론을 요격했다고 밝혔어요. 민방위는 조기경보를 울렸어요.",
-        "후티는 최근 담맘 공항과 샤이바 유전도 노렸고, 사우디는 예멘 여러 지역을 공습하고 있어요.",
-        "미국은 사우디 주재 외교 인력 상당수에 출국을 지시한 것으로 전해졌어요. 이란은 후티 공격과의 관련을 부인해요."
-      ],
-      "note": "리야드 피해 규모는 아직 발표되지 않았어요.",
-      "sources": [
-        {"title": "Malay Mail (AFP)", "url": "https://www.malaymail.com/news/world/2026/10/24/riyadh-wakes-to-blasts-as-houthis-keep-up-missile-strikes-on-saudi-arabia/240413"},
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"}
-      ]
-    },
-    {
-      "tag": "econ", "tagLabel": "금값", "breaking": false, "important": false,
-      "keywords": ["금값", "3.8%"],
-      "title": "금값 한 주 새 3.8% 하락…온스당 4,012달러",
-      "summary": "국채 금리와 달러가 오르자 이자가 없는 금의 매력이 줄었어요.",
-      "details": [
-        "금 현물은 23일 0.30% 내린 온스당 4,011.71달러로 마감해, 16일(4,168달러)보다 약 3.8% 낮아졌어요.",
-        "금광주는 더 크게 빠져서 GDX는 1.82%, 뉴몬트는 4.59% 내렸어요. 달러인덱스는 101.75로 올랐어요.",
-        "나와의 연결: 금광주 펀드와 금현물 ETF는 비중이 작지만, 금광주는 금값보다 더 크게 움직인다는 점을 기억해 두세요."
-      ],
-      "sources": [
-        {"title": "Rio Times", "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-october-23-2026/"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "태풍", "breaking": false, "important": false,
-      "keywords": ["참피", "3,671건"],
-      "title": "태풍 참피, 대만서 피해 신고 3,671건",
-      "summary": "대만 전역이 멈췄고, 제주 산지엔 26일까지 많은 비가 예상돼요.",
-      "details": [
-        "대만 연합보는 24일 태풍 참피로 인한 피해 신고가 3,671건이라고 1면에 보도했어요. 태풍이 느려지면서 24일 오전까지 비바람이 이어졌어요.",
-        "제주 산지엔 26일까지 최대 250mm의 비가 예상되고, 남부 지방에도 주말 내내 비가 와요.",
-        "나와의 연결: 대만 친척분들 지역의 피해와 교통 상황을 확인해 보세요."
-      ],
-      "note": "3,671건은 대만 신문 1면 제목 기준이고 정부 공식 집계는 따로 확인하지 못했어요.",
-      "sources": [
-        {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/society/202610240003"},
-        {"title": "SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008812784"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "이스라엘", "breaking": false, "important": false,
-      "keywords": ["이스라엘", "27일"],
-      "title": "이스라엘 27일 총선…네타냐후 진영 과반 못 미쳐",
-      "summary": "마지막 여론조사 3곳 모두 어느 진영도 61석을 넘지 못했어요.",
-      "details": [
-        "120석 의회에서 네타냐후 우파 진영은 50석, 야권은 52~56석으로 나왔어요. 아랍계 정당 14~16석이 승부를 가를 수 있어요.",
-        "제1당은 아이젠코트의 야샤르(22~23석)로, 리쿠드(19~21석)를 앞섰어요.",
-        "결과는 이란 전쟁의 방향에도 영향을 줄 수 있고, 연정 협상이 막히면 재선거 가능성도 있어요."
-      ],
-      "sources": [
-        {"title": "Ynet", "url": "https://www.ynetnews.com/article/s1wppltnme"},
-        {"title": "Anadolu", "url": "https://aa.com.tr/en/world/netanyahu-bloc-trailing-opposition-with-projected-50-seats-to-52-in-final-israeli-election-polls/4099160"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "프랑스", "breaking": false, "important": false,
-      "keywords": ["프랑스", "1,000명"],
-      "title": "프랑스 생활비 시위 41만 명…약 1,000명 체포",
-      "summary": "경찰 7만 명 넘게 배치됐지만 파리·리옹 등에서 충돌이 이어졌어요.",
-      "details": [
-        "24일 내무부 집계로 전국 약 41만 명(파리 11만 명)이 시위에 나왔고, 노조는 약 80만 명이라고 주장해요.",
-        "파리에선 최루탄과 물대포가 쓰였고 지하철역 24곳이 닫혔어요. 약탈은 지난주(상점 약 3,000곳 피해)보다 훨씬 줄었어요.",
-        "노조는 11월 5일 또 시위를 예고했어요. 이탈리아 밀라노·로마에서도 비슷한 시위가 있었어요."
-      ],
-      "sources": [
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert"},
-        {"title": "CBS News", "url": "https://cbsnews.com/news/paris-france-new-protests-riots-museums-shops"}
-      ]
-    },
-    {
-      "tag": "kr", "tagLabel": "정치", "breaking": false, "important": false,
-      "keywords": ["오세훈", "무죄"],
-      "title": "오세훈 서울시장, 여론조사비 대납 2심 무죄",
-      "summary": "1심 벌금 1,000만 원이 뒤집혔고 특검은 상고하겠다고 했어요.",
-      "details": [
-        "서울고법 형사7부는 23일 정치자금법 위반 혐의로 기소된 오세훈 시장에게 무죄를 선고했어요.",
-        "재판부는 핵심 직접 증거였던 명태균 씨 진술을 믿기 어렵고 뒷받침할 증거도 부족하다고 봤어요.",
-        "특검은 대법원에 상고할 계획이라 최종 판단은 대법원에서 나와요."
-      ],
-      "sources": [
-        {"title": "서울경제", "url": "https://sedaily.com/article/20105502"},
-        {"title": "SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008812784"},
-        {"title": "뉴시스", "url": "https://www.newsis.com/view/NISX20260723_0003719796"}
-      ]
-    }
-  ],
-  "watch": [
-    "미국의 이란 재공습 여부와 호르무즈 유조선 피해 확인",
-    "27일 이스라엘 총선 결과와 연정 구성",
-    "27~28일 FOMC와 28일 SK하이닉스·알파벳 실적",
-    "김정은 방중 뒤 북중·북미 움직임과 APEC"
-  ]
+ "date": "2026-10-25",
+ "updatedLabel": "10/25 16:03",
+ "kicker": "오늘의 한 줄",
+ "headline": "트럼프, 이란 재공습 쪽으로 기울어…FOMC 주간 앞두고 긴장",
+ "subhead": "김정은은 시진핑 없이 당일 귀국했고, 회사채 신용 스프레드는 17개월 만에 최고예요.",
+ "advice": "신용 위험이 커지는 때라 채권이 회사채보다 국채·예금 위주인지 비중을 점검해 보세요.",
+ "marketsAsOf": "10/23 뉴욕 · 10/23 서울 마감 기준 (주말)",
+ "markets": [
+  {"change": "+0.05%p", "dir": "up", "label": "미 10년물", "value": "5.00%"},
+  {"change": "+0.05%p", "dir": "up", "label": "미 2년물", "value": "4.69%"},
+  {"change": "9/16 +0.25%p", "dir": "up", "label": "미 기준금리", "value": "3.75–4.00%"},
+  {"change": "10/22 동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
+  {"change": "-0.52%", "dir": "down", "label": "S&P 500", "value": "7,623.68"},
+  {"change": "+0.30%", "dir": "up", "label": "코스피", "value": "5,550.30"}
+ ],
+ "stories": [
+  {
+   "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
+   "keywords": ["트럼프", "항모 3척째"],
+   "title": "트럼프, 이란 재공습 쪽으로 기울어…항모 3척째 이동",
+   "summary": "WSJ는 결정은 안 났지만 대규모 공격 재개에 무게가 실렸다고 전했어요.",
+   "details": [
+    "월스트리트저널은 24일 미 당국자를 인용해 트럼프 대통령이 이란 공격 재개 쪽으로 기울었지만 최종 결정은 안 했다고 보도했어요. 핵시설·다리 같은 기반시설 공습과 이란이 점령한 섬 공격이 선택지로 거론돼요.",
+    "미 항모전단 2개가 이미 중동에 있고, 세 번째가 태평양에서 이동 중이에요. 백악관은 11월 3일 중간선거 전엔 공격을 재개하지 않는다는 입장을 되풀이했어요.",
+    "이란군은 미 군함이 접근하면 발포하겠다고 경고했고, 페제시키안 대통령은 미국과의 협상 재개를 촉구했어요. 브렌트유는 약 117달러로 4월 이후 최고 수준이에요.",
+    "나와의 연결: 공습이 재개되면 유가·금리가 더 오를 수 있어 장기채(TLT 등)엔 부담, 달러 예금 금리엔 유리할 수 있어요."
+   ],
+   "sources": [
+    {"title": "i24NEWS", "url": "https://www.i24news.tv/en/news/middle-east/artc-death-toll-from-jordan-church-attack-rises-to-nine-live-blog"},
+    {"title": "Ynet", "url": "https://www.ynetnews.com/article/sk11b0i9hgx"},
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"}
+   ],
+   "note": "WSJ 보도는 익명 당국자 인용이고, 이란의 유조선 기뢰 피격 주장은 아직 독립 확인이 없어요."
+  },
+  {
+   "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": true,
+   "keywords": ["김정은", "당일 귀국"],
+   "title": "김정은, 시진핑 못 만나고 당일 귀국",
+   "summary": "북한 매체는 25일 김 위원장이 단둥 방문을 마치고 돌아왔다고 전했어요.",
+   "details": [
+    "김정은 위원장은 24일 신압록강대교를 건너 중국 단둥을 방문하고 같은 날 평양으로 돌아왔어요. 중국군 참전 76주년에 맞춘 방문으로, 작년 9월 이후 첫 방중이에요.",
+    "김여정 부부장과 최선희 외무상이 동행했고, 중국 서열 4위 왕후닝 정협 주석이 시진핑 주석의 지시로 환영 연회를 열었어요. 왕이 외교부장도 함께했어요.",
+    "김 위원장은 북중 관계를 '깨질 수 없는' 동맹이라고 했지만, 시 주석과의 회담은 없었어요. 다음 달 선전 APEC을 앞둔 북중·북미 움직임이 관심이에요."
+   ],
+   "sources": [
+    {"title": "Aju Press", "url": "https://www.ajupress.com/view/20261025095907597"},
+    {"title": "SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008813368"},
+    {"title": "Japan Times", "url": "https://www.japantimes.co.jp/news/2026/10/25/asia-pacific/politics/north-korea-kim-jong-un-china-dandong/"}
+   ]
+  },
+  {
+   "tag": "econ", "tagLabel": "금리", "breaking": false, "important": false,
+   "keywords": ["FOMC", "5%"],
+   "title": "이번 주 FOMC…미 10년물 5% 속 금리 결정",
+   "summary": "유가와 강한 제조업 지표에 국채 금리가 5%로 올라선 채 연준 회의를 맞아요.",
+   "details": [
+    "23일 미 10년물 금리는 5.00%, 2년물은 4.69%로 마감했어요. S&P 글로벌 제조업 PMI가 56.0으로 예상(55.5)보다 높아 금리 인하 기대가 줄었어요.",
+    "연준은 27~28일 회의를 열고, 동결 전망이 많아요. 같은 28일엔 SK하이닉스와 알파벳 등 빅테크 실적도 나와요.",
+    "나와의 연결: 주식이 자산의 약 39%이고 S&P500·나스닥100 ETF와 알파벳 비중이 커서, 이번 주 결과가 바로 전해져요."
+   ],
+   "sources": [
+    {"title": "Rio Times", "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-october-23-2026/"},
+    {"title": "Kiplinger", "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"}
+   ]
+  },
+  {
+   "tag": "econ", "tagLabel": "채권", "breaking": false, "important": false,
+   "keywords": ["신용 스프레드", "17개월"],
+   "title": "세계 회사채 신용 스프레드 17개월 만에 최고",
+   "summary": "AI 투자 거품 걱정과 중동 긴장에 회사채 위험 프리미엄이 커졌어요.",
+   "details": [
+    "블룸버그 지수 기준 세계 회사채 가산금리(스프레드)가 23일 2025년 5월 이후 가장 높아졌어요. 빚을 내 쏟아붓는 AI 투자가 그만큼 돈을 벌지 못할 수 있다는 걱정이 커졌어요.",
+    "아시아 우량 기업 달러채와 유럽 투자등급 회사채 스프레드도 함께 올랐고, 한국수출입은행은 엔화 채권 발행을 미뤘어요.",
+    "나와의 연결: 채권이 자산의 약 13%인데 캐피탈·카드채나 대출채권 ETF(SRLN)는 이런 때 국채보다 더 흔들릴 수 있어요."
+   ],
+   "sources": [
+    {"title": "SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008812708"},
+    {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-10-23/ai-fears-push-global-credit-spreads-to-17-month-high-video"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
+   "keywords": ["참피", "634명"],
+   "title": "태풍 참피, 대만서 1명 사망·634명 부상",
+   "summary": "대만 피해 신고가 1만 건에 가깝고, 제주 산지엔 279mm 넘는 비가 왔어요.",
+   "details": [
+    "대만 자유시보는 25일 태풍 참피로 1명이 숨지고 634명이 다쳤으며, 피해 신고가 1만 건 가까이 된다고 1면에 보도했어요.",
+    "참피는 25일 오전 강도 1로 약해져 서귀포 남남서쪽 해상으로 북상했어요. 제주 한라산 삼각봉엔 23일부터 279mm의 비가 왔고, 26일 오전까지 비가 이어져요. 제주항 여객선 9편이 결항됐어요.",
+    "나와의 연결: 대만 친척분들 지역의 피해와 복구 상황을 확인해 보세요."
+   ],
+   "sources": [
+    {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/society/202610250001"},
+    {"title": "뉴스1", "url": "https://www.news1.kr/local/jeju/6330862"}
+   ],
+   "note": "사망·부상자 수는 대만 신문 1면 기준이고 정부 공식 집계는 따로 확인하지 못했어요."
+  },
+  {
+   "tag": "war", "tagLabel": "예멘", "breaking": false, "important": false,
+   "keywords": ["리야드", "후티"],
+   "title": "후티, 리야드에 또 탄도미사일…사우디 요격",
+   "summary": "24일 새벽 리야드에서 폭발음 2번이 들렸고, 동부엔 드론도 날아왔어요.",
+   "details": [
+    "사우디 주도 연합군은 후티 반군이 리야드를 향해 쏜 탄도미사일과 동부 지역 드론을 요격했다고 밝혔어요. 민방위는 조기경보를 울렸어요.",
+    "후티는 최근 담맘 공항과 샤이바 유전도 노렸고, 사우디는 예멘 여러 지역을 공습하고 있어요.",
+    "미국은 사우디 주재 외교 인력 상당수에 출국을 지시한 것으로 전해졌어요. 이란은 후티 공격과의 관련을 부인해요."
+   ],
+   "note": "리야드 피해 규모는 아직 발표되지 않았어요.",
+   "sources": [
+    {"title": "Malay Mail (AFP)", "url": "https://www.malaymail.com/news/world/2026/10/24/riyadh-wakes-to-blasts-as-houthis-keep-up-missile-strikes-on-saudi-arabia/240413"},
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "이스라엘", "breaking": false, "important": false,
+   "keywords": ["이스라엘", "운명의 한 주"],
+   "title": "이스라엘 27일 총선…네타냐후 \"운명의 한 주\"",
+   "summary": "네타냐후는 이란 위협을 내세웠고, 여론조사는 어느 진영도 과반이 아니에요.",
+   "details": [
+    "네타냐후 총리는 24일 선거 영상에서 이란이 핵 프로그램을 재가동해 이스라엘을 파괴하려 한다며 이번 주를 '운명의 한 주'라고 했어요.",
+    "마지막 여론조사에선 네타냐후 우파 진영 50석, 야권 52~56석으로 어느 쪽도 과반(61석)에 못 미쳤어요. 제1당은 아이젠코트의 야샤르로 예상돼요.",
+    "결과는 이란 전쟁의 방향에도 영향을 줄 수 있고, 연정 협상이 막히면 재선거 가능성도 있어요."
+   ],
+   "sources": [
+    {"title": "Ynet", "url": "https://www.ynetnews.com/article/sk11b0i9hgx"},
+    {"title": "Anadolu", "url": "https://aa.com.tr/en/world/netanyahu-bloc-trailing-opposition-with-projected-50-seats-to-52-in-final-israeli-election-polls/4099160"}
+   ]
+  },
+  {
+   "tag": "etc", "tagLabel": "사건", "breaking": false, "important": false,
+   "keywords": ["요르단", "9명"],
+   "title": "요르단 교회 장례식 총격…9명 숨져",
+   "summary": "남부 카라크의 그리스정교회 장례식에서 괴한들이 총을 쐈어요.",
+   "details": [
+    "23일 요르단 카라크주 하무드 마을의 성 조지 그리스정교회에서 장례식 중 괴한들이 몇 분간 총을 쏴 9명이 숨지고 약 40명이 다쳤어요.",
+    "정부는 '극단주의 테러'로 규정하고 3일간 국가 애도 기간을 선포했어요. 압둘라 국왕은 강력 대응을 지시했고 범인은 아직 잡히지 않았어요.",
+    "배후를 자처한 단체는 아직 없고, 쇼핑몰과 대사관 등의 경비가 강화됐어요."
+   ],
+   "sources": [
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack"},
+    {"title": "OPB (AP)", "url": "https://www.opb.org/article/2026/10/24/shooting-at-a-church-in-jordan-kills-7-people/"}
+   ],
+   "note": "사망자 수는 처음 7명에서 늘었고, 9명은 요르단 국영TV 집계예요."
+  },
+  {
+   "tag": "etc", "tagLabel": "프랑스", "breaking": false, "important": false,
+   "keywords": ["프랑스", "1,000명"],
+   "title": "프랑스 생활비 시위 41만 명…약 1,000명 체포",
+   "summary": "경찰 7만 명 넘게 배치됐지만 파리·리옹 등에서 충돌이 이어졌어요.",
+   "details": [
+    "24일 내무부 집계로 전국 약 41만 명(파리 11만 명)이 시위에 나왔고, 노조는 약 80만 명이라고 주장해요.",
+    "파리에선 최루탄과 물대포가 쓰였고 지하철역 24곳이 닫혔어요. 약탈은 지난주(상점 약 3,000곳 피해)보다 훨씬 줄었어요.",
+    "노조는 11월 5일 또 시위를 예고했어요. 이탈리아 밀라노·로마에서도 비슷한 시위가 있었어요."
+   ],
+   "sources": [
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert"},
+    {"title": "CBS News", "url": "https://cbsnews.com/news/paris-france-new-protests-riots-museums-shops"}
+   ]
+  },
+  {
+   "tag": "kr", "tagLabel": "정치", "breaking": false, "important": false,
+   "keywords": ["오세훈", "무죄"],
+   "title": "오세훈 서울시장, 여론조사비 대납 2심 무죄",
+   "summary": "1심 벌금 1,000만 원이 뒤집혔고 특검은 상고하겠다고 했어요.",
+   "details": [
+    "서울고법 형사7부는 23일 정치자금법 위반 혐의로 기소된 오세훈 시장에게 무죄를 선고했어요.",
+    "재판부는 핵심 직접 증거였던 명태균 씨 진술을 믿기 어렵고 뒷받침할 증거도 부족하다고 봤어요.",
+    "특검은 대법원에 상고할 계획이라 최종 판단은 대법원에서 나와요."
+   ],
+   "sources": [
+    {"title": "서울경제", "url": "https://sedaily.com/article/20105502"},
+    {"title": "SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008812784"},
+    {"title": "뉴시스", "url": "https://www.newsis.com/view/NISX20260723_0003719796"}
+   ]
+  }
+ ],
+ "watch": [
+  "미국의 이란 재공습 결정과 호르무즈 유조선 피해 확인",
+  "27일 이스라엘 총선 결과와 연정 구성",
+  "27~28일 FOMC, 28일 SK하이닉스·알파벳 실적, 30일 일본은행 회의",
+  "김정은 방중 뒤 북중·북미 움직임과 APEC"
+ ]
 }
