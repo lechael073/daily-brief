@@ -1,179 +1,201 @@
 {
-  "advice": "코스피 급등으로 주식 비중이 40%를 넘었는지 점검하고, 반도체 추가 매수는 나눠서 천천히 해요.",
-  "date": "2026-10-28",
-  "headline": "코스피 장중 4%대 급등, 5,800선 돌파…SK하이닉스 사상 최대 실적",
-  "kicker": "속보",
-  "markets": [
-    {"change": "+0.01%p", "dir": "up", "label": "미 10년물", "value": "5.00%"},
-    {"change": "-0.01%p", "dir": "down", "label": "미 2년물", "value": "4.75%"},
-    {"change": "9/16 +0.25%p", "dir": "up", "label": "미 기준금리", "value": "3.75–4.00%"},
-    {"change": "10/22 동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
-    {"change": "+0.60%", "dir": "up", "label": "S&P 500", "value": "7,722.60"},
-    {"change": "+4.49%", "dir": "up", "label": "코스피", "value": "5,891.36"}
-  ],
-  "marketsAsOf": "10/27 뉴욕 마감 · 코스피 10/28 09:52 장중 기준",
-  "stories": [
-    {
-      "breaking": true, "important": true, "tag": "econ", "tagLabel": "속보·증시",
-      "title": "코스피 장중 4%대 급등…5,800선 넘었어요",
-      "keywords": ["코스피", "5,800선"],
-      "summary": "전날 3% 상승에 이어 이틀 연속 크게 올랐어요.",
-      "details": [
-        "28일 코스피는 2.23% 오른 5,763.85로 출발해, 오전 9시 52분에는 5,891.36(+4.49%)까지 올랐어요. 코스닥도 3%대 올랐어요.",
-        "전날 3.09% 오른 데 이어 이틀 연속 큰 폭으로 올랐어요. 삼성전자는 5%대, SK하이닉스는 3% 안팎 올랐어요.",
-        "로이터는 AI 기대가 다시 살아나 아시아 증시가 함께 올랐다고 전했어요. 일본 닛케이도 1.2% 올랐어요.",
-        "나와의 연결: 삼성전자·SK하이닉스·반도체 ETF 등 한국 주식이 함께 올라 주식 비중이 40%를 넘었을 수 있어요."
-      ],
-      "note": "장중 수치라 마감 값과 다를 수 있어요.",
-      "sources": [
-        {"title": "노컷뉴스", "url": "https://nocutnews.co.kr/news/6598224"},
-        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2640967"},
-        {"title": "Reuters (Business Recorder)", "url": "https://www.brecorder.com/news/40446271/stocks-get-ai-lift-dollar-holds-steady-ahead-of-fed-decision"}
-      ]
-    },
-    {
-      "breaking": true, "important": true, "tag": "econ", "tagLabel": "속보·기업",
-      "title": "SK하이닉스 3분기 영업이익 83조…사상 최대",
-      "keywords": ["SK하이닉스", "83조"],
-      "summary": "시장 예상보다 9% 많았고, 60조 원 추가 주주환원도 냈어요.",
-      "details": [
-        "SK하이닉스는 3분기 영업이익이 83조 3,338억 원으로 1년 전보다 632% 늘었다고 28일 발표했어요. 시장 예상(약 76조 원)보다 9% 많아요.",
-        "매출은 104조 6,155억 원으로 1년 전보다 4배 넘게 늘었어요.",
-        "60조 원 규모 추가 주주환원도 발표해, 올해 주주환원은 모두 100조 원이 돼요. 3분기 배당은 특별배당을 포함해 주당 2만 원이에요.",
-        "나와의 연결: SK하이닉스를 직접 갖고 있고, 반도체 ETF로도 간접 보유하고 있어요."
-      ],
-      "note": "잠정 실적 기준이에요.",
-      "sources": [
-        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2640967"},
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261028000108"},
-        {"title": "노컷뉴스", "url": "https://nocutnews.co.kr/news/6598224"}
-      ]
-    },
-    {
-      "breaking": false, "important": true, "tag": "etc", "tagLabel": "이스라엘",
-      "title": "이스라엘 총선 출구조사…어느 진영도 과반 못 넘어",
-      "keywords": ["이스라엘", "과반"],
-      "summary": "네타냐후 진영 약 50석, 야권 52~53석으로 나왔어요.",
-      "details": [
-        "27일 이스라엘 총선 출구조사에서 네타냐후 진영은 약 50석, 아이젠코트가 이끄는 야권은 52~53석, 아랍계 정당은 17~18석으로 나왔어요.",
-        "정부를 만들려면 120석 중 61석이 필요해서, 몇 주 동안 연정 협상이 이어지거나 재선거가 열릴 수도 있어요.",
-        "투표율은 저녁 8시에 74%를 넘어 수십 년 만에 가장 높았어요. 이번 선거는 네타냐후의 전쟁 지도력에 대한 심판으로 여겨져요.",
-        "나와의 연결: 정권이 바뀌면 이란 전쟁 방향이 달라질 수 있어서 유가와 미국 금리에도 영향을 줄 수 있어요."
-      ],
-      "note": "출구조사라 실제 개표 결과와 다를 수 있어요.",
-      "sources": [
-        {"title": "PBS (AP)", "url": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance"},
-        {"title": "Times of Israel", "url": "https://www.timesofisrael.com/liveblog-october-27-2026/"}
-      ]
-    },
-    {
-      "breaking": false, "important": true, "tag": "econ", "tagLabel": "금리",
-      "title": "연준 금리 회의 시작…나스닥은 1.2% 올랐어요",
-      "keywords": ["연준", "나스닥"],
-      "summary": "시장은 이번엔 동결, 12월엔 인상 가능성을 크게 봐요.",
-      "details": [
-        "미국 연준이 27~28일 회의를 시작했어요. 결정은 한국시간 29일 새벽 3시에 나오고, 워시 의장 기자회견이 이어져요.",
-        "현재 기준금리는 3.75~4.00%예요. CME 자료로는 이번에 동결할 확률이 약 90%, 12월 인상 확률은 약 73%로 나왔어요.",
-        "27일 뉴욕 증시는 반도체주가 이틀째 오르며 S&P500이 0.60%, 나스닥이 1.18% 올랐어요. 미 10년물 금리는 5.00% 근처예요.",
-        "나와의 연결: 금리가 높게 유지되면 달러 정기예금과 SGOV 같은 단기 미국채 이자는 계속 좋은 편이에요."
-      ],
-      "sources": [
-        {"title": "Kiplinger", "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"},
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"},
-        {"title": "Trading Economics", "url": "https://tradingeconomics.com/united-states/government-bond-yield"}
-      ]
-    },
-    {
-      "breaking": false, "important": false, "tag": "war", "tagLabel": "중동",
-      "title": "후티 \"사우디 최대 정유시설 타격\"…리야드 미사일 요격",
-      "keywords": ["후티", "사우디"],
-      "summary": "사우디는 리야드로 날아온 미사일 2발을 격추했다고 밝혔어요.",
-      "details": [
-        "예멘 후티 반군은 27일 사우디의 라스타누라 정유시설을 탄도미사일로 때려 불이 났다고 주장했어요. 하루 55만 배럴을 처리하는 곳이에요.",
-        "사우디 정부는 정유시설 피해를 바로 확인하지 않았지만, 블룸버그는 터미널 근처 불을 진화했다고 전했어요. 리야드에선 폭발음이 들렸고 미사일 2발이 요격됐어요.",
-        "전날 이란·사우디·파키스탄·튀르키예는 테헤란에서 대화를 이어가기로 했지만, 공격은 계속되고 있어요. 유가는 WTI 약 100달러, 브렌트 약 109달러로 조금 내렸어요.",
-        "나와의 연결: 유가가 높으면 물가와 금리 부담이 커져요. 금리 상승 대비용 TBF·SRLN 비중이 계획대로인지 확인해 보세요."
-      ],
-      "note": "정유시설 타격은 후티 측 주장이고, 사우디는 아직 공식 확인하지 않았어요.",
-      "sources": [
-        {"title": "Reuters (Investing.com)", "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile-4976138"},
-        {"title": "AP (CTV News)", "url": "https://www.ctvnews.ca/world/mideast-conflict/article/explosions-heard-over-riyadh-as-saudi-authorities-say-houthi-missiles-downed-and-other-mideast-news/"},
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"}
-      ]
-    },
-    {
-      "breaking": false, "important": false, "tag": "kr", "tagLabel": "한반도",
-      "title": "외교장관 \"김정은 방중 때 북미대화 논의했을 수도\"",
-      "keywords": ["김정은", "북미대화"],
-      "summary": "김정은은 중대장들에게 싸움 준비를 끝내라고 했어요.",
-      "details": [
-        "조현 외교부 장관은 27일 국정감사에서 김정은의 24일 단둥 방문 때 북미대화가 논의됐을 가능성이 있다고 말했어요.",
-        "중국은 방문을 미리 알려주지 않았지만, 뒤에 꽤 자세히 설명해 줬다고 해요. 정동영 통일부 장관은 단순한 경제 행사로 보기 어렵다고 했어요.",
-        "한편 노동신문은 김정은이 27일 중대장들을 만나 각 부대의 싸움 준비 완성을 촉구했다고 28일 보도했어요.",
-        "나와의 연결: 대화 신호와 군사 메시지가 함께 나와서, 긴장이 커지면 원화 약세로 이어질 수 있어요."
-      ],
-      "sources": [
-        {"title": "한국일보", "url": "https://www.hankookilbo.com/news/article/A2026102711320004784"},
-        {"title": "아주경제", "url": "https://www.ajunews.com/view/20261027111442615"},
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261028000029"}
-      ]
-    },
-    {
-      "breaking": false, "important": false, "tag": "etc", "tagLabel": "대만",
-      "title": "대만 국방장관 \"중국, 광복 기념일 앞세워 인지전\"",
-      "keywords": ["대만", "인지전"],
-      "summary": "중국은 타이베이 위성사진과 '돌아오라' 포스터를 냈어요.",
-      "details": [
-        "중국은 25일 대만 광복 기념일에 맞춰 타이베이역과 고궁박물원 등이 보이는 고해상도 위성사진을 공개했어요.",
-        "중국군 동부전구는 대만 지도 위에 전투기와 군함을 그린 포스터도 올렸어요.",
-        "구리슝 대만 국방장관은 이를 인지전이라고 부르며, 중국의 무력 통일 의지는 바뀌지 않았다고 경고했어요. 대만은 11월 지방선거를 앞두고 있어요.",
-        "나와의 연결: 대만 친척이 있는 만큼 양안 긴장 소식을 계속 볼 만해요. 대만테크 ETF 가격에도 영향을 줄 수 있어요."
-      ],
-      "sources": [
-        {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/28/2003866747"},
-        {"title": "AEI", "url": "https://www.aei.org/commentary/china-taiwan-update-october-27-2026/"}
-      ]
-    },
-    {
-      "breaking": false, "important": false, "tag": "etc", "tagLabel": "사건",
-      "title": "더존비즈온 두 번 해킹…정부 '중대사고' 조사",
-      "keywords": ["더존비즈온", "해킹"],
-      "summary": "11만 곳 넘는 기업이 쓰는 회계 프로그램이 뚫렸어요.",
-      "details": [
-        "국내 1위 기업용 회계·ERP 회사 더존비즈온이 10월 16일과 21일 두 차례 해킹 사고를 정부에 신고했어요.",
-        "첫 번째는 직원 VPN 계정으로 들어온 공격, 두 번째는 백업 서버 프로그램의 약점을 노린 공격이었어요. 이름·주민번호 일부·계좌번호 등이 새어 나갔을 수 있어요.",
-        "정부는 25일 중대사고로 판단하고 민관합동조사단을 꾸렸어요. 실제 피해 규모는 아직 확인되지 않았어요.",
-        "나와의 연결: 개인정보 유출 문자로 위장한 피싱이 늘 수 있으니 금융 앱 알림을 꼼꼼히 확인해요."
-      ],
-      "note": "유출 범위와 피해 기업 수는 조사 중이에요.",
-      "sources": [
-        {"title": "보안뉴스", "url": "https://www.boannews.com/news/articleView.html?idxno=146738"},
-        {"title": "뉴스1", "url": "https://news1.kr/it-science/security-hacking/6333265"},
-        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610261032218362"}
-      ]
-    },
-    {
-      "breaking": false, "important": false, "tag": "war", "tagLabel": "유럽안보",
-      "title": "영국 \"72시간 버틸 비상물자 준비하세요\"",
-      "keywords": ["영국", "72시간"],
-      "summary": "2030년 전쟁 가능성에 대비하자는 캠페인을 시작했어요.",
-      "details": [
-        "영국 정부가 'Be Ready' 캠페인을 시작해 집집마다 3일 동안 버틸 비상물자를 준비하라고 권했어요.",
-        "1인당 물 9리터, 오래 가는 음식, 건전지 라디오, 소액 현금 등을 챙기라고 했어요.",
-        "정부는 2030년까지 러시아의 위협에 대비할 시간이 1,000일 남짓이라며, 기반시설 공격과 사이버 공격도 걱정했어요."
-      ],
-      "sources": [
-        {"title": "Insider Paper", "url": "https://insiderpaper.com/uk-urges-citizens-to-stockpile-emergency-supplies-as-war-fears-grow-ahead-of-2030/"},
-        {"title": "Asia Business Daily", "url": "https://www.asiae.co.kr/en/article/2026102608215836448"}
-      ]
-    }
-  ],
-  "subhead": "반도체주가 이틀째 크게 올랐고, 이스라엘 총선은 과반이 없었어요.",
-  "updatedLabel": "10/28 12:02",
-  "watch": [
-    "28일 코스피 마감 지수와 외국인 수급",
-    "29일 새벽 3시 FOMC 결정과 워시 의장 회견",
-    "29일 삼성전자 실적·중국 5중전회 폐막",
-    "30일 일본은행 회의와 엔화 움직임"
-  ]
+ "date": "2026-10-28",
+ "updatedLabel": "10/28 16:00",
+ "kicker": "속보",
+ "headline": "코스피 6.6% 폭등해 6,000선 회복…반도체가 끌어올렸어요",
+ "subhead": "오늘 밤 연준 결정을 앞두고, 원/달러 환율은 1,337원대로 올랐어요.",
+ "advice": "코스피가 이틀 새 10% 가까이 올라 주식 비중이 40%를 넘었는지 보고, 추가 매수는 FOMC 뒤로 늦춰요.",
+ "marketsAsOf": "10/27 뉴욕 · 10/28 서울 마감 기준",
+ "markets": [
+  {"change": "+0.01%p", "dir": "up", "label": "미 10년물", "value": "5.00%"},
+  {"change": "-0.01%p", "dir": "down", "label": "미 2년물", "value": "4.75%"},
+  {"change": "9/16 +0.25%p", "dir": "up", "label": "미 기준금리", "value": "3.75–4.00%"},
+  {"change": "10/22 동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
+  {"change": "+0.60%", "dir": "up", "label": "S&P 500", "value": "7,722.60"},
+  {"label": "코스피", "value": "6,012.44", "change": "+6.63%", "dir": "up"}
+ ],
+ "stories": [
+  {
+   "tag": "econ", "tagLabel": "속보·증시", "breaking": true, "important": false,
+   "keywords": ["코스피", "6,000선"],
+   "title": "코스피 6.6% 폭등…10거래일 만에 6,000선 회복",
+   "summary": "6,012.44로 마감했고, 이틀 새 거의 10% 올랐어요.",
+   "details": [
+    "28일 코스피는 6.63% 오른 6,012.44로 마감해 10거래일 만에 6,000선을 되찾았어요. 전날 3% 넘게 오른 데 이어 이틀 연속 급등이에요.",
+    "코스피200 선물이 급등해 이틀 연속 매수 사이드카가 걸렸어요. 장중 외국인과 기관이 각각 1조 원 넘게 사고, 개인은 2조 원 넘게 팔았어요.",
+    "삼성전자와 SK하이닉스가 장중 8~10% 오르며 상승을 이끌었어요. 앤트로픽 상장 계획 등으로 AI 투자 걱정이 줄어든 영향이라는 분석이에요.",
+    "원/달러 환율은 오히려 14원 오른 1,337.7원(오후 3시 30분 기준)이었어요.",
+    "나와의 연결: 한국 주식과 반도체 ETF가 크게 올라 주식 비중이 40%를 넘었을 가능성이 커요."
+   ],
+   "note": "수급 수치는 장중(오후 1시 반 무렵) 기준이에요.",
+   "sources": [
+    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610281523015061"},
+    {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026102813394432078"},
+    {"title": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/more/262245142-korea-stocks-skhy-kospi-samsung-ai-fomc-sox-fed-tradingkey"},
+    {"title": "파이낸셜뉴스(환율)", "url": "https://www.fnnews.com/news/202610281540584869"}
+   ]
+  },
+  {
+   "breaking": true,
+   "details": [
+    "SK하이닉스는 3분기 영업이익이 83조 3,338억 원으로 1년 전보다 632% 늘었다고 28일 발표했어요. 시장 예상(약 76조 원)보다 9% 많아요.",
+    "매출은 104조 6,155억 원으로 1년 전보다 4배 넘게 늘었어요.",
+    "60조 원 규모 추가 주주환원도 발표해, 올해 주주환원은 모두 100조 원이 돼요. 3분기 배당은 특별배당을 포함해 주당 2만 원이에요.",
+    "주가는 8.80% 오른 145만 9,000원에 마감했어요(SBH뉴스 기준).",
+    "나와의 연결: SK하이닉스를 직접 갖고 있고, 반도체 ETF로도 간접 보유하고 있어요."
+   ],
+   "important": false,
+   "keywords": ["SK하이닉스", "83조"],
+   "note": "잠정 실적 기준이에요.",
+   "sources": [
+    {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2640967"},
+    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261028000108"},
+    {"title": "노컷뉴스", "url": "https://nocutnews.co.kr/news/6598224"},
+    {"title": "SBH뉴스", "url": "https://www.sbhnews.com"}
+   ],
+   "summary": "사상 최대 실적에 주가는 145만 9,000원으로 마감했어요.",
+   "tag": "econ", "tagLabel": "속보·기업",
+   "title": "SK하이닉스 영업익 83조…주가 8.8% 뛰었어요"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "미국 연준이 27~28일 회의를 시작했어요. 결정은 한국시간 29일 새벽 3시에 나오고, 워시 의장 기자회견이 이어져요.",
+    "현재 기준금리는 3.75~4.00%예요. CME 자료로는 이번에 동결할 확률이 약 90%, 12월 인상 확률은 약 73%로 나왔어요.",
+    "9월 물가가 3.7%(근원 2.6%)로 높아서, 동결하더라도 다음 인상을 예고하는 '매파적 동결'을 예상하는 전문가가 있어요.",
+    "나와의 연결: 금리가 높게 유지되면 달러 정기예금과 SGOV 같은 단기 미국채 이자는 계속 좋은 편이에요."
+   ],
+   "important": true,
+   "keywords": ["연준", "12월"],
+   "sources": [
+    {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html"},
+    {"title": "Kiplinger", "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"}
+   ],
+   "summary": "결정은 한국시간 29일 새벽 3시, 동결 확률 약 90%예요.",
+   "tag": "econ", "tagLabel": "금리",
+   "title": "연준 결정 오늘 밤…동결 뒤 12월 인상 신호 주목"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "27일 이스라엘 총선 출구조사에서 네타냐후 진영은 약 50석, 아이젠코트가 이끄는 야권은 52~53석, 아랍계 정당은 17~18석으로 나왔어요.",
+    "선관위는 이중봉투 특별투표가 65만 표 넘게 있어 개표가 금요일 아침까지 이어질 수 있다고 했어요.",
+    "네타냐후는 우파 정부를 꾸리겠다고 했고, 아이젠코트는 패배를 인정하라고 요구했어요. 예측시장에선 네타냐후 재집권 확률이 하루 새 51.5%로 올랐어요.",
+    "나와의 연결: 정권이 바뀌면 이란 전쟁 방향이 달라질 수 있어서 유가와 미국 금리에도 영향을 줄 수 있어요."
+   ],
+   "important": true,
+   "keywords": ["이스라엘", "교착"],
+   "note": "의석은 출구조사 기준이고, 예측시장 확률은 SBH뉴스 보도로 결과가 아니에요.",
+   "sources": [
+    {"title": "Ynet", "url": "https://www.ynetnews.com/article/skd97fc2gl"},
+    {"title": "Times of Israel", "url": "https://www.timesofisrael.com/liveblog-october-27-2026/"},
+    {"title": "PBS (AP)", "url": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance"},
+    {"title": "SBH뉴스", "url": "https://www.sbhnews.com"}
+   ],
+   "summary": "어느 진영도 61석에 못 미쳐 연정 협상이 길어질 전망이에요.",
+   "tag": "etc", "tagLabel": "이스라엘",
+   "title": "이스라엘 총선 교착…최종 개표는 금요일까지"
+  },
+  {
+   "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": false,
+   "keywords": ["호르무즈", "기뢰"],
+   "title": "호르무즈서 유조선 기뢰에 불…이란 \"규칙 어긴 배\"",
+   "summary": "이란 해군은 허가 안 된 길로 가던 배라고 밝혔어요.",
+   "details": [
+    "이란 해군은 27일 호르무즈 해협 동쪽 제한구역을 지나던 유조선이 기뢰에 부딪혀 불이 났다고 발표했어요.",
+    "이란은 이 배가 위치 추적 장치를 끄고 허가 없이 지나려 했다며, 해협을 지나려면 이란군과 미리 협의해야 한다고 했어요.",
+    "이란은 2월 28일 미국·이스라엘의 공격 뒤 해협 통제를 강화해 왔어요. 배의 이름과 국적은 아직 확인되지 않았어요.",
+    "나와의 연결: 해협 불안은 유가를 밀어 올려 물가·금리 부담으로 이어질 수 있어요."
+   ],
+   "note": "이란 측 발표이고, 배 이름·피해 규모는 독립적으로 확인되지 않았어요.",
+   "sources": [
+    {"title": "Xinhua", "url": "https://english.news.cn/20261027/ae8e1326cb8b4d5bbae1fa92fddad086/c.html"},
+    {"title": "Kurdistan24", "url": "https://www.kurdistan24.net/en/story/948915/iran-says-oil-tanker-hit-naval-mines-in-strait-of-hormuz"},
+    {"title": "The Standard", "url": "https://thestandard.com.hk/news/article/346705/Morning-Recap-October-28-2026"}
+   ]
+  },
+  {
+   "breaking": false,
+   "details": [
+    "예멘 후티 반군은 27일 사우디의 라스타누라 정유시설을 탄도미사일로 때려 불이 났다고 주장했어요. 하루 55만 배럴을 처리하는 곳이에요.",
+    "사우디 정부는 정유시설 피해를 바로 확인하지 않았지만, 블룸버그는 터미널 근처 불을 진화했다고 전했어요. 리야드에선 폭발음이 들렸고 미사일 2발이 요격됐어요.",
+    "전날 이란·사우디·파키스탄·튀르키예는 테헤란에서 대화를 이어가기로 했지만, 공격은 계속되고 있어요. 유가는 WTI 약 100달러, 브렌트 약 109달러로 조금 내렸어요.",
+    "나와의 연결: 유가가 높으면 물가와 금리 부담이 커져요. 금리 상승 대비용 TBF·SRLN 비중이 계획대로인지 확인해 보세요."
+   ],
+   "important": false,
+   "keywords": ["후티", "사우디"],
+   "note": "정유시설 타격은 후티 측 주장이고, 사우디는 아직 공식 확인하지 않았어요.",
+   "sources": [
+    {"title": "Reuters (Investing.com)", "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile-4976138"},
+    {"title": "AP (CTV News)", "url": "https://www.ctvnews.ca/world/mideast-conflict/article/explosions-heard-over-riyadh-as-saudi-authorities-say-houthi-missiles-downed-and-other-mideast-news/"},
+    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"}
+   ],
+   "summary": "사우디는 리야드로 날아온 미사일 2발을 격추했다고 밝혔어요.",
+   "tag": "war", "tagLabel": "중동",
+   "title": "후티 \"사우디 최대 정유시설 타격\"…리야드 미사일 요격"
+  },
+  {
+   "breaking": false,
+   "details": [
+    "조현 외교부 장관은 27일 국정감사에서 김정은의 24일 단둥 방문 때 북미대화가 논의됐을 가능성이 있다고 말했어요.",
+    "중국은 방문을 미리 알려주지 않았지만, 뒤에 꽤 자세히 설명해 줬다고 해요. 정동영 통일부 장관은 단순한 경제 행사로 보기 어렵다고 했어요.",
+    "한편 노동신문은 김정은이 27일 중대장들을 만나 각 부대의 싸움 준비 완성을 촉구했다고 28일 보도했어요.",
+    "나와의 연결: 대화 신호와 군사 메시지가 함께 나와서, 긴장이 커지면 원화 약세로 이어질 수 있어요."
+   ],
+   "important": false,
+   "keywords": ["김정은", "북미대화"],
+   "sources": [
+    {"title": "한국일보", "url": "https://www.hankookilbo.com/news/article/A2026102711320004784"},
+    {"title": "아주경제", "url": "https://www.ajunews.com/view/20261027111442615"},
+    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261028000029"}
+   ],
+   "summary": "김정은은 중대장들에게 싸움 준비를 끝내라고 했어요.",
+   "tag": "kr", "tagLabel": "한반도",
+   "title": "외교장관 \"김정은 방중 때 북미대화 논의했을 수도\""
+  },
+  {
+   "breaking": false,
+   "details": [
+    "중국은 25일 대만 광복 기념일에 맞춰 타이베이역과 고궁박물원 등이 보이는 고해상도 위성사진을 공개했어요.",
+    "중국군 동부전구는 대만 지도 위에 전투기와 군함을 그린 포스터도 올렸어요.",
+    "구리슝 대만 국방장관은 이를 인지전이라고 부르며, 중국의 무력 통일 의지는 바뀌지 않았다고 경고했어요. 대만은 11월 지방선거를 앞두고 있어요.",
+    "나와의 연결: 대만 친척이 있는 만큼 양안 긴장 소식을 계속 볼 만해요. 대만테크 ETF 가격에도 영향을 줄 수 있어요."
+   ],
+   "important": false,
+   "keywords": ["대만", "인지전"],
+   "sources": [
+    {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/28/2003866747"},
+    {"title": "AEI", "url": "https://www.aei.org/commentary/china-taiwan-update-october-27-2026/"}
+   ],
+   "summary": "중국은 타이베이 위성사진과 '돌아오라' 포스터를 냈어요.",
+   "tag": "etc", "tagLabel": "대만",
+   "title": "대만 국방장관 \"중국, 광복 기념일 앞세워 인지전\""
+  },
+  {
+   "breaking": false,
+   "details": [
+    "국내 1위 기업용 회계·ERP 회사 더존비즈온이 10월 16일과 21일 두 차례 해킹 사고를 정부에 신고했어요.",
+    "첫 번째는 직원 VPN 계정으로 들어온 공격, 두 번째는 백업 서버 프로그램의 약점을 노린 공격이었어요. 이름·주민번호 일부·계좌번호 등이 새어 나갔을 수 있어요.",
+    "정부는 25일 중대사고로 판단하고 민관합동조사단을 꾸렸어요. 실제 피해 규모는 아직 확인되지 않았어요.",
+    "나와의 연결: 개인정보 유출 문자로 위장한 피싱이 늘 수 있으니 금융 앱 알림을 꼼꼼히 확인해요."
+   ],
+   "important": false,
+   "keywords": ["더존비즈온", "해킹"],
+   "note": "유출 범위와 피해 기업 수는 조사 중이에요.",
+   "sources": [
+    {"title": "보안뉴스", "url": "https://www.boannews.com/news/articleView.html?idxno=146738"},
+    {"title": "뉴스1", "url": "https://news1.kr/it-science/security-hacking/6333265"},
+    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610261032218362"}
+   ],
+   "summary": "11만 곳 넘는 기업이 쓰는 회계 프로그램이 뚫렸어요.",
+   "tag": "etc", "tagLabel": "사건",
+   "title": "더존비즈온 두 번 해킹…정부 '중대사고' 조사"
+  }
+ ],
+ "watch": [
+  "29일 새벽 3시 FOMC 결정과 워시 의장 회견",
+  "29일 삼성전자 실적·중국 5중전회 폐막",
+  "이스라엘 최종 개표(금요일까지)와 연정 협상",
+  "30일 일본은행 회의와 엔화 움직임"
+ ]
 }
