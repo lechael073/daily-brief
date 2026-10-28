@@ -1,24 +1,58 @@
 {
+  "advice": "코스피 급등으로 주식 비중이 40%를 넘었는지 점검하고, 반도체 추가 매수는 나눠서 천천히 해요.",
   "date": "2026-10-28",
-  "updatedLabel": "10/28 07:10",
-  "kicker": "오늘의 한 줄",
-  "headline": "이스라엘 총선 과반 없어…미 연준은 금리 회의 시작",
-  "subhead": "후티는 사우디 정유시설 타격을 주장했고, 나스닥은 AI 기대에 1.2% 올랐어요.",
-  "advice": "연준 결정 전이니 달러 예금 사다리는 그대로 두고, 반도체 급등 뒤 주식 비중이 40%를 넘는지 점검해요.",
-  "marketsAsOf": "10/27 뉴욕 · 10/27 서울 마감 기준",
+  "headline": "코스피 장중 4%대 급등, 5,800선 돌파…SK하이닉스 사상 최대 실적",
+  "kicker": "속보",
   "markets": [
-    {"label": "미 10년물", "value": "5.00%", "change": "+0.01%p", "dir": "up"},
-    {"label": "미 2년물", "value": "4.75%", "change": "-0.01%p", "dir": "down"},
-    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "9/16 +0.25%p", "dir": "up"},
-    {"label": "한은 기준금리", "value": "3.00%", "change": "10/22 동결", "dir": "flat"},
-    {"label": "S&P 500", "value": "7,722.60", "change": "+0.60%", "dir": "up"},
-    {"label": "코스피", "value": "5,638.35", "change": "+3.09%", "dir": "up"}
+    {"change": "+0.01%p", "dir": "up", "label": "미 10년물", "value": "5.00%"},
+    {"change": "-0.01%p", "dir": "down", "label": "미 2년물", "value": "4.75%"},
+    {"change": "9/16 +0.25%p", "dir": "up", "label": "미 기준금리", "value": "3.75–4.00%"},
+    {"change": "10/22 동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
+    {"change": "+0.60%", "dir": "up", "label": "S&P 500", "value": "7,722.60"},
+    {"change": "+4.49%", "dir": "up", "label": "코스피", "value": "5,891.36"}
   ],
+  "marketsAsOf": "10/27 뉴욕 마감 · 코스피 10/28 09:52 장중 기준",
   "stories": [
     {
-      "tag": "etc", "tagLabel": "이스라엘", "breaking": false, "important": true,
-      "keywords": ["이스라엘", "과반"],
+      "breaking": true, "important": true, "tag": "econ", "tagLabel": "속보·증시",
+      "title": "코스피 장중 4%대 급등…5,800선 넘었어요",
+      "keywords": ["코스피", "5,800선"],
+      "summary": "전날 3% 상승에 이어 이틀 연속 크게 올랐어요.",
+      "details": [
+        "28일 코스피는 2.23% 오른 5,763.85로 출발해, 오전 9시 52분에는 5,891.36(+4.49%)까지 올랐어요. 코스닥도 3%대 올랐어요.",
+        "전날 3.09% 오른 데 이어 이틀 연속 큰 폭으로 올랐어요. 삼성전자는 5%대, SK하이닉스는 3% 안팎 올랐어요.",
+        "로이터는 AI 기대가 다시 살아나 아시아 증시가 함께 올랐다고 전했어요. 일본 닛케이도 1.2% 올랐어요.",
+        "나와의 연결: 삼성전자·SK하이닉스·반도체 ETF 등 한국 주식이 함께 올라 주식 비중이 40%를 넘었을 수 있어요."
+      ],
+      "note": "장중 수치라 마감 값과 다를 수 있어요.",
+      "sources": [
+        {"title": "노컷뉴스", "url": "https://nocutnews.co.kr/news/6598224"},
+        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2640967"},
+        {"title": "Reuters (Business Recorder)", "url": "https://www.brecorder.com/news/40446271/stocks-get-ai-lift-dollar-holds-steady-ahead-of-fed-decision"}
+      ]
+    },
+    {
+      "breaking": true, "important": true, "tag": "econ", "tagLabel": "속보·기업",
+      "title": "SK하이닉스 3분기 영업이익 83조…사상 최대",
+      "keywords": ["SK하이닉스", "83조"],
+      "summary": "시장 예상보다 9% 많았고, 60조 원 추가 주주환원도 냈어요.",
+      "details": [
+        "SK하이닉스는 3분기 영업이익이 83조 3,338억 원으로 1년 전보다 632% 늘었다고 28일 발표했어요. 시장 예상(약 76조 원)보다 9% 많아요.",
+        "매출은 104조 6,155억 원으로 1년 전보다 4배 넘게 늘었어요.",
+        "60조 원 규모 추가 주주환원도 발표해, 올해 주주환원은 모두 100조 원이 돼요. 3분기 배당은 특별배당을 포함해 주당 2만 원이에요.",
+        "나와의 연결: SK하이닉스를 직접 갖고 있고, 반도체 ETF로도 간접 보유하고 있어요."
+      ],
+      "note": "잠정 실적 기준이에요.",
+      "sources": [
+        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2640967"},
+        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261028000108"},
+        {"title": "노컷뉴스", "url": "https://nocutnews.co.kr/news/6598224"}
+      ]
+    },
+    {
+      "breaking": false, "important": true, "tag": "etc", "tagLabel": "이스라엘",
       "title": "이스라엘 총선 출구조사…어느 진영도 과반 못 넘어",
+      "keywords": ["이스라엘", "과반"],
       "summary": "네타냐후 진영 약 50석, 야권 52~53석으로 나왔어요.",
       "details": [
         "27일 이스라엘 총선 출구조사에서 네타냐후 진영은 약 50석, 아이젠코트가 이끄는 야권은 52~53석, 아랍계 정당은 17~18석으로 나왔어요.",
@@ -33,9 +67,9 @@
       ]
     },
     {
-      "tag": "econ", "tagLabel": "금리", "breaking": false, "important": true,
-      "keywords": ["연준", "나스닥"],
+      "breaking": false, "important": true, "tag": "econ", "tagLabel": "금리",
       "title": "연준 금리 회의 시작…나스닥은 1.2% 올랐어요",
+      "keywords": ["연준", "나스닥"],
       "summary": "시장은 이번엔 동결, 12월엔 인상 가능성을 크게 봐요.",
       "details": [
         "미국 연준이 27~28일 회의를 시작했어요. 결정은 한국시간 29일 새벽 3시에 나오고, 워시 의장 기자회견이 이어져요.",
@@ -50,9 +84,9 @@
       ]
     },
     {
-      "tag": "war", "tagLabel": "중동", "breaking": false, "important": false,
-      "keywords": ["후티", "사우디"],
+      "breaking": false, "important": false, "tag": "war", "tagLabel": "중동",
       "title": "후티 \"사우디 최대 정유시설 타격\"…리야드 미사일 요격",
+      "keywords": ["후티", "사우디"],
       "summary": "사우디는 리야드로 날아온 미사일 2발을 격추했다고 밝혔어요.",
       "details": [
         "예멘 후티 반군은 27일 사우디의 라스타누라 정유시설을 탄도미사일로 때려 불이 났다고 주장했어요. 하루 55만 배럴을 처리하는 곳이에요.",
@@ -68,26 +102,9 @@
       ]
     },
     {
-      "tag": "econ", "tagLabel": "AI", "breaking": false, "important": false,
-      "keywords": ["앤트로픽", "807억"],
-      "title": "앤트로픽 상장 서류 공개…상반기 손실 807억 달러",
-      "summary": "매출은 크게 늘었지만 컴퓨팅 비용으로 손실도 컸어요.",
-      "details": [
-        "앤트로픽이 26일 나스닥 상장 서류를 공개했어요. 종목 코드는 ANT이고, 올가을 늦게 상장할 계획이에요.",
-        "올해 상반기 매출은 163억 달러로 작년 한 해 46억 달러보다 훨씬 많았지만, 순손실은 807억 달러였어요. 2분기에는 영업이익을 냈어요.",
-        "이 소식에 AI·반도체 기대가 살아나 미국과 한국 반도체주가 함께 올랐어요.",
-        "나와의 연결: QQQ·NVDA·알파벳 등 AI 관련 비중이 커요. 상장 전후로 AI주 변동이 커질 수 있어요."
-      ],
-      "note": "수치는 언론이 전한 서류 내용 기준이에요.",
-      "sources": [
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"},
-        {"title": "Fortune", "url": "https://fortune.com/2026/10/27/anthropic-ipo-s-1-investors-81-billion-loss/"}
-      ]
-    },
-    {
-      "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": false,
-      "keywords": ["김정은", "북미대화"],
+      "breaking": false, "important": false, "tag": "kr", "tagLabel": "한반도",
       "title": "외교장관 \"김정은 방중 때 북미대화 논의했을 수도\"",
+      "keywords": ["김정은", "북미대화"],
       "summary": "김정은은 중대장들에게 싸움 준비를 끝내라고 했어요.",
       "details": [
         "조현 외교부 장관은 27일 국정감사에서 김정은의 24일 단둥 방문 때 북미대화가 논의됐을 가능성이 있다고 말했어요.",
@@ -102,9 +119,9 @@
       ]
     },
     {
-      "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
-      "keywords": ["대만", "인지전"],
+      "breaking": false, "important": false, "tag": "etc", "tagLabel": "대만",
       "title": "대만 국방장관 \"중국, 광복 기념일 앞세워 인지전\"",
+      "keywords": ["대만", "인지전"],
       "summary": "중국은 타이베이 위성사진과 '돌아오라' 포스터를 냈어요.",
       "details": [
         "중국은 25일 대만 광복 기념일에 맞춰 타이베이역과 고궁박물원 등이 보이는 고해상도 위성사진을 공개했어요.",
@@ -118,9 +135,9 @@
       ]
     },
     {
-      "tag": "etc", "tagLabel": "사건", "breaking": false, "important": false,
-      "keywords": ["더존비즈온", "해킹"],
+      "breaking": false, "important": false, "tag": "etc", "tagLabel": "사건",
       "title": "더존비즈온 두 번 해킹…정부 '중대사고' 조사",
+      "keywords": ["더존비즈온", "해킹"],
       "summary": "11만 곳 넘는 기업이 쓰는 회계 프로그램이 뚫렸어요.",
       "details": [
         "국내 1위 기업용 회계·ERP 회사 더존비즈온이 10월 16일과 21일 두 차례 해킹 사고를 정부에 신고했어요.",
@@ -136,9 +153,9 @@
       ]
     },
     {
-      "tag": "war", "tagLabel": "유럽안보", "breaking": false, "important": false,
-      "keywords": ["영국", "72시간"],
+      "breaking": false, "important": false, "tag": "war", "tagLabel": "유럽안보",
       "title": "영국 \"72시간 버틸 비상물자 준비하세요\"",
+      "keywords": ["영국", "72시간"],
       "summary": "2030년 전쟁 가능성에 대비하자는 캠페인을 시작했어요.",
       "details": [
         "영국 정부가 'Be Ready' 캠페인을 시작해 집집마다 3일 동안 버틸 비상물자를 준비하라고 권했어요.",
@@ -151,8 +168,10 @@
       ]
     }
   ],
+  "subhead": "반도체주가 이틀째 크게 올랐고, 이스라엘 총선은 과반이 없었어요.",
+  "updatedLabel": "10/28 12:02",
   "watch": [
-    "28일 오전 SK하이닉스 3분기 실적과 주주환원 발표",
+    "28일 코스피 마감 지수와 외국인 수급",
     "29일 새벽 3시 FOMC 결정과 워시 의장 회견",
     "29일 삼성전자 실적·중국 5중전회 폐막",
     "30일 일본은행 회의와 엔화 움직임"
