@@ -1,1 +1,189 @@
-{"date": "2026-10-31", "updatedLabel": "10/31 22:05", "kicker": "속보", "headline": "인텔 쇼크로 반도체주 급락, 코스피 3.48% 떨어졌어요", "subhead": "미국은 중간선거 뒤 이란 공습을 검토하고, 호르무즈에선 유조선 기뢰 공격이 이어졌어요", "advice": "주식 중 반도체·나스닥이 겹친 만큼 급락에 따라 사기보다 QQQ·알파벳 겹친 비중부터 점검해 보세요.", "marketsAsOf": "10/30 뉴욕 · 10/30 서울 마감 기준 (주말 휴장)", "markets": [{"label": "미 10년물", "value": "4.94%", "change": "-0.04%p", "dir": "down"}, {"label": "미 2년물", "value": "4.56%", "change": "-0.05%p", "dir": "down"}, {"label": "미 기준금리", "value": "3.75–4.00%", "change": "10/28 동결", "dir": "flat"}, {"label": "한은 기준금리", "value": "3.00%", "change": "10/22 동결", "dir": "flat"}, {"label": "S&P 500", "value": "7,580.07", "change": "-1.82%", "dir": "down"}, {"label": "코스피", "value": "5,730.74", "change": "-3.48%", "dir": "down"}], "stories": [{"tag": "econ", "tagLabel": "속보·증시", "breaking": true, "important": false, "keywords": ["코스피", "3.48%"], "title": "코스피 3.48% 급락, 5,730선으로 밀려", "summary": "외국인이 1조 6천억 원어치를 팔았어요", "details": ["30일 코스피는 206.92포인트(3.48%) 내린 5,730.74, 코스닥은 3.83% 내린 724.38로 마감했어요. 오전엔 프로그램 매도를 잠시 멈추는 사이드카도 걸렸어요.", "외국인이 약 1조 6천억 원어치를 팔았어요. 알파벳 실적 실망으로 AI 투자 걱정이 커진 영향이에요.", "원/달러 환율은 수출기업 달러 매도로 2.5원 내린 1,334.3원에 마감해 원화가 조금 강해졌어요.", "나와의 연결: 삼성전자·SK하이닉스·TIGER200과 반도체 ETF가 함께 빠졌어요. 하루 급락에 따라 사기보다 미리 정한 분할 기준을 지키면 돼요."], "note": "환율 하락 폭은 매체마다 조금씩 달라요.", "sources": [{"title": "베타뉴스", "url": "https://www.betanews.net/article/view/beta202610300056"}, {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026103016084854064"}]}, {"tag": "econ", "tagLabel": "속보·반도체", "breaking": true, "important": false, "keywords": ["인텔", "나스닥"], "title": "인텔 쇼크에 반도체주 급락, 나스닥 2.86%↓", "summary": "AI 투자비 걱정이 빅테크 전체로 번졌어요", "details": ["30일 뉴욕에서 나스닥은 2.86% 내린 25,437, S&P 500은 1.82% 내린 7,580.07, 다우는 1.09% 내렸어요.", "인텔이 4분기 전망을 예상보다 낮게 내놓으며 하루 약 28% 떨어졌어요. AMD는 10%, 반도체 ETF SOXX는 8% 내렸어요. 아마존·알파벳 실적 실망도 겹쳤어요.", "미 10년물 금리는 4.94%로 내렸고, 금값과 비트코인도 함께 떨어졌어요.", "나와의 연결: SPY·QQQ·QQQM, 알파벳·엔비디아가 겹쳐 있어 달러 주식 평가액이 줄었을 거예요."], "note": "인텔 하락률은 매체마다 약 28~30%로 달라요.", "sources": [{"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-123540419.html"}, {"title": "The Wall Street Republic", "url": "https://thewallstreetrepublic.substack.com/p/intel-falls-2858-the-nasdaq-100-enters"}, {"title": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"}]}, {"tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true, "keywords": ["이란", "공습"], "title": "미국, 선거 뒤 이란 공습 검토…밴스는 대화 제안", "summary": "전쟁과 협상 신호가 동시에 나왔어요", "details": ["월스트리트저널은 쿠퍼 중부사령관이 트럼프 대통령에게 이란 재공격 방안을 보고했다고 전했어요. 뉴욕타임스는 미국·이스라엘이 11월 3일 중간선거 뒤 공격 계획을 짰다고 보도했어요.", "한편 밴스 부통령은 카타르를 통해 이란 최고국가안보회의 레자이 사무총장에게 직접 대화를 제안하는 편지를 보냈어요. 카타르 중재단은 30일 테헤란에 다시 갔어요.", "이란 갈리바프 의회 의장은 제재 해제, 해상 봉쇄 중단 등 7가지 조건을 내걸었어요. 전문가들은 선거 뒤 충돌 가능성이 커진다고 봐요.", "나와의 연결: 확전되면 유가와 달러가 오르기 쉬워요. 달러 예금 사다리는 그대로 두고 주식은 서두르지 않는 편이 좋아요."], "note": "공격 계획은 미국 언론 보도이고, 미국 정부가 공식 확인하지 않았어요.", "sources": [{"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer"}, {"title": "Times of Israel", "url": "https://www.timesofisrael.com/qatari-mediators-return-to-tehran-to-push-for-us-iran-peace-deal-official-says/"}]}, {"tag": "war", "tagLabel": "호르무즈", "breaking": false, "important": false, "keywords": ["호르무즈", "기뢰"], "title": "호르무즈 유조선 기뢰 공격, 브렌트유 113달러", "summary": "이란은 유조선 4척이 기뢰에 맞았다고 주장해요", "details": ["29일 파나마 국적 유조선 '루이스 1'호에 작은 배가 부착식 기뢰 2개를 달아 기관실에 불이 났어요. 선원은 무사했고, 전쟁 시작 뒤 처음 확인된 부착식 기뢰 공격이에요.", "이란 혁명수비대는 '허가 안 된 항로'로 간 유조선 4척이 기뢰에 맞았다고 주장했고, 미군은 주요 항로의 기뢰는 치웠다고 맞섰어요.", "30일 브렌트유는 113.43달러, WTI는 104.12달러로 올랐어요.", "나와의 연결: 유가가 높으면 물가·금리가 쉽게 안 내려가요. 장기채 TLT는 늘리지 말고 헤지용 TBF를 유지하면 돼요."], "note": "이란의 '4척 폭발' 주장은 독립적으로 확인되지 않았어요.", "sources": [{"title": "gCaptain (Reuters)", "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/"}, {"title": "Greek City Times", "url": "https://greekcitytimes.com/2026/10/31/hormuz-tankers-mines-iran-claim"}]}, {"tag": "kr", "tagLabel": "속보·해킹", "breaking": true, "important": false, "keywords": ["바이낸스", "북한"], "title": "바이낸스 63억 달러 해킹, 북한 조직 지목", "summary": "역대 가장 큰 암호화폐 도난이에요", "details": ["세계 최대 암호화폐 거래소 바이낸스가 약 63억 달러를 도난당했어요. 2025년 바이비트 15억 달러의 4배가 넘어요.", "블록체인 분석 업체들은 북한 연계 해킹 조직 소행으로 봐요. 바이낸스는 약 30억 달러를 동결했고 손실은 회사가 보상하겠다고 했어요.", "나와의 연결: 암호화폐는 없지만, 북한 해킹이 커지면 대북 제재와 한반도 긴장으로 이어질 수 있어요."], "note": "바이낸스는 해커를 공식 지목하지 않았어요.", "sources": [{"title": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue"}, {"title": "SBHNews", "url": "https://www.sbhnews.com/markets"}]}, {"tag": "etc", "tagLabel": "미국", "breaking": false, "important": true, "keywords": ["중간선거", "민주당"], "title": "미 중간선거 D-3, 여론조사 민주당 우세", "summary": "기름값과 생활비가 큰 쟁점이에요", "details": ["11월 3일 중간선거를 앞두고 로이터·입소스 조사에서 의회 투표 의향은 민주당 47%, 공화당 36%였어요.", "캘리포니아에선 민주당에 유리하게 다시 그린 선거구와 주민 발의안도 관심이에요. 이란 전쟁으로 오른 기름값이 공화당에 부담이에요.", "나와의 연결: 결과에 따라 이란 전쟁·관세·이민 정책이 바뀔 수 있어요. 산호세 친척들에게도 중요한 선거이고, 미국 주식과 달러가 흔들릴 수 있어요."], "sources": [{"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"}]}, {"tag": "kr", "tagLabel": "한국", "breaking": false, "important": false, "keywords": ["윤석열", "사형"], "title": "특검, 윤석열 항소심서 다시 사형 구형", "summary": "1심은 무기징역, 11월 5일 최후진술이에요", "details": ["조은석 특검팀은 29일 서울고법 항소심에서 윤석열 전 대통령에게 다시 사형을 구형했어요. 2024년 12월 비상계엄에 따른 내란 혐의예요.", "1심은 2월에 무기징역을 선고했어요. 11월 5일 윤 전 대통령이 최후진술을 해요."], "sources": [{"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case"}]}, {"tag": "etc", "tagLabel": "대만", "breaking": false, "important": false, "keywords": ["대만", "14.36%"], "title": "대만 3분기 성장률 14.36%, 48년 만 최고", "summary": "AI 수출 덕분이지만 증시는 2.5% 내렸어요", "details": ["대만 통계청은 3분기 성장률을 14.36%로 추정했어요. 3분기 기준 48년 만에 가장 높아요. AI·클라우드 수요로 수출이 크게 늘었어요.", "다만 30일 대만 증시는 AI 투자 걱정에 2.49% 내렸어요. 대만달러는 미국 달러 대비 강해졌어요.", "나와의 연결: KODEX 대만테크고배당이 대만 반도체 흐름을 따라가요. 외가 친척이 있는 대만은 경기가 좋은 편이에요."], "sources": [{"title": "Focus Taiwan", "url": "https://focustaiwan.tw/business/202610300021"}, {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/"}]}, {"tag": "etc", "tagLabel": "사건", "breaking": false, "important": false, "keywords": ["스페인", "68명"], "title": "스페인 고속열차 추돌, 최소 68명 숨져", "summary": "신호 시스템 고장 뒤 운행 지시가 원인으로 꼽혀요", "details": ["28일 스페인 톨레도주 우르다 근처에서 렌페 고속열차가 앞서 서 있던 이료 열차를 약 시속 200km로 들이받았어요. 최소 68명이 숨졌어요.", "교통부 장관은 신호 시스템 컴퓨터 고장으로 열차가 멈춘 뒤 렌페 열차에 운행을 허락한 지시가 '설명할 수 없다'고 했어요.", "장관은 사퇴 요구에도 원인 규명이 먼저라며 물러나지 않겠다고 했어요."], "note": "사망자 수는 매체마다 68~69명으로 달라요.", "sources": [{"title": "Deseret News", "url": "https://www.deseret.com/u-s-world/2026/10/28/high-speed-train-crash-kills-68-in-spain/"}, {"title": "해외 뉴스 요약(BBC 인용)", "url": "https://www.new1cm.com/2026/10/2026-10-31.html"}]}, {"tag": "etc", "tagLabel": "유럽", "breaking": false, "important": false, "keywords": ["캐나다", "EU"], "title": "캐나다, EU 첫 준회원국으로 '미래 동맹'", "summary": "미국 의존을 줄이려는 움직임이에요", "details": ["카니 캐나다 총리와 폰데어라이엔 EU 집행위원장이 몬트리올에서 '미래를 위한 동맹'을 출범시켰어요.", "캐나다는 EU의 첫 준회원국이 되고, 디지털 무역·AI 보안·핵심 광물 협력에 서명했어요. 트럼프 행정부의 무역 압박에 맞선 움직임이에요."], "note": "출범 내용은 알자지라·가디언 기사 요약으로 확인했어요.", "sources": [{"title": "해외 뉴스 요약(Al Jazeera·Guardian 인용)", "url": "https://www.new1cm.com/2026/10/2026-10-31.html"}, {"title": "Courthouse News", "url": "https://courthousenews.com/carney-pursues-unique-alliance-with-eu-as-canada-pivots-away-from-us/"}]}], "watch": ["주말 이란의 카타르 중재 답변과 월요일 브렌트유 110달러선", "11월 1일 한국 10월 수출 발표와 월요일 코스피 반도체주", "11월 3일 미 중간선거 뒤 미국의 이란 공습 여부", "11월 5일 윤석열 항소심 최후진술, 12월 FOMC 인상 여부"]}
+{
+  "date": "2026-11-01",
+  "updatedLabel": "11/1 07:10",
+  "kicker": "오늘의 한 줄",
+  "headline": "이란, 미국 대화 제안에 '긍정적'…공습이냐 협상이냐 갈림길",
+  "subhead": "미 중간선거를 이틀 앞두고 카타르 중재가 이어지지만, 이란은 조건을 굽히지 않았어요",
+  "advice": "이란 협상 결과가 나오기 전엔 급락한 나스닥·반도체 ETF를 서둘러 늘리기보다 분할 기준을 지켜보세요.",
+  "marketsAsOf": "10/30 뉴욕 · 10/30 서울 마감 기준 (주말 휴장)",
+  "markets": [
+    {"label": "미 10년물", "value": "4.94%", "change": "-0.04%p", "dir": "down"},
+    {"label": "미 2년물", "value": "4.56%", "change": "-0.05%p", "dir": "down"},
+    {"label": "미 기준금리", "value": "3.75–4.00%", "change": "10/28 동결", "dir": "flat"},
+    {"label": "한은 기준금리", "value": "3.00%", "change": "10/22 동결", "dir": "flat"},
+    {"label": "S&P 500", "value": "7,580.07", "change": "-1.82%", "dir": "down"},
+    {"label": "코스피", "value": "5,730.74", "change": "-3.48%", "dir": "down"}
+  ],
+  "stories": [
+    {
+      "tag": "war",
+      "tagLabel": "이란전쟁",
+      "breaking": false,
+      "important": true,
+      "keywords": ["이란", "긍정적"],
+      "title": "이란 \"미국 대화 제안 긍정적\"…조건은 그대로",
+      "summary": "협상 신호와 공습 준비가 동시에 나오고 있어요",
+      "details": [
+        "아락치 이란 외무장관은 밴스 미 부통령의 편지를 검토했다며 미국의 대화 시도를 '긍정적인 걸음'이라고 했어요. 다만 지금 미국 관리를 만날 필요는 없다고 했어요.",
+        "이란 대표단은 카타르 도하로 가서 중재국과 협의를 이어가요. 이란은 제재 해제, 카타르에 묶인 60억 달러 등 동결 자금 해제, 미군 축소를 조건으로 내걸었어요.",
+        "루비오 국무장관은 트럼프 대통령이 공격 재개를 아직 정하지 않았다고 했어요. 이란 군 총참모장은 공격받으면 '지역 제한 없이' 대응하겠다고 했고, 이란 의회에는 핵확산금지조약(NPT) 탈퇴 법안 10건이 올라왔어요.",
+        "나와의 연결: 협상이 진전되면 유가·달러가 내리고, 공습이 재개되면 반대로 오르기 쉬워요. 달러 예금 사다리는 그대로 유지하면 돼요."
+      ],
+      "note": "만남 날짜와 장소(도하·이스탄불)는 보도마다 다르고, 이란은 '추측'이라고 했어요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace"}
+      ]
+    },
+    {
+      "tag": "kr",
+      "tagLabel": "한반도",
+      "breaking": false,
+      "important": true,
+      "keywords": ["북한", "10발"],
+      "title": "북한, 원산서 단거리 탄도미사일 10발 발사",
+      "summary": "김정은 중국 방문 며칠 뒤 대규모 발사예요",
+      "details": [
+        "합동참모본부는 29일 낮 12시 30분쯤 북한이 강원도 원산 일대에서 단거리 탄도미사일 약 10발을 동해로 쐈다고 밝혔어요. 약 250km를 날았어요.",
+        "한·미·일은 정보를 공유하며 미사일 종류를 분석하고 있어요. 블룸버그는 김정은 위원장의 중국 단둥 방문 며칠 뒤에 나온 발사라고 전했어요.",
+        "나와의 연결: 한반도 긴장이 커지면 원화가 약해지고 코스피가 흔들리기 쉬워요. 달러 자산은 이런 때 완충 역할을 해요."
+      ],
+      "sources": [
+        {"title": "SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820997"},
+        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-29/north-korea-launches-suspected-ballistic-missile-japan-says"},
+        {"title": "NK News", "url": "https://www.nknews.org/2026/10/north-korea-fires-unidentified-projectile-toward-sea-rok-military/"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "미국",
+      "breaking": false,
+      "important": false,
+      "keywords": ["중간선거", "D-2"],
+      "title": "미 중간선거 D-2, 이란 전쟁·기름값이 쟁점",
+      "summary": "선거 뒤 이란 공습 여부도 걸려 있어요",
+      "details": [
+        "11월 3일 미국 중간선거가 열려요. 최근 로이터·입소스 조사에선 의회 투표 의향이 민주당 47%, 공화당 36%였어요.",
+        "미국 언론은 미국이 걸프 동맹국에 선거 뒤 군사 행동 가능성에 대비하라고 알렸다고 보도했어요.",
+        "나와의 연결: 산호세 친척들이 사는 캘리포니아도 선거구 개편안이 걸려 있어요. 결과에 따라 미국 주식과 달러가 흔들릴 수 있어요."
+      ],
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace"}
+      ]
+    },
+    {
+      "tag": "war",
+      "tagLabel": "대만",
+      "breaking": false,
+      "important": false,
+      "keywords": ["중국 함정", "53척"],
+      "title": "대만, 중국 함정 53척 지도 공개 \"위협 분명\"",
+      "summary": "랴오닝 항모 전단이 대만 동쪽에서 훈련 중이에요",
+      "details": [
+        "조지프 우 대만 국가안전회의 비서장은 28일 중국 선박 53척(군함 34척, 항모 랴오닝 포함)의 위치 지도를 공개하고 대만·일본·필리핀에 대한 위협이 분명하다고 했어요.",
+        "중국 국방부는 '매년 하는 정기 훈련'이라고 했어요. 미 육군 태평양사령관은 중국이 이르면 2027년 대만에 움직일 수 있다고 보고 대비 중이라고 했어요.",
+        "나와의 연결: 외가 친척이 있는 대만 주변 긴장이에요. 대만해협이 불안해지면 KODEX 대만테크고배당 같은 대만 반도체 투자도 흔들릴 수 있어요."
+      ],
+      "note": "53척 지도는 대만 정부 발표이고, 중국은 특정 국가를 겨냥한 게 아니라고 했어요.",
+      "sources": [
+        {"title": "HNGN", "url": "https://hngn.com/articles/273643/20261030/taiwan-maps-53-chinese-ships-calls-three-front-threat-obvious.htm"},
+        {"title": "Stars and Stripes", "url": "https://stripes.com/branches/army/2026-10-28/ronald-clark-us-army-pacific-taiwan-china-23284410.html"}
+      ]
+    },
+    {
+      "tag": "kr",
+      "tagLabel": "외교",
+      "breaking": false,
+      "important": false,
+      "keywords": ["한미일", "비핵화"],
+      "title": "한미일 외교장관 \"북한 완전한 비핵화\" 재확인",
+      "summary": "트럼프·김정은 만남 가능성도 거론돼요",
+      "details": [
+        "루비오 미 국무장관, 조현 외교장관, 모테기 일본 외무상이 30일 미국 애틀랜타 G20 회의에서 만나 북한의 완전한 비핵화와 유엔 제재 이행을 다짐했어요.",
+        "다음 달 중국에서 열리는 APEC 정상회의에서 트럼프 대통령과 김정은 위원장이 만날 수 있다는 관측도 나와요. 북한은 핵 보유를 법으로 정해 포기하지 않겠다는 입장이에요."
+      ],
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "AI",
+      "breaking": false,
+      "important": false,
+      "keywords": ["올트먼", "삼성"],
+      "title": "올트먼 깜짝 방한, 삼성·SK와 AI 협력 논의",
+      "summary": "반도체·AI 데이터센터 협력이 주제였어요",
+      "details": [
+        "샘 올트먼 오픈AI 최고경영자가 31일 용인 삼성인력개발원에서 삼성 계열사 사장단 약 50명과 간담회를 했어요.",
+        "이어 서울에서 최태원 SK 회장, SK하이닉스 경영진과 점심을 함께하며 AI 인프라 협력을 이어가기로 했어요.",
+        "나와의 연결: 삼성전자·SK하이닉스, 반도체 ETF를 갖고 있어요. 인텔 쇼크로 떨어진 반도체주에 월요일 어떤 영향을 줄지 볼 만해요."
+      ],
+      "sources": [
+        {"title": "머니투데이방송", "url": "https://news.mtn.co.kr/article/2026103120013853065"},
+        {"title": "뉴시스", "url": "https://www.newsis.com/view/NISX20261031_0003849356"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "해킹",
+      "breaking": false,
+      "important": false,
+      "keywords": ["바이낸스", "FBI"],
+      "title": "바이낸스 63억 달러 해킹, FBI·비밀경호국 수사",
+      "summary": "북한 연계 '트레이더트레이터' 소행으로 지목돼요",
+      "details": [
+        "역대 최대 암호화폐 도난인 바이낸스 해킹에 미국 FBI와 비밀경호국이 수사에 나섰어요.",
+        "블록체인 분석 업체 TRM랩스·체이널리시스는 북한 연계 해킹팀 '트레이더트레이터'를 지목했어요. 바이낸스는 약 30억 달러를 동결했고 손실은 모두 보상한다고 했어요.",
+        "나와의 연결: 암호화폐는 없지만, 북한의 자금줄이 커지면 제재와 한반도 긴장으로 이어질 수 있어요."
+      ],
+      "note": "바이낸스와 미국 정부는 해커를 공식 지목하지 않았어요.",
+      "sources": [
+        {"title": "Cybersecurity Dive", "url": "https://www.cybersecuritydive.com/news/binance-hack-north-korea-cryptocurrency-theft/873304/"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "유럽",
+      "breaking": false,
+      "important": false,
+      "keywords": ["폴란드", "헌법재판소"],
+      "title": "폴란드 헌법재판소장 정직, 경찰 투입 논란",
+      "summary": "야당은 '쿠데타', 정부는 '법치 회복'이라 맞서요",
+      "details": [
+        "30일 폴란드 헌법재판소장이 정직되고 경찰이 재판소 건물을 확보했어요. 세네갈로 가던 나브로츠키 대통령은 비행기를 돌려 돌아왔어요.",
+        "투스크 총리는 법치 회복이 의무라고 했고, 야당 법과정의당 쪽은 '쿠데타'라며 반발했어요. 재판관 임명을 두고 대통령과 정부가 오래 다퉈 왔어요."
+      ],
+      "note": "'쿠데타'는 야당 쪽 표현이고, 양측 설명이 크게 달라요.",
+      "sources": [
+        {"title": "Fox News", "url": "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court"},
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "사회",
+      "breaking": false,
+      "important": false,
+      "keywords": ["출생아", "7년"],
+      "title": "8월 출생아 2만3703명, 7년 만에 최대",
+      "summary": "26개월 연속 늘었지만 수도권에 몰렸어요",
+      "details": [
+        "통계 당국은 8월 출생아가 2만3703명으로 1년 전보다 13% 늘었다고 밝혔어요. 26개월 연속 증가로 역대 가장 긴 기록이에요.",
+        "다만 출생아의 54.4%가 수도권에서 태어났고, 혼인 건수는 3개월 만에 줄었어요."
+      ],
+      "sources": [
+        {"title": "Korea Times", "url": "https://www.koreatimes.co.kr/southkorea/20261028/births-up-13-in-august-to-highest-in-7-years"},
+        {"title": "SBS Biz", "url": "https://biz.sbs.co.kr/amp/article/20000342623"}
+      ]
+    }
+  ],
+  "watch": [
+    "오늘 오전 9시 한국 10월 수출입 동향 발표",
+    "월요일 코스피·반도체주, 인텔 쇼크 뒤 반등 여부",
+    "11월 3일 미 중간선거와 그 뒤 미국의 이란 공격 결정",
+    "도하 이란 협상 진전과 브렌트유 110달러선"
+  ]
+}
