@@ -1,36 +1,37 @@
 {
   "date": "2026-11-02",
-  "updatedLabel": "11/2 07:00",
+  "updatedLabel": "11/2 16:00",
   "kicker": "오늘의 한 줄",
-  "headline": "트럼프 '이란 남은 표적' 지목, 미국 중간선거 D-1이에요",
-  "subhead": "선거 직후 공습 가능성이 거론되고, 코스피는 금요일 급락 뒤 첫 장을 맞아요.",
-  "advice": "선거 뒤 이란 변수로 시장이 출렁일 수 있어, 지수 ETF 추가 매수는 나눠서 천천히 하는 게 좋아요.",
-  "marketsAsOf": "10/30 뉴욕 · 10/30 서울 마감 기준",
+  "headline": "이란 '호르무즈 이틀 재개안'에 유가 3% 하락, 코스피는 2.2% 반등했어요",
+  "subhead": "유조선 피격은 계속되고, 내일 미국 중간선거 뒤 변동성이 남아 있어요.",
+  "advice": "선거·이란 변수가 남았으니 코스피 반등에 서둘지 말고, 국내 ETF는 정한 조건대로 나눠서 사세요.",
+  "marketsAsOf": "10/30 뉴욕 · 11/2 서울 마감 기준",
   "markets": [
     {"label":"미 10년물","value":"4.94%","change":"-0.04%p","dir":"down"},
     {"label":"미 2년물","value":"4.56%","change":"-0.05%p","dir":"down"},
     {"label":"미 기준금리","value":"3.75~4.00%","change":"동결","dir":"flat"},
     {"label":"한은 기준금리","value":"3.00%","change":"동결","dir":"flat"},
     {"label":"S&P 500","value":"7,580.07","change":"-1.82%","dir":"down"},
-    {"label":"코스피","value":"5,730.74","change":"-3.48%","dir":"down"}
+    {"label":"코스피","value":"5,859.08","change":"+2.24%","dir":"up"}
   ],
   "stories": [
     {
       "tag":"war","tagLabel":"이란전쟁","breaking":false,"important":true,
-      "keywords":["트럼프","곡괭이산"],
-      "title":"트럼프, 이란 '곡괭이산'을 다음 표적으로 지목",
-      "summary":"선거 뒤 추가 공습 가능성이 커졌다는 관측이 나와요.",
+      "keywords":["호르무즈","트럼프"],
+      "title":"이란 '호르무즈 이틀 재개안', 트럼프는 '곧 끝낸다'",
+      "summary":"협상은 이어지지만 유조선 피격도 계속되고 있어요.",
       "details":[
-        "트럼프 대통령은 10월 31일 이란 군사·핵 능력은 대부분 무너졌지만 '한두 곳'이 남았다며, 지하 핵시설로 의심되는 곡괭이산을 직접 언급했어요.",
-        "다만 서두르지 않겠다고 했고, 루비오 국무장관도 아직 공격을 결정하지 않았다고 밝혔어요. 협상은 '잘 되고 있지만 믿기 어렵다'고 했어요.",
-        "이란은 그곳에서 핵 활동을 하지 않는다고 부인하며, 새 전쟁이 나면 더 길어질 수 있다고 경고했어요.",
-        "나와의 연결: 공습이 현실화하면 유가와 달러가 함께 뛸 수 있어요. 달러 비중이 크니 환율이 튀어도 서둘러 움직일 필요는 없어요."
+        "아라그치 이란 외무장관은 카타르 중재 협상에서 이틀짜리 방안이 나왔다고 밝혔어요. 첫날 미국이 조치를 하면 둘째 날 이란이 해협을 다시 연다는 내용이에요.",
+        "다만 미국의 조치에 달린 제안이고 아직 최종 결론은 아니에요. 이란은 미국과 직접 협상은 없다고 했어요.",
+        "트럼프 대통령은 전쟁이 '어떤 식으로든 매우 빨리' 끝날 것이라며, 합의가 없으면 '그냥 끝내겠다'고 경고했어요. 곡괭이산 등 남은 표적도 언급한 바 있어요.",
+        "영국 해상무역작전(UKMTO)은 2일 새벽 사우디 앞바다에서 유조선이 발사체 2발을 맞았다고 알렸어요.",
+        "나와의 연결: 합의면 유가·달러가 내리고, 공습이면 함께 뛸 수 있어요. 달러 비중이 크니 어느 쪽이든 급하게 움직일 필요는 없어요."
       ],
-      "note":"'핵 공격 표적'이라는 일부 보도와 달리, 확인된 발언은 핵시설 의심 장소를 공격 대상으로 언급한 것이에요.",
+      "note":"이란 혁명수비대는 유조선 2척이 기뢰에 부딪혔다고 주장했는데, 위 UKMTO 경보와 같은 사건인지는 확인되지 않았어요.",
       "sources":[
-        {"title":"Malay Mail(AFP)","url":"https://www.malaymail.com/news/world/2026/11/01/we-can-do-it-in-10-minutes-trump-names-irans-pickaxe-mountain-as-potential-us-strike-target/241530"},
-        {"title":"Times of Israel","url":"https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/"},
-        {"title":"SBHNews","url":"https://www.sbhnews.com"}
+        {"title":"Gulf News","url":"https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-nov-2-2026-1.500732326"},
+        {"title":"Al Jazeera","url":"https://aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon"},
+        {"title":"AP","url":"https://www.clickorlando.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/"}
       ]
     },
     {
@@ -50,6 +51,90 @@
       ]
     },
     {
+      "tag":"kr","tagLabel":"한반도","breaking":false,"important":false,
+      "keywords":["북한","핵전쟁"],
+      "title":"북한, 한미 훈련에 '핵전쟁 시연' 비난하며 핵 강화 예고",
+      "summary":"며칠 전엔 집속탄두 미사일 시험도 공개했어요.",
+      "details":[
+        "북한 김정식 군수공업부 제1부부장은 2일 담화에서 한미 '아이언메이스' 훈련을 '가장 극악한 핵전쟁 시연'이라고 비난했어요.",
+        "핵전쟁 억제력 강화를 더 빠르게 하겠다고 했고, 호국훈련과 프리덤 플래그도 함께 비판했어요.",
+        "북한은 10월 31일 KN-24 미사일의 집속탄두 시험을 했다고 1일 발표했어요. 합참은 한미가 분석 중이라고 했어요.",
+        "나와의 연결: 안보 긴장은 한국 증시와 원화에 부담이 될 수 있어요. 프리덤 플래그가 끝나는 11월 6일까지 추가 도발을 지켜보세요."
+      ],
+      "sources":[
+        {"title":"세계일보","url":"https://www.segye.com/newsView/20261102511687"},
+        {"title":"파이낸셜뉴스","url":"https://www.fnnews.com/news/202611020954023789"}
+      ]
+    },
+    {
+      "tag":"econ","tagLabel":"증시","breaking":false,"important":false,
+      "keywords":["코스피","5,859"],
+      "title":"코스피 5,859 마감, 급락 하루 만에 2.24% 반등",
+      "summary":"장 초반 1.6% 빠졌다가 기관 매수로 돌아섰어요.",
+      "details":[
+        "코스피는 5,637로 낮게 출발해 128.34포인트 오른 5,859.08에 마감했어요. 코스닥도 1.38% 오른 734.36이에요.",
+        "기관이 1조 2,329억 원을 사들였고, 개인과 외국인은 팔았어요. SK하이닉스는 3.81%, 삼성전자는 1.78% 올랐어요.",
+        "원/달러 환율은 9.5원 오른 1,343.8원으로 마감했어요.",
+        "나와의 연결: 환율이 올라 달러 자산의 원화 환산액은 늘었어요. 국내 비중은 반등 폭보다 정한 분할 조건 기준으로 점검해 보세요."
+      ],
+      "sources":[
+        {"title":"서울신문","url":"https://www.seoul.co.kr/news/economy/securities/2026/11/02/20261102500208"},
+        {"title":"글로벌이코노믹","url":"https://www.g-enews.com/article/Securities/2026/11/20261102154521112923c501012_1"},
+        {"title":"파이낸셜뉴스","url":"https://www.fnnews.com/news/202611021542051062"}
+      ]
+    },
+    {
+      "tag":"econ","tagLabel":"유가","breaking":false,"important":false,
+      "keywords":["유가","브렌트"],
+      "title":"유가 3%대 하락, 브렌트 110달러 아래로",
+      "summary":"주말 충돌이 없었고 협상 기대가 커졌어요. OPEC+는 동결했어요.",
+      "details":[
+        "한국 시간 2일 낮 브렌트유는 약 109.7달러, WTI는 약 100.7달러로 3%가량 내렸어요.",
+        "OPEC+는 1일 12월 생산 목표를 동결했어요.",
+        "시장 분석가들은 미국 선거 뒤 이란 관련 발언이 강경해지면 브렌트가 120달러까지 오를 수 있다고 경고했어요.",
+        "나와의 연결: 유가가 내리면 물가·금리 부담이 조금 줄어요. 채권 비중이 있으니 미국 금리도 함께 보세요."
+      ],
+      "note":"마감 값이 아닌 장중 값이고, 시각에 따라 달라요.",
+      "sources":[
+        {"title":"AOL","url":"https://www.aol.com/articles/oil-slips-more-1-talks-231257000.html"},
+        {"title":"AP","url":"https://www.clickorlando.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/"}
+      ]
+    },
+    {
+      "tag":"etc","tagLabel":"대만","breaking":false,"important":false,
+      "keywords":["대만 증시","해협"],
+      "title":"대만 증시 0.65% 하락, 한미일은 해협 평화 재확인",
+      "summary":"대만은 G20 계기 3국 외교장관 언급을 환영했어요.",
+      "details":[
+        "대만 가권지수는 2일 291.69포인트 내린 44,920.14로 마감했어요. AP 집계로 TSMC는 장중 약 1.5% 내렸어요.",
+        "한미일 외교장관이 G20 계기 회의에서 대만해협 평화와 안정의 중요성을 언급했고, 대만 외교부가 감사를 표했어요.",
+        "타이베이 세미나에선 시진핑의 군 숙청으로 침공 준비는 늦어지지만 오판 위험은 커졌다는 분석도 나왔어요.",
+        "나와의 연결: 외가 친척이 있는 대만의 안보와 함께, 대만 테크 ETF·반도체 보유분에도 연결되는 흐름이에요."
+      ],
+      "note":"대만이 APEC의 '차별'에 항의했다는 Taipei Times 2일 자 기사는 제목만 확인했고, 본문은 열리지 않았어요.",
+      "sources":[
+        {"title":"Focus Taiwan","url":"https://focustaiwan.tw/business/202611020007"},
+        {"title":"Taipei Times","url":"https://www.taipeitimes.com/News/front"},
+        {"title":"Taipei Times","url":"https://www.taipeitimes.com/News/taiwan/archives/2026/11/01/2003866956"}
+      ]
+    },
+    {
+      "tag":"etc","tagLabel":"국회","breaking":false,"important":false,
+      "keywords":["시정연설","국방"],
+      "title":"이 대통령 시정연설, 국방 73.3조 포함 821조 예산 호소",
+      "summary":"법정 시한은 12월 2일, 야당은 재원 활용을 비판해요.",
+      "details":[
+        "이재명 대통령이 2일 국회에서 2027년 예산안을 설명하며 12월 2일 기한 내 처리를 부탁했어요. 전체 예산안은 820.9조 원으로 올해보다 12.8% 많아요.",
+        "국방 예산은 73.3조 원이고 핵추진잠수함과 KF-21 등을 차질 없이 확보하겠다고 했어요.",
+        "162.3조 원 규모 미래대응기금을 두고 여당은 미래 투자, 국민의힘은 나랏빚 감축을 주장해요. 국회 예결위 질의는 4~5일 시작돼요.",
+        "나와의 연결: 나랏빚이 늘면 국채 금리에 영향을 줄 수 있어요. 개인투자용 국채는 만기 보유 계획대로 가면 돼요."
+      ],
+      "sources":[
+        {"title":"파이낸셜뉴스","url":"https://www.fnnews.com/news/202611020956096615"},
+        {"title":"아주경제","url":"https://www.ajunews.com/view/20261102073704263"}
+      ]
+    },
+    {
       "tag":"kr","tagLabel":"북한","breaking":false,"important":false,
       "keywords":["FBI","바이낸스"],
       "title":"FBI, 바이낸스 63억 달러 해킹 배후로 북한 지목",
@@ -65,39 +150,6 @@
       ]
     },
     {
-      "tag":"econ","tagLabel":"증시","breaking":false,"important":false,
-      "keywords":["코스피","인텔"],
-      "title":"인텔 폭락 여파, 코스피 급락 뒤 첫 거래일",
-      "summary":"AI 투자 의구심 속에 오늘 아시아 증시 반응이 관심이에요.",
-      "details":[
-        "인텔은 10월 30일 28.6% 떨어져 수십 년 만에 가장 큰 하락을 기록했고, 전날 알파벳도 크게 내렸어요.",
-        "같은 날 나스닥은 2.86%, S&P500은 1.82% 내렸고, 코스피는 3.48% 떨어진 5,730.74로 마감했어요.",
-        "PBR이 낮은 상장사 151곳 명단이 처음 공개됐다는 보도도 나와, 기업가치 제고 압박이 커질 전망이에요.",
-        "나와의 연결: 알파벳과 SPY·QQQ, 한국 반도체주가 같은 방향으로 움직여요. 겹치는 비중부터 확인해 보세요."
-      ],
-      "note":"PBR 151개사 명단 공개는 SBHNews 보도로, 다른 매체에서 아직 확인하지 못했어요.",
-      "sources":[
-        {"title":"StockTitan(CNN 인용)","url":"https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"},
-        {"title":"NBC(CNBC)","url":"https://nbcchicago.com/news/business/money-report/intels-22-share-plunge-drags-down-global-chip-stocks-from-tsmc-to-samsung/3509519"},
-        {"title":"SBHNews","url":"https://www.sbhnews.com"}
-      ]
-    },
-    {
-      "tag":"etc","tagLabel":"국회","breaking":false,"important":false,
-      "keywords":["821조","시정연설"],
-      "title":"이 대통령 오늘 시정연설, 역대 최대 821조 예산",
-      "summary":"반도체 호황 세수를 어디에 쓸지가 최대 쟁점이에요.",
-      "details":[
-        "이재명 대통령이 11월 2일 국회에서 2027년 예산안 시정연설을 해요. 예산안은 820.9조 원으로 올해보다 12.8% 많아요.",
-        "여당은 162.3조 원 규모 미래대응기금으로 전략산업에 투자하자고 하고, 국민의힘은 예비 재원을 깎아 나랏빚부터 갚자고 맞서요.",
-        "법정 처리 기한은 12월 2일이고, 대법원장 국정조사·특검법 충돌로 처리가 늦어질 수 있어요.",
-        "나와의 연결: 나랏빚이 늘면 국채 공급이 많아져 국채 금리에 영향을 줄 수 있어요. 개인투자용 국채는 만기 보유 계획대로 가면 돼요."
-      ],
-      "sources":[
-        {"title":"시대일보","url":"https://www.sidae.com/article/2026110113135377775"}
-      ]
-    },
-    {
       "tag":"war","tagLabel":"예멘","breaking":false,"important":false,
       "keywords":["후티","사우디"],
       "title":"후티, 사우디 아람코·항공기 공격 경고",
@@ -105,8 +157,7 @@
       "details":[
         "예멘 후티 반군은 11월 1일 사우디 아람코 시설이 사정권에 있다며, 메카·메디나를 뺀 사우디 영공을 쓰지 말라고 국제 항공사에 경고했어요.",
         "사우디 주도 연합군은 호데이다와 다마르의 후티 시설을 정밀 타격했다고 밝혔어요. 후티 측은 대학 건물이 맞았다고 주장했어요.",
-        "7월 휴전이 깨진 뒤 후티 공격으로 10월에만 사우디에서 24명이 숨졌어요.",
-        "나와의 연결: 아람코가 공격받으면 유가가 더 오를 수 있어요. 유가와 금리 흐름을 함께 보세요."
+        "7월 휴전이 깨진 뒤 후티 공격으로 10월에만 사우디에서 24명이 숨졌어요."
       ],
       "note":"대학 피격 주장은 후티 측 매체 발표로, 독립적으로 확인되지 않았어요.",
       "sources":[
@@ -115,74 +166,25 @@
       ]
     },
     {
-      "tag":"econ","tagLabel":"유가","breaking":false,"important":false,
-      "keywords":["유가","OPEC+"],
-      "title":"유가 100달러대, OPEC+는 12월 증산 보류",
-      "summary":"호르무즈가 막힌 채라 산유국들도 목표만큼 못 뽑고 있어요.",
+      "tag":"etc","tagLabel":"사건","breaking":false,"important":false,
+      "keywords":["플로리다","9명"],
+      "title":"미국 플로리다에 소형 제트기 추락, 9명 사망",
+      "summary":"탑승자 전원이 숨졌고 당국이 원인을 조사해요.",
       "details":[
-        "사우디·러시아 등 OPEC+ 7개국은 12월 생산 목표를 그대로 두기로 원칙 합의했다고 로이터가 전했어요.",
-        "10월 30일 브렌트유는 113.43달러, WTI는 104.12달러로 마감했고, 10월 한 달 각각 13.6%, 15.2% 올랐어요.",
-        "중동 긴장과 미국 선거가 이번 주 유가의 큰 변수예요.",
-        "나와의 연결: 유가가 높으면 물가와 금리가 오르기 쉬워요. 채권 비중이 있으니 금리 흐름을 함께 보세요."
+        "현지 시간 1일 미국 플로리다주 팜비치 카운티에서 리어제트 60 기종이 추락해 불이 났고, 탑승자 9명이 모두 숨졌어요.",
+        "연방항공청(FAA)과 교통안전위원회(NTSB)가 조사하고 있어요."
       ],
+      "note":"전세기·주택가 추락, 비행 경로, 결빙·난기류 교신과 조사 기관은 SBHNews 보도로, 다른 매체로 확인하지 못했어요. 지상 피해도 아직 불확실해요.",
       "sources":[
-        {"title":"ANI(로이터 인용)","url":"https://aninews.in/news/business/opec-set-to-keep-december-oil-output-targets-unchanged-focus-shifts-to-2027-quotas20261101084757/"},
-        {"title":"FinanceFeeds(로이터 인용)","url":"https://financefeeds.com/brent-crude-oil-price-113-saturday-week-ahead-after-october-13-6-percent-gain-hormuz-mines-midterms-jobs-report-bull-120-bear-106"}
-      ]
-    },
-    {
-      "tag":"kr","tagLabel":"한반도","breaking":false,"important":false,
-      "keywords":["북한","프리덤 플래그"],
-      "title":"북한, 한미 '프리덤 플래그' 훈련에 '힘으로 억제' 위협",
-      "summary":"훈련은 11월 6일까지 이어져요.",
-      "details":[
-        "북한 국방성 대변인은 10월 30일 한미 연합공중훈련 '프리덤 플래그'를 도발이라고 비난하며 '철저히 힘으로 위협을 억제하겠다'고 했어요.",
-        "훈련은 10월 26일 시작해 11월 6일까지 열리고, 미 해병대 항공기도 처음 한국에서 참가했어요.",
-        "북한은 서부전선 지뢰 폭발 뒤 우리 군이 제안한 군사회담에도 응하지 않고 있어요."
-      ],
-      "note":"11월 2일 북한이 '핵전쟁 리허설'이라며 핵 억지력 강화를 발표했다는 SBHNews 보도는 아직 다른 매체로 확인하지 못했어요.",
-      "sources":[
-        {"title":"아시아경제","url":"https://view.asiae.co.kr/article/2026103014591574610"},
-        {"title":"SBHNews","url":"https://www.sbhnews.com"}
-      ]
-    },
-    {
-      "tag":"etc","tagLabel":"대만","breaking":false,"important":false,
-      "keywords":["대만","숙청"],
-      "title":"대만 전문가 '중국군 숙청에 계획된 침공 위험 줄어'",
-      "summary":"대신 실수로 충돌이 날 위험은 커졌다고 봤어요.",
-      "details":[
-        "타이베이 세미나에서 전문가들은 시진핑의 군 숙청으로 중국군이 재정비에 1~4년이 걸려, 대만 침공 준비 목표가 늦어질 것으로 봤어요.",
-        "현직 상장급 장성이 6명밖에 남지 않아 지휘 공백이 크다는 분석도 나왔어요.",
-        "다만 경험 없는 지휘부 탓에 오판과 위기 관리 실패 위험은 커졌다고 경고했어요.",
-        "나와의 연결: 외가 친척이 있는 대만의 안보와 TSMC 등 반도체 공급망에 직접 걸린 문제예요."
-      ],
-      "sources":[
-        {"title":"Taipei Times","url":"https://www.taipeitimes.com/News/taiwan/archives/2026/11/01/2003866956"}
-      ]
-    },
-    {
-      "tag":"etc","tagLabel":"유럽","breaking":false,"important":false,
-      "keywords":["요토바","불가리아"],
-      "title":"불가리아 대선 결선, 요토바 승리 확실",
-      "summary":"친서방 후보 규로프를 큰 차이로 앞섰어요.",
-      "details":[
-        "11월 1일 결선에서 요토바 대통령이 여러 조사기관 병행 개표 기준 약 57~58%로, 규로프 후보(약 39%)를 앞섰어요.",
-        "요토바는 러시아와의 대화를 중시하는 라데프 총리 측 지지를 받았고, 규로프는 친서방·우크라이나 지원 노선이었어요.",
-        "투표율은 약 30%로 대선 결선 역대 최저 수준이에요."
-      ],
-      "note":"출구조사·병행 개표 결과이고, 선관위 공식 결과는 아직이에요.",
-      "sources":[
-        {"title":"Novinite","url":"https://www.novinite.com/articles/241385/Bulgaria+Elects+First+Woman+President+as+Yotova+Defeats+Gyurov+in+Runoff"},
-        {"title":"Sofia Globe","url":"https://sofiaglobe.com/2026/11/01/bulgarias-2026-presidential-elections-yotova-52-5-gyurov-43-4-in-second-round-exit-poll/"},
-        {"title":"France 24","url":"https://www.france24.com/en/live-news/20261101-divided-bulgaria-votes-in-tense-presidential-runoff"}
+        {"title":"CNN","url":"https://www.cnn.com/2026/11/01/us/south-florida-plane-crash"},
+        {"title":"SBHNews","url":"https://www.sbhnews.com/"}
       ]
     }
   ],
   "watch": [
+    "오늘 밤 뉴욕 증시와 미 국채 금리 반응",
     "11/3(한국 시간 4일) 미국 중간선거 결과와 상원 다수당",
-    "선거 직후 미국의 이란 추가 공습 여부와 유가",
-    "오늘 코스피·대만 증시가 금요일 급락에서 반등할지",
+    "호르무즈 이틀 재개안에 대한 미국 응답과 이란 추가 공습 여부",
     "11/6 미국 10월 고용지표, 11/26 한은 금통위"
   ]
 }
