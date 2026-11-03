@@ -1,78 +1,113 @@
 {
  "date": "2026-11-03",
- "updatedLabel": "11/3 12:02",
+ "updatedLabel": "11/3 16:03",
  "kicker": "속보",
- "headline": "코스피 장중 3.65% 급락, AI 우려에 반도체 약세… 지금은 2%대 하락이에요",
- "subhead": "10월 물가는 2.8%로 둔화했고, 미국 중간선거 투표가 오늘 시작돼요.",
- "advice": "코스피 급락에 반도체 쏠림이 드러났어요. 추가 매수는 겹치는 비중 상한부터 보고 나눠서 판단하세요.",
- "marketsAsOf": "코스피 11/3 11:33 장중 · 그 외 11/2 마감 기준",
+ "headline": "코스피·대만 증시 3%대 동반 급락, 미국은 이란 케심섬 공습",
+ "subhead": "AI 수익성 우려가 아시아를 흔들었고, 미국 중간선거 투표가 곧 시작돼요.",
+ "advice": "코스피·대만이 함께 급락했어요. 달러·예금 완충을 믿고 반도체 겹침 비중부터 본 뒤 나눠서 판단하세요.",
+ "marketsAsOf": "11/2 뉴욕 · 11/3 서울 마감 기준",
  "markets": [
-  {"label": "미 10년물", "value": "4.92%", "change": "-0.02%p", "dir": "down"},
-  {"label": "미 2년물", "value": "4.59%", "change": "-0.01%p", "dir": "down"},
-  {"label": "미 기준금리", "value": "3.75~4.00%", "change": "동결", "dir": "flat"},
-  {"label": "한은 기준금리", "value": "3.00%", "change": "동결", "dir": "flat"},
-  {"label": "S&P 500", "value": "7,541.40", "change": "-0.51%", "dir": "down"},
-  {"label": "코스피", "value": "5,696.65", "change": "-2.77%", "dir": "down"}
+  {
+   "label": "미 10년물",
+   "value": "4.92%",
+   "change": "-0.02%p",
+   "dir": "down"
+  },
+  {
+   "label": "미 2년물",
+   "value": "4.59%",
+   "change": "-0.01%p",
+   "dir": "down"
+  },
+  {
+   "label": "미 기준금리",
+   "value": "3.75~4.00%",
+   "change": "동결",
+   "dir": "flat"
+  },
+  {
+   "label": "한은 기준금리",
+   "value": "3.00%",
+   "change": "동결",
+   "dir": "flat"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,541.40",
+   "change": "-0.51%",
+   "dir": "down"
+  },
+  {
+   "label": "코스피",
+   "value": "5,648.79",
+   "change": "-3.59%",
+   "dir": "down"
+  }
  ],
  "stories": [
   {
    "tag": "econ",
    "tagLabel": "속보·증시",
    "breaking": true,
-   "important": true,
-   "keywords": ["코스피", "3.65%"],
-   "title": "코스피 장중 3.65% 급락, 지금은 2%대로 낙폭 줄여",
-   "summary": "외국인·기관이 팔고 개인이 받아 내고 있어요. 아직 장중이에요.",
+   "important": false,
+   "keywords": [
+    "코스피",
+    "3.59%"
+   ],
+   "title": "코스피 3.59% 급락 마감, 5,648로 하루 만에 반납",
+   "summary": "외국인·기관이 2.9조 원을 팔았고 코스닥도 4% 넘게 내렸어요.",
    "details": [
-    "3일 코스피는 2.46% 내린 5,715.19로 출발해 오전 9시 45분쯤 3.65% 내린 5,644.95까지 밀렸어요. 코스닥도 3%대까지 내렸어요.",
-    "오전 11시 33분에는 2.77% 내린 5,696.65로 낙폭을 줄였어요. 장이 끝나지 않아 마감 수치는 달라질 수 있어요.",
-    "외국인은 약 8,100억 원을 순매도했고 기관도 함께 팔았어요. 개인은 약 1조 원을 순매수했어요. 원/달러는 오전 9시 3분 1,345.40원으로 크게 움직이지 않았어요.",
-    "나와의 연결: 한국 주식·인프라·리츠 비중이 약 13%라 평가액에 영향을 줘요. 달러 비중이 커서 환율이 크게 뛰지 않은 점도 함께 보세요."
+    "3일 코스피는 210.29포인트 내린 5,648.79, 코스닥은 4.08% 내린 704.39로 마감했어요. 전날 2.24% 오른 몫을 모두 내줬어요.",
+    "코스피에서 외국인은 약 2.03조 원, 기관은 약 0.87조 원을 팔았고 개인은 약 2.60조 원을 샀어요. 삼성전자는 4.15%, SK하이닉스는 5.03% 내렸어요.",
+    "간밤 나스닥 1.07% 하락과 AI 투자 수익성 우려, 미국 중간선거 앞 경계심이 원인으로 꼽혀요. 원/달러는 2.8원 내린 1,341.0원으로 오히려 안정적이었어요.",
+    "나와의 연결: 빅테크·반도체 비중이 약 16%이고 나스닥100 ETF와 종목이 겹쳐요. 실질 현금성 약 31%는 완충 역할을 해요."
    ],
    "sources": [
-    {"title": "뉴스1", "url": "https://www.news1.kr/finance/market-exr/6341220"},
-    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261103000241"},
-    {"title": "세계일보", "url": "https://www.segye.com/newsView/20261103505445"}
+    {
+     "title": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2643608"
+    },
+    {
+     "title": "아주경제",
+     "url": "https://www.ajunews.com/view/20261103152438407"
+    },
+    {
+     "title": "아시아경제",
+     "url": "https://view.asiae.co.kr/article/2026110315343788350"
+    }
    ]
   },
   {
    "tag": "econ",
-   "tagLabel": "속보·반도체",
-   "breaking": true,
-   "important": true,
-   "keywords": ["삼성전자", "SK하이닉스"],
-   "title": "AI 수익성 우려에 삼성전자·SK하이닉스 동반 급락",
-   "summary": "간밤 필라델피아 반도체지수가 3.37% 내린 충격이 번졌어요.",
-   "details": [
-    "오전 9시 45분 기준 삼성전자는 4.69%, SK하이닉스는 5.37% 내렸어요.",
-    "2일 뉴욕에서 나스닥은 1.07%, 필라델피아 반도체지수는 3.37% 내렸어요. AMD는 7.52%, 인텔은 8.83% 떨어졌어요.",
-    "오라클의 대규모 자금 조달 계획으로 AI 투자 수익성 걱정이 다시 커졌어요. 전문가는 유가와 금리 같은 거시 환경은 양호한 편이라고 봤어요.",
-    "나와의 연결: 빅테크·반도체 비중이 약 16%이고, 나스닥100 ETF 안에도 같은 종목이 겹쳐 실제 노출은 더 커요."
-   ],
-   "sources": [
-    {"title": "세계일보", "url": "https://www.segye.com/newsView/20261103505445"},
-    {"title": "스트레이트뉴스", "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314493"},
-    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261103000241"}
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "속보·유가",
+   "tagLabel": "속보·대만",
    "breaking": true,
    "important": false,
-   "keywords": ["유가", "브렌트"],
-   "title": "유가 7%대 급락, 브렌트 104달러로 3개월 만의 최대 낙폭",
-   "summary": "전쟁 위험 가격이 빠졌지만 호르무즈는 아직 합의 전이에요.",
-   "details": [
-    "2일 브렌트유는 7.6% 내린 104.77달러, WTI는 7.4% 내린 96.46달러에 마감했어요. 하루 낙폭으로 3개월 만에 가장 컸어요.",
-    "이란 최고지도자가 정부의 협상 추진을 승인했다는 국영 매체 보도와 도하 협상 소식이 영향을 줬어요.",
-    "시장 전문가들은 위험 프리미엄이 빠지고 있다고 보면서도, 그동안의 협상이 평화로 이어지지 못했다며 경계해요.",
-    "나와의 연결: 에너지 보유가 없어 유가 하락의 직접 손실은 작고, 물가·금리 부담은 줄 수 있어요. 다만 협상이 깨지면 다시 뛸 수 있어요."
+   "keywords": [
+    "대만",
+    "1,612"
    ],
+   "title": "대만 증시 1,612포인트 폭락, 역대 7번째 낙폭",
+   "summary": "가권지수가 3.59% 내렸고 TSMC는 2,295대만달러에 마감했어요.",
+   "details": [
+    "3일 가권지수는 약 1,612포인트 내린 43,308로 마감했어요. 포인트 기준으로 역대 7번째로 큰 하락이에요.",
+    "TSMC는 35대만달러(약 1.5%) 내렸어요. 미국발 기술주 매도가 아시아로 번졌다는 분석이 나와요.",
+    "대만 국가발전위원회 수장은 전날 AI 지출 우려의 영향이 짧을 것이라고 봤고, 수주잔고는 내년 말까지 늘 것으로 전망했어요.",
+    "나와의 연결: 외가 친척이 있는 대만 경제 소식이고, 대만 테크 ETF와 반도체 보유분에도 직접 이어져요."
+   ],
+   "note": "Investing.com 요약은 -3.83%로 적어, 대만 현지 보도의 종가 기준으로 썼어요.",
    "sources": [
-    {"title": "Rigzone(Bloomberg)", "url": "https://www.rigzone.com/news/oil_prices_sink_as_iran_signals_talks-02-nov-2026-184993-article"},
-    {"title": "Reuters", "url": "https://lufkindailynews.com/news_reuters/business/oil-drops-6-as-iran-signals-openness-to-peace-talks/article_6985a353-b1bd-576d-8381-bfc9e565d551.html"},
-    {"title": "이데일리", "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02181206645642112"}
+    {
+     "title": "Yahoo 대만",
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB1612%E9%BB%9E%E5%89%B5%E6%AD%B7%E5%8F%B2%E7%AC%AC%E4%B8%83%E5%A4%A7%E8%B7%8C%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C35%E5%85%83%E6%94%B62295%E5%85%83-054956593.html"
+    },
+    {
+     "title": "ETtoday",
+     "url": "https://finance.ettoday.net/news/3265547"
+    },
+    {
+     "title": "Taipei Times",
+     "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/03/2003867033"
+    }
    ]
   },
   {
@@ -80,21 +115,64 @@
    "tagLabel": "속보·이란",
    "breaking": true,
    "important": false,
-   "keywords": ["트럼프", "이란"],
-   "title": "트럼프 '선거 뒤 공습 재개 안 해', 이란 협상 초안 회람",
-   "summary": "사흘 도하 협상 뒤 초안이 돌지만 최종 합의는 아니에요.",
-   "details": [
-    "트럼프 대통령은 투표 뒤 이란 공습을 재개하느냐는 질문에 '아니다'라고 답했다고 기자단이 전했어요. 앞서 유세에선 언젠가 '망치'를 내려야 한다고도 했어요.",
-    "이란 협상단은 도하에서 사흘 협상한 뒤 1일 떠났어요. 합의 틀 초안이 돌고 있고 며칠 안에 후속 회담이 있을 수 있다고 한 관계자가 전했어요.",
-    "루비오 국무장관은 아직 결정이 없고 평화적 방법을 선호한다고 했어요. 이란은 '공은 미국 쪽에 있다'는 입장이에요.",
-    "호르무즈 해협을 완전히 다시 여는 조건은 아직 합의되지 않았어요.",
-    "나와의 연결: 합의면 유가가 더 내리고, 결렬이면 유가와 달러가 함께 오를 수 있어요. 달러 비중이 크니 결과를 보고 판단해도 늦지 않아요."
+   "keywords": [
+    "케심섬",
+    "공습"
    ],
-   "note": "합의 틀 초안은 익명 관계자 말이고, 양측이 내용을 공식 확인하지는 않았어요.",
+   "title": "미국, 호르무즈 케심섬 공습… '전투 재개는 아냐'",
+   "summary": "협상 중인데도 제한 공습을 했고 이란은 보복을 경고해 왔어요.",
+   "details": [
+    "2일 밤 케심섬에서 여러 차례 폭발이 있었다고 이란 국영 통신이 전했어요. 미국 관리들은 WSJ·AP·ABC에 미군의 '방어적 공습'이라고 확인했어요.",
+    "공습 이유는 상선 공격 능력 제한 또는 미국 항공기 공격 대응으로 보도가 조금 달라요. 관리들은 대규모 전투 재개가 아니라고 설명해요.",
+    "트럼프 대통령은 합의 가능성을 말하며 선거 뒤 공격 계획은 없다고 답했어요. 도하 협상 뒤 합의 틀 초안이 돌고 있지만 호르무즈 조건은 미합의예요.",
+    "나와의 연결: 결렬되면 유가와 달러가 함께 오를 수 있어요. 달러 비중이 크니 환전을 서두르기보다 결과를 지켜봐도 돼요."
+   ],
+   "note": "미 중부사령부는 답하지 않았고, 이란의 RQ-170 격추 주장은 미국 관리가 부인했어요. 사상자는 확인되지 않았어요.",
    "sources": [
-    {"title": "Rigzone(Bloomberg)", "url": "https://www.rigzone.com/news/oil_prices_sink_as_iran_signals_talks-02-nov-2026-184993-article"},
-    {"title": "Fox News", "url": "https://www.foxnews.com/live-news/iran-war-news-trump-midterms-peace-deal-israel-november-2"},
-    {"title": "CBS", "url": "https://cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms"}
+    {
+     "title": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+    },
+    {
+     "title": "ABC News",
+     "url": "https://abcnews.com/International/us-carries-defensive-airstrikes-irans-qeshm-island-officials/story?id=137792518"
+    },
+    {
+     "title": "The National",
+     "url": "https://www.thenationalnews.com/news/us/2026/11/03/us-strike-qeshm-iran-hormuz/"
+    }
+   ]
+  },
+  {
+   "tag": "econ",
+   "tagLabel": "속보·유가",
+   "breaking": true,
+   "important": false,
+   "keywords": [
+    "유가",
+    "7.6%"
+   ],
+   "title": "유가 7.6% 급락 뒤 공습 소식에 소폭 반등",
+   "summary": "브렌트는 104.77달러로 마감한 뒤 105달러 근처로 올랐어요.",
+   "details": [
+    "2일 브렌트유는 7.63% 내린 104.77달러로 마감했어요. 협상 기대 때문이에요. WTI도 96달러대로 내렸어요.",
+    "3일 아시아 장 초반에는 케심섬 공습 보도로 브렌트 105.25달러, WTI 96.93달러로 약 0.5% 올랐어요.",
+    "미 10년물 금리도 유가 하락과 인상 우려 완화로 9월 이후 낮은 수준까지 내렸어요.",
+    "나와의 연결: 에너지 보유가 없어 유가 재상승 때 헤지가 약해요. 물가 헤지 비중이 충분한지 점검해 보세요."
+   ],
+   "sources": [
+    {
+     "title": "Reuters(Yahoo)",
+     "url": "https://finance.yahoo.com/energy/articles/oil-rises-report-us-strike-012715191.html"
+    },
+    {
+     "title": "AP",
+     "url": "https://www.news4jax.com/business/2026/11/03/asian-shares-are-mixed-as-tech-losses-offset-broader-gains-on-wall-street/"
+    },
+    {
+     "title": "Bloomberg(Yahoo)",
+     "url": "https://finance.yahoo.com/economy/policy/articles/treasury-yields-extend-past-month-174440626.html"
+    }
    ]
   },
   {
@@ -102,18 +180,26 @@
    "tagLabel": "미국",
    "breaking": false,
    "important": true,
-   "keywords": ["중간선거"],
+   "keywords": [
+    "중간선거"
+   ],
    "title": "미국 중간선거 오늘 투표, 하원·상원 다수당이 걸렸어요",
    "summary": "민주당은 양원 모두 4석을 더 얻어야 다수당이 돼요.",
    "details": [
     "하원 전체와 상원 일부, 39개 주 주지사를 뽑아요. 한국 시간 4일 오전부터 차례로 투표가 끝나요.",
-    "하원은 공화 218석·민주 214석, 상원은 공화 53석·민주 47석이에요. 민주당은 양쪽 다 4석 순증이 필요해요.",
-    "9월 로이터/입소스 조사에서 트럼프 지지율은 32%로 낮았어요. 물가가 큰 쟁점이고, 상원 접전지는 결과가 늦어질 수 있어요.",
+    "하원은 공화 218석·민주 214석, 상원은 공화 53석·민주 47석이에요. 상원 접전지는 결과가 늦어질 수 있어요.",
+    "9월 로이터/입소스 조사에서 트럼프 지지율은 32%로 낮았고 물가가 큰 쟁점이에요.",
     "나와의 연결: 산호세 친척이 있는 미국의 정책 방향이 달라질 수 있고, 결과는 달러와 미국 주식에도 영향을 줘요."
    ],
    "sources": [
-    {"title": "Khaleej Times", "url": "https://www.khaleejtimes.com/world/americas/us-midterm-elections-2026-voting-explainer"},
-    {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"}
+    {
+     "title": "Khaleej Times",
+     "url": "https://www.khaleejtimes.com/world/americas/us-midterm-elections-2026-voting-explainer"
+    },
+    {
+     "title": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"
+    }
    ]
   },
   {
@@ -121,19 +207,62 @@
    "tagLabel": "금리",
    "breaking": false,
    "important": false,
-   "keywords": ["10월 물가", "금통위"],
+   "keywords": [
+    "10월 물가",
+    "금통위"
+   ],
    "title": "10월 물가 2.8%로 둔화, 11/26 금통위가 다음 관문",
    "summary": "한은 예상인 3% 안팎보다 낮았지만 석유류는 14.9% 올랐어요.",
    "details": [
-    "10월 소비자물가는 1년 전보다 2.8% 올라 9월 2.9%에서 조금 둔화했어요. 전월 대비로는 0.2% 올랐어요.",
-    "석유류는 14.9% 올라 전체 물가를 0.56%p 끌어올렸어요. 식료품·에너지를 뺀 근원물가는 2.8%로 9월과 같았어요.",
-    "2일 국고채 금리는 3년물 3.740%, 10년물 4.034%였어요.",
-    "나와의 연결: 개인투자용 국채는 만기 보유 계획이면 영향이 작고, 예금은 금리가 오를 때 재예치가 유리해요. 12월 만기 자금은 짧게 굴리는 쪽도 살펴보세요."
+    "10월 소비자물가는 1년 전보다 2.8% 올라 9월 2.9%에서 조금 둔화했어요. 근원물가는 2.8%로 9월과 같았어요.",
+    "석유류는 14.9% 올라 전체 물가를 0.56%p 끌어올렸어요. 2일 국고채 금리는 3년물 3.740%, 10년물 4.034%였어요.",
+    "나와의 연결: 개인투자용 국채는 만기 보유 계획이면 영향이 작고, 예금은 금리가 오르면 재예치가 유리해요."
    ],
    "sources": [
-    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261103000090"},
-    {"title": "SBS Biz", "url": "https://biz.sbs.co.kr/article/20000343810"},
-    {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026110217110649710"}
+    {
+     "title": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261103000090"
+    },
+    {
+     "title": "SBS Biz",
+     "url": "https://biz.sbs.co.kr/article/20000343810"
+    },
+    {
+     "title": "아시아경제",
+     "url": "https://view.asiae.co.kr/article/2026110217110649710"
+    }
+   ]
+  },
+  {
+   "tag": "kr",
+   "tagLabel": "북한",
+   "breaking": false,
+   "important": true,
+   "keywords": [
+    "김여정",
+    "FBI"
+   ],
+   "title": "김여정, FBI 해킹 지목 부인… 정부는 '사실 확인 먼저'",
+   "summary": "63억 달러 바이낸스 해킹 배후설을 두고 남북미 온도차가 커요.",
+   "details": [
+    "FBI는 10월 31일 북한이 바이낸스에서 60억 달러 이상을 훔쳤다고 밝혔어요. 김여정은 터무니없는 소문이라며 미국의 정치적 도발이라고 했어요.",
+    "통일부 당국자는 3일 FBI 발표 외에 공유된 정보가 없다며 사실 확인이 먼저라고 했고, 추가 제재 동참에도 말을 아꼈어요.",
+    "북한은 한미 공군 훈련도 비난했고 10월 31일 KN-24 집속탄두 시험을 했어요.",
+    "나와의 연결: 안보 긴장은 코스피와 원화에 부담이 될 수 있어요. 프리덤 플래그가 끝나는 11/6까지 지켜보세요."
+   ],
+   "sources": [
+    {
+     "title": "SBHNews",
+     "url": "https://www.sbhnews.com/news/north-kim-yo-jong-binance-political-provocation-2dca4b7f-2026-11-03-AM-06-19"
+    },
+    {
+     "title": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261103000923"
+    },
+    {
+     "title": "The Defiant",
+     "url": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack"
+    }
    ]
   },
   {
@@ -141,58 +270,54 @@
    "tagLabel": "우크라",
    "breaking": false,
    "important": false,
-   "keywords": ["자포리자", "26명"],
+   "keywords": [
+    "자포리자",
+    "26명"
+   ],
    "title": "러시아, 자포리자 구호소 폭격해 최소 26명 사망",
    "summary": "젤렌스키는 선거 틈을 노린 대규모 공격을 경고했어요.",
    "details": [
-    "2일 자포리자 지역 코미슈바하의 구호품 배급소가 공중 폭탄 공격을 받아 구조대원과 경찰을 포함해 최소 26명이 숨졌다고 우크라이나 당국이 밝혔어요.",
-    "젤렌스키 대통령은 러시아가 미국 선거로 관심이 쏠린 때를 노려 에너지·물류 시설에 새 대규모 공격을 준비한다고 주장했어요.",
-    "헤르손에서는 국지 휴전이 끝난 뒤 공격이 다시 시작됐다고 현지 당국이 밝혔어요."
+    "2일 자포리자 지역 구호품 배급소가 공중 폭탄 공격을 받아 구조대원과 경찰을 포함해 최소 26명이 숨졌다고 우크라이나 당국이 밝혔어요.",
+    "젤렌스키 대통령은 러시아가 미국 선거로 관심이 쏠린 때를 노려 에너지·물류 시설 공격을 준비한다고 주장했어요."
    ],
    "note": "사상자와 공격 준비 내용은 우크라이나 측 발표로, 독립적으로 확인되지 않았어요.",
    "sources": [
-    {"title": "Euronews", "url": "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-"},
-    {"title": "LIGA", "url": "https://news.liga.net/en/politics/news/russia-preparing-new-massive-strike-on-ukraine-zelenskyy-says"}
-   ]
-  },
-  {
-   "tag": "kr",
-   "tagLabel": "북한",
-   "breaking": false,
-   "important": false,
-   "keywords": ["김여정", "바이낸스"],
-   "title": "김여정, 바이낸스 해킹 배후설 부인 '미국의 정치적 도발'",
-   "summary": "FBI 지목을 터무니없다고 했고 한미 훈련 비난도 이어져요.",
-   "details": [
-    "김여정은 FBI가 63억 달러 바이낸스 해킹 배후로 북한을 지목한 데 대해 터무니없다며, 미국의 정치적 도발이라고 비난했어요. 구체적인 후속 행동은 밝히지 않았어요.",
-    "북한은 2일 담화에서 한미 공군 훈련을 '핵전쟁 시연'이라고 비난했고, 10월 31일에는 KN-24 집속탄두 시험도 했어요.",
-    "나와의 연결: 안보 긴장은 코스피와 원화에 부담을 줄 수 있어요. 프리덤 플래그가 끝나는 11/6까지 추가 도발을 지켜보세요."
-   ],
-   "sources": [
-    {"title": "SBHNews", "url": "https://www.sbhnews.com/news/north-kim-yo-jong-binance-political-provocation-2dca4b7f-2026-11-03-AM-06-19"},
-    {"title": "The Defiant", "url": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack"},
-    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611020954023789"}
+    {
+     "title": "Euronews",
+     "url": "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-"
+    },
+    {
+     "title": "LIGA",
+     "url": "https://news.liga.net/en/politics/news/russia-preparing-new-massive-strike-on-ukraine-zelenskyy-says"
+    }
    ]
   },
   {
    "tag": "etc",
-   "tagLabel": "대만",
+   "tagLabel": "양안",
    "breaking": false,
    "important": false,
-   "keywords": ["대만", "중국 해경"],
+   "keywords": [
+    "중국 해경",
+    "관할권"
+   ],
    "title": "대만, 중국 해경 동부 순찰에 '관할권 없다' 맞대응",
-   "summary": "함정을 보내 감시했고 공군 연례 훈련도 시작 예정이었어요.",
+   "summary": "대만 해순서가 함정을 보내 감시했어요.",
    "details": [
-    "중국 해경이 대만 동부 해역에서 '일상적 법 집행 순찰'을 했다고 하자, 대만 해순서는 관할권이 없다고 반박하며 함정을 보내 감시했어요.",
-    "대만 해양 전문가는 이런 활동이 반복되면 대만의 관할권 행사 범위가 좁아질 수 있다고 경고했어요.",
-    "1일 북동부 앞바다에서 규모 5.6 지진이 있었고, 2일 가권지수는 0.65% 내린 44,920.14로 마감했어요.",
-    "나와의 연결: 외가 친척이 있는 대만의 안보 이슈이고, 대만 테크 ETF·반도체 보유분과도 연결돼요."
+    "중국 해경이 대만 동부 해역에서 '일상적 법 집행 순찰'을 했다고 하자, 대만 해순서는 관할권이 없다고 반박했어요.",
+    "대만 전문가는 이런 활동이 반복되면 대만의 관할권 행사 범위가 좁아질 수 있다고 경고했어요. 1일에는 북동부 앞바다에서 규모 5.6 지진도 있었어요.",
+    "나와의 연결: 외가 친척이 있는 대만의 안보 이슈예요."
    ],
    "note": "지진 피해 규모는 이번에 확인하지 못했어요.",
    "sources": [
-    {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/politics/202611010009"},
-    {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/society/202611010008"},
-    {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/business/202611020010"}
+    {
+     "title": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/politics/202611010009"
+    },
+    {
+     "title": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/society/202611010008"
+    }
    ]
   },
   {
@@ -200,7 +325,10 @@
    "tagLabel": "국회",
    "breaking": false,
    "important": false,
-   "keywords": ["821조", "예산"],
+   "keywords": [
+    "821조",
+    "예산"
+   ],
    "title": "821조 내년 예산 심사 시작, 나랏빚 공방 커져요",
    "summary": "국회 예결위 질의가 4~5일 시작되고 시한은 12/2예요.",
    "details": [
@@ -209,15 +337,21 @@
     "나와의 연결: 나랏빚이 늘면 국채 금리에 영향을 줄 수 있어요. 국채는 만기 보유 계획대로 점검하면 돼요."
    ],
    "sources": [
-    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611020956096615"},
-    {"title": "아주경제", "url": "https://www.ajunews.com/view/20261102073704263"}
+    {
+     "title": "파이낸셜뉴스",
+     "url": "https://www.fnnews.com/news/202611020956096615"
+    },
+    {
+     "title": "아주경제",
+     "url": "https://www.ajunews.com/view/20261102073704263"
+    }
    ]
   }
  ],
  "watch": [
-  "오늘 코스피 마감과 외국인 매도 흐름",
   "한국 시간 4일 미국 중간선거 결과와 상원 다수당",
-  "이란 협상 초안에 대한 미국 응답과 후속 회담",
+  "케심섬 공습 뒤 이란의 대응과 협상 초안의 향방",
+  "4일 코스피·대만 증시가 반등하는지, 외국인 매도 흐름",
   "11/6 미국 고용지표, 11/26 한은 금통위"
  ]
 }
