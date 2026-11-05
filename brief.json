@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
-  "updatedLabel": "11/5 16:10",
+  "updatedLabel": "11/5 22:10",
   "kicker": "속보",
-  "headline": "코스피 5.28% 급락 마감, 5,400선 무너졌어요",
-  "subhead": "AI 데이터센터 규제 우려로 외국인이 3조 원대를 팔았고, 반도체에 매도가 몰렸어요.",
-  "advice": "급락일엔 반도체·빅테크 약 16% 비중부터 점검하고, 현금성 자산은 나눠서 천천히 쓰는 편이 좋아요.",
+  "headline": "코스피 5.28% 급락 마감, 외국인 3.4조 원 순매도",
+  "subhead": "영국은 3년 만에 금리를 올렸고, 미국은 이란 공습과 협상 사이에서 저울질해요.",
+  "advice": "반도체·빅테크 약 16% 비중을 먼저 점검하고, 금리 인상 흐름을 보며 만기 자금은 짧게 굴리는 편이 좋아요.",
   "marketsAsOf": "11/4 뉴욕 · 11/5 서울 마감 기준",
   "markets": [
     {"label": "미 10년물", "value": "4.89%", "change": "-0.06%p", "dir": "down"},
@@ -22,40 +22,39 @@
       "important": true,
       "keywords": ["코스피", "5.28%"],
       "title": "코스피 5.28% 급락 마감, 코스닥도 5%대 하락",
-      "summary": "코스피·코스닥 모두 매도 사이드카가 걸렸어요.",
+      "summary": "외국인이 약 3.4조 원을 팔고 양대 시장에 사이드카가 걸렸어요.",
       "details": [
-        "코스피는 300포인트 내린 5,383.80, 코스닥은 5.11% 내린 678.41로 마쳤어요. 코스피는 장중 5,336.88(-6.10%)까지 밀렸어요.",
-        "오전 10시 16분 코스피, 오후 2시 27분 코스닥에 프로그램 매도를 잠시 멈추는 사이드카가 걸렸어요.",
-        "외국인은 5거래일 연속 순매도했고, 개인이 2조 원대 후반을 사들였어요. 원/달러는 1,342원 안팎으로 거의 움직이지 않았어요.",
-        "나와의 연결: 한국 주식·인프라·리츠 약 12.8%가 직접 영향을 받아요. 현금성 자산 약 31%는 이런 변동성의 완충 역할을 해요."
+        "코스피는 300포인트 내린 5,383.80, 코스닥은 5.11% 내린 678.41로 마쳤어요. 코스피는 장중 5,336.88까지 밀렸어요.",
+        "코스피에서 외국인은 약 3조 3,900억 원을 순매도했고, 개인은 약 2조 2,700억 원, 기관은 약 8,450억 원을 순매수했어요.",
+        "원/달러는 0.6원 오른 1,342.1원으로 마쳐 큰 변동은 없었어요. 증권가는 5,200선 지지와 외국인 매도 완화 여부를 보고 있어요.",
+        "나와의 연결: 한국 주식·인프라·리츠 약 12.8%가 직접 영향을 받아요. 현금성 자산 약 31%는 이런 구간의 완충 역할을 해요."
       ],
-      "note": "외국인 순매도는 3조 8,316억 원(파이낸셜뉴스)과 약 3조 900억 원(블록미디어)으로 매체마다 달라요. 기관 수급 방향도 달라 최종 집계 확인이 필요해요.",
+      "note": "수급 수치는 잠정치라 매체마다 조금씩 달라요.",
       "sources": [
-        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611051557099258"},
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261105001186"},
-        {"title": "블록미디어", "url": "https://www.blockmedia.co.kr/archives/1161773"},
-        {"title": "뉴스1", "url": "https://www.news1.kr/finance/market-exr/6344347"}
+        {"title": "미디어펜", "url": "https://www.mediapen.com/news/view/1135509"},
+        {"title": "베타뉴스", "url": "https://www.betanews.net/article/view/beta202611050169"},
+        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261105001186"}
       ]
     },
     {
       "tag": "econ",
       "tagLabel": "속보·반도체",
       "breaking": true,
-      "important": true,
-      "keywords": ["삼성전자", "SK하이닉스"],
+      "important": false,
+      "keywords": ["SK하이닉스", "삼성전자"],
       "title": "SK하이닉스 -9.46%, 삼성전자 -7.57%에 매도 집중",
-      "summary": "외국인 매도의 약 70%가 두 종목에 몰렸어요.",
+      "summary": "민주당 승리로 데이터센터 규제 우려가 커졌어요.",
       "details": [
         "SK하이닉스는 1,264,000원, 삼성전자는 201,500원으로 마쳤어요. 전기·전자 업종은 8.53% 내렸어요.",
-        "반면 제약 4.12%, 통신 2.44%, 음식료·담배 2.40%는 올랐어요. 종목으로는 네이버 +8.26%, 셀트리온 +7.50%, 현대차 +3.53%였어요.",
-        "로이터는 데이터센터 반대 후보들의 약진을 시장이 AI 붐에 대한 경고로 받아들였다고 분석했어요. 건설 둔화가 곧 AI 수요 감소는 아니라는 시각도 있어요.",
+        "제약 4.12%, 통신 2.44%는 올랐고 네이버 +8.26%, 셀트리온 +7.50%, 현대차 +3.53%였어요. 돈이 반도체에서 다른 업종으로 옮겨간 모습이에요.",
+        "로이터는 시장이 데이터센터 반대 후보들의 약진을 AI 붐에 대한 경고로 받아들였다고 분석했어요. 건설 둔화가 곧 AI 수요 감소는 아니라는 시각도 있어요.",
         "나와의 연결: 지수 ETF와 반도체 ETF 안에 같은 종목이 겹쳐 있으니, 실제 반도체 비중이 얼마인지 함께 보세요."
       ],
       "sources": [
+        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2644756"},
         {"title": "블록미디어", "url": "https://www.blockmedia.co.kr/archives/1161773"},
-        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611051557099258"},
         {"title": "Reuters(Taipei Times)", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/05/2003867164"},
-        {"title": "SBHNews", "url": "https://www.sbhnews.com/markets"}
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/sk-hynix-8-52-drop-ai-regulation-fears-c624cb29-2026-11-05-PM-01-15"}
       ]
     },
     {
@@ -63,20 +62,21 @@
       "tagLabel": "속보·이란",
       "breaking": true,
       "important": false,
-      "keywords": ["트럼프", "이란"],
-      "title": "트럼프 \"큰 타격\" 경고, 이란 \"재개 땐 확전\"",
-      "summary": "협상과 군사 압박이 함께 이어지고 있어요.",
+      "keywords": ["트럼프", "카타르"],
+      "title": "트럼프, 공습·협상 저울질…카타르는 초안 중재",
+      "summary": "결정은 아직이고, 유가는 두 달 만의 저점 부근이에요.",
       "details": [
-        "트럼프 대통령은 폭스뉴스 인터뷰에서 큰 조치가 필요하다고 말했어요. 다만 파이낸셜타임스에는 당장 공격할 계획은 없다고 했어요.",
-        "모즈타바 하메네이 최고지도자는 미국이 공격을 재개하면 전쟁이 넓어진다고 경고했고, 페제시키안 대통령은 대화로 풀자고 했어요.",
-        "이란은 미국이 7개 조건에 답해야 한다는 입장이고, 합의 소식은 아직 없어요.",
-        "나와의 연결: 협상 소식에 유가와 금리가 함께 흔들려요. 만기 자금을 넣을 때 이 흐름을 함께 보세요."
+        "트럼프 대통령은 재공습, 협상, 경제 압박 유지 사이에서 아직 결정하지 않았다고 Axios를 인용한 보도가 나왔어요. 당장 공격할 계획은 없다고도 말했어요.",
+        "카타르는 3일에 걸친 신뢰 구축 조치를 담은 초안을 조율 중이에요. 이란은 해협을 열기 전에 봉쇄 중단, 제재 완화, 동결 자금 해제를 요구해요.",
+        "브렌트유는 4일 94.62달러로 8%대 급락했어요. 5일에는 93달러대까지 내렸다가 95달러대로 되돌아왔어요.",
+        "나와의 연결: 에너지 비중이 0%라 유가가 다시 뛰면 막아 줄 자산이 적어요. 물가 헤지 비중도 함께 보세요."
       ],
-      "note": "혁명수비대의 유조선 4척 기뢰 피해 주장은 독립적으로 확인되지 않았어요.",
+      "note": "혁명수비대의 유조선 기뢰 피해 주장은 독립적으로 확인되지 않았어요.",
       "sources": [
-        {"title": "Gulf News", "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"},
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"},
-        {"title": "HNGN", "url": "https://www.hngn.com/articles/273662/20261104/trump-says-not-hurry-iran-awaits-answer-2-day-hormuz-plan.htm"}
+        {"title": "Gulf News", "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"},
+        {"title": "PBS", "url": "https://www.pbs.org/newshour/world/u-s-strikes-strait-of-hormuz-hours-before-tuesday-midterms"},
+        {"title": "Reuters(Business Recorder)", "url": "https://www.brecorder.com/news/40447519/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation"},
+        {"title": "TipRanks", "url": "https://www.tipranks.com/news/stock-market-today-nov-5-futures-mixed-after-democratic-victory-sparks-wall-street-rally"}
       ]
     },
     {
@@ -84,97 +84,120 @@
       "tagLabel": "속보·미국",
       "breaking": true,
       "important": false,
-      "keywords": ["민주당", "데이터센터"],
-      "title": "민주당 상·하원 장악, 데이터센터 반대 후보 약진",
-      "summary": "뉴욕 증시는 올랐지만 AI 관련주는 약했어요.",
+      "keywords": ["민주당", "헤그세스"],
+      "title": "민주당 상·하원 장악, 헤그세스 거취 압박 커져",
+      "summary": "트럼프는 이란 전쟁이 패인이라는 말을 대체로 인정했어요.",
       "details": [
-        "민주당이 하원과 상원을 모두 가져갔고, 트럼프 대통령은 결과를 받아들이고 협력할 뜻을 비쳤어요. 일부 지역은 아직 개표 중이에요.",
-        "텍사스와 조지아 주지사 선거에서도 민주당 후보가 이겼어요. 소음·물·전력 문제로 데이터센터 반대 여론이 공화당 지지층까지 번졌다고 로이터는 전했어요.",
-        "4일 다우는 3.03%, S&P 500은 1.58%, 나스닥은 1.44% 올랐어요. 12월 연준 인상 확률은 CME 기준 약 77%예요.",
+        "민주당이 하원과 상원을 모두 가져갔어요. 밴스 부통령이 이란 전쟁을 패인으로 꼽자 트럼프 대통령은 대체로 맞다고 했어요.",
+        "백악관은 헤그세스 국방장관을 신뢰한다고 밝혔지만, 대통령이 측근에게 거취를 묻고 있다는 보도도 나왔어요. 예측시장의 연내 사임 베팅은 51.5%로 올랐어요.",
+        "4일 뉴욕은 다우 3.03%, S&P 500 1.58%, 나스닥 1.44% 올랐어요. 5일 개장 전 선물은 나스닥만 약했고, 캘리포니아 억만장자세 발의안은 초기 개표에서 부결 쪽으로 기울었어요.",
         "나와의 연결: 산호세 친척이 있는 미국의 정책 방향이 바뀌는 일이고, 달러·미국 주식 비중에도 이어져요."
       ],
-      "note": "새 의회는 1월에 시작해 정책이 당장 바뀌지는 않아요.",
+      "note": "예측시장 수치는 베팅 참여자들의 전망일 뿐이에요. 새 의회는 1월에 시작해요. 발의안 결과는 최종이 아니에요.",
       "sources": [
-        {"title": "Reuters(Taipei Times)", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/05/2003867164"},
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"},
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-futures-135650348.html"},
-        {"title": "Capp Notes", "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-4"}
-      ]
-    },
-    {
-      "tag": "kr",
-      "tagLabel": "북한",
-      "breaking": false,
-      "important": true,
-      "keywords": ["북한", "네 번째"],
-      "title": "북한 신형 대공미사일 시험, 일주일 새 네 번째",
-      "summary": "장거리 순항미사일로 비행장 타격 훈련도 했다고 밝혔어요.",
-      "details": [
-        "조선중앙통신은 4일 신형 대공미사일을 시험하고, 활주로의 비행기 모양 표적 약 20개를 때리는 순항미사일 훈련도 했다고 주장했어요.",
-        "합참은 선덕 일대에서 쏜 미사일이 300km 미만을 날았다고 했고, 제원은 한미가 분석 중이에요.",
-        "통일부는 한미 공중훈련과 대외 환경에 대응한 발사로 봤어요. 같은 날 김여정은 미국과의 대화를 하나의 선택지로 언급했어요.",
-        "나와의 연결: 안보 긴장은 코스피와 원화에 부담이 될 수 있어요. 한국 주식 비중을 볼 때 함께 살펴보세요."
-      ],
-      "note": "명중 성과는 북한 측 주장이고, 독립적으로 확인되지 않았어요.",
-      "sources": [
-        {"title": "세계일보", "url": "https://www.segye.com/newsView/20261105508769"},
-        {"title": "Korea Times", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261104/n-korea-fires-multiple-missiles-toward-east-sea-jcs"}
-      ]
-    },
-    {
-      "tag": "econ",
-      "tagLabel": "유가",
-      "breaking": false,
-      "important": false,
-      "keywords": ["브렌트유", "93달러"],
-      "title": "브렌트유 나흘째 하락, 93달러대까지 내렸어요",
-      "summary": "전쟁 확대 위험이 줄었다는 기대와 공급 과잉이 겹쳤어요.",
-      "details": [
-        "4일 브렌트유는 8%대 급락한 94.62달러로 마쳤고, 5일 오전 11시쯤 93.65달러였어요. WTI는 86.98달러였어요.",
-        "JP모건은 10월 공급 과잉을 하루 140만 배럴로 봤어요. 다만 주요국 재고가 낮아 하락이 오래가지 않을 수 있다는 분석도 있어요.",
-        "금은 4일 3.29% 오른 온스당 4,070달러로 마쳤어요.",
-        "나와의 연결: 에너지 비중이 0%라 이번 하락의 손해는 없어요. 협상이 깨지면 다시 뛸 수 있으니 물가 헤지 비중은 계속 살펴보세요."
-      ],
-      "sources": [
-        {"title": "Reuters(Business Recorder)", "url": "https://www.brecorder.com/news/40447519/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation"},
-        {"title": "Capp Notes", "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-4"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "대만",
-      "breaking": false,
-      "important": false,
-      "keywords": ["대만", "TSMC"],
-      "title": "대만 증시 장중 1,885p 출렁, TSMC 1.5% 하락",
-      "summary": "3개월여 만의 저점까지 밀렸다가 낙폭을 줄였어요.",
-      "details": [
-        "4일 자취안지수는 0.83% 내린 42,948.91로 마쳤어요. 장중 등락 폭은 역대 네 번째로 컸고, TSMC는 2,260대만달러로 끝났어요.",
-        "3분기 대만 성장률은 AI 수요 덕에 전년 대비 14.38%로 전해졌어요. 한편 마이크론 대만 노조는 보상을 두고 파업했고 금요일에 협상을 다시 해요.",
-        "나와의 연결: 외가 친척이 있는 대만 소식이고, 대만 테크 ETF와 반도체 보유분에도 이어져요."
-      ],
-      "note": "5일 자취안 마감 값은 확인하지 못했어요. 성장률·파업 내용은 전문 매체 요약이에요.",
-      "sources": [
-        {"title": "Taiwan News", "url": "https://www.taiwannews.com.tw/news/6472079"},
-        {"title": "Domino Theory", "url": "https://dominotheory.com/taiwan-tech-update-november-4-2026/"}
+        {"title": "Gulf News", "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"},
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/hegseth-defense-secretary-odds-surge-6fe09a0c-2026-11-05-PM-03-26"},
+        {"title": "TipRanks", "url": "https://www.tipranks.com/news/stock-market-today-nov-5-futures-mixed-after-democratic-victory-sparks-wall-street-rally"},
+        {"title": "CalMatters", "url": "https://calmatters.org/health/2026/11/california-election-2026-prop-40-41-42/"}
       ]
     },
     {
       "tag": "kr",
       "tagLabel": "한국",
       "breaking": false,
-      "important": false,
-      "keywords": ["윤석열", "397억"],
-      "title": "윤석열 선거법 2심도 집행유예, 397억 반환 기로",
-      "summary": "확정되면 국민의힘이 선거비용 약 397억 원을 돌려줘야 해요.",
+      "important": true,
+      "keywords": ["청해부대", "호르무즈"],
+      "title": "청해부대 임무, 호르무즈 650km 해역까지 확대",
+      "summary": "초계기와 무인 소해 전력을 더하는 동의안을 추진해요.",
       "details": [
-        "서울고법은 4일 항소를 기각하고 1심과 같은 징역 1년 6개월, 집행유예 3년을 선고했어요.",
-        "법원은 대선 후보 시절 윤우진 관련 발언과 '건진법사' 전성배 관련 발언을 거짓으로 판단했어요.",
-        "윤 전 대통령 측은 판결이 부당하다며 대법원에서 다투겠다고 밝혔어요."
+        "임무 구역이 아덴만에서 오만 남쪽 바다 두큼항까지 넓어져요. 호르무즈 해협과 맞닿은 오만만은 포함되지 않아요.",
+        "P-8A 초계기 1대와 무인 소해 전력, 폭발물처리팀 30명 등 75명을 늘려 총 395명 수준이 돼요.",
+        "국방부는 전쟁에 관여하지 않고 우리 국민과 선박을 보호하는 것이 목적이라고 밝혔어요. 해협 안 기뢰 제거에 투입하려면 별도 동의안이 필요해요.",
+        "나와의 연결: 다음 주 국무회의를 거쳐 국회로 가요. 한국의 안보·에너지 수송과 직접 이어지는 일이에요."
+      ],
+      "note": "국회 동의를 받아야 효력이 생겨요.",
+      "sources": [
+        {"title": "세계일보", "url": "https://www.segye.com/newsView/20261105504645"},
+        {"title": "한국일보", "url": "https://www.hankookilbo.com/news/article/A2026110316060002789"}
+      ]
+    },
+    {
+      "tag": "kr",
+      "tagLabel": "북한",
+      "breaking": false,
+      "important": false,
+      "keywords": ["북한", "네 번째"],
+      "title": "북한 신형 대공미사일 시험, 일주일 새 네 번째",
+      "summary": "장거리 순항미사일로 비행장 타격 훈련도 했다고 밝혔어요.",
+      "details": [
+        "조선중앙통신은 4일 신형 대공미사일을 시험하고, 활주로의 비행기 모양 표적 약 20개를 때리는 순항미사일 훈련도 했다고 주장했어요.",
+        "합참은 선덕 일대에서 쏜 미사일이 300km 미만을 날았다고 했고, 제원은 한미가 분석 중이에요.",
+        "김여정은 미국과의 대화가 가능하지만 필수는 아니라고 했어요. 앞서 60억 달러 넘는 바이낸스 해킹 관여도 부인했어요.",
+        "나와의 연결: 안보 긴장은 코스피와 원화에 부담이 될 수 있어요. 한국 주식 비중을 볼 때 함께 살펴보세요."
+      ],
+      "note": "명중 성과는 북한 측 주장이고, 독립적으로 확인되지 않았어요.",
+      "sources": [
+        {"title": "세계일보", "url": "https://www.segye.com/newsView/20261105508769"},
+        {"title": "Korea Times", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261104/n-korea-fires-multiple-missiles-toward-east-sea-jcs"},
+        {"title": "NK News", "url": "https://www.nknews.org/2026/11/kim-yo-jong-denies-north-korean-involvement-in-6b-binance-crypto-theft/"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "대만",
+      "breaking": false,
+      "important": true,
+      "keywords": ["대만", "TSMC"],
+      "title": "대만 증시 3.20% 하락, TSMC는 0.88%만 내려",
+      "summary": "미디어텍 등 다른 기술주 낙폭이 훨씬 컸어요.",
+      "details": [
+        "5일 자취안지수는 3.20% 내렸어요. 미디어텍 -6.86%, ASE -8.77%, 델타전자 -7.37%로 TSMC보다 많이 빠졌어요.",
+        "같은 날 일본 닛케이는 1.79% 내렸지만, 홍콩 항셍은 3.87% 올라 자금이 중국 쪽으로 옮겨간다는 분석이 나왔어요.",
+        "양안에서 큰 군사 긴장 소식은 이번 조사에서 새로 확인되지 않았어요. 마이크론 대만 노조는 금요일에 협상을 다시 해요.",
+        "나와의 연결: 외가 친척이 있는 대만 소식이고, 대만 테크 ETF와 반도체 보유분에도 이어져요."
       ],
       "sources": [
-        {"title": "법률신문", "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228851"},
-        {"title": "뉴데일리", "url": "https://www.newdaily.co.kr/site/data/html/2026/11/04/2026110400283.html"}
+        {"title": "이투데이", "url": "https://www.etoday.co.kr/news/view/2644756"},
+        {"title": "Domino Theory", "url": "https://dominotheory.com/taiwan-tech-update-november-4-2026/"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "금리",
+      "breaking": false,
+      "important": false,
+      "keywords": ["영국", "4%"],
+      "title": "영국, 금리 4%로 인상…2023년 이후 처음",
+      "summary": "전쟁발 에너지 물가 때문에 8대 1로 올렸어요.",
+      "details": [
+        "영란은행은 금리를 3.75%에서 4%로 올렸어요. 반대한 한 명은 동결이 아니라 0.5%p 인상을 주장했어요.",
+        "물가는 내년 2분기 4.8%로 정점을 찍을 것으로 봤어요. 유가가 130달러까지 오르면 2027년 3분기 6.2%까지 갈 수 있다고 했어요.",
+        "베일리 총재는 긴 인상의 시작으로 보지 말라고 했지만, 분쟁이 이어지면 한 번 더 올릴 가능성이 크다고 밝혔어요.",
+        "나와의 연결: 금리 인상 흐름은 장기채 약 2.5%에는 부담, 단기 예치 약 28%에는 재예치 때 유리해요."
+      ],
+      "sources": [
+        {"title": "BusinessDay", "url": "https://www.businessday.co.za/world/europe/2026-11-05-bank-of-england-raises-rates-for-first-time-since-2023/"},
+        {"title": "Mortgage Solutions", "url": "https://www.mortgagesolutions.co.uk/mortgage-news/2026/11/05/bank-of-england-hikes-base-rate-to-4/"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "아시아",
+      "breaking": false,
+      "important": false,
+      "keywords": ["인도네시아", "도청"],
+      "title": "인도네시아 도청 파문, 자카르타에 병력 2만 명",
+      "summary": "대통령 비서실장이 체포·해임됐어요.",
+      "details": [
+        "프라보워 대통령은 전 경찰청장인 리스티오 비서실장을 해임했어요. 그는 경찰 간부들과 함께 대통령과 장관들의 휴대전화를 불법 감청한 혐의로 체포됐어요.",
+        "정부 대변인은 반역에 해당할 수 있다고 말했고, 동기는 아직 밝혀지지 않았어요.",
+        "군은 2만 명 이상을 수도에 배치했지만, 체포와의 관련은 밝히지 않고 통상적인 안보 조치라고 설명했어요."
+      ],
+      "note": "유출 문서 기준 약 2만 1,000명 가운데 상당수는 기지에서 대기 중이라는 보도도 있어요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"},
+        {"title": "The Jakarta Post", "url": "https://www.thejakartapost.com/indonesia/2026/11/05/troops-descend-on-jakarta-amid-wiretapping-scandal"},
+        {"title": "SBHNews", "url": "https://www.sbhnews.com/news/indonesia-tapping-scandal-jakarta-troops-d7311bd2-2026-11-05-PM-04-09"}
       ]
     },
     {
@@ -195,30 +218,12 @@
         {"title": "RTE", "url": "https://www.rte.ie/news/ukraine/2026/1104/1597955-ukraine-russia/"},
         {"title": "Just Security", "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"}
       ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "베이지역",
-      "breaking": false,
-      "important": false,
-      "keywords": ["캘리포니아", "억만장자세"],
-      "title": "캘리포니아 억만장자세, 부결 쪽으로 기울었어요",
-      "summary": "약 절반 개표 기준 뒤지고 있고, 경쟁 법안 42호는 앞서요.",
-      "details": [
-        "발의안 40호는 54% 개표 시점에 반대 56%로 뒤졌어요. 추진 노조는 사실상 패배를 인정하며 2028년 재도전을 말했어요.",
-        "42호가 40호보다 많은 표를 얻으면 억만장자세는 무효가 돼요.",
-        "나와의 연결: 산호세 친척이 사는 주의 세금 정책이고, 실리콘밸리 기업가들의 이주 논쟁과도 이어져요."
-      ],
-      "note": "개표가 끝나지 않아 최종 결과는 아직 아니에요.",
-      "sources": [
-        {"title": "CalMatters", "url": "https://calmatters.org/health/2026/11/california-election-2026-prop-40-41-42/"}
-      ]
     }
   ],
   "watch": [
     "오늘 밤 뉴욕 증시와 내일 외국인 매도가 6일째 이어지는지",
-    "11/6 미국 고용지표, 12월 8~9일 FOMC 인상 확률",
-    "미국·이란 답변과 호르무즈 재개방 여부",
+    "11/6 미국 고용지표, 11/10 미국 CPI",
+    "미국·이란의 카타르 초안 반응과 호르무즈 재개방 여부",
     "11/10~11 아부다비 회담, 11/26 한은 금통위"
   ]
 }
