@@ -1,20 +1,63 @@
 {
   "date": "2026-11-05",
-  "updatedLabel": "11/5 07:10",
+  "updatedLabel": "11/5 12:03",
   "kicker": "속보",
-  "headline": "민주당 압승에 유가 8% 급락, 다우 3% 급등했어요",
-  "subhead": "반도체는 3% 내렸고, 호르무즈 재개방 협상 결과가 다음 변수예요.",
-  "advice": "유가 급락은 아직 종전 기대일 뿐이에요. 반도체·장기채 비중은 12월 FOMC까지 천천히 점검하세요.",
-  "marketsAsOf": "11/4 뉴욕 · 11/4 서울 마감 기준",
+  "headline": "코스피 장중 5% 급락, 매도 사이드카 발동. 반도체 쇼크가 번졌어요",
+  "subhead": "11시 20분 기준 3%대 하락이에요. 자동차·금융은 오히려 올라 업종이 갈렸어요.",
+  "advice": "코스피 급락의 중심은 반도체예요. 빅테크·반도체 약 16% 비중을 점검하고, 현금성 자산은 분할로 천천히 쓰세요.",
+  "marketsAsOf": "11/4 뉴욕 마감 · 코스피는 11/5 11:20 장중 기준",
   "markets": [
     {"label": "미 10년물", "value": "4.89%", "change": "-0.06%p", "dir": "down"},
     {"label": "미 2년물", "value": "4.58%", "change": "-0.03%p", "dir": "down"},
     {"label": "미 기준금리", "value": "3.75~4.00%", "change": "동결", "dir": "flat"},
     {"label": "한은 기준금리", "value": "3.00%", "change": "동결", "dir": "flat"},
     {"label": "S&P 500", "value": "7,688.62", "change": "+1.58%", "dir": "up"},
-    {"label": "코스피", "value": "5,683.80", "change": "+0.62%", "dir": "up"}
+    {"label": "코스피", "value": "5,498.03", "change": "-3.27%", "dir": "down"}
   ],
   "stories": [
+    {
+      "tag": "econ",
+      "tagLabel": "속보·증시",
+      "breaking": true,
+      "important": true,
+      "keywords": ["코스피", "사이드카"],
+      "title": "코스피 장중 5% 급락, 매도 사이드카 발동",
+      "summary": "미국 데이터센터 규제 우려에 외국인 매도가 몰렸어요.",
+      "details": [
+        "코스피는 장중 5,386.29(-5.23%)까지 밀렸고, 11시 20분에는 5,498.03(-3.27%)이었어요. 오전 10시 16분에는 프로그램 매도를 5분 멈추는 사이드카가 걸렸어요.",
+        "외국인은 11시 기준 1조 3,441억 원을 순매도했고, 코스닥도 3%대 하락했어요.",
+        "민주당이 의회를 장악하면 AI 데이터센터 규제가 세질 수 있다는 걱정이 원인으로 꼽혀요.",
+        "나와의 연결: 한국 주식·인프라·리츠 약 12.8%가 직접 영향을 받아요. 현금성 자산 약 31%는 이런 변동성의 완충 역할을 해요."
+      ],
+      "note": "장중 수치예요. 마감 값은 달라질 수 있어요.",
+      "sources": [
+        {"title": "연합뉴스(Korea Times)", "url": "https://www.koreatimes.co.kr/economy/20261105/seoul-shares-open-lower-on-democratic-party-victory-in-us-midterm-elections"},
+        {"title": "연합뉴스(서플)", "url": "https://supple.kr/news/cmw2x4byi3or6lstj68un6mti"},
+        {"title": "경향신문", "url": "https://www.khan.co.kr/en/article/202611051049007/"},
+        {"title": "마이데일리", "url": "https://www.mydaily.co.kr/page/view/2026110511151634609"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "속보·반도체",
+      "breaking": true,
+      "important": true,
+      "keywords": ["삼성전자", "SK하이닉스"],
+      "title": "삼성전자·SK하이닉스 급락, 자동차·금융은 강세",
+      "summary": "같은 소식에 업종별 희비가 크게 갈렸어요.",
+      "details": [
+        "11시 20분 기준 삼성전자는 -5.05%, SK하이닉스는 -6.52%, 한미반도체는 -7.58%였어요.",
+        "반면 개장 직후에는 현대차 +6.70%, KB금융 +5.02%, 셀트리온 +7.00%로 올랐어요. 유가와 미 국채금리 하락, 민주당 정책 기대가 이유로 꼽혀요.",
+        "원/달러는 11시 20분 1,342.15원으로 0.65원 오르는 데 그쳐 환율은 크게 움직이지 않았어요.",
+        "나와의 연결: 반도체와 자동차·은행을 함께 들고 있어 충격이 일부 나뉠 수 있어요. 지수 ETF와 반도체 ETF 안의 겹침도 함께 보세요."
+      ],
+      "note": "자동차·금융·바이오 수치는 오전 9시 5분 기준이고, 이후 값은 확인하지 못했어요.",
+      "sources": [
+        {"title": "연합뉴스(Korea Times)", "url": "https://www.koreatimes.co.kr/economy/20261105/seoul-shares-open-lower-on-democratic-party-victory-in-us-midterm-elections"},
+        {"title": "서울경제", "url": "https://en.sedaily.com/finance/2026/11/05/us-blue-wave-sinks-chips-lifts-autos-banks-and-biotech"},
+        {"title": "뉴스1", "url": "https://www.news1.kr/finance/market-exr/6343764"}
+      ]
+    },
     {
       "tag": "econ",
       "tagLabel": "속보·유가",
@@ -75,28 +118,6 @@
         {"title": "글로벌이코노믹", "url": "https://www.g-enews.com/article/Securities/2026/11/202611050638147878e250e8e188_1"},
         {"title": "Le Private Banker", "url": "https://leprivatebanker.com/2026/11/04/brent-falls-below-100-for-first-time-since-oct-7-down-14-on-the-week-as-vance-blames-iran-war-for-midterm-rout/"},
         {"title": "SBHNews", "url": "https://www.sbhnews.com"}
-      ]
-    },
-    {
-      "tag": "econ",
-      "tagLabel": "증시",
-      "breaking": false,
-      "important": true,
-      "keywords": ["다우", "반도체"],
-      "title": "다우 3% 급등, 반도체 지수는 3% 하락",
-      "summary": "지수는 크게 올랐지만 AI 인프라 쪽은 약세로 갈렸어요.",
-      "details": [
-        "다우는 53,356.12(+3.03%), 나스닥은 25,736.51(+1.44%)로 마쳤어요. 필라델피아 반도체지수는 3.13% 내렸어요.",
-        "마이크로소프트 +6.68%, 아마존 +6.12%, 알파벳 +3.25%였고, 엔비디아 -3.17%, SK하이닉스 ADR -5.12%였어요. 텍사스 등에서 민주당이 이겨 데이터센터 건설이 늦어질 수 있다는 우려가 나왔어요.",
-        "미 10년물은 4.89%, 2년물은 4.58%로 내렸고, 달러는 두 달 만에 가장 크게 떨어졌어요. 태양광·청정에너지주도 올랐어요.",
-        "나와의 연결: 빅테크·반도체 비중이 약 16%라 업종별로 결과가 갈려요. 달러 자산은 약달러와 금리 하락 영향을 함께 받아요."
-      ],
-      "note": "새 12월 인상 확률과 원/달러 야간 값은 확인하지 못했어요. 4일 서울 주간 마감 환율은 1,341.5원이에요.",
-      "sources": [
-        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/05/20261105500004"},
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261105000034"},
-        {"title": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"},
-        {"title": "Rallies", "url": "https://rallies.ai/news/us-bond-yields-fall-as-oil-tumbles-and-investors-assess-sweeping-democratic-election-victory-b129ae39470db090"}
       ]
     },
     {
@@ -189,28 +210,11 @@
       "sources": [
         {"title": "CalMatters", "url": "https://calmatters.org/health/2026/11/california-election-2026-prop-40-41-42/"}
       ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "유럽",
-      "breaking": false,
-      "important": false,
-      "keywords": ["스페인", "69명"],
-      "title": "스페인 고속열차 충돌 최소 69명 사망, 장관 사임",
-      "summary": "오스카르 푸엔테 교통부 장관이 책임을 지고 물러났어요.",
-      "details": [
-        "고속열차 충돌로 최소 69명이 숨졌고, 푸엔테 장관이 사임했어요.",
-        "사고 원인 조사 결과는 이번 확인 범위에서 나오지 않았어요."
-      ],
-      "note": "BBC 보도를 인용한 Just Security 요약으로 확인했어요.",
-      "sources": [
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"}
-      ]
     }
   ],
   "watch": [
     "카타르를 통한 미국·이란 답변과 호르무즈 재개방 여부",
-    "오늘 코스피·원/달러가 뉴욕 급등과 반도체 약세 중 어느 쪽을 따를지",
+    "오늘 코스피 마감과 외국인 매도, 반도체 낙폭이 줄어드는지",
     "11/6 미국 고용지표, 12월 연준 인상 확률 변화",
     "11/10~11 아부다비 회담, 11/26 한은 금통위"
   ]
