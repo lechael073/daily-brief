@@ -1,10 +1,10 @@
 {
   "date": "2026-11-06",
-  "updatedLabel": "11/6 16:02",
+  "updatedLabel": "11/6 22:04",
   "kicker": "속보",
-  "headline": "AI 쇼크에 코스피 6% 폭락 마감, 5000선은 겨우 지켜",
-  "subhead": "대만·일본도 5% 안팎 급락했고, 정부는 반대매매를 막는 긴급 조치를 내놨어요.",
-  "advice": "급락일에 빅테크를 더 담았으니 알파벳 약 5.9%가 상한 6%를 넘지 않게 남은 매수는 나눠 가세요.",
+  "headline": "AI 쇼크 유럽까지 번져, 오늘 밤 미국 고용지표가 분수령",
+  "subhead": "코스피 6% 폭락 뒤 유럽 증시도 1~2% 내렸고, 나스닥 선물은 1%대 반등을 시도해요.",
+  "advice": "빅테크·반도체가 전체의 약 17%예요. 반등이 확인되기 전엔 추가 매수를 나눠서 천천히 하세요.",
   "marketsAsOf": "11/6 서울 · 11/5 뉴욕 마감 기준 (미 2년물은 11/5 장중)",
   "markets": [
     {"label": "미 10년물", "value": "4.84%", "change": "-0.05%p", "dir": "down"},
@@ -16,120 +16,141 @@
   ],
   "stories": [
     {
-      "tag": "econ", "tagLabel": "속보·증시", "breaking": true, "important": false,
-      "keywords": ["6.02%", "5000선"],
-      "title": "코스피 6.02% 폭락 마감, 5000선은 지켜",
+      "tag": "econ",
+      "tagLabel": "속보·증시",
+      "breaking": true,
+      "important": false,
+      "keywords": ["6.02%", "반대매매"],
+      "title": "코스피 6.02% 폭락, 정부는 반대매매 막기 나서",
       "summary": "장중 8%대까지 빠졌다가 5,059.69로 마쳤어요.",
       "details": [
-        "개장 직후 서킷브레이커와 매도 사이드카가 걸렸고, 장중 한때 9개월 만에 5000선 아래로 내려갔어요.",
-        "삼성전자는 6.35% 내린 188,700원, SK하이닉스는 10.44% 내린 1,132,000원으로 마쳤어요. 코스닥은 5.03% 내린 644.27이에요.",
-        "외국인은 코스피에서 약 2조 7,700억 원을 팔았고, 기관과 개인이 받아냈어요. 원/달러는 오후 3시 30분 1,356.6원으로 14.5원 올랐어요.",
-        "나와의 연결: 주식 약 39% 중 국내 반도체 보유분이 직접 영향을 받았어요. 달러 비중이 큰 현금성 자산은 원화 약세로 완충 역할을 했어요."
-      ],
-      "sources": [
-        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/06/20261106500238"},
-        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026110615475413854"},
-        {"title": "아시아경제 환율", "url": "https://view.asiae.co.kr/article/2026110615362639023"},
-        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611061531374465"}
-      ]
-    },
-    {
-      "tag": "kr", "tagLabel": "속보·정부", "breaking": true, "important": false,
-      "keywords": ["반대매매", "3개월"],
-      "title": "정부, 반대매매 막으려 담보비율 3개월 면제",
-      "summary": "F4 회의는 지나친 비관을 경계해야 한다고 했어요.",
-      "details": [
-        "이형일 부총리 주재 회의에서 증권사 신용융자 담보비율 140% 유지 의무를 3개월 면제하기로 했어요. 주가 급락에 따른 강제 매도를 줄이려는 조치예요.",
-        "정부는 국내 증시가 대외 요인에 과도하게 반응했다고 보고, 성장률·수출 전망 등 기초 체력은 탄탄하다고 밝혔어요.",
-        "변동성이 더 커지면 추가 시장 안정 조치도 내놓겠다고 했어요.",
-        "나와의 연결: 11/26 한은 금통위 전까지 당국의 금리·환율 메시지를 함께 보면 좋아요."
+        "서킷브레이커와 매도 사이드카가 걸렸고, 삼성전자는 6.35%, SK하이닉스는 10.44% 내렸어요. 외국인은 약 2조 7,700억 원을 팔았어요.",
+        "정부는 증권사 신용융자 담보비율 140% 유지 의무를 3개월 면제해, 주가 급락에 따른 강제 매도를 줄이기로 했어요.",
+        "원/달러는 오후 3시 30분 1,356.6원으로 14.5원 올랐어요.",
+        "나와의 연결: 국내 반도체 보유분이 직접 흔들렸지만, 달러 현금성 자산이 원화 약세로 손실을 일부 메워 줬어요."
       ],
       "note": "빚을 낸 투자자의 손실 위험은 그대로라는 경고도 나왔어요.",
       "sources": [
+        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/06/20261106500238"},
         {"title": "파이낸셜뉴스", "url": "https://fnnews.com/news/202611061142022534"},
-        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026110611472351961"},
-        {"title": "글로벌이코노믹", "url": "https://www.g-enews.com/article/Securities/2026/11/202611061226282044923c501012_1"}
+        {"title": "아시아경제 환율", "url": "https://view.asiae.co.kr/article/2026110615362639023"}
       ]
     },
     {
-      "tag": "econ", "tagLabel": "속보·대만", "breaking": true, "important": false,
-      "keywords": ["TSMC", "하한가"],
-      "title": "대만 4.47%·닛케이 5%대 급락, TSMC 하한가",
-      "summary": "대만 증시는 장중 사상 최대 포인트 낙폭을 기록했어요.",
+      "tag": "econ",
+      "tagLabel": "속보·유럽",
+      "breaking": true,
+      "important": false,
+      "keywords": ["유럽", "나스닥 선물"],
+      "title": "유럽 증시도 동반 하락, 나스닥 선물은 반등 시도",
+      "summary": "독일·영국 등이 장중 1.5~2%대 내렸어요.",
       "details": [
-        "자취안지수는 개장 직후 3,737포인트 넘게 빠져 37,837까지 내렸고, 4.47% 내린 채 마쳐 약 6개월 만의 최저를 기록했어요.",
-        "TSMC는 하한가 2,020대만달러로 출발해 시가총액이 5조 7,000억 대만달러 줄었어요. 미디어텍·델타 등도 하한가였어요.",
-        "닛케이225는 약 5.8% 내려 6만선이 무너졌고, MSCI 아시아태평양 지수는 3.8% 내렸어요. 대만 금융당국도 안정 조치를 검토 중이에요.",
-        "나와의 연결: 외가 친척이 있는 대만의 소식이에요. 대만 테크 ETF와 반도체 보유분도 함께 흔들렸어요."
+        "스톡스600은 7월 이후 가장 크게 떨어져 이번 주 상승분을 모두 지웠어요. 반도체·소프트웨어주가 하락을 이끌었어요.",
+        "뉴욕 개장 전 나스닥100 선물은 1%대 올랐고, 다우 선물은 1% 안팎 내렸어요. 엔비디아·마이크론 등 반도체가 반등을 이끌었어요.",
+        "공포지수 VIX는 27 안팎까지 뛰었고, 금값은 온스당 4,070달러 근처로 1%가량 내렸어요.",
+        "나와의 연결: 미국 주식 비중이 커서 오늘 밤 뉴욕이 반등하는지가 다음 주 평가액을 좌우해요."
       ],
-      "note": "자취안 마감 지수와 닛케이 정확한 마감 값은 확인하지 못했어요. 대만 안정 조치 내용도 아직 미확인이에요.",
+      "note": "유럽 수치는 장중 값이에요. 최종 마감 값은 확인하지 못했어요.",
+      "sources": [
+        {"title": "The Private Banker", "url": "https://leprivatebanker.com/2026/11/06/stoxx-600-erases-its-weekly-gain-as-tech-rout-hits-europe-but-index-still-leads-the-sp-500-this-year/"},
+        {"title": "Share Talk", "url": "https://www.share-talk.com/ftse-100-plunges-2-3-as-global-ai-sell-off-deepens/"},
+        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"},
+        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-06/european-stocks-join-global-selloff-as-ai-concerns-spread"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "속보·대만",
+      "breaking": true,
+      "important": false,
+      "keywords": ["TSMC", "일본"],
+      "title": "대만 4.47%·일본 5%대 급락, TSMC 하한가",
+      "summary": "일본은 중앙은행 ETF 매각 대금을 투자 재원에 쓰기로 했어요.",
+      "details": [
+        "대만 자취안지수는 4.47% 내려 약 6개월 만의 최저로 마쳤고, TSMC는 하한가로 출발했어요. 대만 증권거래소는 필요하면 안정 조치를 내겠다고 했어요.",
+        "닛케이225도 5% 넘게 빠졌어요. 다카이치 총리는 일본은행 ETF 매각 대금을 경제안보 분야 투자 재원으로 쓰겠다고 했어요.",
+        "일본은행 기준금리는 1.25%이고, 다음 회의는 12월 17~18일이에요.",
+        "나와의 연결: 외가 친척이 있는 대만의 소식이에요. 대만 테크 ETF와 국내 반도체 보유분도 같은 흐름이에요."
+      ],
+      "note": "닛케이 정확한 마감 값과 대만 안정 조치 세부 내용은 확인하지 못했어요.",
       "sources": [
         {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/business/202611060006"},
-        {"title": "Investing.com", "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-447-5006557"},
-        {"title": "FinancialJuice", "url": "https://features.financialjuice.com/2026/11/06/ai-selloff-deepens-across-asia-governments-move-to-stabilize-markets-asia-market-wrap/"},
-        {"title": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10928106"}
+        {"title": "Arab News Japan(Reuters)", "url": "https://www.arabnews.jp/en/business/japan-to-tap-proceeds-from-boj-asset-sales-as-ai-rout-stokes-fiscal-worries-3001313"},
+        {"title": "DealStreetAsia", "url": "https://cdn.dealstreetasia.com/stories/taiwan-stock-exchange-to-unveil-more-market-stabilisation-steps-if-needed-437331"}
       ]
     },
     {
-      "tag": "econ", "tagLabel": "속보·뉴욕", "breaking": true, "important": false,
-      "keywords": ["나스닥", "5.52%"],
-      "title": "출발점 뉴욕, 나스닥 5.52% 폭락",
-      "summary": "필라델피아 반도체지수가 12.25% 급락했어요.",
+      "tag": "war",
+      "tagLabel": "이란전쟁",
+      "breaking": false,
+      "important": true,
+      "keywords": ["이란", "호르무즈"],
+      "title": "이란 7개 조건 전엔 호르무즈 안 연다, 푸틴도 만나",
+      "summary": "트럼프는 이란을 더 파괴할 수도 있다며 결정을 미뤘어요.",
       "details": [
-        "5일 나스닥은 24,315.00, S&P 500은 7,353.73, 다우는 51,523.06으로 마쳤어요. 2025년 4월 이후 하루 낙폭이 가장 커요.",
-        "중간선거 뒤 AI 데이터센터 규제·투자 위축 우려가 커졌고, 헤지펀드의 연말 수익 확정 매도도 겹쳤어요.",
-        "6일 아시아 장 후반에는 나스닥100 선물이 0.8% 반등했어요.",
-        "나와의 연결: 미국 주식 약 26%가 직접 영향을 받아요. 하루 급락보다 업종 쏠림을 먼저 보세요."
-      ],
-      "sources": [
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261106000030"},
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"},
-        {"title": "FinancialJuice", "url": "https://features.financialjuice.com/2026/11/06/ai-selloff-deepens-across-asia-governments-move-to-stabilize-markets-asia-market-wrap/"}
-      ]
-    },
-    {
-      "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": true,
-      "keywords": ["트럼프", "7개 조건"],
-      "title": "트럼프 이란 결정 임박, 이란은 7개 조건 제시",
-      "summary": "전쟁 재개냐 합의냐를 곧 정하겠다고 했어요.",
-      "details": [
-        "트럼프 대통령은 이제 결정하겠다며, 이란을 더 파괴하고 싶지 않지만 그래야 할 수도 있다고 말했어요. 아직 작전 재개 명령은 없어요.",
-        "이란은 카타르를 통해 핵 제안을 보냈지만, 제재 해제·동결 자산 해제·배상 등 7개 조건이 먼저라고 해요. 그 전엔 호르무즈도 열지 않겠다고 했어요.",
-        "이란 의원은 인도·중국·이라크·카타르 선박은 호르무즈 제한에서 빼 준다고 밝혔어요. 브렌트유는 6일 아시아장에서 99달러대까지 올랐어요.",
-        "나와의 연결: 에너지·물가 헤지가 약 0.7%로 적어, 유가가 뛰면 막아 줄 자산이 적어요."
+        "이란 최고국가안보회의 레자이 사무총장이 모스크바에서 푸틴을 만나 하메네이의 서한을 전했어요.",
+        "레자이는 미국이 7개 조건을 먼저 들어주지 않으면 호르무즈도 열지 않고 협상도 하지 않겠다고 했어요.",
+        "5일에는 호르무즈에서 유조선 3척이 기뢰 등으로 피해를 입었다고 이란 혁명수비대가 밝혔어요. 유가는 배럴당 90달러대예요.",
+        "나와의 연결: 에너지·물가 헤지 자산이 약 0.7%로 적어, 전쟁이 재개되면 유가 충격을 막아 줄 자산이 적어요."
       ],
       "note": "7개 조건 전체 목록과 미국의 검토 결과는 공개되지 않았어요.",
       "sources": [
-        {"title": "The National", "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/"},
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions"},
-        {"title": "FinancialJuice", "url": "https://features.financialjuice.com/2026/11/06/ai-selloff-deepens-across-asia-governments-move-to-stabilize-markets-asia-market-wrap/"}
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei"},
+        {"title": "MarineLink(Reuters)", "url": "https://www.marinelink.com/news/iran-maintains-pressure-three-tankers-hit-544179"},
+        {"title": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"}
       ]
     },
     {
-      "tag": "econ", "tagLabel": "금리", "breaking": false, "important": true,
-      "keywords": ["고용지표"],
-      "title": "오늘 밤 미국 고용지표, 12월 인상 가늠자",
-      "summary": "연준 위원들은 점진적 인상을 지지했어요.",
+      "tag": "econ",
+      "tagLabel": "금리",
+      "breaking": false,
+      "important": true,
+      "keywords": ["고용지표", "영국"],
+      "title": "오늘 밤 미 고용지표, 영국은 금리 4%로 올려",
+      "summary": "미국은 한국시간 22시 30분 10월 고용을 발표해요.",
       "details": [
-        "해맥·바킨 총재가 점진적 금리 인상을 지지했고, 시장은 12월 인상 가능성에 무게를 두고 있어요.",
-        "주가 급락으로 안전자산 수요가 늘어 미 10년물은 4.84%, 2년물은 장중 4.47%까지 내렸어요. 10월 고용은 5만 9,000명 증가가 예상돼요.",
-        "나와의 연결: 예금·발행어음 등 단기 예치 약 28%는 만기 때 금리를 다시 비교하고, 12/6 중금채 만기도 챙겨 보세요."
+        "미국 일자리는 5만 5,000~6만 5,000명 늘고 실업률은 4.2%로 유지될 것으로 예상돼요. 연준은 12월 인상 여부를 이 지표로 가늠해요.",
+        "영국 중앙은행은 5일 기준금리를 3.75%에서 4%로 올렸어요. 2023년 8월 이후 첫 인상이고, 베일리 총재는 중동 분쟁이 안 풀리면 추가 인상도 가능하다고 했어요.",
+        "나와의 연결: 유럽 금리 상승에 관심이 있다면 영국의 인상 흐름을 눈여겨보세요. 국내 예치 상품은 12/6 중금채 만기 때 금리를 다시 비교하면 좋아요."
       ],
-      "note": "미 2년물은 마감 값을 찾지 못해 장중 값을 썼어요.",
+      "note": "고용지표 결과는 이 브리핑 작성 시점에는 아직 나오지 않았어요.",
       "sources": [
-        {"title": "Private Banker", "url": "https://leprivatebanker.com/2026/11/05/treasury-yields-slide-as-tech-rout-fuels-haven-bid-with-two-year-down-11-basis-points-before-fridays-payrolls/"},
-        {"title": "Rallies", "url": "https://rallies.ai/news/feds-hammack-barkin-favor-gradual-rate-hike-path-to-lower-inflation-4db698c746b617ca"}
+        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"},
+        {"title": "Sovereign Magazine", "url": "https://www.sovereignmagazine.com/article/bank-of-england-rate-rise-november-2026-mortgage"}
       ]
     },
     {
-      "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
+      "tag": "etc",
+      "tagLabel": "미국",
+      "breaking": false,
+      "important": false,
+      "keywords": ["트럼프", "캘리포니아"],
+      "title": "트럼프, 폭락 책임 민주당 탓… 캘리포니아는 사형 감형",
+      "summary": "중간선거 패배 뒤 미국 정치에 변화가 이어져요.",
+      "details": [
+        "트럼프 대통령은 증시 급락을 민주당의 중간선거 승리 탓으로 돌렸어요. 공화당은 상·하원 모두 다수당 자리를 잃은 것으로 전해졌어요.",
+        "선거 뒤 첫 고위직 사퇴로, 법무부 민권국장 하밋 딜런이 물러났어요.",
+        "임기를 마치는 뉴섬 캘리포니아 주지사는 사형수 548명 전원을 가석방 없는 종신형으로 감형하기로 했어요.",
+        "나와의 연결: 산호세에 친척이 있는 캘리포니아의 소식이에요. 의회 구도 변화는 AI·빅테크 규제 논의에도 영향을 줄 수 있어요."
+      ],
+      "sources": [
+        {"title": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei"},
+        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "대만",
+      "breaking": false,
+      "important": false,
       "keywords": ["49대", "대만"],
       "title": "중국 군용기 49대 대만 주변, 지방선거 앞 긴장",
       "summary": "선거를 앞두고 압박 순찰이 이어지고 있어요.",
       "details": [
         "대만 국방부는 3일 오전까지 24시간 동안 군용기 49대를 탐지했고, 31대가 방공식별구역에 들어왔다고 밝혔어요.",
-        "대만 안보 감시 단체는 4일 합동 전투준비 순찰이 닷새 사이 두 번째였다고 전했어요. 지방선거는 11월 28일이에요.",
-        "나와의 연결: 외가 친척이 있는 곳의 소식이에요. 증시 급락과 겹쳐 대만달러도 약세예요."
+        "4일 합동 전투준비 순찰은 닷새 사이 두 번째였어요. 대만 지방선거는 11월 28일이에요.",
+        "나와의 연결: 외가 친척이 있는 곳이에요. 증시 급락과 겹쳐 대만달러도 약세예요."
       ],
       "note": "이번 조사에서 대규모 훈련 발표는 확인되지 않았어요.",
       "sources": [
@@ -138,54 +159,66 @@
       ]
     },
     {
-      "tag": "kr", "tagLabel": "북한", "breaking": false, "important": false,
+      "tag": "kr",
+      "tagLabel": "북한",
+      "breaking": false,
+      "important": false,
       "keywords": ["북한", "순양함"],
       "title": "북한, 미사일 발사 속 1만t급 순양함 건조 정황",
       "summary": "김정은은 남포조선소에서 해군력 강화를 강조했어요.",
       "details": [
         "김정은 위원장은 2일 남포조선소를 찾았고, 1만t급 신형 순양함과 5,000t급 구축함 후속함을 짓는 것으로 전해졌어요.",
-        "4일 북한은 선덕 일대에서 미사일 여러 발을 쐈고, 신형 대공미사일 시험을 했다고 주장했어요.",
+        "4일 북한은 선덕 일대에서 미사일 여러 발을 쐈고, 신형 대공미사일 시험이라고 주장했어요.",
         "나와의 연결: 증시 급락 구간에 안보 긴장이 겹치면 원화와 코스피에 부담이 더해질 수 있어요."
       ],
-      "note": "순양함 건조와 훈련 성과는 추정이거나 북한 측 주장이에요.",
+      "note": "순양함 건조와 시험 성과는 추정이거나 북한 측 주장이에요.",
       "sources": [
         {"title": "서울신문", "url": "https://m.seoul.co.kr/news/politics/2026/11/05/20261105008002?cp=seoul"},
         {"title": "세계일보", "url": "https://www.segye.com/newsView/20261105508769"}
       ]
     },
     {
-      "tag": "war", "tagLabel": "우크라", "breaking": false, "important": false,
-      "keywords": ["아부다비", "포로 교환"],
-      "title": "다음 주 아부다비 회담, 포로 교환 합의 기대",
-      "summary": "유럽은 큰 성과보다 작은 합의를 기대해요.",
+      "tag": "war",
+      "tagLabel": "우크라",
+      "breaking": false,
+      "important": false,
+      "keywords": ["푸틴 특사", "우크라이나"],
+      "title": "트럼프, 푸틴 특사 비공개 면담… 우크라이나 합의 기대",
+      "summary": "다음 주 아부다비에서 3자 회담이 열려요.",
       "details": [
-        "다음 주 아부다비에서 우크라이나·러시아·미국이 만나요. 유럽 관리들은 포로 교환과 에너지 시설 보호 합의 정도를 기대해요.",
-        "그 사이 자포리자 구호물자 배포소 공습 사망자는 37명, 실종자는 59명으로 집계됐어요."
+        "트럼프 대통령은 백악관 행사에 나온 푸틴 특사를 따로 만났다며, 곧 우크라이나 합의가 나올 것으로 본다고 했어요.",
+        "다음 주 아부다비에서 우크라이나·러시아·미국이 만나요. 유럽은 포로 교환과 에너지 시설 보호 같은 작은 합의를 기대해요.",
+        "EU는 우크라이나에 43억 6,000만 유로를 추가로 지급했어요."
       ],
+      "note": "면담 내용과 합의 시점은 공개되지 않았어요.",
       "sources": [
+        {"title": "The Standard", "url": "https://thestandard.com.hk/news/article/347765/Night-Recap-November-6-2026"},
         {"title": "Euronews", "url": "https://www.euronews.com/2026/11/05/europe-weighs-implications-of-trumps-midterm-setback"},
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"}
+        {"title": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"}
       ]
     },
     {
-      "tag": "etc", "tagLabel": "보건", "breaking": false, "important": false,
-      "keywords": ["에볼라", "5,300명"],
-      "title": "에볼라 백신 후보 2종 임상 승인, 사망 5,300명 넘어",
-      "summary": "세계보건기구가 임상시험을 승인했어요.",
+      "tag": "etc",
+      "tagLabel": "사건",
+      "breaking": false,
+      "important": false,
+      "keywords": ["폭탄 위협", "프랑스"],
+      "title": "유럽 항공기 폭탄 위협 잇따라, 프랑스는 대규모 시위",
+      "summary": "여객기 비상착륙이 잇따랐고, 프랑스에선 400명 넘게 체포됐어요.",
       "details": [
-        "세계보건기구는 에볼라 백신 후보 2종의 임상시험을 승인했어요.",
-        "이번 유행의 사망자는 5,300명을 넘어선 것으로 전해졌어요. 시험은 콩고민주공화국에서 시작될 예정이에요."
+        "5일 유럽 곳곳에서 최소 18편의 여객기에 폭탄 위협이 들어와 비상착륙·회항이 이어졌어요. 일부는 전투기가 호위했고, 모두 허위로 보여요.",
+        "프랑스에서는 임금과 생활비 문제로 수십만 명이 시위에 나섰고, 400명 넘게 체포되고 경찰 50여 명이 다쳤어요."
       ],
-      "note": "최신 사망자 수는 Euronews 보도 기준이에요.",
+      "note": "폭탄 위협 항공편 수는 매체마다 18편~수십 편으로 달라요.",
       "sources": [
-        {"title": "Euronews", "url": "https://www.euronews.com/2026/11/05/europe-weighs-implications-of-trumps-midterm-setback"},
-        {"title": "AFP(NAMPA)", "url": "https://www.nampa.org/text/23005834"}
+        {"title": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"},
+        {"title": "The Standard", "url": "https://thestandard.com.hk/news/article/347765/Night-Recap-November-6-2026"}
       ]
     }
   ],
   "watch": [
-    "오늘 밤 미국 10월 고용지표와 뉴욕 증시 반등 여부",
-    "트럼프의 이란 결정과 카타르 경유 제안에 대한 미국 반응",
+    "오늘 밤 22시 30분 미국 10월 고용지표와 뉴욕 증시 반등 여부",
+    "트럼프의 이란 결정과 이란 7개 조건에 대한 미국 반응",
     "다음 주 코스피 외국인 매도 지속 여부와 대만 안정 조치",
     "11/10 미국 CPI, 아부다비 회담, 11/26 한은 금통위"
   ]
