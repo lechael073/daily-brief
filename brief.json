@@ -1,199 +1,75 @@
 {
-  "advice": "공습 재개로 유가·달러가 흔들릴 수 있어요. 헤지 2% 목표는 월요일 장을 본 뒤 천천히 채우세요.",
-  "date": "2026-11-07",
-  "headline": "미국, 이란 케슘섬 공습… 증시 폭락 뒤 긴장 더해져",
+  "date": "2026-11-08",
+  "updatedLabel": "11/8 07:00",
   "kicker": "속보",
+  "headline": "이란 \"미사일 사거리 제한 풀었다\"… 월요일 증시 시험대",
+  "subhead": "호르무즈에서 배 공격이 이어지고, 코스피는 정부 대책 속에 월요일 장을 맞아요.",
+  "advice": "주말에 중동 긴장이 커졌어요. 월요일 반등을 쫓지 말고 11/13 이후 나눠 사는 계획을 지키세요.",
+  "marketsAsOf": "11/6 뉴욕 · 11/6 서울 마감 기준 (주말)",
   "markets": [
-    {"change": "+0.02%p", "dir": "up", "label": "미 10년물", "value": "4.86%"},
-    {"change": "+0.03%p", "dir": "up", "label": "미 2년물", "value": "4.51%"},
-    {"change": "동결", "dir": "flat", "label": "미 기준금리", "value": "3.75~4.00%"},
-    {"change": "동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
-    {"change": "+0.31%", "dir": "up", "label": "S&P 500", "value": "7,376.86"},
-    {"change": "-6.02%", "dir": "down", "label": "코스피", "value": "5,059.69"}
+    {"label":"미 10년물","value":"4.86%","change":"+0.02%p","dir":"up"},
+    {"label":"미 2년물","value":"4.51%","change":"+0.03%p","dir":"up"},
+    {"label":"미 기준금리","value":"3.75~4.00%","change":"동결","dir":"flat"},
+    {"label":"한은 기준금리","value":"3.00%","change":"동결","dir":"flat"},
+    {"label":"S&P 500","value":"7,376.86","change":"+0.31%","dir":"up"},
+    {"label":"코스피","value":"5,059.69","change":"-6.02%","dir":"down"}
   ],
-  "marketsAsOf": "11/6 뉴욕 · 11/6 서울 마감 기준",
   "stories": [
-    {
-      "tag": "war",
-      "tagLabel": "속보·이란",
-      "breaking": true,
-      "important": false,
-      "keywords": ["케슘섬", "공습"],
-      "title": "미국, 이란 케슘섬 공습… 중간선거 뒤 첫 타격",
-      "summary": "트럼프는 '작은 공격'이라 했고 이란은 드론을 격추했다고 해요.",
-      "details": [
-        "6일 미군이 호르무즈 해협의 이란 케슘섬을 공격했고, 트럼프 대통령이 직접 확인했어요. 이란 국영매체는 미사일 2발이 떨어졌다고 보도했어요.",
-        "트럼프는 대공 방어 장비를 노린 '작은 공격'이라며 이란과 많은 진전이 있었다고도 했어요. 미 중부사령부는 상황이 비교적 조용하다고 밝혔어요.",
-        "이란은 미국 무인기 MQ-9을 격추했다고 주장했어요. 미국 신문은 미군 수천 명이 대규모 작전 재개를 대기 중이라고 전했어요.",
-        "나와의 연결: 호르무즈 긴장이 커지면 유가와 달러가 같이 뛸 수 있어요. 달러 자산은 버팀목이지만 헤지 비중은 아직 목표보다 적어요."
-      ],
-      "note": "무인기 격추는 이란 측 주장이고 확인되지 않았어요. 사상자 보도는 없어요.",
-      "sources": [
-        {"title": "Al Jazeera(AP)", "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"},
-        {"title": "SCMP", "url": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls"},
-        {"title": "Al Jazeera 라이브(11/6)", "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"}
-      ]
-    },
-    {
-      "breaking": true,
-      "details": [
-        "6일 코스피는 6.02% 내린 5,059.69로 마쳐 이틀 동안 10.98% 빠졌어요. 장중에는 4,911까지 밀려 서킷브레이커가 걸렸어요.",
-        "외국인은 2조 6천억 원어치를 팔아 6일째 순매도했고, 삼성전자는 6.35%, SK하이닉스는 10.44% 떨어졌어요. 코스닥은 644.27로 2024년 계엄 당일보다 낮아졌어요.",
-        "정부는 신용융자 담보비율 140% 유지 의무를 3개월 면제했고, 경제부총리는 변동성이 커지면 추가 안정 조치를 내놓겠다고 했어요.",
-        "나와의 연결: SK하이닉스 비중은 작아 직접 충격은 크지 않아요. 원화가 약해지면 달러 자산의 원화 가치는 올라 손실을 일부 메워 줘요."
-      ],
-      "important": false,
-      "keywords": ["코스피", "11%"],
-      "note": "7일 밤까지 주말 새 대책 발표는 확인되지 않았어요.",
-      "sources": [
-        {"title": "서울경제", "url": "https://m.sedaily.com/article/20111285"},
-        {"title": "한국일보", "url": "https://www.hankookilbo.com/news/article/A2026110618480005882"},
-        {"title": "한국경제TV", "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060157"}
-      ],
-      "summary": "5천선이 장중 무너졌고 정부·여당이 대책을 준비해요.",
-      "tag": "econ",
-      "tagLabel": "속보·증시",
-      "title": "코스피 이틀간 11% 폭락, 주말 뒤 추가 대책 검토"
-    },
-    {
-      "breaking": true,
-      "details": [
-        "6일 대만 자취안지수는 4.5%대 떨어져 약 6개월 만의 최저로 마쳤어요. AI 반도체 급락이 대만까지 번졌어요.",
-        "대만 국가안정기금은 필요하면 시장에 개입할 준비가 돼 있다고 밝혔어요.",
-        "나와의 연결: 외가 친척이 있는 대만 소식이에요. 대만 테크 ETF와 국내 반도체 보유분도 같은 흐름이라 월요일 아시아 장을 같이 보세요."
-      ],
-      "important": false,
-      "keywords": ["대만", "안정기금"],
-      "note": "하락률은 매체에 따라 4.47~4.51%로 조금 달라요. 안정기금의 실제 개입 여부는 확인되지 않았어요.",
-      "sources": [
-        {"title": "Focus Taiwan 마감", "url": "https://focustaiwan.tw/business/202611060011"},
-        {"title": "Focus Taiwan 안정기금", "url": "https://focustaiwan.tw/business/202611060020"}
-      ],
-      "summary": "TSMC가 크게 빠졌고 대만 당국은 시장 개입을 준비해요.",
-      "tag": "econ",
-      "tagLabel": "속보·대만",
-      "title": "대만 증시 4.5% 급락, 안정기금 개입 대기"
-    },
-    {
-      "breaking": false,
-      "details": [
-        "미국 10월 일자리는 16만 5,000개 늘어 예상치 약 6만 5,000개를 크게 넘었고, 실업률은 4.1%로 내려갔어요.",
-        "12월 연준 금리 인상 확률은 약 67%에서 약 80%로 올랐어요. 윌리엄스 뉴욕 연은 총재는 물가가 너무 높다고 했어요.",
-        "6일 S&P500은 0.31%, 나스닥은 1.09% 올랐고 AMD는 10.5% 뛰었어요. 그래도 S&P500은 6월 이후 가장 나쁜 한 주였어요.",
-        "나와의 연결: 미국 금리가 오르면 달러 예금·RP 금리도 오를 수 있어요. 주간 예금 사다리 만기 때 새 금리를 확인하세요."
-      ],
-      "important": true,
-      "keywords": ["16.5만", "고용"],
-      "sources": [
-        {"title": "GV Wire(Reuters)", "url": "https://gvwire.com/2026/11/06/dollar-jumps-after-strong-us-payrolls-report/"},
-        {"title": "The Hill", "url": "https://thehill.com/business/6201764-us-jobs-report-october/"},
-        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets"},
-        {"title": "블록미디어", "url": "https://www.blockmedia.co.kr/archives/1162660"},
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"}
-      ],
-      "summary": "예상의 2배 넘게 늘어 12월 인상 전망이 80%로 커졌어요.",
-      "tag": "econ",
-      "tagLabel": "금리",
-      "title": "미국 10월 일자리 16.5만 개 깜짝 증가, 고용 호조"
-    },
-    {
-      "breaking": false,
-      "details": [
-        "트럼프 대통령은 러시아 특사 키릴 드미트리예프를 만나 우크라이나 평화 합의를 약속했다고 밝혔어요.",
-        "젤렌스키 대통령은 미국 정치 변화에 맞춰 대응해야 한다고 했고, 크렘린은 협상에서 유럽을 누가 대표할지 정하지 못했다고 비판했어요.",
-        "우크라이나의 스타실드 위성망 계약은 내년 중반 끝나 새 계약 협상을 서두르고 있어요."
-      ],
-      "important": false,
-      "keywords": ["트럼프", "우크라이나"],
-      "note": "면담의 구체적 내용과 합의 시점은 공개되지 않았어요.",
-      "sources": [
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"},
-        {"title": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"}
-      ],
-      "summary": "다음 주 아부다비 3자 회담을 앞두고 움직임이 빨라졌어요.",
-      "tag": "war",
-      "tagLabel": "우크라",
-      "title": "트럼프, 러시아 특사 만나 우크라이나 합의 약속"
-    },
-    {
-      "breaking": false,
-      "details": [
-        "헤그세스 국방장관은 탄핵 추진이 예상되자 자신의 업적을 옹호하는 영상을 냈어요.",
-        "루비오 국무장관이 사퇴를 검토한다는 보도가 나왔지만, 국무부는 근거 없는 날조라고 반박했어요.",
-        "슈머 민주당 원내대표는 공화당 성향 대법관 지명을 막겠다고 했어요.",
-        "나와의 연결: 산호세 등 미국에 사는 친척에게도 영향을 줄 이민·경제 정책이 새 의회에서 바뀔 수 있어요."
-      ],
-      "important": false,
-      "keywords": ["헤그세스", "루비오"],
-      "note": "루비오 사퇴설은 확인되지 않은 보도예요.",
-      "sources": [
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"}
-      ],
-      "summary": "중간선거 패배 뒤 미국 정치의 긴장이 커지고 있어요.",
-      "tag": "etc",
-      "tagLabel": "미국",
-      "title": "선거 뒤 흔들리는 트럼프 내각, 헤그세스 탄핵론·루비오 사퇴설"
-    },
-    {
-      "breaking": false,
-      "details": [
-        "구글, 메타, 틱톡은 아동 보호를 위한 캘리포니아의 소셜미디어 법이 위헌이라며 소송을 냈어요.",
-        "같은 날 미 하원 위원장들은 엔비디아 젠슨 황 CEO에게 중국 스파이 의혹 관련 비공개 브리핑을 요청했어요.",
-        "나와의 연결: 친척이 있는 실리콘밸리 기업들의 일이에요. 보유한 알파벳·엔비디아에는 규제 이슈가 계속 따라붙어요."
-      ],
-      "important": false,
-      "keywords": ["캘리포니아", "구글"],
-      "sources": [
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"}
-      ],
-      "summary": "빅테크가 청소년 보호용 주 법이 헌법에 어긋난다고 주장해요.",
-      "tag": "etc",
-      "tagLabel": "캘리포니아",
-      "title": "구글·메타·틱톡, 캘리포니아 SNS 아동보호법에 소송"
-    },
-    {
-      "breaking": false,
-      "details": [
-        "김정은 위원장은 2일 남포조선소를 찾았고, 1만t급 신형 순양함과 5,000t급 구축함 후속함을 짓는 것으로 전해졌어요.",
-        "4일에는 선덕 일대에서 미사일 여러 발을 쐈고, 북한은 신형 대공미사일 시험이라고 주장했어요.",
-        "나와의 연결: 증시 급락 구간에 안보 긴장이 겹치면 원화와 코스피에 부담이 더해질 수 있어요."
-      ],
-      "important": false,
-      "keywords": ["북한", "순양함"],
-      "note": "순양함 건조와 시험 내용은 추정이거나 북한 측 주장이에요. 6일 이후 새 도발은 확인되지 않았어요.",
-      "sources": [
-        {"title": "서울신문", "url": "https://m.seoul.co.kr/news/politics/2026/11/05/20261105008002?cp=seoul"},
-        {"title": "세계일보", "url": "https://www.segye.com/newsView/20261105508769"}
-      ],
-      "summary": "김정은이 남포조선소에서 해군력 강화를 강조했어요.",
-      "tag": "kr",
-      "tagLabel": "북한",
-      "title": "북한, 미사일 시험 이어 1만t급 순양함 건조 정황"
-    },
-    {
-      "breaking": false,
-      "details": [
-        "유엔 비공개 보고서는 아랍에미리트가 콜롬비아 용병을 고용해 수단 신속지원군과 함께 싸우게 했다고 밝혔어요.",
-        "수단 내전은 세계 최악의 인도주의 위기 중 하나로 꼽혀요."
-      ],
-      "important": false,
-      "keywords": ["수단", "UAE"],
-      "note": "보고서 원문은 공개되지 않았고, UAE의 공식 반응은 확인하지 못했어요.",
-      "sources": [
-        {"title": "Just Security", "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"}
-      ],
-      "summary": "비공개 보고서가 내전 개입 의혹을 제기했어요.",
-      "tag": "etc",
-      "tagLabel": "국제",
-      "title": "유엔 보고서 \"UAE가 수단 내전에 콜롬비아 용병 투입\""
-    }
+    {"tag":"war","tagLabel":"속보·이란","breaking":true,"important":false,"keywords":["이란","사거리"],
+     "title":"케슘섬 공습 뒤 이란 \"미사일 사거리 제한 해제\"",
+     "summary":"트럼프는 '작은 공격'이라 했지만 이란은 강하게 맞섰어요.",
+     "details":["6일 밤 미군 공격으로 이란 케슘섬에 미사일 2발이 떨어졌어요. 트럼프 대통령은 대공 방어 장비를 노린 '작은 공격'이라며 이란과 진전이 있다고 했어요.","이란 혁명수비대 대변인은 약 2,000km였던 미사일 사거리 제한을 풀었다고 밝혔어요. 핵 정책을 바꿀 준비도 돼 있다고 경고했어요.","미 중부사령부가 대규모 작전 재개 명령을 기다린다는 보도(Axios)도 나왔어요.","나와의 연결: 긴장이 커지면 유가와 달러가 같이 뛸 수 있어요. 달러 비중이 커서 버팀목이 되지만 헤지 자산은 아직 목표보다 적어요."],
+     "note":"이란의 미국 무인기 격추 주장은 확인되지 않았어요. 사상자 보도는 없어요.",
+     "sources":[{"title":"Al Jazeera","url":"https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"},{"title":"Al Jazeera 분석","url":"https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive"},{"title":"Al Jazeera(AP)","url":"https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"}]},
+    {"tag":"war","tagLabel":"속보·호르무즈","breaking":true,"important":false,"keywords":["호르무즈","유조선"],
+     "title":"호르무즈 유조선 기뢰 화재, 중재국 분주",
+     "summary":"통항량이 평소보다 65% 줄었고 협상은 7개 요구에 막혀 있어요.",
+     "details":["이란군은 7일 위치 신호를 끈 유조선이 기뢰에 부딪혀 불이 났다고 밝혔어요. 6일까지 한 주 동안 최소 11척이 공격받아 3척이 가라앉았어요(UKMTO).","해협 통항은 전쟁 전보다 약 65% 적어요. 이란은 제재 해제, 동결 자산 반환, 봉쇄 해제 등 7개 요구를 오만·카타르 등 12개국 외교장관에게 전했어요.","카타르는 협상이 깨졌다는 보도를 부인했고, 미국은 이란의 새 제안을 검토 중이에요(Reuters 보도)."],
+     "note":"유조선 화재는 이란군 발표이고 선박 이름은 공개되지 않았어요.",
+     "sources":[{"title":"Al Jazeera","url":"https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"},{"title":"Al Jazeera 분석","url":"https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive"}]},
+    {"tag":"econ","tagLabel":"속보·증시","breaking":true,"important":false,"keywords":["코스피","반대매매"],
+     "title":"코스피 이틀 11% 폭락, 9일부터 반대매매 완화",
+     "summary":"정부가 담보비율 규정을 3개월 면제하고 추가 대책을 예고했어요.",
+     "details":["6일 코스피는 6.02% 내린 5,059.69로 마쳐 이틀 동안 약 11% 빠졌고, 장중 5,000 아래에서 서킷브레이커가 걸렸어요.","정부는 9일부터 3개월 동안 신용융자 담보비율 140% 유지 의무를 면제해 강제 매도를 줄이기로 했어요.","경제부총리는 변동성이 더 커지면 추가 대책을 내겠다고 했고, 여당은 주말 동안 시장을 보고 다시 협의하기로 했어요.","나와의 연결: 원화가 약해지면 달러 자산의 원화 가치가 올라 손실을 일부 메워 줘요. 한국 주식 추가 매수는 정한 간격을 지키는 게 좋아요."],
+     "note":"8일 아침까지 주말 새 대책 발표는 확인되지 않았어요.",
+     "sources":[{"title":"이데일리","url":"https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06753526645643096"},{"title":"디지털데일리","url":"https://www.ddaily.co.kr/page/view/2026110611525996518"},{"title":"서울경제","url":"https://m.sedaily.com/article/20111285"}]},
+    {"tag":"econ","tagLabel":"금리","breaking":false,"important":true,"keywords":["16.5만","12월"],
+     "title":"미 일자리 16.5만 깜짝 증가, 12월 인상론 커져",
+     "summary":"예상의 2배가 넘어 12월 연준 인상 확률이 약 80%로 올랐어요.",
+     "details":["미국 10월 일자리는 16만 5,000개 늘어 예상치 약 6만 5,000개를 크게 넘었고, 실업률은 4.1%였어요.","12월 금리 인상 확률은 약 80%로 올랐고, 미 10년물 금리는 4.86%로 마쳤어요.","10일 밤(한국시간) 나오는 미국 10월 물가가 다음 고비예요.","나와의 연결: 미국 금리가 오르면 달러 예금·RP 금리도 오를 수 있어요. 주간 예금 만기 때 새 금리를 확인하세요."],
+     "sources":[{"title":"GV Wire(Reuters)","url":"https://gvwire.com/2026/11/06/dollar-jumps-after-strong-us-payrolls-report/"},{"title":"Bloomberg","url":"https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets"},{"title":"The Hill","url":"https://thehill.com/business/6201764-us-jobs-report-october/"}]},
+    {"tag":"econ","tagLabel":"대만","breaking":false,"important":true,"keywords":["대만","10년"],
+     "title":"대만, 중국행 AI칩 불법 수출 최대 징역 10년 추진",
+     "summary":"미국과의 약속에 맞춰 반도체 수출 통제를 강화해요.",
+     "details":["대만 입법원은 반도체 장비·소재의 중국 수출 통제를 강화하는 무역법 개정안 공청회를 열었어요.","불법 수출 최고 형량을 10년으로 두 배 늘리고 벌금은 최대 1,000만 대만달러까지 매길 수 있어요.","8월에는 엔비디아·슈퍼마이크로 직원 등 8명이 GPU 중국 밀수 혐의로 기소되기도 했어요.","나와의 연결: 외가 친척이 있는 대만과 TSMC 관련 소식이에요. 보유한 대만 테크·반도체 자산에는 미중 갈등 변수가 커져요."],
+     "note":"법안 통과 시점은 아직 정해지지 않았어요.",
+     "sources":[{"title":"Caixin","url":"https://www.caixinglobal.com/2026-11-05/taiwan-weighs-tighter-controls-on-chip-exports-to-chinese-mainland-102501072.html"},{"title":"Asia Times","url":"https://asiatimes.com/2026/11/taiwan-to-criminalize-nvidia-ai-chip-smuggling-to-china/"}]},
+    {"tag":"etc","tagLabel":"미국","breaking":false,"important":false,"keywords":["밀러","비서실장"],
+     "title":"트럼프, 비서실장 교체… 스티븐 밀러 기용",
+     "summary":"중간선거 패배 뒤 백악관 인사 개편이 시작됐어요.",
+     "details":["트럼프 대통령은 6일 수지 와일스 비서실장이 물러나고 스티븐 밀러가 9일부터 맡는다고 밝혔어요.","와일스는 선거 패배 뒤 사표를 냈고, 트럼프는 헤그세스 국방장관 거취도 측근들에게 묻고 있다는 보도가 나왔어요.","나와의 연결: 밀러는 강경 이민정책을 이끌어 온 인물이라 미국에 사는 친척들에게도 영향이 갈 수 있어요."],
+     "note":"헤그세스 교체 여부는 확인되지 않은 보도예요.",
+     "sources":[{"title":"CBS News","url":"https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"},{"title":"ABC7","url":"https://abc7.com/story/trump-says-chief-staff-susie-wiles-miller-will-replace/20020569/"}]},
+    {"tag":"war","tagLabel":"우크라","breaking":false,"important":false,"keywords":["키이우","아부다비"],
+     "title":"키이우 미사일 공격, 화요일 아부다비 3자 회담",
+     "summary":"5명이 다쳤고 전력·물 공급이 끊겼어요.",
+     "details":["7일 새벽 러시아 미사일이 키이우를 때려 최소 5명이 다쳤고, 집과 상가가 부서지고 정전·단수가 이어졌어요.","자포리자 지역에서는 2일 유도폭탄 공격으로 55명이 숨진 것으로 집계됐어요.","러시아·우크라이나·미국 대표단은 10일(화) 아랍에미리트 아부다비에서 4번째 회담을 열어요."],
+     "sources":[{"title":"AP(KSAT)","url":"https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"}]},
+    {"tag":"etc","tagLabel":"중일","breaking":false,"important":false,"keywords":["다카이치","1년"],
+     "title":"다카이치 '대만 유사시' 발언 1년, 중국 강경 그대로",
+     "summary":"중국은 일본과의 정부 간 대화를 여전히 거부해요.",
+     "details":["다카이치 일본 총리는 작년 11월 7일 대만 유사시가 일본의 존립 위기 상황이 될 수 있다고 말했어요.","중국은 그 뒤 일본에 보복 조치를 이어 왔고, 1년이 지나도 정부 간 대화를 거부하고 있어요.","나와의 연결: 대만해협 긴장과 엔화 흐름에 같이 영향을 주는 문제라 일본 ETF를 볼 때도 참고하세요."],
+     "sources":[{"title":"Nippon.com(지지통신)","url":"https://www.nippon.com/en/articles/-/57062"}]},
+    {"tag":"etc","tagLabel":"수능","breaking":false,"important":false,"keywords":["수능일","10시"],
+     "title":"수능일 19일, 증시 1시간 늦은 10시 개장",
+     "summary":"수험생 이동을 위해 거래 시간을 늦춰요.",
+     "details":["한국거래소는 수능일인 19일 코스피·코스닥 정규장을 오전 10시에 열고 오후 4시 30분에 닫는다고 밝혔어요.","대체거래소 넥스트레이드는 이날 프리마켓을 열지 않아요.","나와의 연결: 수능까지 11일 남았어요. 이날 주문을 넣는다면 바뀐 시간을 기억하세요."],
+     "sources":[{"title":"데일리환경","url":"https://www.dailyt.co.kr/newsView/dlt202611070010"}]}
   ],
-  "subhead": "코스피는 이틀간 11% 빠졌고, 미국은 고용 호조로 12월 금리 인상 확률이 80%로 올랐어요.",
-  "updatedLabel": "11/7 22:00",
   "watch": [
-    "트럼프의 이란 추가 공습 여부와 월요일 유가 흐름",
-    "월요일 코스피·대만 증시 반등과 정부 추가 대책",
-    "11/9~10 파리 G7 외교장관회의, 11/9 개막 COP31",
-    "11/10 미국 10월 물가(CPI)와 11/26 한은 금리 결정"
+    "9일(월) 코스피·대만 증시 반등과 정부 추가 대책",
+    "미국의 이란 추가 공습 여부와 호르무즈 유가 흐름",
+    "10일 아부다비 3자 회담, 9~10일 G7 외교장관회의, 9일 COP31 개막",
+    "10일 밤 미국 10월 물가(CPI), 26일 한은 금리 결정"
   ]
 }
