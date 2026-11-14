@@ -1,183 +1,215 @@
 {
-  "date": "2026-11-14",
-  "updatedLabel": "11/14 22:00",
+  "date": "2026-11-15",
+  "updatedLabel": "11/15 07:00",
   "kicker": "오늘의 한 줄",
-  "headline": "트럼프·시진핑·푸틴 19일 첫 3자 회담… 호르무즈선 유조선 피해 잇따라",
-  "subhead": "다음 주 선전 APEC과 엔비디아 실적, 한은 금통위가 연달아 시장을 흔들 수 있어요.",
-  "advice": "금리가 크게 오른 지금, 늘리기로 한 국내 채권은 나눠 사서 만기까지 들고 가는 계획을 지키세요.",
+  "headline": "호르무즈 유조선 피해 계속… 19일 미중러 회담·엔비디아 실적 주목",
+  "subhead": "젤렌스키는 미국이 나토 가입 카드를 꺼냈다고 했고, 다음 주 일정이 몰려 있어요.",
+  "advice": "엔비디아 실적과 금통위가 몰린 주간이라, 빅테크 비중 한도와 정해 둔 대응 규칙부터 다시 확인해 보세요.",
   "marketsAsOf": "11/13 뉴욕 · 11/13 서울 마감 기준 (주말, 미 2년물은 주간 변동)",
   "markets": [
-    {"label": "미 10년물", "value": "5.15%", "change": "+0.05%p", "dir": "up"},
-    {"label": "미 2년물", "value": "4.87%", "change": "주간 +0.35%p", "dir": "up"},
-    {"label": "미 기준금리", "value": "3.75~4.00%", "change": "동결", "dir": "flat"},
-    {"label": "한은 기준금리", "value": "3.00%", "change": "동결", "dir": "flat"},
-    {"label": "S&P 500", "value": "7,562.03", "change": "-0.40%", "dir": "down"},
-    {"label": "코스피", "value": "5,290.53", "change": "-0.98%", "dir": "down"}
+    {"change": "+0.05%p", "dir": "up", "label": "미 10년물", "value": "5.15%"},
+    {"change": "주간 +0.35%p", "dir": "up", "label": "미 2년물", "value": "4.87%"},
+    {"change": "동결", "dir": "flat", "label": "미 기준금리", "value": "3.75~4.00%"},
+    {"change": "동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
+    {"change": "-0.40%", "dir": "down", "label": "S&P 500", "value": "7,562.03"},
+    {"change": "-0.98%", "dir": "down", "label": "코스피", "value": "5,290.53"}
   ],
   "stories": [
     {
-      "tag": "etc", "tagLabel": "미중러", "breaking": false, "important": true,
-      "keywords": ["푸틴", "3자 회담"],
-      "title": "트럼프·시진핑·푸틴, 19일 선전서 첫 3자 회담",
-      "summary": "핵무기 감축과 이란 전쟁을 다루고 우크라이나는 빠져요.",
+      "breaking": false,
       "details": [
         "백악관은 중국 선전 APEC 정상회의 기간인 19일에 미국·중국·러시아 정상이 처음으로 함께 만난다고 발표했어요.",
         "미국 관리는 핵무기 감축 대화를 시작하는 자리이고 이란 전쟁도 논의하지만, 합의는 기대하지 않는다고 했어요. 우크라이나 문제는 따로 다뤄요.",
         "러시아는 '매우 중요한 만남'이라고 했지만, 중국은 핵군축 협정에 별 관심이 없어 형식적인 만남이 될 수 있다는 분석도 있어요.",
         "나와의 연결: 회담 결과에 따라 대만해협 긴장과 유가, 반도체주가 함께 움직일 수 있어요."
       ],
+      "important": true,
+      "keywords": ["푸틴", "3자 회담"],
       "sources": [
         {"title": "Al Jazeera", "url": "https://aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"},
         {"title": "AP (Yahoo)", "url": "https://ca.finance.yahoo.com/news/trump-xi-putin-plan-unprecedented-014751259.html"}
-      ]
+      ],
+      "summary": "핵무기 감축과 이란 전쟁을 다루고 우크라이나는 빠져요.",
+      "tag": "etc",
+      "tagLabel": "미중러",
+      "title": "트럼프·시진핑·푸틴, 19일 선전서 첫 3자 회담"
     },
     {
-      "tag": "kr", "tagLabel": "한반도", "breaking": false, "important": true,
-      "keywords": ["김정은", "얄타"],
-      "title": "왕이, 김정은 방중 설명… 정부 \"제2 얄타 안 돼\"",
-      "summary": "한국은 북한을 핵보유국으로 인정하는 결과는 받아들일 수 없다고 했어요.",
+      "breaking": false,
+      "details": [
+        "이란은 14일에도 허가 없이 제한 수역에 들어온 유조선이 기뢰에 맞아 폭발했다고 밝혔어요. 금요일엔 유조선 2척과 LNG선 1척이 피해를 봤다고 했어요.",
+        "미국 전쟁연구소(ISW) 등 분석가들은 기뢰가 아니라 드론·미사일로 직접 공격했을 가능성을 의심해요. 국제해사기구 집계로 11일까지 호르무즈 주변 선박 사고는 130건이 넘어요.",
+        "협상은 멈춰 있고, 이란 안보 당국자는 전쟁이 다시 커지면 핵확산금지조약(NPT) 탈퇴도 가능하다고 경고했어요.",
+        "나와의 연결: 월요일 유가가 크게 움직이면 미국 금리도 따라 흔들려, 달러 예금 재예치 금리와 채권 가격에 영향을 줘요."
+      ],
+      "important": true,
+      "keywords": ["호르무즈", "유조선"],
+      "note": "피해 선박 수와 기뢰 여부는 이란 주장이고 독립적으로 확인되지 않았어요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal"},
+        {"title": "News Beep", "url": "https://www.newsbeep.com/810104/"}
+      ],
+      "summary": "이란은 토요일에도 유조선이 기뢰에 맞았다고 했어요.",
+      "tag": "war",
+      "tagLabel": "이란전쟁",
+      "title": "호르무즈 유조선 피해 사흘째… 기뢰 주장엔 의문"
+    },
+    {
+      "breaking": false,
       "details": [
         "외교부 고위당국자는 중국 왕이 외교부장이 조현 외교장관에게 김정은 위원장의 10월 24일 단둥 방문과 김성남 노동당 국제부장의 11월 방중을 설명했다고 밝혔어요.",
         "중국은 북중 관계가 주로 경제 협력 중심이라고 했고, 북미 정상회담 가능성도 오갔어요. 우리 정부는 가능성이 아주 높지는 않다고 봤어요.",
         "정부는 한반도 당사국을 뺀 강대국끼리의 합의, 이른바 '제2 얄타'는 받아들일 수 없고 북한 핵보유 인정도 안 된다고 중국에 전했어요."
       ],
+      "important": false,
+      "keywords": ["김정은", "얄타"],
       "sources": [
         {"title": "파이낸셜뉴스(연합)", "url": "https://www.fnnews.com/news/202611141259068373"}
-      ]
-    },
-    {
-      "tag": "war", "tagLabel": "이란전쟁", "breaking": false, "important": false,
-      "keywords": ["호르무즈", "유조선"],
-      "title": "호르무즈서 유조선 기뢰 피해 잇따라… 협상은 멈춤",
-      "summary": "이란은 하루 새 유조선 여러 척이 기뢰에 맞았다고 했어요.",
-      "details": [
-        "이란 해군은 호르무즈 해협 동쪽에서 유조선이 기뢰에 맞아 불이 났다며, 24시간 안에 비슷한 일이 네 번째라고 했어요. 다섯 척이라는 보도도 있어요. 유엔은 선박 공격을 멈추라고 촉구했어요.",
-        "이란 전문가회의는 핵확산금지조약(NPT) 탈퇴가 '피할 수 없는 일'이 됐다고 밝혔어요.",
-        "트럼프 대통령이 '이란과 합의는 필요 없다'고 한 뒤 협상은 사실상 멈췄고, 이란은 해상 봉쇄 해제 등 조건을 먼저 받아들이라고 요구해요.",
-        "나와의 연결: 해협 긴장은 유가와 미국 금리를 끌어올려 달러 예금 금리와 채권 가격에 함께 영향을 줘요."
       ],
-      "note": "피해 선박 수는 이란 해군 주장이고 독립적으로 확인되지 않았어요.",
+      "summary": "한국은 북한을 핵보유국으로 인정하는 결과는 받아들일 수 없다고 했어요.",
+      "tag": "kr",
+      "tagLabel": "한반도",
+      "title": "왕이, 김정은 방중 설명… 정부 \"제2 얄타 안 돼\""
+    },
+    {
+      "tag": "kr",
+      "tagLabel": "한반도",
+      "breaking": false,
+      "important": false,
+      "keywords": ["조용원", "러시아"],
+      "title": "김정은 최측근 조용원, 대표단 이끌고 러시아행",
+      "summary": "메드베데프 초청으로 북러 관계 강화를 다질 전망이에요.",
+      "details": [
+        "노동당 조직비서 조용원이 14일 당·정부 대표단을 이끌고 평양을 떠나 러시아로 향했다고 교도통신이 전했어요.",
+        "러시아 집권당 통합러시아의 메드베데프 당수가 초청했고, 구체적인 일정은 알려지지 않았어요. 최선희 외무상 등이 배웅했어요.",
+        "19일 미중러 3자 회담을 앞두고 북한이 중국·러시아 양쪽과 접촉을 늘리는 흐름이에요."
+      ],
       "sources": [
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal"},
-        {"title": "RFE/RL", "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html"}
+        {"title": "SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008846092"},
+        {"title": "서울경제", "url": "https://m.sedaily.com/article/20114358"}
       ]
     },
     {
-      "tag": "econ", "tagLabel": "금리·환율", "breaking": false, "important": false,
-      "keywords": ["5.15%", "1,336원"],
-      "title": "미 10년물 5.15%, 원/달러 1,336원으로 반등",
-      "summary": "물가 부담에 금리가 뛰고 달러도 강해졌어요.",
+      "tag": "war",
+      "tagLabel": "우크라",
+      "breaking": false,
+      "important": false,
+      "keywords": ["젤렌스키", "나토"],
+      "title": "젤렌스키 \"미국, 돈바스 철수 대신 나토 가입 물어\"",
+      "summary": "구체적 제안은 아니지만 나토가 다시 의제에 올랐대요.",
       "details": [
-        "미 10년물 금리는 13일 5.15%로 한 주에 0.29%p 올랐어요. 10월 생산자물가가 1년 전보다 6.5% 올라, 시장은 12월 연준 금리 인상 가능성을 높게 봐요.",
+        "젤렌스키 대통령은 이번 주 아부다비 협상에서 미국 측이 돈바스에서 철군하면 나토에 가입하는 방안을 물었다고 밝혔어요. 처음 나온 질문이지만 구체적 제안은 없었대요.",
+        "그는 철군은 하지 않겠지만, 확실한 안보 보장과 군·재건 자금이 있으면 국민투표에 부칠 수 있다고 했어요. 러시아는 나토 가입에 반대해요.",
+        "14일 러시아 벨고로드에선 우크라이나 드론 공격으로 일가족 3명이 숨졌다고 러시아 당국이 밝혔어요."
+      ],
+      "note": "미국 측 제안 내용은 젤렌스키 대통령의 설명이고, 미국 정부의 공식 반응은 아직 없어요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"}
+      ]
+    },
+    {
+      "breaking": false,
+      "details": [
+        "미 10년물 금리는 13일 5.15%로 한 주에 0.29%p 올랐어요. 10월 생산자물가가 1년 전보다 6.5% 올라, 시장은 12월 연준 금리 인상 가능성을 높게 봐요. 한은도 26일 금통위에서 인상 가능성이 거론돼요.",
         "원/달러 환율은 13일 서울에서 6원 오른 1,336.7원에 마감해 5거래일 만에 올랐어요.",
         "유가는 한 주에 약 2.5% 내려 브렌트 95.84달러, WTI 88.56달러로 마쳤어요. 공급 과잉 전망이 이란 위험을 일부 상쇄했어요.",
-        "나와의 연결: 달러는 원화로 바꾸지 않기로 했으니 환율보다 달러 예금 사다리의 재예치 금리를 챙기면 돼요."
+        "나와의 연결: 달러는 원화로 바꾸지 않기로 했으니 환율보다 달러 예금 사다리의 재예치 금리를, 국내 채권은 금통위 전후 금리 수준을 챙기면 돼요."
       ],
+      "important": false,
+      "keywords": ["5.15%", "1,336원"],
       "sources": [
         {"title": "서울경제", "url": "https://m.sedaily.com/article/20114156"},
-        {"title": "Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"}
-      ]
+        {"title": "Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"},
+        {"title": "한국센터(연합)", "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1435952"}
+      ],
+      "summary": "물가 부담에 금리가 뛰고 달러도 강해졌어요.",
+      "tag": "econ",
+      "tagLabel": "금리·환율",
+      "title": "미 10년물 5.15%, 원/달러 1,336원으로 반등"
     },
     {
-      "tag": "econ", "tagLabel": "AI", "breaking": false, "important": false,
-      "keywords": ["엔비디아", "안트로픽"],
-      "title": "엔비디아 실적·안트로픽 상장, 다음 주 AI 시험대",
-      "summary": "황 사임 뒤 한 주 13% 가까이 빠진 엔비디아가 실적을 내요.",
+      "breaking": false,
       "details": [
         "엔비디아 주가는 젠슨 황 CEO 사임 뒤 한 주에 약 12.8% 떨어져 1년여 만에 가장 나쁜 한 주를 보냈어요.",
         "실적은 17일(한국 18일 새벽)에 나오고, 안트로픽은 19일 나스닥 상장이 예정돼 있어요.",
         "그래도 S&P 500은 이번 주 2.5%, 나스닥은 2.3% 올라 한 주를 마쳤어요.",
         "나와의 연결: 엔비디아·빅테크를 들고 있으니, 실적 전 정해 둔 엔비디아 대응 규칙과 빅테크 비중 한도를 다시 보세요."
       ],
+      "important": false,
+      "keywords": ["엔비디아", "안트로픽"],
       "note": "안트로픽 기업가치는 확정된 거래가 아닌 보도 수치예요.",
       "sources": [
         {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"},
         {"title": "Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"}
-      ]
+      ],
+      "summary": "황 사임 뒤 한 주 13% 가까이 빠진 엔비디아가 실적을 내요.",
+      "tag": "econ",
+      "tagLabel": "AI",
+      "title": "엔비디아 실적·안트로픽 상장, 다음 주 AI 시험대"
     },
     {
-      "tag": "etc", "tagLabel": "대만", "breaking": false, "important": false,
-      "keywords": ["대만", "100척"],
-      "title": "중국, 대만 주변 100척 넘는 '조용한' 대규모 훈련",
-      "summary": "대만은 APEC을 앞둔 '소리 없는 위협'이라고 했어요.",
+      "breaking": false,
       "details": [
-        "로이터에 따르면 중국은 11월 초 예고 없이 서태평양과 대만 주변에서 훈련을 했고, 한때 군함과 해경선 100척 넘게 모였어요.",
-        "대만 안보 당국자는 대만 도시를 겨냥한 모의 공격이 포함됐다고 전했어요. 중국은 정례 훈련이라고 해요.",
-        "다음 주 선전 APEC에서 트럼프·시진핑 만남이 예정돼 있어요.",
-        "나와의 연결: 대만 친척 소식과 함께, 대만 관련 ETF·TSMC 주가가 긴장에 민감하게 움직일 수 있어요."
+        "대만은 28일 지방선거를 치러요. 타이베이 시장 선거에선 국민당 장완안 시장과 민진당 선바오양 후보가 맞붙어 막판 유세가 한창이에요.",
+        "로이터에 따르면 중국은 11월 초 대만 주변에서 군함·해경선 100척 넘게 모인 훈련을 예고 없이 했고, 대만은 '소리 없는 위협'이라고 했어요.",
+        "대만 증시는 젠슨 황 엔비디아 CEO 사임 여파로 약세를 보였어요.",
+        "나와의 연결: 대만 친척 소식과 함께, 대만 관련 ETF·TSMC 주가가 선거와 군사 긴장에 민감하게 움직일 수 있어요."
       ],
+      "important": false,
+      "keywords": ["대만", "지방선거"],
       "note": "훈련 세부 내용은 대만 당국자 설명이고 독립적으로 확인되지 않은 부분이 있어요.",
       "sources": [
-        {"title": "Taipei Times(로이터)", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "중동", "breaking": false, "important": false,
-      "keywords": ["카타르", "튀르키예"],
-      "title": "카타르·튀르키예, 상호방위 협정 맺어",
-      "summary": "한쪽이 공격받으면 함께 대응한다고 약속했어요.",
-      "details": [
-        "두 나라는 13일 이스탄불에서 에르도안 대통령과 타밈 국왕이 만난 뒤, 외부의 무력 공격에 공동으로 대응한다는 협정을 발표했어요.",
-        "안보 위협을 서로 협의하고 합동훈련과 방산 협력을 늘리기로 했지만, 어떤 경우에 협정이 발동되는지는 밝히지 않았어요.",
-        "두 나라는 이란 전쟁을 외교로 끝내고 호르무즈 해협을 다시 열어야 한다고 촉구했어요."
+        {"title": "Taipei Times(로이터)", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"},
+        {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/society/202611140002"},
+        {"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Taiwanese_local_elections"}
       ],
-      "sources": [
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know"}
-      ]
+      "summary": "28일 선거를 앞두고 중국의 대규모 훈련이 알려졌어요.",
+      "tag": "etc",
+      "tagLabel": "대만",
+      "title": "대만 지방선거 2주 앞… 중국은 '조용한' 압박"
     },
     {
-      "tag": "etc", "tagLabel": "보건", "breaking": false, "important": false,
-      "keywords": ["홍역", "26년"],
-      "title": "미국, 26년 만에 '홍역 퇴치국' 지위 잃어",
-      "summary": "같은 바이러스가 1년 넘게 미국 안에서 퍼졌다고 봤어요.",
+      "breaking": false,
+      "details": [
+        "2027학년도 수능은 19일 전국 1,312개 시험장에서 치러지고 응시 예정자는 551,864명이에요. 성적표는 12월 11일에 나와요.",
+        "수험표 뒷면 가채점표는 시험 시간 안에만 쓸 수 있고, 종료령 뒤에 쓰면 부정행위로 처리돼요.",
+        "당일 관공서·기업 출근은 오전 10시 이후로 늦춰지고, 영어 듣기 시간에는 항공기 이착륙이 조정돼요."
+      ],
+      "important": false,
+      "keywords": ["수능", "19일"],
+      "sources": [
+        {"title": "대한민국 정책브리핑", "url": "https://www.korea.kr/news/customizedNewsView.do?newsId=148973935"}
+      ],
+      "summary": "올해부터 수험표 뒷면에 가채점표가 인쇄돼요.",
+      "tag": "etc",
+      "tagLabel": "교육",
+      "title": "수능 나흘 앞으로… 19일 55만 명 응시"
+    },
+    {
+      "breaking": false,
       "details": [
         "월스트리트저널 보도에 따르면 범미보건기구(PAHO)가 미국의 홍역 퇴치 지위를 거둬들였어요. 2000년에 얻은 지위예요.",
         "올해 미국 확진자는 5천 명을 넘어 지난해 2,289명의 두 배 이상이에요. 알자지라 집계로 올해 사망자는 10명이에요.",
         "다시 지위를 얻으려면 전파를 끊고 최소 12개월 동안 유행이 없어야 해요.",
         "나와의 연결: 미국 친척을 방문할 계획이 있다면 홍역 예방접종 기록을 미리 확인해 두면 좋아요."
       ],
+      "important": false,
+      "keywords": ["홍역", "26년"],
       "note": "PAHO는 아직 공식 논평을 내지 않았고, 확진자·사망자 수는 집계 기관마다 조금 달라요.",
       "sources": [
         {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"},
         {"title": "Star-Advertiser", "url": "https://www.staradvertiser.com/2026/11/13/breaking-news/u-s-loses-measles-free-status-as-disease-continues-to-spread/"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "미국", "breaking": false, "important": false,
-      "keywords": ["항공", "결항"],
-      "title": "미 항공 정지 풀렸지만 주말 결항 이어져",
-      "summary": "관제 통신 장애는 풀렸지만 회복엔 며칠 걸려요.",
-      "details": [
-        "미 연방항공청은 13일 오후(미 동부) 내린 전국 이륙 정지를 약 4시간 20분 만에 풀었어요. 9·11 이후 가장 긴 전면 정지였어요.",
-        "교통장관은 낡은 관제망 장비가 데이터 과부하로 멈췄다고 했고, 사이버 공격은 아니었다고 밝혔어요.",
-        "금요일에만 4,700편 넘게 결항됐고 토요일에도 결항이 이어지고 있어요. 인천발 미국행 국적기는 정상 운항했어요.",
-        "나와의 연결: 산호세 쪽 친척이 이번 주말 비행기를 탄다면 항공사 앱에서 운항 여부를 꼭 확인하라고 알려 주세요."
       ],
-      "note": "토요일 결항 수는 매체마다 약 700편~1,000편으로 달라요.",
-      "sources": [
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"},
-        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/faa-lifts-ground-stop-allowing-flights-to-resume-after-outage"}
-      ]
-    },
-    {
-      "tag": "etc", "tagLabel": "교육", "breaking": false, "important": false,
-      "keywords": ["수능", "19일"],
-      "title": "수능 닷새 앞으로… 19일 55만 명 응시",
-      "summary": "올해부터 수험표 뒷면에 가채점표가 인쇄돼요.",
-      "details": [
-        "2027학년도 수능은 19일 전국 1,312개 시험장에서 치러지고 응시 예정자는 551,864명이에요. 성적표는 12월 11일에 나와요.",
-        "수험표 뒷면 가채점표는 시험 시간 안에만 쓸 수 있고, 종료령 뒤에 쓰면 부정행위로 처리돼요.",
-        "당일 관공서·기업 출근은 오전 10시 이후로 늦춰지고, 영어 듣기 시간에는 항공기 이착륙이 조정돼요."
-      ],
-      "sources": [
-        {"title": "대한민국 정책브리핑", "url": "https://www.korea.kr/news/customizedNewsView.do?newsId=148973935"}
-      ]
+      "summary": "같은 바이러스가 1년 넘게 미국 안에서 퍼졌다고 봤어요.",
+      "tag": "etc",
+      "tagLabel": "보건",
+      "title": "미국, 26년 만에 '홍역 퇴치국' 지위 잃어"
     }
   ],
   "watch": [
+    "16일(월) 아시아 장 유가와 호르무즈 선박 피해",
     "17일(한국 18일 새벽) 엔비디아 실적, 19일 안트로픽 상장",
-    "19일 선전 미중러 3자 회담과 대만해협 움직임",
-    "호르무즈 해협 선박 피해와 월요일 유가",
-    "26일 한은 금통위, 12월 연준 금리 인상 폭"
+    "19일 선전 미중러 3자 회담, 같은 날 수능",
+    "26일 한은 금통위, 28일 대만 지방선거"
   ]
 }
