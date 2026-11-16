@@ -1,339 +1,198 @@
 {
- "date": "2026-11-16",
- "updatedLabel": "11/16 07:05",
- "kicker": "오늘의 한 줄",
- "headline": "엔비디아 실적·미중러 회담 주간 시작… 이란은 걸프 국가에 경고",
- "subhead": "트럼프는 마닐라 아세안을 거쳐 18~19일 중국 선전 APEC으로 가요.",
- "advice": "엔비디아 실적 전후엔 크게 흔들릴 수 있어요. 빅테크 비중이 커지지 않게 매수는 나눠서 하세요.",
- "marketsAsOf": "11/13 뉴욕 · 11/13 서울 마감 기준 (주말 뒤 첫 장 전, 미 2년물은 주간 변동)",
- "markets": [
-  {
-   "label": "미 10년물",
-   "value": "5.15%",
-   "change": "+0.05%p",
-   "dir": "up"
-  },
-  {
-   "label": "미 2년물",
-   "value": "4.87%",
-   "change": "주간 +0.35%p",
-   "dir": "up"
-  },
-  {
-   "label": "미 기준금리",
-   "value": "3.75~4.00%",
-   "change": "동결",
-   "dir": "flat"
-  },
-  {
-   "label": "한은 기준금리",
-   "value": "3.00%",
-   "change": "동결",
-   "dir": "flat"
-  },
-  {
-   "label": "S&P 500",
-   "value": "7,562.03",
-   "change": "-0.40%",
-   "dir": "down"
-  },
-  {
-   "label": "코스피",
-   "value": "5,290.53",
-   "change": "-0.98%",
-   "dir": "down"
-  }
- ],
- "stories": [
-  {
-   "tag": "war",
-   "tagLabel": "이란전쟁",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "이란",
-    "걸프"
-   ],
-   "title": "이란, 걸프 국가에 \"미국 돕지 마라\" 경고",
-   "summary": "바레인은 이란 공격을 막았다고 했고, 이란은 확전도 경고했어요.",
-   "details": [
-    "바레인군은 15일 이란의 공격을 방공망으로 막았다며 이란의 '조직적 공격'을 규탄했어요. 이란은 걸프 국가들에 미국의 공격을 돕지 말라고 경고했어요.",
-    "갈리바프 이란 의회의장은 '전쟁도 평화도 아닌 상태'로 머물지 않겠다며, 미국이 실수하면 전쟁 지역을 넓히겠다고 했어요.",
-    "유엔은 2월 전쟁 시작 뒤 호르무즈 해협 주변에서 선원 25명이 숨지고 선박 사건이 136건 있었다고 밝혔어요. 해협 통행량은 전쟁 전보다 약 65% 적어요.",
-    "나와의 연결: 유가가 다시 뛰면 미국 금리가 오르기 쉬워, 달러 예금 재예치 금리와 채권 가격에 함께 영향을 줘요."
-   ],
-   "note": "바레인 공격의 피해 규모와 미군의 대응은 아직 확인되지 않았어요.",
-   "sources": [
+  "date": "2026-11-16",
+  "updatedLabel": "11/16 16:05",
+  "kicker": "속보",
+  "headline": "엔비디아 충격에 코스피 3.6% 급락… 5,100선 겨우 지켜",
+  "subhead": "베선트는 엔비디아에 외부 CEO를 요구했고, 이란은 유조선 기뢰 피격을 주장했어요.",
+  "advice": "반도체가 급락한 날엔 국내외 반도체·빅테크를 합친 비중부터 확인하고, 추가 매수는 엔비디아 실적 뒤로 나눠 보세요.",
+  "marketsAsOf": "11/13 뉴욕 · 11/16 서울 마감 기준 (미 2년물은 주간 변동)",
+  "markets": [
+    {"label": "미 10년물", "value": "5.15%", "change": "+0.05%p", "dir": "up"},
+    {"label": "미 2년물", "value": "4.87%", "change": "주간 +0.35%p", "dir": "up"},
+    {"label": "미 기준금리", "value": "3.75~4.00%", "change": "동결", "dir": "flat"},
+    {"label": "한은 기준금리", "value": "3.00%", "change": "동결", "dir": "flat"},
+    {"label": "S&P 500", "value": "7,562.03", "change": "-0.40%", "dir": "down"},
+    {"label": "코스피", "value": "5,100.25", "change": "-3.60%", "dir": "down"}
+  ],
+  "stories": [
     {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+      "tag": "econ",
+      "tagLabel": "속보·증시",
+      "breaking": true,
+      "important": false,
+      "keywords": ["코스피", "3.6%"],
+      "title": "코스피 3.6% 급락, 5,100선 겨우 지켜",
+      "summary": "외국인이 반도체주를 대거 팔면서 코스닥은 4.9% 빠졌어요.",
+      "details": [
+        "코스피는 16일 190.28포인트(3.60%) 내린 5,100.25, 코스닥은 4.86% 내린 665.64에 마감했어요. 오전엔 오르며 출발했다가 외국인 매도에 방향을 바꿨어요.",
+        "AP에 따르면 장중 SK하이닉스는 5.5%, 삼성전자는 3.2% 떨어졌어요. 대만 가권지수도 장중 4% 넘게 빠졌고 TSMC는 3.4% 내렸어요. 일본 닛케이는 3분기 경제가 뒷걸음질한 데다 반도체주 약세로 1.6% 내렸어요.",
+        "엔비디아 CEO 교체 혼란과 AI 투자 거품 걱정이 한꺼번에 겹쳤다는 분석이에요.",
+        "나와의 연결: 삼성전자·SK하이닉스·반도체 커버드콜·AI반도체 ETF·TSM이 같은 방향으로 움직이니, 한 바구니로 묶어 비중을 확인해 보세요."
+      ],
+      "sources": [
+        {"title": "아주경제", "url": "https://www.ajunews.com/view/20261116152710615"},
+        {"title": "AP (ClickOrlando 게재)", "url": "https://www.clickorlando.com/business/2026/11/16/stocks-decline-in-asia-as-investor-concerns-over-nvidia-fallout-extend-into-another-week/"},
+        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261116000621"}
+      ]
     },
     {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+      "tag": "econ",
+      "tagLabel": "속보·AI",
+      "breaking": true,
+      "important": false,
+      "keywords": ["베선트", "엔비디아"],
+      "title": "베선트 \"엔비디아 새 CEO는 외부에서\"",
+      "summary": "미 재무장관이 10일 안에 수출 규제 준수 관련 답을 내놓으라고 했어요.",
+      "details": [
+        "베선트 미 재무장관은 15일 방송에서 엔비디아 이사회가 회사 밖에서 새 CEO를 찾아야 한다며 '큰 쇄신'이 필요하다고 했어요.",
+        "이사회와 외부 변호인단은 10일 안에 회사의 수출 규제 준수 문화에 대한 질문에 답해야 한다고 했어요. 파이낸셜타임스는 이사회가 Arm의 르네 하스 CEO에게 접촉했다고 전했어요.",
+        "엔비디아는 17일 장 마감 뒤(한국 18일 새벽) 실적을 내요. 시장은 매출 약 1,090억 달러를 예상해요.",
+        "나와의 연결: 엔비디아를 보유 중이니 정해 둔 엔비디아 대응 규칙의 조건에 닿았는지 실적 전후로 확인하세요."
+      ],
+      "note": "엔비디아의 공식 반응은 아직 보도되지 않았어요.",
+      "sources": [
+        {"title": "Reuters (Business Standard 게재)", "url": "https://business-standard.com/world-news/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo-126111600083_1.html"},
+        {"title": "Investing.com (Yahoo 게재)", "url": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-stocks-slide-ahead-032730415.html"}
+      ]
+    },
+    {
+      "tag": "war",
+      "tagLabel": "이란전쟁",
+      "breaking": false,
+      "important": true,
+      "keywords": ["유조선", "항모"],
+      "title": "이란 \"유조선 2척 기뢰 피격\"… 미 항모 3척째 도착",
+      "summary": "이란은 먼저 공격할 수도 있다고 했고, 미국은 항공모함을 늘렸어요.",
+      "details": [
+        "이란 혁명수비대는 15일 호르무즈 해협 남쪽 통행 금지 구역에서 유조선 2척이 기뢰에 부딪혀 불탔다고 주장했어요. 이란 매체는 원유 200만 배럴 넘게 실은 초대형 유조선 1척이 가라앉았다고 했어요.",
+        "미국 관리는 항공모함 시어도어 루스벨트호가 중동에 도착해 세 번째 항모가 됐다고 알자지라에 말했어요.",
+        "가리바바디 이란 외무차관은 미국이 먼저 공격하길 기다리지 않겠다며, 미국이 외교로 시간을 벌고 있다고 의심했어요.",
+        "나와의 연결: 유가가 다시 뛰면 미국 금리도 오르기 쉬워, 달러 예금 재예치 금리와 채권 가격에 함께 영향을 줘요."
+      ],
+      "note": "유조선 피격과 침몰은 이란 측 주장이고, 배 이름과 피해는 독립적으로 확인되지 않았어요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"},
+        {"title": "Dawn", "url": "https://www.dawn.com/news/2044726/two-oil-tankers-on-fire-after-hitting-naval-mines-in-hormuz"}
+      ]
+    },
+    {
+      "tag": "econ",
+      "tagLabel": "유가·환율",
+      "breaking": false,
+      "important": false,
+      "keywords": ["브렌트", "1,335.7원"],
+      "title": "브렌트 94달러대로 하락, 환율 1,335.7원",
+      "summary": "증시 급락에도 원화는 버텼고, 유가는 공급 과잉 걱정에 내렸어요.",
+      "details": [
+        "브렌트유는 16일 아시아 시간에 약 1% 내린 배럴당 94.9달러 안팎이었어요. 걸프 지역 원유 수송이 회복되고 4분기 공급 과잉 전망이 나온 영향이에요.",
+        "원/달러 환율은 1.0원 내린 1,335.7원에 마감했어요. 외국인 주식 매도에도 수출 기업의 달러 매도가 이를 상쇄했어요.",
+        "미 10년물 금리는 13일 5.15%로, 물가 부담에 12월 연준 회의에서 인상 가능성이 거론돼요.",
+        "나와의 연결: 달러는 원화로 바꾸지 않기로 했으니, 환율보다 달러 예금 재예치 때 받을 금리를 보면 돼요."
+      ],
+      "sources": [
+        {"title": "서울경제", "url": "https://www.sedaily.com/article/20114942"},
+        {"title": "AP (ClickOrlando 게재)", "url": "https://www.clickorlando.com/business/2026/11/16/stocks-decline-in-asia-as-investor-concerns-over-nvidia-fallout-extend-into-another-week/"},
+        {"title": "HDFC Sky", "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-16-2026-brent-falls-1percent-to-94-86-wti-slips-below-88-as-supply-surplus-looms"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "외교",
+      "breaking": false,
+      "important": false,
+      "keywords": ["트럼프", "미중러"],
+      "title": "트럼프, 아세안 거쳐 19일 미중러 정상회담",
+      "summary": "17일 마닐라 아세안 회담 뒤 18~19일 중국 선전 APEC에 가요.",
+      "details": [
+        "트럼프 대통령은 17일 필리핀 마닐라에서 아세안과 특별 정상회의를 하고, 18~19일 중국 선전 APEC에 참석해요.",
+        "19일엔 시진핑·푸틴 대통령과 처음으로 셋이 만나요. 남중국해, 관세, 이란 전쟁발 에너지 문제가 주요 의제예요.",
+        "나와의 연결: 남중국해와 대만해협 이야기가 함께 나올 수 있어, 대만 친척 지역 소식과 TSMC 흐름을 같이 보면 좋아요."
+      ],
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"}
+      ]
+    },
+    {
+      "tag": "kr",
+      "tagLabel": "한반도",
+      "breaking": false,
+      "important": false,
+      "keywords": ["루비오", "김정은"],
+      "title": "루비오 \"김정은은 팽창주의자 아냐\"",
+      "summary": "북한은 정권 생존이 목적이라 이란과 다르다고 했어요.",
+      "details": [
+        "루비오 미 국무장관은 13일 워싱턴 강연에서 김정은 위원장은 주변국을 침공할 뜻이 없고 정권 유지만 원한다고 말했어요. 발언록은 15일 공개됐어요.",
+        "반면 이란 지도부는 팽창주의자라며 핵무기를 반드시 막아야 한다고 했어요.",
+        "통일부는 16일 조용원 비서 대표단의 러시아 방문을 두고 미중러 회담 직전의 고위급 교류라며 동향을 주시하겠다고 했어요."
+      ],
+      "note": "루비오는 한국에 대한 북한의 군사 위협은 따로 언급하지 않았어요.",
+      "sources": [
+        {"title": "아시아경제", "url": "https://view.asiae.co.kr/article/2026111601074588046"},
+        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611161137474822"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "교육",
+      "breaking": false,
+      "important": false,
+      "keywords": ["수능", "스마트기기"],
+      "title": "수능 사흘 앞, 스마트기기 걸리면 시험 무효",
+      "summary": "AI 안경은 쓰기만 해도 다음 해 응시까지 막힐 수 있어요.",
+      "details": [
+        "19일 수능에선 휴대전화, 스마트워치, AI 스마트 안경, 블루투스 이어폰, 전자담배 등 모든 전자기기를 가지고 들어갈 수 없어요. 가져왔다면 1교시 전 감독관에게 내야 해요.",
+        "지니고 있다 걸리면 그 시험은 무효예요. AI 안경을 쓰면 다음 해 응시도 막히고, 고의로 부정행위를 하면 수사 의뢰될 수 있어요.",
+        "세무사 시험 수석 합격자의 AI 부정행위 고백 뒤 정부는 국가시험 전반을 점검하고 있어요."
+      ],
+      "note": "시험장 주변 공공 와이파이 차단은 SBH뉴스 보도로, 정부 자료로는 아직 확인하지 못했어요.",
+      "sources": [
+        {"title": "정책브리핑", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975290"},
+        {"title": "SBH뉴스", "url": "https://www.sbhnews.com/news/suneung-smartphone-wifi-ban-477cd06d-2026-11-16-PM-03-23"}
+      ]
+    },
+    {
+      "tag": "war",
+      "tagLabel": "우크라",
+      "breaking": false,
+      "important": false,
+      "keywords": ["쿠슈너", "유럽"],
+      "title": "쿠슈너 \"유럽·러시아 직접 대화 돕겠다\"",
+      "summary": "영국·프랑스·독일·이탈리아·폴란드가 유럽 대표로 나서요.",
+      "details": [
+        "미국 특사 쿠슈너는 14일 협상을 다음 단계로 옮기고 유럽과 러시아의 직접 대화를 돕겠다고 했어요.",
+        "유럽은 영국·프랑스·독일·이탈리아·폴란드 5개국을 평화 협상 대표로 정했어요.",
+        "젤렌스키 대통령은 돈바스에서 철군하지 않겠지만, 확실한 안보 보장이 있으면 국민투표를 검토할 수 있다고 했어요."
+      ],
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"},
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"}
+      ]
+    },
+    {
+      "tag": "etc",
+      "tagLabel": "농업",
+      "breaking": false,
+      "important": false,
+      "keywords": ["토마토", "바이러스"],
+      "title": "치료제 없는 토마토 바이러스 전국 확산",
+      "summary": "감염 온실은 작물을 모두 없애고 소독해야 해요.",
+      "details": [
+        "토마토갈색주름과일바이러스가 전국 토마토 농가로 퍼지고 있어요. 농촌진흥청은 11일 39개 농가에서 확인됐다며 긴급 방역에 들어갔어요.",
+        "감염 온실은 작물과 수확물, 배지를 모두 없애 태우고 소독해야 해요. 검사로 바이러스가 없다고 확인돼야 다시 재배할 수 있어요.",
+        "농가 사이 방문과 작업자 출입도 제한돼요."
+      ],
+      "note": "SBH뉴스는 감염 농가가 117곳으로 늘었다고 전했지만, 정부 발표로는 아직 확인하지 못했어요.",
+      "sources": [
+        {"title": "HortiDaily", "url": "https://www.hortidaily.com/article/9891758/south-korea-launches-emergency-measures-to-contain-tomato-virus-outbreak/"},
+        {"title": "SBH뉴스", "url": "https://www.sbhnews.com/news/tomato-virus-national-spread-emergency-4b505e64-2026-11-16-AM-08-44"}
+      ]
     }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "AI",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "엔비디아",
-    "실적"
-   ],
-   "title": "황 없는 엔비디아, 이번 주 첫 실적 발표",
-   "summary": "한 주에 13% 가까이 떨어진 채 18일 새벽 실적을 내요.",
-   "details": [
-    "엔비디아는 17일 장 마감 뒤(한국 18일 새벽) 실적을 내요. 젠슨 황 CEO가 물러난 뒤 첫 실적이고, 콜레트 크레스 최고재무책임자가 임시 CEO를 맡고 있어요.",
-    "주가는 13일까지 한 주에 약 13% 떨어졌어요. 다음 분기 전망, 중국 매출과 수출 규제, 정식 CEO를 언제 뽑을지가 관심이에요.",
-    "19일엔 안트로픽 나스닥 상장도 예정돼 있어 AI 주식 전체 분위기가 갈릴 수 있어요.",
-    "나와의 연결: 엔비디아와 알파벳을 들고 있으니 정해 둔 엔비디아 대응 규칙과 빅테크 비중 한도를 먼저 확인하세요."
-   ],
-   "note": "SBH뉴스는 미 재무장관이 '차기 CEO는 외부에서'라고 했고 미국 정부가 10일 안에 해명을 요구했다고 전했지만, 주요 통신사로는 아직 확인하지 못했어요.",
-   "sources": [
-    {
-     "title": "Bloomberg",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
-    },
-    {
-     "title": "Forbes",
-     "url": "https://www.forbes.com/sites/bill_stone/2026/11/15/nvidia-without-jensen-huang-and-what-investors-should-watch-now/"
-    },
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "외교",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "트럼프",
-    "아세안"
-   ],
-   "title": "트럼프, 마닐라 아세안 거쳐 중국으로",
-   "summary": "17일 아세안 특별회담 뒤 18~19일 선전 APEC에 가요.",
-   "details": [
-    "아세안 정상회의가 15~17일 필리핀 마닐라에서 열려요. 트럼프 대통령은 17일 아세안과 특별 정상회의, 마르코스 대통령과 단독 회담을 해요.",
-    "이어 18~19일 중국 선전 APEC에 가고, 19일엔 시진핑·푸틴 대통령과 처음으로 셋이 만나요.",
-    "남중국해 행동규칙, 미얀마 내전, 미국의 10~12.5% 관세, 이란 전쟁발 에너지 위기가 주요 의제예요.",
-    "나와의 연결: 남중국해와 대만해협 긴장이 함께 다뤄져, 대만 친척 지역과 TSMC 관련 투자에 영향을 줄 수 있어요."
-   ],
-   "sources": [
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake"
-    },
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "미국",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "미국",
-    "결항"
-   ],
-   "title": "미국 항공 대란 여파… 사흘째 결항 이어져",
-   "summary": "13일 전국 이륙 금지 뒤 결항이 이어졌어요.",
-   "details": [
-    "미국 연방항공청은 13일 오후 전국 항공기 이륙을 4시간 넘게 막았어요. 9·11 테러 이후 가장 긴 전국 이륙 금지예요.",
-    "교통장관은 협력업체 작업 중 라우터 하나가 통신망에 과부하를 일으켰다고 했고, 당국은 사이버공격 증거는 없다고 했어요. 14일에도 6,400편 넘게 결항됐어요.",
-    "노후 관제 시설을 고칠 예산을 두고 정치권 다툼도 커지고 있어요.",
-    "나와의 연결: 산호세 등 미국 친척이 이번 주 비행기를 탄다면 항공사 앱으로 결항 여부를 꼭 확인해 보세요."
-   ],
-   "note": "SBH뉴스는 사흘간 결항이 1만 6,900편이라고 전했지만 주요 통신사로는 확인하지 못했어요.",
-   "sources": [
-    {
-     "title": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
-    },
-    {
-     "title": "Yahoo News",
-     "url": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html"
-    }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "금리·환율",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "5.15%",
-    "1,336원"
-   ],
-   "title": "미 10년물 5.15%, 원/달러 1,336원… 월요일 장 주목",
-   "summary": "물가 부담에 금리가 뛴 채 새 주를 시작해요.",
-   "details": [
-    "미 10년물 금리는 13일 5.15%로 한 주에 0.29%p 올랐어요. 10월 생산자물가가 1년 전보다 6.5% 올라, 시장은 12월 9일 연준 회의에서 인상 가능성을 높게 봐요.",
-    "한은은 26일 금통위를 열어요. 기준금리는 3.00%이고 인상 가능성이 거론돼요.",
-    "원/달러 환율은 13일 1,336.7원에 마감했고, 브렌트유는 95.84달러로 한 주에 약 2.5% 내렸어요.",
-    "나와의 연결: 국내 회사채는 만기 보유 계획이니 가격보다 금통위 전후 새로 살 채권의 금리 수준을 보면 돼요."
-   ],
-   "sources": [
-    {
-     "title": "서울경제",
-     "url": "https://m.sedaily.com/article/20114156"
-    },
-    {
-     "title": "Eurasia Business News",
-     "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
-    },
-    {
-     "title": "한국센터(연합)",
-     "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1435952"
-    }
-   ]
-  },
-  {
-   "tag": "kr",
-   "tagLabel": "한반도",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "조용원",
-    "모스크바"
-   ],
-   "title": "北 조용원 대표단 모스크바行… 미중러 회담 앞 밀착",
-   "summary": "김정은 최측근이 이끄는 대표단이 러시아에 갔어요.",
-   "details": [
-    "조선중앙통신은 김정은 위원장의 최측근인 조용원 당 비서가 이끄는 대표단이 14일 전용기로 모스크바에 도착했다고 보도했어요.",
-    "러시아 집권당 통합러시아의 메드베데프 당수가 초청했고, 일정과 머무는 기간은 밝히지 않았어요.",
-    "우리 정부는 강대국끼리 한반도 문제를 정하는 '제2 얄타'와 북한 핵보유 인정은 받아들일 수 없다고 중국에 전했어요."
-   ],
-   "sources": [
-    {
-     "title": "아주경제",
-     "url": "https://www.ajunews.com/view/20261115093320510"
-    },
-    {
-     "title": "파이낸셜뉴스(연합)",
-     "url": "https://www.fnnews.com/news/202611141259068373"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "대만",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "대만",
-    "해경"
-   ],
-   "title": "대만 동쪽 바다서 中 해경과 무전 신경전",
-   "summary": "중국 해경선이 '대만은 중국 땅'이라며 순찰을 주장했어요.",
-   "details": [
-    "대만 해순서는 12일 오후 란위섬 남동쪽 40해리에서 중국 해경 2503함을 발견했어요. 대만 제한수역 바깥 14해리 지점이었어요.",
-    "중국 배는 법 집행 순찰 중이라며 대만이 중국 땅이라고 무전했고, 대만 배는 배타적경제수역이라며 떠나라고 했어요. 14일 아침엔 화롄항 남동쪽 67해리로 물러났어요.",
-    "대만은 28일 지방선거를 앞두고 있어요.",
-    "나와의 연결: 대만 친척 지역 소식과 함께, 대만해협 긴장은 TSMC와 대만 관련 ETF에 영향을 줄 수 있어요."
-   ],
-   "sources": [
-    {
-     "title": "Focus Taiwan",
-     "url": "https://focustaiwan.tw/politics/202611140008"
-    },
-    {
-     "title": "Focus Taiwan",
-     "url": "https://focustaiwan.tw/politics/202611140013"
-    }
-   ]
-  },
-  {
-   "tag": "war",
-   "tagLabel": "우크라",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "쿠슈너",
-    "유럽"
-   ],
-   "title": "쿠슈너 \"유럽·러시아 직접 대화 돕겠다\"",
-   "summary": "영국·프랑스·독일·이탈리아·폴란드가 유럽 대표로 나서요.",
-   "details": [
-    "미국 특사 쿠슈너는 14일 협상을 다음 단계로 옮기고 유럽과 러시아의 직접 대화를 돕겠다고 했어요.",
-    "유럽은 영국·프랑스·독일·이탈리아·폴란드 5개국을 평화 협상 대표로 정했어요.",
-    "젤렌스키 대통령은 미국이 '돈바스 철군 시 나토 가입' 방안을 물었다며, 철군은 안 하지만 확실한 안보 보장이 있으면 국민투표를 검토할 수 있다고 했어요."
-   ],
-   "sources": [
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
-    },
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "교육",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "수능",
-    "AI 부정"
-   ],
-   "title": "수능 사흘 앞, 'AI 부정' 막기 총력",
-   "summary": "19일 55만 명이 시험을 봐요.",
-   "details": [
-    "청와대는 15일 대책회의를 열고 수능에서 AI 부정행위가 없도록 관리감독을 집중 점검한다고 했어요.",
-    "세무사 시험 수석 합격자가 AI 부정행위를 시인한 일이 계기였고, 정부는 국가자격시험 전반을 점검하고 있어요.",
-    "수능은 19일 전국 1,312개 시험장에서 551,864명이 봐요. AI 안경은 착용만 해도 시험이 무효가 될 수 있어요."
-   ],
-   "note": "회의에서 정한 구체적 조치는 아직 보도로 확인되지 않았어요.",
-   "sources": [
-    {
-     "title": "한국경제",
-     "url": "https://hankyung.com/article/2026111573867"
-    },
-    {
-     "title": "정책브리핑",
-     "url": "https://www.korea.kr/news/customizedNewsView.do?newsId=148973935"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "과학",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "스타십",
-    "발사탑"
-   ],
-   "title": "스타십 우주선, 처음으로 발사탑 팔에 잡혔어요",
-   "summary": "우주에서 돌아온 우주선을 공중에서 붙잡았어요.",
-   "details": [
-    "스페이스X 스타십 우주선이 14일 지구를 14바퀴 돈 뒤 텍사스 발사탑의 로봇 팔에 붙잡혔어요. 우주에서 돌아온 우주선을 잡은 건 처음이에요.",
-    "다만 1단 부스터는 엔진이 일찍 꺼져 바다 위에서 자폭해, 계획했던 '이중 포획'은 실패했어요.",
-    "완전 재사용이 가까워지면서 발사 비용이 크게 내려갈 수 있다는 기대가 나와요. 나사는 스타십으로 아르테미스 달 착륙을 할 계획이에요."
-   ],
-   "sources": [
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
-    }
-   ]
-  }
- ],
- "watch": [
-  "16일(월) 아시아 장 유가와 엔비디아·반도체주 흐름",
-  "17일 트럼프-아세안 특별회담, 18일 새벽 엔비디아 실적",
-  "19일 선전 미중러 회담·수능·안트로픽 상장",
-  "26일 한은 금통위, 28일 대만 지방선거"
- ]
+  ],
+  "watch": [
+    "16일 밤 뉴욕장 반도체주와 미 10년물 5% 유지 여부",
+    "17일 트럼프-아세안 특별회담, 18일 새벽 엔비디아 실적",
+    "19일 선전 미중러 회담과 수능",
+    "26일 한은 금통위, 28일 대만 지방선거"
+  ]
 }
