@@ -1,11 +1,11 @@
 {
  "date": "2026-11-17",
- "updatedLabel": "11/17 07:00",
+ "updatedLabel": "11/17 16:00",
  "kicker": "오늘의 한 줄",
- "headline": "엔비디아 4% 더 빠져 나스닥 2.5% 급락… 실적 하루 앞",
- "subhead": "워시 연준 의장은 AI가 기대에 못 미치면 주가가 떨어질 수 있다고 경고했어요.",
- "advice": "AI주 하락이 사흘째라, 알파벳 6% 상한과 빅테크·반도체 약 17% 비중을 넘지 않게 매수 속도를 조절하세요.",
- "marketsAsOf": "11/16 뉴욕 · 11/16 서울 마감 기준 (미 2년물은 16일 오전 기준)",
+ "headline": "코스피 9개월 만에 5,000 붕괴… 엔비디아 실적 하루 앞",
+ "subhead": "외국인이 1조4천억 원을 팔았고, 원/달러는 1,338원으로 올랐어요.",
+ "advice": "코스피 5천 붕괴로 국내 반도체·은행 ETF가 흔들려요. 엔비디아 실적 확인 전엔 추가 매수를 나눠서 천천히 하세요.",
+ "marketsAsOf": "11/16 뉴욕 · 11/17 서울 마감 기준 (미 2년물은 16일 오전 기준)",
  "markets": [
   {
    "label": "미 10년물",
@@ -39,37 +39,42 @@
   },
   {
    "label": "코스피",
-   "value": "5,100.25",
-   "change": "-3.60%",
+   "value": "4,968.48",
+   "change": "-2.59%",
    "dir": "down"
   }
  ],
  "stories": [
   {
    "tag": "econ",
-   "tagLabel": "증시·AI",
+   "tagLabel": "증시",
    "breaking": false,
    "important": true,
    "keywords": [
-    "엔비디아",
-    "2.5%"
+    "코스피",
+    "5,000"
    ],
-   "title": "엔비디아 4% 더 빠져, 나스닥 2.5% 급락",
-   "summary": "AI주 매도가 사흘째 이어지며 S&P500도 1.9% 내렸어요.",
+   "title": "코스피 9개월 만에 5,000 아래로 마감",
+   "summary": "외국인이 1조4천억 원 넘게 팔며 4거래일 연속 내렸어요.",
    "details": [
-    "16일 뉴욕에서 S&P500은 1.92% 내린 7,416.59, 나스닥은 2.49% 내린 24,509.76, 다우는 1.41% 내린 51,608.17에 마감했어요.",
-    "엔비디아는 이사회가 젠슨 황의 복귀를 검토하지 않는다는 CNBC 보도 뒤 4.12% 떨어졌어요. 실적은 17일 장 마감 뒤, 한국 시간 18일 새벽에 나와요.",
-    "알파벳도 장중 3% 넘게 내렸고, 앤트로픽은 19일 상장을 앞두고 있어요.",
-    "나와의 연결: 알파벳·나스닥100·엔비디아·반도체 ETF가 함께 움직이니, 한 묶음으로 비중을 확인해 보세요."
+    "17일 코스피는 2.59% 내린 4,968.48, 코스닥은 2.34% 내린 650.06에 마감했어요. 코스피가 종가로 5,000 아래에 선 건 2월 초 이후 처음이에요.",
+    "외국인은 코스피에서 1조4,460억 원을 순매도했어요. 삼성전자는 3.30%, SK하이닉스는 1.96% 내렸고, 시가총액 상위 10개 종목이 모두 떨어졌어요.",
+    "전날 미국 필라델피아 반도체지수가 5.28% 빠졌고, 미국의 중국 기업 AI 칩 사용 제한과 AI 가속기 수요 전망 하향이 겹쳤어요. 엔비디아 실적은 한국 시간 18일 새벽에 나와요.",
+    "나와의 연결: 삼성전자·코스피200·반도체 커버드콜·은행 ETF가 함께 흔들리는 구간이라, 국내 주식 비중을 한 번에 늘리지 않는 편이 좋아요."
    ],
+   "note": "엔비디아 경영진 관련 우려는 기사에서 언급됐지만 내용이 확인되지 않았어요.",
    "sources": [
     {
-     "title": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+     "title": "파이낸셜뉴스",
+     "url": "https://fnnews.com/news/202611171542143994"
     },
     {
-     "title": "HNGN",
-     "url": "https://www.hngn.com/articles/273846/20261116/stocks-slide-10-year-yield-stays-above-5-before-nvidia.htm"
+     "title": "아시아경제",
+     "url": "https://view.asiae.co.kr/article/2026111715375988449"
+    },
+    {
+     "title": "톱스타뉴스",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16279036"
     }
    ]
   },
@@ -79,30 +84,56 @@
    "breaking": false,
    "important": true,
    "keywords": [
-    "항모 3척",
-    "먼저"
+    "바레인",
+    "호르무즈"
    ],
-   "title": "미 항모 3척 집결… 이란 \"먼저 칠 수도\"",
-   "summary": "후티는 사우디 리야드에 탄도미사일을 쐈고, 사우디가 막았어요.",
+   "title": "이란, 바레인 미군기지 드론 공격… 호르무즈 긴장",
+   "summary": "이란은 유조선이 기뢰에 맞았다고 주장했지만 확인되지 않았어요.",
    "details": [
-    "미 항공모함 시어도어 루스벨트호가 중동에 도착해 이 지역 미 항모가 3척이 됐어요.",
-    "이란 가리바바디 외무차관은 미국이 먼저 공격하길 기다리지 않겠다고 했어요. 뉴욕타임스는 미국과 이스라엘이 이란 에너지 시설 공격 계획을 세웠다고 전했어요.",
-    "바레인은 15일 이란 드론을 격추했다며 유엔 안보리에 대응을 요청했어요. 협상은 멈춘 상태예요.",
-    "나와의 연결: 걸프 지역 충돌이 커지면 유가와 미국 금리가 다시 오를 수 있어, 채권·달러 예금 금리 흐름을 같이 보세요."
+    "이란 혁명수비대는 15일 바레인의 미군 기지를 드론 6대로 공격했다고 밝혔고, 바레인은 공격을 막아냈다고 했어요.",
+    "예멘에선 사우디가 지원하는 정부군이 바브엘만데브 해협에서 물러났고, 후티는 리야드 공항 공격을 주장했지만 사우디는 확인하지 않았어요.",
+    "로이터는 트럼프 대통령이 새 도발이 없으면 이란 공격을 미룰 수 있지만 해상 봉쇄는 유지할 것이라고 전했어요. 미 항모 3척이 중동에 모여 있어요.",
+    "나와의 연결: 중동 충돌이 커지면 유가와 미국 금리가 다시 오를 수 있어, 달러 예금 재예치 금리와 채권 금리를 같이 보세요."
    ],
-   "note": "이란이 미군 드론 조종을 빼앗았다는 주장은 확인되지 않았어요.",
+   "note": "호르무즈 해협 유조선 기뢰 피격·침몰 주장은 로이터가 확인하지 못했어요.",
    "sources": [
+    {
+     "title": "Reuters (Taipei Times 게재)",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/11/17/2003867894"
+    },
+    {
+     "title": "Yahoo/Investing.com",
+     "url": "https://www.yahoo.com/news/world/articles/iran-claims-fresh-strike-u-065931906.html"
+    },
     {
      "title": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
+    }
+   ]
+  },
+  {
+   "tag": "econ",
+   "tagLabel": "환율",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "1,338원"
+   ],
+   "title": "원/달러 1,338원, 미국 긴축 우려에 상승",
+   "summary": "미국 금리 추가 인상 전망에 달러가 강해졌어요.",
+   "details": [
+    "17일 원/달러 환율은 2.5원 오른 1,338.2원에 주간 거래를 마쳤어요. 대체로 1,330원대 중반에서 움직였어요.",
+    "미국 10월 근원 소비자물가가 전달보다 0.3% 오르며 12월 금리 인상 전망이 커졌고, 외국인의 국내 주식 매도도 원화를 약하게 했어요. 수출업체의 달러 매도는 상승 폭을 줄였어요.",
+    "나와의 연결: 달러를 원화로 바꾸지 않기로 한 만큼, 환율보다 달러 정기예금 만기 사다리와 재예치 금리를 챙기면 돼요."
+   ],
+   "sources": [
+    {
+     "title": "서울경제",
+     "url": "https://m.sedaily.com/article/20115462"
     },
     {
-     "title": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-as-bahrain-issues-threat-alert-1.500747797"
-    },
-    {
-     "title": "RFE/RL",
-     "url": "https://www.rferl.org/a/bahrain-said-its-air-defenses-intercepted-and-destroyed-several-iranian-aerial-attacks/33898951.html"
+     "title": "아시아경제",
+     "url": "https://view.asiae.co.kr/article/2026111715454798265"
     }
    ]
   },
@@ -115,49 +146,21 @@
     "미중러",
     "북핵"
    ],
-   "title": "미중러 회담 이틀 앞… \"북핵 용인 우려\"",
-   "summary": "정부는 북한 핵보유국 인정은 안 된다고 미중에 전했어요.",
+   "title": "19일 선전 미중러 회담… \"북핵 용인 우려\"",
+   "summary": "정부는 북한 핵보유국 인정은 안 된다는 입장이에요.",
    "details": [
-    "19일 중국 선전 APEC에서 트럼프·시진핑·푸틴의 첫 3자 회담이 열려요. 백악관은 핵무기 감축을 의제로 예고했어요.",
+    "19일 중국 선전 APEC에서 트럼프·시진핑·푸틴의 첫 3자 회담이 열릴 예정이에요. 백악관은 핵무기 감축을 의제로 예고했어요.",
     "전문가들은 비핵화 언급 없이 북미 대화만 합의되면 북핵을 사실상 인정하는 분위기가 될 수 있다고 걱정해요.",
-    "한국이 빠진 채 강대국끼리 정하는 얄타 회담처럼 될 수 있다는 지적도 나와요."
+    "남중국해, 관세, 이란 전쟁발 에너지 문제도 주요 의제로 꼽혀요."
    ],
    "sources": [
     {
-     "title": "연합뉴스 (서플 게재)",
-     "url": "https://supple.kr/news/cmwiz3ytrg5op10eggndrgzgc"
-    }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "금리",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "워시",
-    "AI"
-   ],
-   "title": "워시 \"AI가 실망스러우면 주가 하락\"",
-   "summary": "연준은 AI 경제 영향 시나리오 3개를 만들고 있어요.",
-   "details": [
-    "워시 연준 의장은 16일 샌프란시스코에서 AI가 생산성을 크게 올리는 경우, 일자리를 줄이는 경우, 기대에 못 미치는 경우를 따져 보고 있다고 했어요. 마지막 경우엔 주가 하락과 성장 둔화가 올 수 있다고 했어요.",
-    "12월 8~9일 금리 결정은 언급하지 않았어요. 선물시장은 12월 0.25%p 인상 확률을 약 91%로 봐요.",
-    "미 10년물 금리는 5.12%로 조금 내렸고, WTI는 3.7% 내린 배럴당 85.32달러였어요.",
-    "나와의 연결: 미국 금리 인상이 이어지면 달러 정기예금을 다시 맡길 때 금리가 오를 수 있어요. 만기 사다리 일정대로 재예치하면 돼요."
-   ],
-   "sources": [
-    {
-     "title": "서울경제",
-     "url": "https://en.sedaily.com/world/2026/11/17/feds-warsh-warns-of-stock-slump-slower-growth-if-ai"
+     "title": "Al Jazeera",
+     "url": "https://www.aljazeera.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt"
     },
     {
-     "title": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/currencies/articles/u-treasury-yields-decline-fed-100300437.html"
-    },
-    {
-     "title": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+     "title": "The Star (Reuters)",
+     "url": "https://www.thestar.com.my/news/world/2026/11/14/trump-to-hold-summit-with-xi-putin-in-shenzhen-on-thursday-ny-post-reports"
     }
    ]
   },
@@ -167,24 +170,24 @@
    "breaking": false,
    "important": false,
    "keywords": [
-    "트럼프",
-    "마닐라"
+    "마닐라",
+    "한일"
    ],
-   "title": "트럼프 아시아 순방, 오늘 마닐라 아세안",
-   "summary": "필리핀을 거쳐 18~19일 중국 선전 APEC에 가요.",
+   "title": "이 대통령·다카이치 총리, 오늘 마닐라 한일 회담",
+   "summary": "6개월 만의 네 번째 만남으로 안보·경제 협력을 논의해요.",
    "details": [
-    "트럼프 대통령은 17일 마닐라 아세안 회담 뒤 중국으로 가요. 머스크가 중국 일정에 함께하고, 젠슨 황은 빠졌어요.",
-    "미중러 회담에선 남중국해, 관세, 이란 전쟁발 에너지 문제가 주요 의제예요.",
-    "나와의 연결: 남중국해·대만해협 이야기가 나올 수 있어, 대만 친척 지역 소식과 TSMC 흐름을 같이 보면 좋아요."
+    "이재명 대통령과 다카이치 사나에 일본 총리가 17일 필리핀 마닐라 아세안 회의를 계기로 정상회담을 해요. 5월 안동 회담 뒤 6개월 만이에요.",
+    "외교부는 안보 협력, 경제, 역사 문제를 두고 일본과 조율해 왔다고 밝혔어요. 미중러 회담을 이틀 앞두고 두 나라가 입장을 맞추는 자리이기도 해요.",
+    "회담 결과는 아직 나오지 않았어요."
    ],
    "sources": [
     {
-     "title": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+     "title": "파이낸셜뉴스",
+     "url": "https://www.fnnews.com/news/202611161440474760"
     },
     {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+     "title": "공감신문",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=886034"
     }
    ]
   },
@@ -195,19 +198,47 @@
    "important": false,
    "keywords": [
     "대만",
-    "지방선거"
+    "원전"
    ],
-   "title": "대만 28일 지방선거, 타이베이 유세 본격화",
-   "summary": "민진당과 국민당 후보가 타이베이·신베이에서 맞붙어요.",
+   "title": "대만, 원전 국민투표 앞두고 찬반 토론 격돌",
+   "summary": "28일 지방선거와 함께 에너지 정책이 쟁점이 됐어요.",
    "details": [
-    "타이베이에선 국민당 장완안 시장과 민진당 선보양 후보가, 신베이에선 국민당 리수촨 후보와 민진당 쑤차오후이 후보가 15일 유세를 벌였어요.",
-    "11월 28일 지방선거는 대만 각 도시의 시장과 의원을 뽑는 선거예요.",
-    "나와의 연결: 대만 친척들이 사는 지역의 정치 분위기를 보여 주는 선거예요."
+    "16일 대만 TV 국민투표 토론회에서 원전 찬성 측과 반대 측이 에너지 정책을 두고 맞붙었어요.",
+    "라이칭더 총통은 같은 날 미국 아이다호 주지사를 만나 대만·미국 이중과세 방지 협정이 필요하다고 했어요. 관련 법안은 미국 상원에 계류 중이에요.",
+    "대만 중앙기상서는 목요일 밤부터 3,500m 이상 높은 산에 눈이 올 수 있다고 했어요.",
+    "나와의 연결: 대만 친척들이 사는 곳의 전력·물가와 정치 분위기를 보여 주는 뉴스예요."
    ],
    "sources": [
     {
      "title": "Focus Taiwan (CNA)",
      "url": "https://focustaiwan.tw/"
+    }
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "사법",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "한덕수",
+    "19일"
+   ],
+   "title": "한덕수 상고심, 19일 대법원 전원합의체 심리",
+   "summary": "구속 기간은 20일에 끝나요.",
+   "details": [
+    "대법원 전원합의체가 19일 한덕수 전 총리와 이상민 전 장관의 내란 관련 사건 상고심 심리를 열어요. 선고 날짜는 아직 잡히지 않았어요.",
+    "한 전 총리는 1심 징역 23년, 2심 징역 15년을 받았고, 구속 기간은 20일에 끝나요. 대법원은 석방을 단정하는 보도를 자제해 달라고 했어요."
+   ],
+   "note": "일부 매체는 19일 선고라고 전했지만, 노컷뉴스 등은 19일을 심리일로 보도했어요.",
+   "sources": [
+    {
+     "title": "노컷뉴스",
+     "url": "https://www.nocutnews.co.kr/news/6604986"
+    },
+    {
+     "title": "주간경향",
+     "url": "https://weekly.khan.co.kr/article/202611132227001"
     }
    ]
   },
@@ -255,10 +286,6 @@
      "url": "https://aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx"
     },
     {
-     "title": "Ara (영문)",
-     "url": "https://en.ara.cat/society/the-arrival-of-thousands-of-migrants-in-few-days-forces-declaring-an-emergency-in-the-canaries_1_5906555.html"
-    },
-    {
      "title": "Reuters (Internazionale 게재)",
      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/06/migrant-surge-to-spain-s-canary-islands-is-unsustainable-authorities-say"
     }
@@ -266,9 +293,9 @@
   }
  ],
  "watch": [
-  "18일 새벽 엔비디아 실적과 오늘 코스피 반도체주",
-  "19일 선전 미중러 회담, 수능, 앤트로픽 상장",
-  "중동 미 항모 3척 배치 뒤 이란 대응과 유가",
+  "18일 새벽 엔비디아 실적과 국내 반도체주 반응",
+  "19일 선전 미중러 회담, 수능, 한덕수 상고심 심리",
+  "바레인 공격 뒤 미국 대응과 유가",
   "26일 한은 금통위, 28일 대만 지방선거"
  ]
 }
