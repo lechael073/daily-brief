@@ -1,195 +1,206 @@
 {
-  "date": "2026-11-18",
-  "updatedLabel": "11/18 07:03",
-  "kicker": "오늘의 한 줄",
-  "headline": "엔비디아 실적 예상 웃돌아… 뉴욕증시는 4일째 하락",
-  "subhead": "이란 '더러운 폭탄' 계획 보도로 긴장이 커졌고, 미 10년물 금리는 5.10%예요.",
-  "advice": "엔비디아 실적은 좋았지만 이사회 조사 결과는 아직이에요. 빅테크·반도체 비중이 18% 한도 안인지 먼저 점검하세요.",
-  "marketsAsOf": "11/17 뉴욕 · 11/17 서울 마감 기준",
-  "markets": [
-    {"label": "미 10년물", "value": "5.10%", "change": "-0.02%p", "dir": "down"},
-    {"label": "미 2년물", "value": "4.81%", "change": "-0.02%p", "dir": "down"},
-    {"label": "미 기준금리", "value": "3.75~4.00%", "change": "동결", "dir": "flat"},
-    {"label": "한은 기준금리", "value": "3.00%", "change": "동결", "dir": "flat"},
-    {"label": "S&P 500", "value": "7,340.53", "change": "-1.03%", "dir": "down"},
-    {"label": "코스피", "value": "4,968.48", "change": "-2.59%", "dir": "down"}
-  ],
-  "stories": [
-    {
-      "tag": "econ",
-      "tagLabel": "AI",
-      "breaking": false,
-      "important": true,
-      "keywords": ["엔비디아", "시간외"],
-      "title": "엔비디아 실적 예상 넘어… 시간외 2~3% 상승",
-      "summary": "젠슨 황 사임 뒤 첫 실적에서 매출이 1년 새 두 배가 됐어요.",
-      "details": [
-        "엔비디아는 17일(미국 시간) 3분기 매출 1,158억 달러를 발표했어요. 1년 전보다 103% 늘었고, 시장 예상(약 1,090억 달러)을 넘었어요. 데이터센터 매출은 1,076억 달러예요.",
-        "다음 분기 매출 전망은 약 1,300억 달러(±3%)로, 중국 데이터센터 매출은 빼고 잡았어요. 주가는 정규장에서 0.5% 내린 155.39달러로 마친 뒤 시간외에서 2~3% 올랐어요.",
-        "임시 CEO인 콜레트 크레스는 \"성장세는 진짜\"라고 했고, 사임한 젠슨 황은 복귀 요청에 응하고 싶다는 뜻을 밝혔다고 전해졌어요.",
-        "나와의 연결: 직접 가진 엔비디아의 매수 조건 중 '실적'은 충족에 가까워졌지만, '이사회 조사 결과'는 아직 나오지 않았어요."
-      ],
-      "note": "젠슨 황 복귀 의사는 WSJ 보도를 인용한 내용이고, 이사회 결정은 없어요. 엔비디아가 헤드헌터로 새 CEO를 찾는다는 SBH뉴스 보도는 다른 매체로 확인하지 못했어요.",
-      "sources": [
-        {"title": "엔비디아 실적 발표 (SEC 공시)", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"},
-        {"title": "EBN", "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732040"},
-        {"title": "CoinDesk", "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"}
-      ]
-    },
-    {
-      "tag": "war",
-      "tagLabel": "이란전쟁",
-      "breaking": false,
-      "important": true,
-      "keywords": ["이란", "트럼프"],
-      "title": "이란 '더러운 폭탄' 계획 보도… 트럼프 강력 경고",
-      "summary": "이란은 부인했고, 호르무즈 해협 근처 유조선 공격은 이어졌어요.",
-      "details": [
-        "CNN은 미국 관리 7명을 인용해, 이란이 워싱턴의 고위 관리를 노린 방사능 '더러운 폭탄'이나 화학무기 공격을 계획했을 수 있다고 보도했어요.",
-        "트럼프 대통령은 마닐라에서 그런 공격이 있으면 이란이 어떤 나라도 치른 적 없는 대가를 치를 거라고 했어요. 이란 외무부는 근거 없는 선전이라고 부인했어요.",
-        "같은 날 호르무즈 해협 근처에서 LPG 유조선이 두 번 공격받아 선원들이 배를 떠났고, 바레인을 향한 이란 드론 공격은 5일 새 세 번째였어요(미군 피해 없음). 브렌트유는 0.8% 오른 93.14달러에 마감했어요.",
-        "나와의 연결: 유가가 다시 오르면 미국 금리가 높게 유지될 수 있어, 달러 정기예금 재예치 금리와 함께 보면 좋아요."
-      ],
-      "note": "'더러운 폭탄' 계획은 언론 보도이고, 미국 정부가 공식 확인하지 않았어요.",
-      "sources": [
-        {"title": "Gulf News", "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"},
-        {"title": "Washington Post", "url": "https://www.washingtonpost.com/national-security/2026/11/17/trump-says-government-takes-report-iran-planning-dirty-bomb-very-seriously/"},
-        {"title": "Rigzone", "url": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/"}
-      ]
-    },
-    {
-      "tag": "econ",
-      "tagLabel": "증시",
-      "breaking": false,
-      "important": false,
-      "keywords": ["다우", "4일째"],
-      "title": "뉴욕증시 4일째 하락… 다우 849포인트 내려",
-      "summary": "S&P 500은 7월 말 이후 가장 낮은 수준으로 마감했어요.",
-      "details": [
-        "17일 다우는 1.64% 내린 50,759.42, S&P 500은 1.03% 내린 7,340.53, 나스닥은 0.74% 내린 24,328.38에 마감했어요. 세일즈포스(-9.5%)와 IBM(-4.7%)이 다우를 끌어내렸어요.",
-        "10월 소매판매는 0.2% 늘어 예상(0.1%)을 조금 넘었지만 전달(0.8%)보다 둔화했어요. 미 10년물 금리는 5.10% 안팎으로 소폭 내렸고, 선물시장은 12월 금리 인상 가능성을 약 95%로 보고 있어요.",
-        "전날 코스피는 외국인이 1조4,400억 원을 팔며 2.59% 내린 4,968.48로 마감했어요.",
-        "나와의 연결: S&P 500·나스닥100 ETF가 함께 내려가는 구간이라, 한 번에 사기보다 나눠서 보는 계획이 유리해요."
-      ],
-      "sources": [
-        {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611180625022345"},
-        {"title": "AP (WISH-TV 게재)", "url": "https://www.wishtv.com/news/wall-street-falls-as-nvidia-and-other-ai-stocks-swing-sharply/"},
-        {"title": "블루밍비트", "url": "https://bloomingbit.io/feed/news/124635"},
-        {"title": "토큰포스트", "url": "https://www.tokenpost.kr/news/economy/439687"}
-      ]
-    },
-    {
-      "tag": "kr",
-      "tagLabel": "한반도",
-      "breaking": false,
-      "important": false,
-      "keywords": ["김정은"],
-      "title": "트럼프 \"중국에서 김정은 만날 수도\"",
-      "summary": "김정은의 참석은 시진핑에게 달렸다고 했어요.",
-      "details": [
-        "트럼프 대통령은 필리핀·중국 순방을 떠나며 중국에서 김정은 위원장을 만날 수도 있다고 했어요.",
-        "김정은은 15~16일 중국 접경인 백두산 관광지구를 둘러봤지만, 정부 당국자는 특별한 이동 징후는 없다고 했어요.",
-        "전문가들은 2018~2019년 회담 실패를 기억하는 북한이 먼저 조건을 요구할 가능성이 크다고 봐요."
-      ],
-      "sources": [
-        {"title": "서플 (연합뉴스)", "url": "https://supple.kr/news/cmwk6otkddtlbjkun3gxfwrzi"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "미중러",
-      "breaking": false,
-      "important": false,
-      "keywords": ["APEC", "미중러"],
-      "title": "선전 APEC 개막, 19일 미중러 첫 정상회담",
-      "summary": "핵무기 감축이 의제로 오를 예정이에요.",
-      "details": [
-        "중국 선전에서 APEC 정상회의가 18~19일 열리고, 19일엔 트럼프·시진핑·푸틴의 첫 3자 회담이 예정돼 있어요.",
-        "백악관은 핵무기 감축을 논의하겠다고 했지만, 미국 관리는 '첫걸음'이라며 큰 성과 기대를 낮췄어요.",
-        "한국 정부는 회담에서 북한을 핵보유국으로 인정하는 분위기가 생기면 안 된다는 입장이에요."
-      ],
-      "sources": [
-        {"title": "dpa (Yahoo 게재)", "url": "https://www.yahoo.com/news/politics/articles/historic-meeting-trump-xi-putin-170317497.html"}
-      ]
-    },
-    {
-      "tag": "war",
-      "tagLabel": "대만",
-      "breaking": false,
-      "important": false,
-      "keywords": ["대만", "100척"],
-      "title": "중국, 대만 주변 100척 넘게 '조용한 훈련'",
-      "summary": "APEC을 앞두고 발표 없이 압박하는 방식이라고 대만이 밝혔어요.",
-      "details": [
-        "로이터에 따르면 대만 안보 당국자는 이달 초 중국 군함과 해경선 100척 넘게 서태평양과 대만 주변에 모였다고 했어요. 작년 말 공식 훈련보다 큰 규모예요.",
-        "13일 기준으로도 약 70척이 제1도련선 안에 있었고, 중국은 '일상 훈련'이라고 했어요.",
-        "대만 증시는 엔비디아 우려로 17일 2.3% 내렸고, 대만달러도 약해졌어요. 18~20일엔 북동풍으로 일부 저지대가 11도 안팎까지 내려가요.",
-        "나와의 연결: 대만 친척들이 사는 곳의 안보·날씨 소식이고, 보유한 TSM·대만테크 ETF도 같은 반도체 흐름을 타요."
-      ],
-      "sources": [
-        {"title": "Reuters (WHBL 게재)", "url": "https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/"},
-        {"title": "AP (BNN Bloomberg 게재)", "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/17/world-markets-mostly-drop-as-ai-stocks-remain-under-pressure/"},
-        {"title": "Focus Taiwan (CNA)", "url": "https://focustaiwan.tw/"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "교육",
-      "breaking": false,
-      "important": false,
-      "keywords": ["수능", "전자기기"],
-      "title": "내일 수능, 전자기기 걸리면 시험 무효",
-      "summary": "AI 안경은 쓰기만 해도 다음 해 응시까지 막힐 수 있어요.",
-      "details": [
-        "19일 수능에선 휴대전화, 스마트워치, AI 스마트 안경, 블루투스 이어폰 등 모든 전자기기를 가지고 들어갈 수 없어요. 가져왔다면 1교시 전 감독관에게 내야 해요.",
-        "지니고 있다 걸리면 그 시험은 무효예요. AI 안경을 쓰면 다음 해 응시도 막히고, 고의 부정행위는 수사 의뢰될 수 있어요."
-      ],
-      "sources": [
-        {"title": "정책브리핑", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975290"},
-        {"title": "노컷뉴스", "url": "https://www.nocutnews.co.kr/issue/hotissue/19564?c=256&l=2"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "보안",
-      "breaking": false,
-      "important": false,
-      "keywords": ["FBI", "아르텍스"],
-      "title": "FBI, AI 해킹도구 '아르텍스' 긴급 경보",
-      "summary": "침투부터 권한 탈취까지 3시간 안에 끝낸 사례도 있었어요.",
-      "details": [
-        "FBI는 13일 긴급 경보에서 아르텍스가 정찰부터 자료 빼내기까지 해킹 여러 단계를 기계 속도로 자동화한다고 했어요.",
-        "인터넷에 드러난 아르텍스 관리 화면만 1,600개가 넘고, 금융·정부·반도체·에너지 등을 노렸어요. 한국 금융기관 공격에도 쓰인 것으로 보도됐어요.",
-        "나와의 연결: 은행·증권 계좌가 여러 곳이라, 문자나 메일 속 링크 대신 공식 앱에서 직접 알림을 확인하는 습관이 좋아요."
-      ],
-      "note": "SBH뉴스가 전한 국내 금융권 약 6만7천 명 피해 규모는 다른 매체로 확인하지 못했어요.",
-      "sources": [
-        {"title": "The Record", "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert"}
-      ]
-    },
-    {
-      "tag": "etc",
-      "tagLabel": "사법",
-      "breaking": false,
-      "important": false,
-      "keywords": ["한덕수", "19일"],
-      "title": "한덕수 상고심, 19일 대법원 전원합의체",
-      "summary": "구속 기간은 20일에 끝나요.",
-      "details": [
-        "대법원 전원합의체가 19일 한덕수 전 총리의 내란 관련 사건 상고심을 다뤄요.",
-        "한 전 총리는 1심 징역 23년, 2심 징역 15년을 받았고, 구속 기간은 20일에 끝나요."
-      ],
-      "note": "19일이 선고인지 심리인지 매체마다 다르게 전하고 있어요.",
-      "sources": [
-        {"title": "노컷뉴스", "url": "https://www.nocutnews.co.kr/news/6604986"},
-        {"title": "주간경향", "url": "https://weekly.khan.co.kr/article/202611132227001"}
-      ]
-    }
-  ],
-  "watch": [
-    "엔비디아 실적 뒤 오늘 코스피·대만 반도체주 반응과 미국 FOMC 의사록",
-    "18~19일 선전 APEC과 미중러 회담, 19일 수능",
-    "이란 '더러운 폭탄' 보도 뒤 미국 대응과 유가",
-    "26일 한은 금통위, 12월 8~9일 미 FOMC, 28일 대만 지방선거"
-  ]
+ "date": "2026-11-18",
+ "updatedLabel": "11/18 16:04",
+ "kicker": "오늘의 한 줄",
+ "headline": "엔비디아 효과에 코스피 5,000선 회복… 미국은 이란 케슘섬 공습",
+ "subhead": "내일 선전에서 미중러 첫 정상회담이 열리고, 미 10년물 금리는 5.10%예요.",
+ "advice": "미 금리 5%대가 이어지는 동안 채권은 만기 보유 원칙대로 두고, 반도체 비중이 한도 안인지 점검해 보세요.",
+ "marketsAsOf": "11/17 뉴욕 · 11/18 서울 마감 기준",
+ "markets": [
+  {"label": "미 10년물", "value": "5.10%", "change": "-0.02%p", "dir": "down"},
+  {"label": "미 2년물", "value": "4.81%", "change": "-0.02%p", "dir": "down"},
+  {"label": "미 기준금리", "value": "3.75~4.00%", "change": "동결", "dir": "flat"},
+  {"label": "한은 기준금리", "value": "3.00%", "change": "동결", "dir": "flat"},
+  {"label": "S&P 500", "value": "7,340.53", "change": "-1.03%", "dir": "down"},
+  {"label": "코스피", "value": "5,067.44", "change": "+1.99%", "dir": "up"}
+ ],
+ "stories": [
+  {
+   "tag": "war",
+   "tagLabel": "이란전쟁",
+   "breaking": false,
+   "important": true,
+   "keywords": ["케슘섬"],
+   "title": "미국, 이란 케슘섬 미사일 기지 공습",
+   "summary": "이란의 바레인 공격이 이어지자 '자위' 차원이라며 때렸어요.",
+   "details": [
+    "미군 전투기가 17일 호르무즈 해협의 케슘섬에 있는 이란 혁명수비대 미사일 발사 기지를 정밀 공격했어요. 미국은 자기 병력을 지키기 위한 공격이라고 했어요.",
+    "이란의 바레인 공격은 일주일도 안 돼 세 번째였어요. 이란 매체는 사상자나 주요 시설 피해가 없었다고 했고, 혁명수비대는 바레인 미군 기지 레이더를 드론으로 공격했다고 주장했어요. 미군은 드론을 모두 막았다고 했어요.",
+    "17일 브렌트유는 0.8% 오른 93달러대, WTI는 0.3% 오른 86.01달러에 마감했어요.",
+    "나와의 연결: 유가가 높으면 미국 금리도 높게 유지되기 쉬워, 달러 정기예금 재예치 금리에 유리하게 작용할 수 있어요."
+   ],
+   "note": "피해 규모는 양쪽 주장이 달라요.",
+   "sources": [
+    {"title": "The National", "url": "https://www.thenationalnews.com/news/us/2026/11/17/us-jets-strike-irgc-missile-launch-site-on-irans-qeshm-island-in-self-defence/"},
+    {"title": "MarketScreener (유가)", "url": "https://www.marketscreener.com/news/december-wti-crude-oil-contract-closes-up-0-29-or-0-3-settles-at-86-01-per-barrel-january-bren-ce785edcdc88f223"}
+   ]
+  },
+  {
+   "tag": "econ",
+   "tagLabel": "증시",
+   "breaking": false,
+   "important": true,
+   "keywords": ["코스피", "5,000선"],
+   "title": "엔비디아 실적에 코스피 5,000선 되찾아",
+   "summary": "4일 연속 하락을 끊고 1.99% 오른 5,067로 마감했어요.",
+   "details": [
+    "코스피는 엔비디아 실적 호조로 출발이 좋았지만 외국인 매도에 한때 4,943까지 밀렸다가, 기관이 5,500억 원어치를 사며 5,067.44로 마쳤어요. 코스닥도 1.96% 올랐어요.",
+    "삼성전자는 2.31%, SK하이닉스는 4.19% 올랐어요. 외국인은 여전히 3,300억 원 가까이 팔았어요.",
+    "원/달러 환율은 오후 3시 30분 기준 5.2원 내린 1,333.0원이었어요.",
+    "나와의 연결: 삼성전자·SK하이닉스와 반도체 커버드콜 ETF를 갖고 있어 오늘 반등의 영향을 받았어요. 외국인 매도가 계속돼 한 번에 늘리기보다 나눠 보는 게 좋아요."
+   ],
+   "sources": [
+    {"title": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611181541225731"},
+    {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261118001065"}
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "미중러",
+   "breaking": false,
+   "important": false,
+   "keywords": ["미중러", "정상회담"],
+   "title": "내일 선전에서 미중러 첫 정상회담",
+   "summary": "핵무기 감축이 주제지만 큰 합의는 기대하지 않는 분위기예요.",
+   "details": [
+    "중국 선전에서 18~19일 APEC 정상회의가 열리고, 19일엔 트럼프·시진핑·푸틴의 첫 3자 회담이 열려요.",
+    "백악관은 핵 확산 문제를 다룬다고 했지만, 미국 관리는 합의는 기대하지 않는다고 했어요. 우크라이나 전쟁은 꺼내지 않을 예정이에요.",
+    "트럼프는 앞서 마닐라에서 일본·호주·인도 정상과 쿼드 회의를 열고 AI 협력을 이야기했어요."
+   ],
+   "sources": [
+    {"title": "Al Jazeera", "url": "https://aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"},
+    {"title": "ABC News", "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"}
+   ]
+  },
+  {
+   "tag": "econ",
+   "tagLabel": "금리",
+   "breaking": false,
+   "important": false,
+   "keywords": ["뉴욕증시", "4일째"],
+   "title": "뉴욕증시 4일째 하락… 12월 금리 인상 무게",
+   "summary": "S&P 500은 7월 말 이후 가장 낮은 수준이에요.",
+   "details": [
+    "17일 다우는 1.64%, S&P 500은 1.03%, 나스닥은 0.74% 내렸어요.",
+    "미 10년물 금리는 5.10% 안팎으로 조금 내렸지만 여전히 5%대예요. 연준 인사들이 추가 인상 필요성을 말했고, 시장은 12월 인상 가능성을 약 95%로 보고 있어요.",
+    "나와의 연결: S&P 500·나스닥100 ETF 비중이 꽤 있어 하락 구간엔 나눠서 보는 계획이 유리하고, 금리가 높을 땐 새로 사는 채권의 이자도 높아져요."
+   ],
+   "sources": [
+    {"title": "AP (MyMotherLode 게재)", "url": "https://mymotherlode.com/news/national/11318894/how-major-us-stock-indexes-fared-tuesday-11-17-2026.html"},
+    {"title": "Trading Economics", "url": "https://tradingeconomics.com/united-states/government-bond-yield"}
+   ]
+  },
+  {
+   "tag": "war",
+   "tagLabel": "대만",
+   "breaking": false,
+   "important": false,
+   "keywords": ["대만"],
+   "title": "중국 대만 주변 '조용한 훈련'… 대만 증시도 출렁",
+   "summary": "대만 증시는 정부 안정기금 개입 속에 4만 선을 겨우 지켰어요.",
+   "details": [
+    "대만 안보 당국자는 이달 초 중국 군함과 해경선 100척 넘게 서태평양과 대만 주변에 모였다고 로이터에 말했어요. 중국은 일상 훈련이라고 했어요.",
+    "대만 가권지수는 17일 2.31% 내린 40,092로 마감했어요. 전날 6% 넘게 떨어진 뒤였고, 정부 안정기금이 대형 기술주를 산 것으로 추정돼요. TSMC는 2.03% 내렸어요.",
+    "나와의 연결: 대만 친척들이 사는 곳의 안보 소식이고, 보유한 TSM·대만테크 ETF가 같은 흐름을 타요."
+   ],
+   "sources": [
+    {"title": "Reuters (WHBL 게재)", "url": "https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/"},
+    {"title": "Taipei Times", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/18/2003867918"}
+   ]
+  },
+  {
+   "tag": "kr",
+   "tagLabel": "한반도",
+   "breaking": false,
+   "important": false,
+   "keywords": ["김정은"],
+   "title": "트럼프 \"중국에서 김정은 만날 수도\"",
+   "summary": "김정은의 참석은 시진핑에게 달렸다고 했어요.",
+   "details": [
+    "트럼프 대통령은 순방을 떠나며 중국에서 김정은 위원장을 만날 수도 있다고 했어요.",
+    "김정은은 15~16일 중국 접경 백두산 지역을 둘러봤지만, 정부 당국자는 특별한 이동 징후는 없다고 했어요.",
+    "한국 정부는 회담에서 북한을 핵보유국으로 인정하는 분위기가 생기면 안 된다는 입장이에요."
+   ],
+   "sources": [
+    {"title": "서플 (연합뉴스)", "url": "https://supple.kr/news/cmwk6otkddtlbjkun3gxfwrzi"}
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "사회",
+   "breaking": false,
+   "important": false,
+   "keywords": ["지하철", "25일"],
+   "title": "서울 지하철 25일 총파업 예고",
+   "summary": "20일부터는 준법투쟁으로 열차가 늦어질 수 있어요.",
+   "details": [
+    "서울교통공사 노조는 임금 인상, 2,212명 인력 감축 철회, 1,313명 충원 등을 요구하며 협상이 안 되면 25일부터 파업한다고 했어요.",
+    "수능 다음 날인 20일부터 준법투쟁을 시작하고, 공항철도·GTX-A 노조도 함께해요. 코레일 노조는 23일부터 동참해요.",
+    "나와의 연결: 등하교에 지하철을 쓴다면 20일 이후엔 시간을 넉넉히 잡는 게 좋아요."
+   ],
+   "note": "SBH뉴스는 '무기한' 파업이라고 전했고, 노조는 즉시 협상할 준비가 됐다고 했어요.",
+   "sources": [
+    {"title": "서플 (연합뉴스)", "url": "https://supple.kr/news/cmwaa6mpt6upqal9p9dkx6xgk"}
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "교육",
+   "breaking": false,
+   "important": false,
+   "keywords": ["수능", "전자기기"],
+   "title": "내일 수능, 전자기기 걸리면 시험 무효",
+   "summary": "AI 안경은 쓰기만 해도 다음 해 응시까지 막힐 수 있어요.",
+   "details": [
+    "19일 수능에선 휴대전화, 스마트워치, AI 스마트 안경, 블루투스 이어폰 등 모든 전자기기를 가지고 들어갈 수 없어요. 가져왔다면 1교시 전 감독관에게 내야 해요.",
+    "지니고 있다 걸리면 그 시험은 무효예요. 검찰도 스마트기기 부정행위에 엄정 대응하겠다고 했어요."
+   ],
+   "note": "검찰 대응 방침은 SBH뉴스 보도로, 구체적 내용은 확인하지 못했어요.",
+   "sources": [
+    {"title": "정책브리핑", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975290"},
+    {"title": "노컷뉴스", "url": "https://www.nocutnews.co.kr/issue/hotissue/19564?c=256&l=2"}
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "보안",
+   "breaking": false,
+   "important": false,
+   "keywords": ["FBI", "아르텍스"],
+   "title": "FBI, AI 해킹도구 '아르텍스' 긴급 경보",
+   "summary": "침투부터 권한 탈취까지 3시간 안에 끝낸 사례도 있었어요.",
+   "details": [
+    "FBI는 13일 긴급 경보에서 아르텍스가 정찰부터 자료 빼내기까지 해킹 여러 단계를 자동화한다고 했어요.",
+    "금융·정부·반도체·에너지 등을 노렸고, 한국 금융기관 공격에도 쓰인 것으로 보도됐어요.",
+    "나와의 연결: 은행·증권 계좌가 여러 곳이라, 문자 속 링크 대신 공식 앱에서 직접 확인하는 습관이 좋아요."
+   ],
+   "note": "SBH뉴스가 전한 국내 금융권 약 6만7천 건 유출 규모는 다른 매체로 확인하지 못했어요.",
+   "sources": [
+    {"title": "The Record", "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert"}
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "사법",
+   "breaking": false,
+   "important": false,
+   "keywords": ["한덕수"],
+   "title": "한덕수 상고심, 19일 대법원 전원합의체",
+   "summary": "구속 기간은 20일에 끝나요.",
+   "details": [
+    "대법원 전원합의체가 19일 한덕수 전 총리의 내란 관련 사건 상고심을 다뤄요.",
+    "한 전 총리는 1심 징역 23년, 2심 징역 15년을 받았어요."
+   ],
+   "note": "19일이 선고인지 심리인지 매체마다 다르게 전하고 있어요.",
+   "sources": [
+    {"title": "노컷뉴스", "url": "https://www.nocutnews.co.kr/news/6604986"}
+   ]
+  }
+ ],
+ "watch": [
+  "19일 선전 미중러 정상회담과 트럼프·김정은 만남 여부",
+  "이란의 보복 여부와 호르무즈 해협 유가",
+  "20일 지하철 준법투쟁, 25일 총파업 여부",
+  "26일 한은 금통위, 12월 8~9일 미 FOMC"
+ ]
 }
