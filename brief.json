@@ -1,23 +1,23 @@
 {
- "date": "2026-11-18",
- "updatedLabel": "11/18 22:02",
+ "date": "2026-11-19",
+ "updatedLabel": "11/19 07:10",
  "kicker": "오늘의 한 줄",
- "headline": "이란, 쿠웨이트까지 드론 공격… 걸프 확전 우려 커져",
- "subhead": "내일은 수능과 선전 미중러 정상회담이 함께 열리고, 미 10년물은 5.10%예요.",
- "advice": "유가·미 금리가 높게 버티는 동안 채권은 만기 보유 원칙대로 두고, 새로 담는 속도만 점검해 보세요.",
- "marketsAsOf": "11/17 뉴욕 · 11/18 서울 마감 기준",
+ "headline": "오늘 수능·선전 미중러 회담… 걸프 긴장에도 유가는 하락",
+ "subhead": "연준 0.5%p 인상론이 퍼지며 미 10년물은 5.07%, 금값은 3.5% 급락했어요.",
+ "advice": "연준 인상 기대가 커진 만큼, 달러 예금 사다리는 만기마다 재예치 금리를 비교해 보세요.",
+ "marketsAsOf": "11/18 뉴욕 · 11/18 서울 마감 기준 (2년물은 보합 보도 기준)",
  "markets": [
   {
    "label": "미 10년물",
-   "value": "5.10%",
-   "change": "-0.02%p",
+   "value": "5.07%",
+   "change": "-0.04%p",
    "dir": "down"
   },
   {
    "label": "미 2년물",
-   "value": "4.81%",
-   "change": "-0.02%p",
-   "dir": "down"
+   "value": "4.8%대",
+   "change": "보합",
+   "dir": "flat"
   },
   {
    "label": "미 기준금리",
@@ -33,8 +33,8 @@
   },
   {
    "label": "S&P 500",
-   "value": "7,340.53",
-   "change": "-1.03%",
+   "value": "7,323.63",
+   "change": "-0.23%",
    "dir": "down"
   },
   {
@@ -51,29 +51,30 @@
    "breaking": false,
    "important": true,
    "keywords": [
-    "쿠웨이트"
+    "이란",
+    "항모"
    ],
-   "title": "이란, 쿠웨이트 미군기지에도 드론 공격",
-   "summary": "미국의 케슘섬 공습 뒤 걸프 지역 공격이 더 넓어졌어요.",
+   "title": "이란 걸프 공격 이어져… 미 항모 3척째 도착",
+   "summary": "쿠웨이트·바레인이 또 드론 공격을 막았어요.",
    "details": [
-    "미군이 17일 호르무즈 해협 케슘섬의 혁명수비대 미사일 기지를 '자위' 차원이라며 정밀 공격했어요. 이란이 바레인 미군 레이더를 노린 지 몇 시간 뒤였어요.",
-    "18일엔 쿠웨이트와 바레인이 드론 공격을 막았다고 했어요. 이란군은 쿠웨이트 알리 알살렘 공군기지의 미군 방공·미사일 시설을 노렸다고 주장했어요.",
-    "17일 밤 호르무즈 해협에선 UAE 국영석유회사 ADNOC 선박이 공격받아 11명이 다치고 1명이 실종됐어요.",
-    "나와의 연결: 유가가 높게 버티면 미국 금리도 높게 유지되기 쉬워, 달러 정기예금 재예치 금리엔 유리할 수 있어요."
+    "미국이 호르무즈 해협 케슘섬 미사일 기지를 친 뒤, 이란이 쿠웨이트 미군 공군기지와 바레인을 노렸어요. 쿠웨이트가 방공망을 가동한 건 9월 초 이후 처음이에요.",
+    "바레인은 6일 동안 네 번 공격을 받았어요. 이란 군 수뇌부는 세 번째 미 항공모함이 도착하자 더 강하게 반격하겠다고 경고했어요.",
+    "호르무즈 해협은 열려 있지만 통행량이 전쟁 전보다 약 65% 적어요.",
+    "나와의 연결: 긴장에도 유가는 8월 이후 최저로 내려와, 달러·금리 쪽 충격은 아직 크지 않아요."
    ],
-   "note": "이란 측은 케슘섬 피해가 크지 않았다고 했고, 쿠웨이트 기지 피해는 확인되지 않았어요.",
+   "note": "이란의 미 MQ-9 드론 격추 주장과 미 해군 측의 '통항 보험료 6,400만 달러' 발언은 독립적으로 확인되지 않았어요.",
    "sources": [
     {
-     "title": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+     "title": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"
     },
     {
      "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+     "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open"
     },
     {
-     "title": "The National",
-     "url": "https://www.thenationalnews.com/news/us/2026/11/17/us-jets-strike-irgc-missile-launch-site-on-irans-qeshm-island-in-self-defence/"
+     "title": "Al Jazeera 라이브",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
     }
    ]
   },
@@ -84,84 +85,24 @@
    "important": true,
    "keywords": [
     "수능",
-    "전자기기"
+    "10시"
    ],
-   "title": "내일 수능, 전자기기 걸리면 시험 무효",
-   "summary": "AI 안경은 쓰기만 해도 다음 해 응시까지 막힐 수 있어요.",
+   "title": "오늘 수능… 서울 영하 한파, 증시는 10시 개장",
+   "summary": "6년 만의 수능 한파에 출근·증시 시간도 늦춰져요.",
    "details": [
-    "19일 수능에선 휴대전화, 스마트워치, AI 스마트 안경, 블루투스 이어폰 등 모든 전자기기를 가지고 들어갈 수 없어요. 가져왔다면 1교시 전 감독관에게 내야 해요.",
-    "지니고 있다 걸리면 그 시험은 무효예요. 정부는 시험 전날까지 마지막 점검을 하고 있어요.",
-    "나와의 연결: 수험생이 아니어도 내일 아침엔 출근 시간이 늦춰지고 듣기평가 시간엔 비행기 이착륙도 멈춰요."
-   ],
-   "note": "출근 시간·항공 통제는 해마다 시행되는 조치로, 올해 세부 시간은 공식 발표를 확인하세요.",
-   "sources": [
-    {
-     "title": "정책브리핑",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975290"
-    },
-    {
-     "title": "노컷뉴스",
-     "url": "https://www.nocutnews.co.kr/issue/hotissue/19564?c=256&l=2"
-    }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "증시",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "코스피",
-    "5,000선"
-   ],
-   "title": "엔비디아 실적에 코스피 5,000선 되찾아",
-   "summary": "4일 연속 하락을 끊고 1.99% 오른 5,067로 마감했어요.",
-   "details": [
-    "코스피는 외국인 매도에 한때 4,943까지 밀렸다가, 기관이 5,500억 원어치를 사며 5,067.44로 마쳤어요. 코스닥도 1.96% 올랐어요.",
-    "삼성전자는 2.31%, SK하이닉스는 4.19% 올랐어요. 외국인은 여전히 3,300억 원 가까이 팔았어요.",
-    "원/달러 환율은 오후 3시 30분 기준 5.2원 내린 1,333.0원이었어요.",
-    "나와의 연결: 삼성전자·SK하이닉스와 반도체 커버드콜 ETF가 이 흐름을 타요. 외국인 매도가 이어져 한 번에 늘리기보다 나눠 보는 게 좋아요."
+    "기상청에 따르면 서울 아침 기온이 영하 1도까지 내려가고, 19~20일 아침은 전국이 영하권이에요.",
+    "코스피·코스닥 정규장은 오전 10시에 열려 오후 4시 30분에 닫아요. 넥스트레이드 프리마켓은 쉬어요.",
+    "휴대전화·스마트워치·AI 안경 같은 전자기기는 시험장에 가지고 들어갈 수 없어요.",
+    "나와의 연결: 국내 주식·ETF 주문은 10시부터 되고, 금현물 시장은 오후 3시 30분에 끝나요."
    ],
    "sources": [
     {
-     "title": "파이낸셜뉴스",
-     "url": "https://www.fnnews.com/news/202611181541225731"
+     "title": "서플 (SBS Biz)",
+     "url": "https://supple.kr/news/cmwfr0iqt1kt9al9pg6lxq4sx"
     },
     {
      "title": "뉴스핌",
-     "url": "https://www.newspim.com/news/view/20261118001065"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "사고",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "태안",
-    "7명"
-   ],
-   "title": "태안 앞바다서 7명 탄 어선 실종",
-   "summary": "대형 상선과 부딪쳤을 가능성까지 조사하고 있어요.",
-   "details": [
-    "18일 충남 태안 서격렬비도 근처에서 7.93톤 통발어선 '해광호'가 연락이 끊겼어요. 7명이 타고 있었어요.",
-    "해경은 함선 26척과 항공기 8대를 보냈지만 풍랑주의보로 수색이 어려워요. 바다가 넓어 중국 당국에도 도움을 요청했어요.",
-    "마지막 위치가 큰 상선 항로와 겹쳐, 그 시간 지나간 3만 톤급 상선 4척을 조사하고 있어요."
-   ],
-   "note": "사고 원인은 아직 밝혀지지 않았어요.",
-   "sources": [
-    {
-     "title": "오마이뉴스",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286260"
-    },
-    {
-     "title": "아시아경제",
-     "url": "https://view.asiae.co.kr/article/2026111808592764983"
-    },
-    {
-     "title": "신아일보",
-     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085050"
+     "url": "https://www.newspim.com/news/view/20261118001244"
     }
    ]
   },
@@ -171,78 +112,28 @@
    "breaking": false,
    "important": false,
    "keywords": [
-    "미중러",
-    "정상회담"
+    "미중러"
    ],
-   "title": "내일 선전에서 미중러 첫 정상회담",
-   "summary": "핵무기 감축이 주제지만 큰 합의는 기대하지 않는 분위기예요.",
+   "title": "오늘 선전서 미중러 첫 3자 정상회담",
+   "summary": "APEC이 18일 개막했고, 트럼프와 푸틴은 만찬 전 악수했어요.",
    "details": [
-    "중국 선전에서 APEC 정상회의가 열리고, 19일엔 트럼프·시진핑·푸틴의 첫 3자 회담이 열려요.",
-    "백악관은 핵 확산 문제를 다룬다고 했지만, 미국 관리는 합의는 기대하지 않는다고 했어요. 우크라이나 전쟁은 꺼내지 않을 예정이에요.",
-    "나와의 연결: 미중 관계가 풀리면 대만해협 긴장과 반도체 주식 흐름에도 영향을 줄 수 있어요."
+    "트럼프·시진핑·푸틴 세 정상이 19일 중국 선전에서 처음으로 함께 만나요.",
+    "핵 확산 문제가 주제로 알려졌지만, 큰 합의는 기대하지 않는 분위기예요.",
+    "대만에선 에이서 창업자 스탠 시가 대표로 APEC에 참석했어요.",
+    "나와의 연결: 미중 관계 흐름은 대만해협 긴장과 반도체 주식에 함께 영향을 줘요."
    ],
    "sources": [
     {
-     "title": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+     "title": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says"
     },
     {
-     "title": "China Global South",
-     "url": "https://chinaglobalsouth.com/2026/11/16/2026-apec-summit-shenzhen-china/"
-    }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "금리",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "뉴욕증시",
-    "4일째"
-   ],
-   "title": "뉴욕증시 4일째 하락… 12월 금리 인상 무게",
-   "summary": "S&P 500은 7월 말 이후 가장 낮은 수준이에요.",
-   "details": [
-    "17일 다우는 1.64%, S&P 500은 1.03%, 나스닥은 0.74% 내렸어요.",
-    "미 10년물 금리는 5.10% 안팎으로 여전히 5%대예요. 월러 연준 이사는 12월 0.25%p 인상에 기울어 있고, 물가가 계속 높으면 0.5%p 인상도 검토해야 한다고 했어요.",
-    "나와의 연결: S&P 500·나스닥100 ETF 비중이 꽤 있어 하락 구간엔 나눠서 보는 계획이 유리하고, 금리가 높을 땐 새로 사는 채권 이자도 높아져요."
-   ],
-   "note": "월러 발언은 11월 10일 런던 연설 내용이에요.",
-   "sources": [
-    {
-     "title": "AP (MyMotherLode 게재)",
-     "url": "https://mymotherlode.com/news/national/11318894/how-major-us-stock-indexes-fared-tuesday-11-17-2026.html"
+     "title": "서울신문",
+     "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/19/20261119004005"
     },
     {
-     "title": "StockAnalysis",
-     "url": "https://stockanalysis.com/news/fed-waller-december-rate-hike-half-point/"
-    }
-   ]
-  },
-  {
-   "tag": "war",
-   "tagLabel": "대만",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "대만"
-   ],
-   "title": "중국 대만 주변 '조용한 훈련'… 대만 증시도 출렁",
-   "summary": "대만 증시는 정부 안정기금 개입 속에 4만 선을 겨우 지켰어요.",
-   "details": [
-    "대만 안보 당국자는 이달 초 중국 군함과 해경선 100척 넘게 서태평양과 대만 주변에 모였다고 로이터에 말했어요. 중국은 일상 훈련이라고 했어요.",
-    "대만 가권지수는 17일 2.31% 내린 40,092로 마감했어요. 전날 6% 넘게 떨어진 뒤였고, TSMC는 2.03% 내렸어요.",
-    "나와의 연결: 대만 친척들이 사는 곳의 안보 소식이고, 보유한 TSM·대만테크 ETF가 같은 흐름을 타요."
-   ],
-   "sources": [
-    {
-     "title": "Reuters (WHBL 게재)",
-     "url": "https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/"
-    },
-    {
-     "title": "Taipei Times",
-     "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/18/2003867918"
+     "title": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/"
     }
    ]
   },
@@ -254,73 +145,151 @@
    "keywords": [
     "김정은"
    ],
-   "title": "트럼프 \"중국에서 김정은 만날 수도\"",
-   "summary": "김정은의 참석은 시진핑에게 달렸다고 했어요.",
+   "title": "김정은 방중 여부 촉각… 함경남도서 활동",
+   "summary": "북미 정상의 '깜짝 회동' 가능성이 거론돼요.",
    "details": [
-    "트럼프 대통령은 순방을 떠나며 중국에서 김정은 위원장을 만날 수도 있다고 했어요.",
-    "김정은은 15~16일 중국 접경 백두산 지역을 둘러봤지만, 정부 당국자는 특별한 이동 징후는 없다고 했어요.",
-    "한국 정부는 회담에서 북한을 핵보유국으로 인정하는 분위기가 생기면 안 된다는 입장이에요."
+    "북한 매체는 김정은이 18일 함경남도 해군대학을 찾았다고 19일 보도했어요. 방중 움직임은 아직 포착되지 않았어요.",
+    "16일 김정은 측근 조용원 비서가 모스크바에서 푸틴을 만났고, 크렘린은 김정은이 중국에 오면 푸틴과 만날 수 있다고 했어요.",
+    "전문가들은 만나더라도 구체적 협상보다는 짧고 상징적인 회동일 가능성이 크다고 봐요."
    ],
    "sources": [
     {
-     "title": "서플 (연합뉴스)",
-     "url": "https://supple.kr/news/cmwk6otkddtlbjkun3gxfwrzi"
+     "title": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261119000028"
+    },
+    {
+     "title": "서울신문",
+     "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/19/20261119004005"
+    }
+   ]
+  },
+  {
+   "tag": "kr",
+   "tagLabel": "한반도",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "북한인권",
+    "기권"
+   ],
+   "title": "미국, 유엔 북한인권 결의안 첫 기권",
+   "summary": "22년간 공동제안해 온 미국이 처음으로 빠졌어요.",
+   "details": [
+    "유엔 제3위원회에서 한국·일본·EU가 낸 북한인권 결의안이 찬성 95, 반대 14, 기권 58로 통과됐어요.",
+    "2016년 이후 표결 없이 채택돼 왔는데, 올해는 미국이 표결을 요청하고 기권했어요. 국제형사재판소 관련 문구에 반대했기 때문이에요.",
+    "미국은 북한 인권 상황에 대한 평가는 바뀌지 않았다고 했어요. 결의안은 12월 유엔총회 본회의로 넘어가요."
+   ],
+   "sources": [
+    {
+     "title": "서플",
+     "url": "https://supple.kr/news/cmwmm7kr2jveptevdr2x57puq"
+    }
+   ]
+  },
+  {
+   "tag": "econ",
+   "tagLabel": "증시",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "엔비디아",
+    "561"
+   ],
+   "title": "엔비디아 호실적에도 다우 561p 하락",
+   "summary": "나스닥만 0.42% 올랐고, 앤트로픽 공모가는 83달러로 정해졌어요.",
+   "details": [
+    "18일 다우는 1.11%, S&P 500은 0.23% 내렸고 나스닥은 0.42% 올랐어요. 유나이티드헬스 등 보험주가 6% 안팎 떨어진 영향이 컸어요.",
+    "엔비디아 3분기 매출은 1,158억 달러로 예상을 넘었고 다음 분기 전망도 1,300억 달러로 높았지만, 주가는 2.68% 내려 5일째 하락했어요. CEO 교체 여파가 이어지고 있어요.",
+    "앤트로픽 공모가는 희망 범위 70~78달러보다 높은 83달러로 정해졌고, 19일 나스닥에서 거래를 시작해요.",
+    "나와의 연결: 보유한 NVDA는 하루 등락보다 정해 둔 대응 규칙과 증권사 달러 평단 기준으로 점검하는 게 좋아요."
+   ],
+   "note": "앤트로픽 공모가는 블룸버그 보도를 야후 파이낸스가 전한 내용이에요.",
+   "sources": [
+    {
+     "title": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+    },
+    {
+     "title": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261118001455"
+    }
+   ]
+  },
+  {
+   "tag": "econ",
+   "tagLabel": "금리",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "0.5%p",
+    "금값"
+   ],
+   "title": "연준 12월 0.5%p 인상론… 금값 3.5% 급락",
+   "summary": "1월까지 0.5%p 인상을 점치는 투자자가 69%로 늘었어요.",
+   "details": [
+    "월러 연준 이사는 12월에 0.25%p만 올리려면 1월 추가 인상 신호가 분명해야 하고, 아니면 0.5%p를 올려야 한다고 했어요.",
+    "CME 페드워치에선 1월 말까지 0.5%p 인상을 예상하는 비율이 한 달 전 38%에서 69%로 뛰었어요. 미 10년물은 5.07%로 조금 내렸어요.",
+    "금값은 3.52% 내린 3,728달러, 원유는 3% 넘게 내려 브렌트유가 8월 말 이후 처음 90달러 아래로 갔어요.",
+    "나와의 연결: 미 금리가 높게 버티면 달러 정기예금·RP 재예치 금리엔 유리하고, 금 관련 비중은 작아 영향이 제한적이에요."
+   ],
+   "sources": [
+    {
+     "title": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
     }
    ]
   },
   {
    "tag": "etc",
-   "tagLabel": "사회",
+   "tagLabel": "대만",
    "breaking": false,
    "important": false,
    "keywords": [
-    "지하철",
-    "25일"
+    "러시아",
+    "대만"
    ],
-   "title": "서울 지하철 25일 총파업 예고",
-   "summary": "20일부터는 준법투쟁으로 열차가 늦어질 수 있어요.",
+   "title": "러시아 군용기 대만 방공식별구역 진입",
+   "summary": "국민당은 '10년 통일 계획' 문건이 당 정책이 아니라고 했어요.",
    "details": [
-    "서울교통공사 노조는 임금 인상, 인력 감축 철회, 충원 등을 요구하며 협상이 안 되면 25일부터 파업한다고 했어요.",
-    "수능 다음 날인 20일부터 준법투쟁을 시작하고, 공항철도·GTX-A 노조도 함께해요. 코레일 노조는 23일부터 동참해요.",
-    "나와의 연결: 등하교에 지하철을 쓴다면 20일 이후엔 시간을 넉넉히 잡는 게 좋아요."
+    "대만 국방부는 17일 러시아 군용기가 대만 방공식별구역에 들어왔다고 밝혔어요.",
+    "같은 날 중국 당국을 위해 반중 유튜버를 감시한 혐의로 사설탐정 3명이 기소됐어요.",
+    "대만은 17일 미국 전역에 홍역 여행경보 2단계를 내렸어요. 대만 증시는 17일 급락 뒤 18일 상승 출발했어요.",
+    "나와의 연결: 대만 친척들이 사는 곳의 안보 소식이고, 보유한 TSM·대만테크 ETF와도 이어져요."
    ],
-   "note": "SBH뉴스는 '무기한' 파업이라고 전했고, 노조는 즉시 협상할 준비가 됐다고 했어요.",
    "sources": [
     {
-     "title": "서플 (연합뉴스)",
-     "url": "https://supple.kr/news/cmwaa6mpt6upqal9p9dkx6xgk"
+     "title": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/"
     }
    ]
   },
   {
-   "tag": "etc",
-   "tagLabel": "보안",
+   "tag": "war",
+   "tagLabel": "가자",
    "breaking": false,
    "important": false,
    "keywords": [
-    "FBI",
-    "아르텍스"
+    "가자"
    ],
-   "title": "FBI, AI 해킹도구 '아르텍스' 긴급 경보",
-   "summary": "침투부터 권한 탈취까지 3시간 안에 끝낸 사례도 있었어요.",
+   "title": "이스라엘, 가자 중부 '집중 작전' 시작",
+   "summary": "하마스는 휴전 합의 위반이라고 반발했어요.",
    "details": [
-    "FBI는 13일 긴급 경보에서 아르텍스가 정찰부터 자료 빼내기까지 해킹 여러 단계를 자동화한다고 했어요.",
-    "금융·정부·반도체·에너지 등을 노렸고, 한국 금융기관 공격에도 쓰인 것으로 보도됐어요.",
-    "나와의 연결: 은행·증권 계좌가 여러 곳이라, 문자 속 링크 대신 공식 앱에서 직접 확인하는 습관이 좋아요."
+    "이스라엘군은 가자지구 중부 세 지역에서 '집중 작전'을 시작했다고 밝혔어요.",
+    "하마스는 이를 휴전 합의를 노골적으로 어긴 것이라고 비판했어요."
    ],
-   "note": "SBH뉴스가 전한 국내 피해 규모와 18일 자바 취약점 긴급점검 소식은 다른 매체로 확인하지 못했어요.",
+   "note": "작전 규모와 피해는 아직 확인되지 않았어요.",
    "sources": [
     {
-     "title": "The Record",
-     "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert"
+     "title": "Al Jazeera 라이브",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
     }
    ]
   }
  ],
  "watch": [
-  "19일 수능과 선전 미중러 정상회담, 트럼프·김정은 만남 여부",
-  "걸프 지역 드론 공격 확산과 호르무즈 유가",
-  "태안 실종 어선 수색 결과",
-  "20일 지하철 준법투쟁·25일 총파업, 26일 한은 금통위"
+  "오늘 미중러 정상회담 결과와 김정은 방중·북미 회동 여부",
+  "앤트로픽 상장 첫날과 엔비디아 주가 흐름",
+  "20일 지하철 준법투쟁·25일 총파업 예고",
+  "26일 한은 금통위와 12월 연준 인상 폭"
  ]
 }
