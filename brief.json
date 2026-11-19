@@ -1,22 +1,22 @@
 {
- "date": "2026-11-19",
- "updatedLabel": "11/19 22:03",
+ "date": "2026-11-20",
+ "updatedLabel": "11/20 07:10",
  "kicker": "오늘의 한 줄",
- "headline": "미중러 첫 '평화선언'… 핵전쟁 반대·석유 공급 확대 합의",
- "subhead": "코스피는 5,137로 반등했고, 원/달러는 1,330원으로 2년 만의 최저 수준이에요.",
- "advice": "연준이 12월 인상을 시사해 달러 예금 금리가 오를 수 있어요. 사다리 재예치 때 금리를 비교해 보세요.",
- "marketsAsOf": "11/18 뉴욕 · 11/19 서울 마감 기준 (미 2년물은 11/17)",
+ "headline": "뉴욕증시 2% 급락… S&P 500 6일째 하락",
+ "subhead": "앤트로픽은 상장 첫날 17% 올랐고, 한국은 연간 수출 1조 달러를 넘었어요.",
+ "advice": "기술주 급락 땐 반도체 비중이 목표보다 큰지 보고, 엔비디아는 정해 둔 대응 규칙대로만 움직이세요.",
+ "marketsAsOf": "11/19 뉴욕 · 11/19 서울 마감 기준",
  "markets": [
   {
    "label": "미 10년물",
-   "value": "5.07%",
-   "change": "-0.04%p",
+   "value": "5.04%",
+   "change": "-0.02%p",
    "dir": "down"
   },
   {
    "label": "미 2년물",
-   "value": "4.80%",
-   "change": "-0.03%p",
+   "value": "4.76%",
+   "change": "-0.04%p",
    "dir": "down"
   },
   {
@@ -33,8 +33,8 @@
   },
   {
    "label": "S&P 500",
-   "value": "7,323.63",
-   "change": "-0.23%",
+   "value": "7,175.83",
+   "change": "-2.02%",
    "dir": "down"
   },
   {
@@ -46,95 +46,35 @@
  ],
  "stories": [
   {
-   "tag": "etc",
-   "tagLabel": "미중러",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "미중러",
-    "평화선언"
-   ],
-   "title": "미중러 첫 3자 회담… '평화선언' 채택",
-   "summary": "90분 회담 끝에 핵전쟁 반대와 석유 공급 확대에 뜻을 모았어요.",
-   "details": [
-    "19일 선전에서 트럼프·시진핑·푸틴이 약 1시간 30분 동안 처음으로 3자 회담을 했어요.",
-    "세 정상은 핵전쟁은 이길 수도, 벌여서도 안 된다는 원칙을 재확인하고 핵위험 감소·핵확산 방지 대화를 하기로 했어요. 정제 석유제품 공급 확대와 유엔 개혁 협력도 담겼어요.",
-    "전문가들은 우크라이나·이란·무역에서 의견 차이가 커서 오래갈 성과인지는 의문이라고 봤어요.",
-    "나와의 연결: 석유 공급 확대 약속은 유가와 물가, 미국 금리 흐름에 영향을 줄 수 있어요."
-   ],
-   "note": "성명은 중국·러시아 매체가 먼저 공개했고, 미국 정부의 별도 발표는 이 시점까지 확인하지 못했어요.",
-   "sources": [
-    {
-     "title": "Al-Monitor (Reuters 인용)",
-     "url": "https://www.al-monitor.com/originals/2026/11/china-and-russia-release-peace-declaration-after-trump-xi-putin-meeting"
-    },
-    {
-     "title": "헤럴드경제",
-     "url": "https://biz.heraldcorp.com/article/10943239"
-    },
-    {
-     "title": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit"
-    }
-   ]
-  },
-  {
-   "tag": "econ",
-   "tagLabel": "금리",
-   "breaking": false,
-   "important": true,
-   "keywords": [
-    "연준",
-    "12월 인상"
-   ],
-   "title": "연준 의사록 \"대부분 추가 인상 예상\"… 12월 인상 무게",
-   "summary": "10월 회의록에서 거의 모든 위원이 금리를 더 올려야 한다고 봤어요.",
-   "details": [
-    "18일 공개된 연준 10월 회의록에서 거의 모든 위원이 추가 금리 인상을 예상했어요.",
-    "물가 걱정과 함께 AI 투자 과열에 대한 우려도 논의됐어요. 시장은 12월 인상 가능성을 더 높게 보고 있어요.",
-    "인상 기대가 달러를 받치면서 유가에는 부담이 됐어요.",
-    "나와의 연결: 달러 비중이 큰 만큼 미국 금리가 오르면 달러 예금·RP 금리도 오를 수 있어요."
-   ],
-   "sources": [
-    {
-     "title": "Bloomberg",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-minutes-show-almost-all-officials-expect-more-rate-hikes"
-    },
-    {
-     "title": "Washington Post",
-     "url": "https://www.washingtonpost.com/business/2026/11/18/federal-reserve-inflation-rates/a9391062-e383-11f1-a99e-b3e3805c6b8b_story.html"
-    },
-    {
-     "title": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/energy/oil-prices-steady-as-middle-east-shipping-attacks-counter-supply-surplus-outlook-3012868"
-    }
-   ]
-  },
-  {
    "tag": "econ",
    "tagLabel": "증시",
    "breaking": false,
-   "important": false,
+   "important": true,
    "keywords": [
-    "코스피",
-    "1,330원"
+    "뉴욕증시",
+    "앤트로픽"
    ],
-   "title": "코스피 5,137 반등 마감… 환율 1,330원",
-   "summary": "장 초반 5,000선이 깨졌다가 반도체주 힘으로 1.4% 올랐어요.",
+   "title": "뉴욕증시 2% 급락… 앤트로픽만 17% 올라",
+   "summary": "다우가 1,101포인트 떨어지는 등 3대 지수가 모두 2% 넘게 내렸어요.",
    "details": [
-    "수능으로 늦게 열린 코스피는 5,137.89로 1.39% 올랐고, 코스닥은 3.32% 뛰었어요.",
-    "삼성전기 9%, SK하이닉스 3% 넘게 올랐지만 외국인은 코스피에서 4,374억 원을 팔았어요.",
-    "원/달러 환율은 1,330.0원으로 3원 내려 약 2년 만의 최저 수준을 이어갔어요. 앤트로픽은 한국시간 오늘 밤 나스닥에서 공모가 83달러로 거래를 시작해요.",
-    "나와의 연결: 원화가 강해지면 달러 자산의 원화 환산액은 줄어 보여요. 달러를 쓰는 계획에는 영향이 작아요."
+    "19일 S&P 500은 2.02% 내린 7,175.83, 나스닥은 2.25%, 다우는 2.19% 떨어졌어요. S&P 500은 6거래일 연속 하락이에요.",
+    "헌터브룩 캐피털이 AMD 공매도 사실을 밝히며 중국 연관성을 문제 삼자 AMD가 7.7% 급락했고, 엔비디아도 3.3% 내렸어요. AI 투자 과열 우려도 겹쳤어요.",
+    "앤트로픽은 공모가 83달러보다 34% 높은 111.50달러에 거래를 시작해 97.17달러(+17%)로 마쳤어요. 금값은 2% 내려 온스당 3,660달러대였어요.",
+    "나와의 연결: 엔비디아·TSM 같은 반도체 보유분이 흔들리는 날이라, 정해 둔 대응 규칙과 비중을 먼저 확인하면 좋아요."
    ],
+   "note": "앤트로픽 시초가·종가는 야후파이낸스·서울신문 기준이에요. 금값은 장중 시점 값이에요.",
    "sources": [
     {
-     "title": "뉴스핌",
-     "url": "https://www.newspim.com/news/view/20261119001168"
+     "title": "서울신문",
+     "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500007"
     },
     {
-     "title": "CBS News",
-     "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
+     "title": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
+    {
+     "title": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
     }
    ]
   },
@@ -142,27 +82,131 @@
    "tag": "war",
    "tagLabel": "이란전쟁",
    "breaking": false,
+   "important": true,
+   "keywords": [
+    "트럼프",
+    "이란"
+   ],
+   "title": "트럼프, 이란 추가 공습 저울질… 걸프 공격 잇따라",
+   "summary": "오만 앞바다 유조선 피격, 리야드 고층빌딩 손상 소식이 이어졌어요.",
+   "details": [
+    "18일 오만 카사브 북쪽 약 11km 해상에서 유조선 기관실이 정체불명의 발사체에 맞았고, 선원은 모두 무사했어요.",
+    "19일 새벽 리야드의 80층 PIF 타워가 손상됐고, 사우디 연합군은 후티 미사일 위협에 대응했다고 밝혔어요. 이란은 쿠웨이트·바레인 쪽으로도 드론을 쐈다고 보도됐어요.",
+    "트럼프는 오래가는 합의를 원한다면서도 곧 끝내겠다고 말했어요. 미국·이스라엘 합동 공습은 아직 결정되지 않았어요.",
+    "나와의 연결: 확전되면 유가와 달러가 같이 움직일 수 있어요."
+   ],
+   "note": "합동 공습 검토는 이스라엘 매체 보도이고, 미국 정부가 확인하지 않았어요.",
+   "sources": [
+    {
+     "title": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"
+    }
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "대만",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "대만",
+    "독립"
+   ],
+   "title": "대만 \"3자회담 초점 아냐\"… 트럼프 '독립 반대' 보도도",
+   "summary": "대만 대륙위원회는 회담이 우크라이나·이란 위주였다고 봤어요.",
+   "details": [
+    "대만 대륙위원회는 19일 정례 브리핑에서 아는 범위에선 대만이 회담의 초점이 아니었다고 말했어요.",
+    "중국 신화통신은 트럼프가 미국은 대만 독립을 지지하지 않는다고 말했다고 전했지만, 공식 회의록은 나오지 않았어요.",
+    "대만 입법원은 20일 1인당 2만 대만달러 현금 지급안 표결을 앞두고 있고, 라이칭더 총통은 재정 부담을 이유로 반대했어요.",
+    "나와의 연결: 대만 친척들이 사는 곳의 정세이고, 보유한 TSM·대만테크 ETF와도 이어져요."
+   ],
+   "note": "트럼프 발언은 신화통신 보도만 있고, 미국 측 확인은 없어요.",
+   "sources": [
+    {
+     "title": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/politics/202611190018"
+    },
+    {
+     "title": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/politics/202611180024"
+    }
+   ]
+  },
+  {
+   "tag": "econ",
+   "tagLabel": "수출",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "수출",
+    "1조 달러"
+   ],
+   "title": "한국 연간 수출 1조 달러 돌파… 세계 4번째",
+   "summary": "독일·미국·중국에 이어 네 번째로 수출 1조 달러를 넘었어요.",
+   "details": [
+    "산업통상부와 관세청은 19일 오후 2시 9분, 올해 누적 수출이 1조 달러를 넘었다고 밝혔어요.",
+    "반도체가 수출의 약 40%를 차지했고, 반도체를 뺀 품목도 1~10월에 20% 늘었어요.",
+    "수출 소식에 달러를 파는 물량이 늘며 원/달러 환율은 뉴욕장에서 1,328원대로 내려왔어요.",
+    "나와의 연결: 원화가 강해지면 달러 자산의 원화 환산액은 줄어 보여요. 달러는 달러로 쓰는 계획이라 영향은 작아요."
+   ],
+   "sources": [
+    {
+     "title": "아시아경제",
+     "url": "https://view.asiae.co.kr/article/2026111916023762757"
+    },
+    {
+     "title": "스톡플러스",
+     "url": "https://newsroom.stockplus.com/breaking-news/44252"
+    }
+   ]
+  },
+  {
+   "tag": "war",
+   "tagLabel": "우크라",
+   "breaking": false,
+   "important": false,
+   "keywords": [
+    "푸틴",
+    "협상"
+   ],
+   "title": "푸틴 \"협상 안 한다\"… 크림대교 피격에 반발",
+   "summary": "유럽은 겨울 에너지 휴전을 요구했지만 러시아는 거절했어요.",
+   "details": [
+    "우크라이나는 넵튠 미사일로 크림대교를 다시 공격했고, 열차 운행이 멈췄어요.",
+    "푸틴은 에너지·흑해 휴전 논의를 더 하지 않겠다고 말했어요. 같은 날 키이우 드론 공격으로 1명이 숨지고 네덜란드·오스트리아 대사관이 손상됐어요.",
+    "독일·프랑스·영국·우크라이나는 베를린 회의에서 겨울 동안 에너지 시설 공격을 멈추자고 러시아에 요구했어요."
+   ],
+   "sources": [
+    {
+     "title": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-russian-drones-kill-1-damage-2-european-embassies-cathedral-in-hours-long-drone-raid-on-kyiv/"
+    },
+    {
+     "title": "Kyiv Independent",
+     "url": "https://kyivindependent.com/coalition-of-the-willing-calls-on-russia-to-accept-winter-energy-truce/"
+    }
+   ]
+  },
+  {
+   "tag": "etc",
+   "tagLabel": "미중러",
+   "breaking": false,
    "important": false,
    "keywords": [
     "호르무즈",
-    "기뢰"
+    "G20"
    ],
-   "title": "호르무즈 동쪽서 유조선 기뢰 피격 주장",
-   "summary": "이란 해군은 유조선 3척이 기뢰에 맞아 멈췄다고 주장했어요.",
+   "title": "트럼프 \"시진핑도 호르무즈 개방 동의\"… G20에 푸틴 초청",
+   "summary": "3자 회담 뒤 'G3 시대'가 오는지 관심이 쏠려요.",
    "details": [
-    "이란 매체는 호르무즈 해협 동쪽을 지나던 유조선 3척이 기뢰로 운항 불능이 됐다고 전했어요.",
-    "그래도 해협 원유 운송은 전쟁 전 수준으로 돌아왔고 미국 재고도 늘어, 브렌트유는 배럴당 92달러 안팎에서 보합이었어요. WTI는 전날 8월 말 이후 최저로 내렸어요.",
-    "트럼프는 이란이 생물무기를 노린다는 징후가 있다고 주장했지만 근거는 밝히지 않았어요."
+    "트럼프는 시진핑이 호르무즈 해협은 열려 있어야 하고 이란은 핵무기를 가져선 안 된다는 데 동의했다고 말했어요.",
+    "트럼프는 다음 달 마이애미에서 여는 G20 정상회의에 푸틴을 초청했어요.",
+    "평화선언에는 국제형사재판소(ICC)가 지위를 남용해선 안 된다는 비판도 담겼어요."
    ],
-   "note": "피격 선박 수는 매체마다 달라요(이란 측 3척, 알자지라 제목 5척). 독립적으로 확인되지 않았어요.",
    "sources": [
     {
-     "title": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/energy/oil-prices-steady-as-middle-east-shipping-attacks-counter-supply-surplus-outlook-3012868"
-    },
-    {
      "title": "Al Jazeera",
-     "url": "https://aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz"
+     "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
     }
    ]
   },
@@ -173,133 +217,54 @@
    "important": false,
    "keywords": [
     "김정은",
-    "불발"
+    "해군"
    ],
-   "title": "트럼프 귀국길… 김정은 회동은 불발",
-   "summary": "트럼프가 아시아 순방을 마치고 미국으로 떠났어요.",
+   "title": "김정은, \"적 해군 활동\" 비난… 해군대학 방문",
+   "summary": "트럼프의 회동 제안 속에 북한은 해군력 강화를 강조했어요.",
    "details": [
-    "트럼프는 19일 3자 회담 뒤 선전에서 귀국길에 올랐어요.",
-    "앞서 김정은이 오고 싶어 한다며 만남 가능성을 말했지만 회동은 이뤄지지 않은 것으로 보여요.",
-    "트럼프는 핵확산 방지의 예로 이란을 들었고, 공동성명에 북한 관련 내용은 보도되지 않았어요."
+    "북한 매체에 따르면 김정은은 17~18일 함경남도를 돌며 김정숙해군대학을 찾았어요.",
+    "그는 적들의 해군 활동을 비난하며 전문 해군 지휘관 양성을 강조했어요.",
+    "트럼프는 이번 주 중국에서 만나자고 여러 번 공개 제안했지만 회동은 없었어요."
    ],
    "sources": [
     {
-     "title": "아시아경제",
-     "url": "https://view.asiae.co.kr/article/2026111920323690059"
+     "title": "NK News",
+     "url": "https://www.nknews.org/2026/11/kim-jong-un-slams-enemy-naval-activities-amid-trumps-calls-to-meet-in-china/"
     }
    ]
   },
   {
    "tag": "etc",
-   "tagLabel": "대만",
+   "tagLabel": "에너지",
    "breaking": false,
    "important": false,
    "keywords": [
-    "시진핑",
-    "대만"
+    "IEA",
+    "에너지 안보"
    ],
-   "title": "시진핑 \"미국 옳은 선택을\"… 대만은 성명서 빠져",
-   "summary": "평화선언에 대만 내용은 없었지만 시진핑이 미국에 경고했어요.",
+   "title": "IEA \"중동 위기, 에너지 안보 사상 최대 위협\"",
+   "summary": "국제에너지기구가 세계에너지전망 보고서에서 경고했어요.",
    "details": [
-    "시진핑은 트럼프에게 큰 차질을 피하려면 미국이 옳은 일을 해야 한다고 말했어요.",
-    "일본 다카이치 총리는 대만에 대한 일본 입장이 1972년 이후 바뀌지 않았다고 밝혔어요.",
-    "대만은 28일 원전 관련 국민투표를 앞두고 있어요.",
-    "나와의 연결: 대만 친척들이 사는 곳의 안보 소식이고, 보유한 TSM·대만테크 ETF와도 이어져요."
+    "IEA는 19일 낸 세계에너지전망에서 중동 위기를 역사상 가장 큰 에너지 안보 위협으로 꼽았어요.",
+    "다만 호르무즈 원유 운송은 전쟁 전 수준으로 돌아왔고, 브렌트유는 배럴당 92달러 안팎이에요.",
+    "나와의 연결: 에너지 불안이 길어지면 재생에너지 투자 관심이 커질 수 있어, 태양광 투자와도 연결돼요."
    ],
    "sources": [
     {
-     "title": "Al-Monitor (Reuters 인용)",
-     "url": "https://www.al-monitor.com/originals/2026/11/china-and-russia-release-peace-declaration-after-trump-xi-putin-meeting"
+     "title": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"
     },
     {
-     "title": "Focus Taiwan",
-     "url": "https://focustaiwan.tw/"
-    }
-   ]
-  },
-  {
-   "tag": "war",
-   "tagLabel": "예멘",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "리야드",
-    "후티"
-   ],
-   "title": "후티, 리야드 공항 노려 미사일… 사우디 \"요격\"",
-   "summary": "리야드에서 폭발음이 들렸고 민방위 경보가 나왔다가 풀렸어요.",
-   "details": [
-    "후티는 리야드 킹칼리드 국제공항과 금융센터를 향해 순항미사일을 쐈다고 주장했어요.",
-    "사우디 주도 연합군은 리야드를 노린 미사일을 막았다고 했고, 피해를 확인하고 있어요.",
-    "사우디 국방장관은 미 중부사령부 사령관을 만나 방위 협력을 논의했어요."
-   ],
-   "note": "후티의 공격 대상과 피해 주장은 사우디가 확인하지 않았어요.",
-   "sources": [
-    {
-     "title": "Times of Israel (Reuters 인용)",
-     "url": "https://www.timesofisrael.com/liveblog-november-19-2026/"
-    },
-    {
-     "title": "Al Jazeera",
-     "url": "https://aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz"
-    }
-   ]
-  },
-  {
-   "tag": "kr",
-   "tagLabel": "한반도",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "북한인권",
-    "기권"
-   ],
-   "title": "미국, 유엔 북한인권 결의안 첫 기권",
-   "summary": "22년간 공동제안해 온 미국이 처음으로 빠졌어요.",
-   "details": [
-    "유엔 제3위원회에서 한국·일본·EU가 낸 북한인권 결의안이 찬성 95, 반대 14, 기권 58로 통과됐어요.",
-    "미국은 국제형사재판소 관련 문구에 반대해 기권했고, 북한 인권 평가는 바뀌지 않았다고 했어요.",
-    "결의안은 12월 유엔총회 본회의로 넘어가요."
-   ],
-   "sources": [
-    {
-     "title": "서플",
-     "url": "https://supple.kr/news/cmwmm7kr2jveptevdr2x57puq"
-    }
-   ]
-  },
-  {
-   "tag": "etc",
-   "tagLabel": "교육",
-   "breaking": false,
-   "important": false,
-   "keywords": [
-    "수능",
-    "수학"
-   ],
-   "title": "2027 수능 끝… 국어·영어 쉽고 수학이 변별",
-   "summary": "입시업계는 수학이 6·9월 모의고사보다 다소 어려웠다고 봤어요.",
-   "details": [
-    "국어와 영어는 지난해보다 쉬워졌다는 평가가 많아요.",
-    "수학은 EBS가 작년과 비슷하다고 본 반면, 입시업체들은 다소 어려웠다고 분석했어요.",
-    "상위권 정시 경쟁에선 수학 점수가 더 중요해질 전망이에요."
-   ],
-   "sources": [
-    {
-     "title": "이투데이",
-     "url": "https://www.etoday.co.kr/news/view/2650494"
-    },
-    {
-     "title": "파이낸셜뉴스",
-     "url": "https://www.fnnews.com/news/202611191459511368"
+     "title": "FinanceFeeds (Reuters 인용)",
+     "url": "https://financefeeds.com/brent-crude-oil-price-92-12-thursday-eia-build-hormuz-mines-bull-96-bear-88/"
     }
    ]
   }
  ],
  "watch": [
-  "오늘 밤 앤트로픽 나스닥 첫 거래와 엔비디아 주가",
-  "평화선언에 대한 미국 정부 공식 입장과 핵 대화 일정",
-  "호르무즈 기뢰 피해 확인과 유가",
+  "오늘 밤 미 증시 7일째 하락 여부와 AMD·엔비디아",
+  "대만 입법원 현금 지급안 표결 결과",
+  "트럼프의 이란 추가 공습 결정",
   "26일 한은 금통위와 12월 연준 인상 폭"
  ]
 }
