@@ -1,113 +1,136 @@
 {
-  "advice": "코스피 급락 땐 국내 반도체 비중만 점검하고, 채권은 만기 보유, 추가 매수는 나눠서 천천히 하세요.",
   "date": "2026-11-20",
-  "headline": "코스피 4%대 급락… 5,000선 붕괴, 반도체주 직격",
+  "updatedLabel": "11/20 16:02",
   "kicker": "속보",
+  "headline": "코스피 5.21% 폭락 마감… 대만도 6% 급락, 아시아 '검은 금요일'",
+  "subhead": "외국인·기관이 2조 원 넘게 팔았고, 코스피·코스닥 매도 사이드카가 함께 발동됐어요.",
+  "advice": "주식 40%·달러 현금 30% 구조라 급락일엔 반도체·대만 비중만 점검하고, 매수는 며칠에 나눠 하세요.",
+  "marketsAsOf": "11/19 뉴욕 · 11/20 서울 마감 기준 (원/달러 1,336.2원, 15:30)",
   "markets": [
-    {"change": "-0.02%p", "dir": "down", "label": "미 10년물", "value": "5.04%"},
-    {"change": "-0.04%p", "dir": "down", "label": "미 2년물", "value": "4.76%"},
-    {"change": "동결", "dir": "flat", "label": "미 기준금리", "value": "3.75~4.00%"},
-    {"change": "동결", "dir": "flat", "label": "한은 기준금리", "value": "3.00%"},
-    {"change": "-2.02%", "dir": "down", "label": "S&P 500", "value": "7,175.83"},
-    {"change": "-4.32%", "dir": "down", "label": "코스피", "value": "4,916.06"}
+    {"label": "미 10년물", "value": "5.04%", "change": "-0.02%p", "dir": "down"},
+    {"label": "미 2년물", "value": "4.76%", "change": "-0.04%p", "dir": "down"},
+    {"label": "미 기준금리", "value": "3.75~4.00%", "change": "동결", "dir": "flat"},
+    {"label": "한은 기준금리", "value": "3.00%", "change": "동결", "dir": "flat"},
+    {"label": "S&P 500", "value": "7,175.83", "change": "-2.02%", "dir": "down"},
+    {"label": "코스피", "value": "4,869.96", "change": "-5.21%", "dir": "down"}
   ],
-  "marketsAsOf": "11/19 뉴욕 마감 · 코스피는 11/20 10:40 장중",
   "stories": [
     {
-      "breaking": true,
-      "important": true,
       "tag": "econ",
       "tagLabel": "속보·증시",
-      "title": "코스피 4%대 급락… 5,000선 하루 만에 붕괴",
-      "keywords": ["코스피", "5,000선"],
-      "summary": "뉴욕증시 급락 여파로 코스피가 4% 넘게 떨어진 채 출발했어요.",
+      "breaking": true,
+      "important": false,
+      "keywords": ["코스피", "4,869"],
+      "title": "코스피 5.21% 폭락, 4,869로 마감",
+      "summary": "약 10개월 만에 4,900 아래에서 장을 마쳤어요.",
       "details": [
-        "20일 코스피는 4.08% 내린 4,928.51로 시작해 5,000선이 바로 무너졌어요. 오전 10시 40분쯤 4,916.06(-4.32%)이었고, 장중 한때 4,889.57까지 내려갔어요.",
-        "코스닥도 3%대 하락으로 출발해 장 초반 4% 넘게 밀렸어요.",
-        "외국인이 6거래일째 팔고 있고, 오전 10시 40분 기준 코스피에서 약 6,362억 원을 순매도했어요. 개인은 사들였어요.",
-        "나와의 연결: 주식이 자산의 40% 안팎이라 평가액이 줄어 보일 수 있어요. 예금·채권·달러 비중이 커서 전체 흔들림은 주식보다 작아요."
+        "20일 코스피는 267.93포인트(5.21%) 내린 4,869.96, 코스닥은 5.71% 내린 645.68로 마감했어요.",
+        "오전 11시 54분 코스피에, 오후 1시 28분쯤 코스닥에 매도 사이드카가 발동됐어요.",
+        "외국인이 약 1조 1,300억 원, 기관이 약 9,500억 원을 팔았고, 개인은 약 1조 6,000억 원을 샀어요. 원/달러 환율은 오후 3시 30분 1,336.2원으로 6.2원 올랐어요.",
+        "나와의 연결: 주식이 자산의 40% 안팎이지만 예금·채권·달러가 많아 전체 흔들림은 지수보다 작아요."
       ],
-      "note": "장중 수치라 마감 값과 다를 수 있어요.",
+      "note": "환율은 매체마다 표기가 달라 두 곳 이상이 같은 값을 쓴 1,336.2원을 적었어요.",
       "sources": [
-        {"title": "뉴스핌", "url": "https://www.newspim.com/news/view/20261120000271"},
-        {"title": "시대일보", "url": "https://www.sidae.com/article/2026112010391690708"},
-        {"title": "프리진경제", "url": "https://www.freezine.co.kr/news/articleView.html?idxno=18595"}
+        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500227"},
+        {"title": "EBN", "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732513"},
+        {"title": "블록미디어", "url": "https://www.blockmedia.co.kr/archives/1168550"}
       ]
     },
     {
-      "breaking": true,
-      "important": true,
       "tag": "econ",
       "tagLabel": "속보·반도체",
-      "title": "삼성전자·SK하이닉스 5~6% 급락… 중국 AI 규제 우려도",
+      "breaking": true,
+      "important": false,
       "keywords": ["삼성전자", "SK하이닉스"],
-      "summary": "미국 반도체주 급락과 대중 AI 칩 규제 보도가 겹쳤어요.",
+      "title": "삼성전자 7%·SK하이닉스 6% 급락 마감",
+      "summary": "반도체 대형주가 지수 하락을 이끌었어요.",
       "details": [
-        "오전 10시 40분 기준 삼성전자는 5.79%, SK하이닉스는 6.34% 내렸어요. 삼성전기는 9% 넘게 떨어졌고, 코스닥 반도체 장비주도 10% 안팎 급락했어요.",
-        "전날 미국에선 AMD가 7.7%, 엔비디아가 3.3% 떨어졌어요. 월스트리트저널은 트럼프 행정부가 중국 AI 기업의 미국산 칩 접근을 막는 추가 규제를 검토 중이라고 보도했어요.",
-        "규제는 아직 검토 단계이고, 구체적인 내용과 시행 시점은 나오지 않았어요.",
+        "삼성전자는 7.01% 내린 183,100원, SK하이닉스는 5.92% 내린 1,113,000원에 마감했어요.",
+        "삼성전기는 12.54%, SK스퀘어는 8% 넘게 떨어졌고, 코스닥 반도체 장비주도 크게 밀렸어요.",
+        "반면 KB금융·신한지주 같은 은행주는 오전 한때 오르기도 했어요.",
         "나와의 연결: 삼성전자·SK하이닉스·반도체 ETF를 갖고 있어요. 엔비디아는 정해 둔 대응 규칙대로만 보면 돼요."
       ],
-      "note": "추가 규제 내용은 WSJ 보도를 국내 매체가 전한 것이고, 미국 정부 발표는 아직 없어요.",
       "sources": [
-        {"title": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10943703"},
-        {"title": "일간투데이", "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=805135"},
-        {"title": "시대일보", "url": "https://www.sidae.com/article/2026112010391690708"}
+        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500227"},
+        {"title": "블록미디어", "url": "https://www.blockmedia.co.kr/archives/1168550"},
+        {"title": "한국경제", "url": "https://www.hankyung.com/article/202611209694i"}
       ]
     },
     {
-      "breaking": false,
-      "important": true,
       "tag": "econ",
-      "tagLabel": "증시",
-      "title": "뉴욕증시 2% 급락… 앤트로픽만 17% 올라",
-      "keywords": ["뉴욕증시", "앤트로픽"],
-      "summary": "다우가 1,101포인트 떨어지는 등 3대 지수가 모두 2% 넘게 내렸어요.",
+      "tagLabel": "속보·대만",
+      "breaking": true,
+      "important": false,
+      "keywords": ["대만 증시", "6.23%"],
+      "title": "대만 증시 6.23% 폭락… 1991년 이후 최악의 한 주",
+      "summary": "가권지수가 하루에 2,393포인트 빠졌어요.",
       "details": [
-        "19일 S&P 500은 2.02% 내린 7,175.83, 나스닥은 2.25%, 다우는 2.19% 떨어졌어요. S&P 500은 6거래일 연속 하락이에요.",
-        "헌터브룩 캐피털이 AMD 공매도 사실을 밝히며 중국 연관성을 문제 삼자 AMD가 7.7% 급락했고, 엔비디아도 3.3% 내렸어요. AI 투자 과열 우려도 겹쳤어요.",
-        "앤트로픽은 공모가 83달러보다 34% 높은 111.50달러에 거래를 시작해 97.17달러(+17%)로 마쳤어요. 금값은 2% 내려 온스당 3,660달러대였어요.",
-        "나와의 연결: 엔비디아·TSM 같은 반도체 보유분이 흔들리는 날이라, 정해 둔 대응 규칙과 비중을 먼저 확인하면 좋아요."
+        "20일 대만 가권지수는 2,393.60포인트(6.23%) 내린 36,033.29로 마감했어요. 전날에도 4.6% 떨어졌어요.",
+        "블룸버그는 이번 주가 1991년 이후 가장 나쁜 한 주라고 보도했어요. 대만 당국은 이달 공매도 규제를 두 차례 강화했어요.",
+        "TSMC는 장중 4%대 하락했고, 미국 상장 TSMC는 전날 10% 넘게 떨어졌어요.",
+        "나와의 연결: 대만 친척들이 사는 곳의 경제이고, 보유한 TSM·대만테크 ETF와 바로 이어져요."
       ],
-      "note": "앤트로픽 시초가·종가는 야후파이낸스·서울신문 기준이에요. 금값은 장중 시점 값이에요.",
+      "note": "주간 하락률은 블룸버그 등 제목 기준(17~18%)이라 정확한 값은 확인하지 못했어요.",
       "sources": [
-        {"title": "서울신문", "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500007"},
-        {"title": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"},
-        {"title": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"}
+        {"title": "Focus Taiwan", "url": "https://focustaiwan.tw/business/202611200007"},
+        {"title": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn"},
+        {"title": "Startup Fortune", "url": "https://startupfortune.com/taiwan-stocks-head-for-their-worst-week-since-1991-as-the-ai-chip-rout-deepens/"}
       ]
     },
     {
-      "breaking": false,
-      "important": true,
+      "tag": "econ",
+      "tagLabel": "속보·원인",
+      "breaking": true,
+      "important": false,
+      "keywords": ["앤트로픽", "AI 거품"],
+      "title": "앤트로픽 상장도 못 막은 'AI 거품' 공포",
+      "summary": "뉴욕 기술주 급락이 아시아 전체로 번졌어요.",
+      "details": [
+        "19일 뉴욕에서 S&P 500은 2.02%, 나스닥은 2.25% 내렸고, AMD는 7.7%, 엔비디아는 3.3% 떨어졌어요.",
+        "앤트로픽은 공모가 83달러보다 17% 오른 97.17달러로 첫날을 마쳤지만, 큰 상장에 돈이 몰리며 기존 AI·반도체주가 팔렸다는 분석이 나왔어요.",
+        "20일 아시아에선 일본 닛케이도 장중 4% 넘게 떨어졌어요.",
+        "나와의 연결: 알파벳·나스닥100 ETF 비중이 커서 오늘 밤 미국장도 함께 봐야 해요."
+      ],
+      "note": "닛케이 마감 값은 확인하지 못했어요.",
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"},
+        {"title": "한국경제", "url": "https://www.hankyung.com/article/202611209694i"},
+        {"title": "블록미디어", "url": "https://www.blockmedia.co.kr/archives/1168550"}
+      ]
+    },
+    {
       "tag": "war",
       "tagLabel": "이란전쟁",
-      "title": "트럼프, 이란 추가 공습 저울질… 걸프 공격 잇따라",
-      "keywords": ["트럼프", "이란"],
-      "summary": "오만 앞바다 유조선 피격, 리야드 고층빌딩 손상 소식이 이어졌어요.",
+      "breaking": false,
+      "important": true,
+      "keywords": ["트럼프", "생화학무기"],
+      "title": "트럼프 \"이란 생화학무기 개발\"… 증거는 없어",
+      "summary": "걸프 지역 공격이 이어지는 가운데 추가 공습 여부가 관심이에요.",
       "details": [
-        "18일 오만 카사브 북쪽 약 11km 해상에서 유조선 기관실이 정체불명의 발사체에 맞았고, 선원은 모두 무사했어요.",
-        "19일 새벽 리야드의 80층 PIF 타워가 손상됐고, 사우디 연합군은 후티 미사일 위협에 대응했다고 밝혔어요. 이란은 쿠웨이트·바레인 쪽으로도 드론을 쐈다고 보도됐어요.",
-        "트럼프는 오래가는 합의를 원한다면서도 곧 끝내겠다고 말했어요. 미국·이스라엘 합동 공습은 아직 결정되지 않았어요.",
+        "트럼프는 19일 폭스뉴스 인터뷰에서 이란이 가스와 생물무기를 보고 있다고 말했지만 증거는 내놓지 않았어요.",
+        "앞서 루비오 국무장관은 미국에 임박한 위협은 없다고 말했어요.",
+        "18~19일에는 오만 앞바다 유조선 피격, 리야드 고층빌딩 손상 소식이 있었고, 미국·이스라엘 합동 공습은 아직 결정되지 않았어요.",
         "나와의 연결: 확전되면 유가와 달러가 같이 움직일 수 있어요."
       ],
       "note": "합동 공습 검토는 이스라엘 매체 보도이고, 미국 정부가 확인하지 않았어요.",
       "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence"},
         {"title": "Gulf News", "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"}
       ]
     },
     {
-      "breaking": false,
-      "important": false,
       "tag": "etc",
       "tagLabel": "대만",
-      "title": "대만 \"3자회담 초점 아냐\"… 트럼프 '독립 반대' 보도도",
+      "breaking": false,
+      "important": true,
       "keywords": ["대만", "독립"],
+      "title": "대만 \"3자회담 초점 아냐\"… 트럼프 '독립 반대' 보도도",
       "summary": "대만 대륙위원회는 회담이 우크라이나·이란 위주였다고 봤어요.",
       "details": [
-        "대만 대륙위원회는 19일 정례 브리핑에서 아는 범위에선 대만이 회담의 초점이 아니었다고 말했어요.",
+        "대만 대륙위원회는 19일 아는 범위에선 대만이 회담의 초점이 아니었다고 말했어요.",
         "중국 신화통신은 트럼프가 미국은 대만 독립을 지지하지 않는다고 말했다고 전했지만, 공식 회의록은 나오지 않았어요.",
         "대만 입법원은 20일 1인당 2만 대만달러 현금 지급안 표결을 앞두고 있고, 라이칭더 총통은 재정 부담을 이유로 반대했어요.",
-        "나와의 연결: 대만 친척들이 사는 곳의 정세이고, 보유한 TSM·대만테크 ETF와도 이어져요."
+        "나와의 연결: 대만 친척들이 사는 곳의 정세이고, 증시 급락과 겹쳐 대만 경제 분위기가 무거워요."
       ],
       "note": "트럼프 발언은 신화통신 보도만 있고, 미국 측 확인은 없어요.",
       "sources": [
@@ -116,12 +139,29 @@
       ]
     },
     {
+      "tag": "etc",
+      "tagLabel": "미중러",
       "breaking": false,
       "important": false,
+      "keywords": ["호르무즈", "G20"],
+      "title": "트럼프 \"시진핑도 호르무즈 개방 동의\"… G20에 푸틴 초청",
+      "summary": "3자 회담 뒤 'G3 시대'가 오는지 관심이 쏠려요.",
+      "details": [
+        "트럼프는 시진핑이 호르무즈 해협은 열려 있어야 하고 이란은 핵무기를 가져선 안 된다는 데 동의했다고 말했어요.",
+        "트럼프는 다음 달 마이애미에서 여는 G20 정상회의에 푸틴을 초청했어요.",
+        "평화선언에는 국제형사재판소(ICC)가 지위를 남용해선 안 된다는 비판도 담겼어요."
+      ],
+      "sources": [
+        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"}
+      ]
+    },
+    {
       "tag": "war",
       "tagLabel": "우크라",
-      "title": "푸틴 \"협상 안 한다\"… 크림대교 피격에 반발",
+      "breaking": false,
+      "important": false,
       "keywords": ["푸틴", "협상"],
+      "title": "푸틴 \"협상 안 한다\"… 크림대교 피격에 반발",
       "summary": "유럽은 겨울 에너지 휴전을 요구했지만 러시아는 거절했어요.",
       "details": [
         "우크라이나는 넵튠 미사일로 크림대교를 다시 공격했고, 열차 운행이 멈췄어요.",
@@ -134,29 +174,12 @@
       ]
     },
     {
-      "breaking": false,
-      "important": false,
-      "tag": "etc",
-      "tagLabel": "미중러",
-      "title": "트럼프 \"시진핑도 호르무즈 개방 동의\"… G20에 푸틴 초청",
-      "keywords": ["호르무즈", "G20"],
-      "summary": "3자 회담 뒤 'G3 시대'가 오는지 관심이 쏠려요.",
-      "details": [
-        "트럼프는 시진핑이 호르무즈 해협은 열려 있어야 하고 이란은 핵무기를 가져선 안 된다는 데 동의했다고 말했어요.",
-        "트럼프는 다음 달 마이애미에서 여는 G20 정상회의에 푸틴을 초청했어요.",
-        "평화선언에는 국제형사재판소(ICC)가 지위를 남용해선 안 된다는 비판도 담겼어요."
-      ],
-      "sources": [
-        {"title": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"}
-      ]
-    },
-    {
-      "breaking": false,
-      "important": false,
       "tag": "kr",
       "tagLabel": "한반도",
-      "title": "김정은, \"적 해군 활동\" 비난… 해군대학 방문",
+      "breaking": false,
+      "important": false,
       "keywords": ["김정은", "해군"],
+      "title": "김정은, \"적 해군 활동\" 비난… 해군대학 방문",
       "summary": "트럼프의 회동 제안 속에 북한은 해군력 강화를 강조했어요.",
       "details": [
         "북한 매체에 따르면 김정은은 17~18일 함경남도를 돌며 김정숙해군대학을 찾았어요.",
@@ -168,17 +191,17 @@
       ]
     },
     {
-      "breaking": false,
-      "important": false,
       "tag": "etc",
       "tagLabel": "에너지",
-      "title": "IEA \"중동 위기, 에너지 안보 사상 최대 위협\"",
+      "breaking": false,
+      "important": false,
       "keywords": ["IEA", "에너지 안보"],
+      "title": "IEA \"중동 위기, 에너지 안보 사상 최대 위협\"",
       "summary": "국제에너지기구가 세계에너지전망 보고서에서 경고했어요.",
       "details": [
         "IEA는 19일 낸 세계에너지전망에서 중동 위기를 역사상 가장 큰 에너지 안보 위협으로 꼽았어요.",
-        "다만 호르무즈 원유 운송은 전쟁 전 수준으로 돌아왔고, 브렌트유는 배럴당 92달러 안팎이에요.",
-        "나와의 연결: 에너지 불안이 길어지면 재생에너지 투자 관심이 커질 수 있어, 태양광 투자와도 연결돼요."
+        "다만 호르무즈 원유 운송은 전쟁 전 수준으로 돌아왔고, 브렌트유는 19일 배럴당 92달러 안팎이었어요.",
+        "나와의 연결: 에너지 불안이 길어지면 재생에너지 관심이 커질 수 있어, 태양광 투자와도 연결돼요."
       ],
       "sources": [
         {"title": "Gulf News", "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"},
@@ -186,12 +209,10 @@
       ]
     }
   ],
-  "subhead": "뉴욕 기술주 급락 여파로 삼성전자·SK하이닉스가 5~6% 떨어졌어요.",
-  "updatedLabel": "11/20 11:57",
   "watch": [
-    "코스피 마감 지수와 외국인 매도 규모",
     "오늘 밤 미 증시 7일째 하락 여부와 AMD·엔비디아",
+    "다음 주 외국인 매도 지속 여부와 대만 당국 추가 대책",
     "트럼프의 이란 추가 공습 결정",
-    "26일 한은 금통위와 12월 연준 인상 폭"
+    "26일 한은 금통위와 12월 연준 결정"
   ]
 }
